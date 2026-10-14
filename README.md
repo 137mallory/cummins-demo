@@ -18,10 +18,13 @@ pack (see [`docs/CLIENT_PACKS.md`](docs/CLIENT_PACKS.md)).
 
 ## Run it
 
+Needs Docker, Python 3.11+ and Node 18+. Tested from a clean copy of this repo.
+
     docker compose up -d                                  # postgres :5460 + backend :8600
+    pip install psycopg2-binary                           # the seed script's only dependency
     python db/seed_serving.py --recycle parallax-cummins-arabia-datapack/dataset.html.json
     docker compose restart backend                        # drop the 120 s dataset cache
-    cd frontend && npm install && npx vite                # http://127.0.0.1:5178
+    cd frontend && npm install && npx vite                # http://127.0.0.1:5178 (add --port 5190 if it is busy)
 
 `--recycle` empties every data table first, so the database holds this one client and nothing
 else. `dataset.html.json` is the served dataset; the steps that build it from the pack are under
@@ -29,7 +32,7 @@ else. `dataset.html.json` is the served dataset; the steps that build it from th
 
 | what | where |
 |---|---|
-| Postgres (database name `kssl`, a legacy name) | 127.0.0.1:5460 |
+| Postgres (database name `kssl`, a legacy name) | 127.0.0.1:5460 (the compose file also sets `KSSL_SERVE_ORIGIN=all`, which this demo needs) |
 | FastAPI backend | 127.0.0.1:8600 (`/api/dataset`, `/healthz`) |
 | frontend | 127.0.0.1:5178 |
 
