@@ -1,93 +1,83 @@
-# KSSL_Deploy
+# Cummins Arabia: competitive-intelligence demo
 
-A deployable competitive-intelligence dashboard: React + FastAPI + Postgres. The client it is
-built for is **data, not code**: who the client is, its rivals, product families, markets and
-currency all arrive in the served dataset, so switching the database switches the client.
-Current demo client: **Cummins Arabia** (gensets, KSA / UAE / Kuwait). The original client,
-KSSL, is archived in `reference_dataset.json` and is not loaded.
+A competitive-intelligence dashboard built for **Cummins Arabia** (diesel and gas gensets in Saudi
+Arabia, the UAE and Kuwait): React frontend, FastAPI backend, Postgres. It tracks eight rivals
+(Caterpillar, Rolls-Royce mtu, Rehlko, Mitsubishi MHIET, Weichai/Baudouin, Perkins/FG Wilson,
+Generac, Volvo Penta) across three pillars.
+
+| Pillar | Pages |
+|---|---|
+| Competitive | Overview, Competitor Profile, Competitor Moment, Products, Product Evaluation, Partnership, Projects, Geo Footprint, Patent |
+| Market | Top opportunity (ranked tenders and projects), Tenders, Global Requirements, Market Intelligence |
+| Technology | Overview, Innovation |
+
+The client is **data, not code**: who the client is, its rivals, products, markets and currency
+all arrive in the served dataset. The data for this demo is in
+[`parallax-cummins-arabia-datapack/`](parallax-cummins-arabia-datapack/); a new client is a new
+pack (see [`docs/CLIENT_PACKS.md`](docs/CLIENT_PACKS.md)).
 
 ## Run it
 
-    docker compose up -d                                           # postgres :5460 + backend :8600
-    python db/build_dataset.py parallax-cummins-arabia-datapack    # client pack -> dataset.json
-    python db/seed_serving.py --recycle parallax-cummins-arabia-datapack/dataset.json
-    docker compose restart backend                                 # drop the 120 s dataset cache
-    cd frontend && npm install && npx vite                         # http://127.0.0.1:5178
+    docker compose up -d                                  # postgres :5460 + backend :8600
+    python db/seed_serving.py --recycle parallax-cummins-arabia-datapack/dataset.html.json
+    docker compose restart backend                        # drop the 120 s dataset cache
+    cd frontend && npm install && npx vite                # http://127.0.0.1:5178
 
-`--recycle` empties every data table in every schema first, so the database holds that one
-client and nothing else. A new client is a new pack: see [`docs/CLIENT_PACKS.md`](docs/CLIENT_PACKS.md).
-
-## The two schemas
-
-- **extracted** — what the pipeline produces: documents, offset-checked spans, propositions
-  with evidence quotes, parsed values, canonical entities. Loaded by `pipeline/load_extracted.py`.
-- **serving** — tables that directly power the UI, column-for-column from the reference app's
-  dataset contract (`contract_shapes.json`). Every row carries `origin`:
-  `'reference'` (the hand-researched seed) or `'pipeline'` (generated from the corpus).
-- **serving_live** — views over `serving` filtered to `origin='pipeline'`; this is what the
-  API serves. The reference rows are ARCHIVED: still in the tables (and in
-  `reference_dataset.json`) but not shown. `KSSL_SERVE_ORIGIN=all` on the backend points it
-  back at the raw tables to see the archive.
-
-## The pipeline (real data path)
-
-    python pipeline/fetch_corpus.py      # defence-press feeds + competitor/product queries
-                                         #   -> pipeline/corpus/*.json  (99 docs, 6 languages)
-    python pipeline/run_extraction.py    # Layer A + Layer B via l2/comprehend (GPU, hours)
-    python pipeline/load_extracted.py    # SQLite stores -> extracted schema (offset-checked)
-    python pipeline/serving_fill.py      # qwen2.5:14b turns propositions into signal cards
-                                         #   -> serving.signal_card/_detail, origin='pipeline'
-
-Each step is idempotent and each has `--demo` (a runnable self-check with no side effects).
-
-## What keeps it honest
-
-- A document whose span offsets fail `text[start:end] == span.text` is REFUSED at load.
-- The LLM only ever sees extractor-grounded propositions with quotes; every generated card's
-  detail panel shows those quotes verbatim. "NONE" is a recorded outcome, not a retry.
-- A generated category must be one of the reference dataset's nine; anything else refuses.
-- `origin` separates seeded rows from pipeline rows everywhere, so an audit can tell them apart.
-
-## Documents
-
-- `PLAN.md` — architecture and the decisions already made.
-- `UI_CONTRACT.md` — every view, click, filter and derived value of the reference app, and
-  which globals/fields each reads. The schema and API were built against this.
-- `contract_shapes.json` / `contract_samples.json` — the 35-global dataset contract.
-- `docs/DEPLOY.md` — **start here to ship a change.** Branch-to-machine map, what each CI job
-  proves and how to run it yourself, the health gate and automatic rollback, migrations.
-- `deploy/RUNNERS.md` — the self-hosted runners: installing, arming, the trust boundary, and
-  two diagrams of the deploy flow.
-- `ENVIRONMENTS.md` — how one compose file runs on three machines, and how data gets to them.
-
-## Ports
+`--recycle` empties every data table first, so the database holds this one client and nothing
+else. `dataset.html.json` is the served dataset; the steps that build it from the pack are under
+"Data" below.
 
 | what | where |
 |---|---|
-| Postgres (kssl) | 127.0.0.1:5460 |
+| Postgres (database name `kssl`, a legacy name) | 127.0.0.1:5460 |
 | FastAPI backend | 127.0.0.1:8600 (`/api/dataset`, `/healthz`) |
-| frontend preview | 127.0.0.1:5178 |
+| frontend | 127.0.0.1:5178 |
 
-Nothing here touches the main Parallax stores (:5440, :9500, :9600, :9700).
+## Data
+
+Everything the dashboard shows is a researched, source-cited record in the pack. Nothing is
+invented in the build; a value the pack does not carry is shown as "not published".
+
+| File in `parallax-cummins-arabia-datapack/` | What it holds |
+|---|---|
+| `dataset.html.json` | the served dataset (competitors, products, matchups, tenders, news, geo, patents) |
+| `competitors/`, `client/` | one researched file per rival, and the client's own record |
+| `tenders.json`, `tenders_research.json`, `tender_fit.json`, `tender_status.json`, `tender_actions.json` | tenders: scope, revenue estimate and basis, Cummins fit, checked status with evidence, dated next steps |
+| `competitor_projects.json` | what each rival is working on or pursuing, Gulf and worldwide |
+| `geo_fills.json` | country and city footprint rows, with sources |
+| `competitor_news_lenses.json` | multi-view analysis (supply chain, manufacturing, market, ...) of each competitor news item |
+| `news_refresh.json`, `patents.json`, `awards.json`, `leader_bios.json` | news, patent filings, awarded contracts, leadership |
+| `ISSUES.md` | known data gaps and unverified items, by section |
+| `TENDERS.md`, `verification.md`, `SCHEMA.md` | method notes and the pack schema |
+
+Build and apply steps (each script has a self-check, run it with no arguments):
+
+    python db/dataset_from_html.py <export.html> <out.json> --base dataset.json --pack parallax-cummins-arabia-datapack --images --drop-blank
+    python db/competitor_projects.py <dataset.html.json> frontend/src/lib/competitorProjects.js
+    python db/news_lenses.py parallax-cummins-arabia-datapack/competitor_news_lenses.json frontend/src/lib/newsLenses.js
+    python db/geo_fills.py                    # self-check of the geo fill rules
+    python db/seed_serving.py --recycle <dataset.json>
+
+## Database
+
+- **serving**: tables that power the UI. Every row carries `origin` (`'reference'` or `'pipeline'`).
+- **serving_live**: views over `serving` filtered to `origin='pipeline'`; this is what the API serves.
+  `KSSL_SERVE_ORIGIN=all` on the backend (a legacy variable name) serves the raw tables instead.
+- **extracted**: documents, offset-checked spans and propositions from the extraction pipeline.
+
+`reference_dataset.json` is the archived original reference client; it is not loaded.
 
 ## Repository layout
 
-    backend/ frontend/ pipeline/ extraction/ llmapi/ db/   # code
-    docs/                                                   # all documentation (PLAN, UI_CONTRACT, contracts)
-    docker-compose.vps.yml   docker-compose.prod.yml        # base stack + GHCR image override
-    deploy/deploy.sh   .github/workflows/                   # CI/CD
+    backend/    FastAPI app that serves /api/dataset from Postgres
+    frontend/   React + Vite app (src/pages, src/lib, src/components)
+    db/         schema (00-07 .sql), seed_serving.py, migrations, and the data build scripts
+    extraction/ signal extraction and the threat gate used when serving cards
+    pipeline/   corpus and stage helpers
+    docs/       client-pack guide, UI contract, dataset contract shapes
+    parallax-cummins-arabia-datapack/   the Cummins Arabia data
 
-Documentation lives under [`docs/`](docs/) — kept out of the code tree.
+## Live demo
 
-## Deployment (CI/CD)
-
-Three branches, three machines: `main` → prod (VPS-B), `staging` → VPS-A, `dev` → the data
-centre. GitHub Actions builds SHA-pinned images to GHCR and the target recreates **only**
-`frontend` and `backend` (the extraction farm and DB/LLM containers are never touched),
-behind a health gate that rolls itself back if the new build does not answer.
-
-`main` and `staging` deploy **from a runner on the box they deploy to**, so GitHub opens no
-connection into either machine; `dev` still goes over ssh. Read
-[`docs/DEPLOY.md`](docs/DEPLOY.md) before your first push — it covers running the gate
-locally, reading a run, and rolling back. [`deploy/RUNNERS.md`](deploy/RUNNERS.md) is the
-operator runbook for the runners themselves.
+A copy runs on a single VPS behind Caddy (static `frontend/dist` plus the backend and database in
+their own compose project). It has no login, so anyone with the URL sees the client research.
