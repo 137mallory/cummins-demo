@@ -1,0 +1,106 @@
+[
+ {
+  "url": "https://kalkinemedia.com/us/stocks/industrial/can-data-center-power-demand-keep-swelling-caterpillars-nysecat-backlog",
+  "reason": "No page found carrying the same story (Caterpillar order surge straining manufacturing network); only different Caterpillar backlog stories, generic stock photos or 403 pages"
+ },
+ {
+  "url": "https://goldesel.de/aktien/news/generac-holdings-aktie-keybanc-stuft-gnrc-auf-overweight-hoch-und-nennt-280-dollar-ziel",
+  "reason": "Only other page found (tradingpedia.com) uses a Generac logo image; no page with a real picture of the KeyBanc upgrade story"
+ },
+ {
+  "url": "https://www.rolls-royce.com/media/press-releases/2026/23-09-2026-early-recognition-better-support.aspx",
+  "reason": "Only found the Rolls-Royce press page (403) and finanztrends/boerse-global copies whose pictures are AI-generated illustrations with an RR logo"
+ },
+ {
+  "url": "https://www.rehlko.com/newsroom-rehlko-doubles-backup-power-capacity-changzhou",
+  "reason": "Only copies of the Rehlko press release found (placera, thailand-business-news, miningstockeducation) carry no picture, or a default/logo image; rehlko.com newsroom card has no image"
+ },
+ {
+  "url": "https://finviz.com/news/390795/energy-vault-closes-financing-on-275-mw-of-rolls-royce-mtu-reciprocating-engine-generation-capacity-for-hyperscale-ai-infrastructure",
+  "reason": "Copies found carry only a Business Wire logo, a generic data-centre stock picture, or an AI-generated illustration; no real picture of the story"
+ },
+ {
+  "url": "https://tcap.blog/2026/10/02/cummins-ai-data-centre-55-gigawatts/",
+  "reason": "Only generic/AI hero images, Cummins logo card, or an unrelated portrait of a person found on other pages carrying the Investor Day capacity story"
+ },
+ {
+  "url": "https://www.singaporetechnologyweek.com/exhibitor-press-releases/perkins-5016-engine-debuts-exhibition-safeguarding-critical-infrastructure",
+  "reason": "Only the Singapore Tech Week press release itself covers this event; other Perkins 5016 pages (constructionworld.in) are a different story (production start)"
+ },
+ {
+  "url": "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FGWilsonCatalyst2026.html",
+  "reason": "No public page other than fgwilson.com and LinkedIn covers Catalyst 2026; LinkedIn is off-limits"
+ },
+ {
+  "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/842959295626/index.phtml",
+  "reason": "No other public page found for the Weichai AIDC genset brokerage story"
+ },
+ {
+  "url": "https://www.cummins.com/en-na/news/releases/2026/09/15/cummins-hsk78g-natural-gas-engine-certified-deployment-hydraulic",
+  "reason": "No other public page found for the HSK78G certification release; related coverage is a different story (Liberty Energy frac, 2025/Feb 2026)"
+ },
+ {
+  "url": "https://www.fool.com/investing/2026/09/10/cummins-sells-the-power-solutions-that-keep-data/",
+  "reason": "Motley Fool page only has a Getty stock photo; Cummins investor release image is a logo card; other copies carry stock/plant file photos"
+ },
+ {
+  "url": "https://en.wikipedia.org/wiki/China_Yuchai_International",
+  "reason": "Wikipedia-sourced background claim, not a news event; no alternate page with a matching picture of the story"
+ },
+ {
+  "url": "https://guest.meed.com/houthi-escalation-targets-saudi-airports/",
+  "reason": "Other outlets report 12 killed (Saudi authorities), not 13, so headline facts do not match; pictures were not used"
+ },
+ {
+  "url": "https://guest.meed.com/contractor-wins-6gw-data-centre-campus-infrastructure/",
+  "reason": "Alternate pages (constructionreviewonline, enterpriseam) carry a CERN server-room stock photo, generic server stock, or Humain-branded render of unclear provenance"
+ },
+ {
+  "url": "https://guest.meed.com/contractor-groups-prequalify-for-dubai-metro-gold-line/",
+  "reason": "No alternate page found reporting six groups prequalified; only MEED coverage of the Gold Line tender"
+ },
+ {
+  "url": "https://guest.meed.com/?p=18158",
+  "reason": "Alternate pages (meed.com, constructionreviewonline, enterpriseam) only show generic server-rack stock photos"
+ },
+ {
+  "url": "https://guest.meed.com/diriyah-awards-729m-hotels-contracts/",
+  "reason": "No alternate public page with a picture found for the Diriyah award story (only MEED and ICE summaries)"
+ },
+ {
+  "url": "https://www.clydeco.com/en/insights/2026/10/saudi-arabia-new-government-tenders-procurement",
+  "reason": "Only law-firm pages (Clyde & Co and others); no picture of the story"
+ },
+ {
+  "url": "https://globalflowcontrol.com/newsroom/edarat-200mw-ai-data-center-saudi-arabia/",
+  "reason": "Alternate pages carry a generic data-centre stock photo"
+ },
+ {
+  "url": "https://guest.meed.com/saudi-arabia-tenders-next-phase-of-king-saud-air-base/",
+  "reason": "Alternate page (constructionreviewonline) shows a landscaped garden rendering, not the air base"
+ },
+ {
+  "url": "https://guest.meed.com/saudi-arabia-power-award-activity-slows/",
+  "reason": "No alternate public page found for the MEED power-awards analysis"
+ },
+ {
+  "url": "https://guest.meed.com/saudi-water-sector-hits-sharp-slowdown/",
+  "reason": "No alternate public page found for the MEED water-awards analysis"
+ },
+ {
+  "url": "https://sharikatmubasher.com/news/article/21571837/microsoft-sets-november-to-launch-saudi-arabia-east-cloud-region?lang=en",
+  "reason": "Alternate pages carry an AI-generated Microsoft building image or a generic server stock photo; others refuse requests"
+ },
+ {
+  "url": "https://www.clydeco.com/en/insights/2026/09/local-content-in-saudi",
+  "reason": "Only law-firm pages; no picture of the story"
+ },
+ {
+  "url": "https://guest.meed.com/kuwait-tenders-gas-export-pipeline/",
+  "reason": "No alternate public page found for this Kuwait tender"
+ },
+ {
+  "url": "https://guest.meed.com/contractor-wins-105m-medina-university-hospital-deal/",
+  "reason": "No alternate public page found for the Al-Mansouria award"
+ }
+]

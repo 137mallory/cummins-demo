@@ -1,0 +1,2359 @@
+{
+ "Providing mobile generators for the mobile and fixed units of Sharurah Force and its affiliated units": {
+  "need": "Mobile (trailer or skid mounted) diesel gensets, 60 Hz, for mobile and fixed military units in the southern border sector. kVA band and quantity not published; mobile military sets are typically small, roughly 50-500 kVA (inferred), with possible larger sets for fixed base camps (inferred).",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "Cummins is a natural supplier of rugged 60 Hz sets with Saudi service reach into Sharurah, but the catalogue's smallest 60 Hz set is DQCA at 750 kVA, so the likely small mobile units are below the listed range; DQCA / C800D6E only cover fixed-unit base-camp loads if those are in the schedule.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor is the entrenched Saudi military supplier; C27 covers the same fixed-camp band, and Cat's small mobile sets sit outside this catalogue too.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1000"
+    ],
+    "why": "Kohler / SDMO is named as a likely bidder; KD1000 (1,250 kVA, 50 C radiator) is its smallest 60 Hz catalogue set.",
+    "incumbent": false
+   },
+   {
+    "company": "Generac",
+    "products": [
+     "SDMD1000 (SD1000 / MD1000)"
+    ],
+    "why": "Perkins-engined 60 Hz set in the same band, fits the local packager price play (Perkins / FG Wilson has no 60 Hz model in the catalogue).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 900000,
+  "revenue_basis": "No value published. Estimate: 15-30 mobile sets of ~50-500 kVA (inferred) at USD 30-70k each including trailer, plus possibly 1-2 larger fixed-camp sets; about USD 0.45-1.4M, midpoint ~USD 0.9M.",
+  "confidence": "low"
+ },
+ "Renting, installing, operating and maintaining electrical generators with fuel for the King Abdulaziz Camel Festival, eleventh edition": {
+  "need": "Turnkey temporary power: rental, installation, operation, maintenance and fuel for 60 Hz diesel gensets across festival zones at Al Sayahid for several weeks. Unit count and kVA not published; multi-MW (per tender notes), typical rental sizes 200-1,250 kVA (inferred).",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "Cummins Arabia does not bid turnkey rental itself, so it can only take part by selling or supplying Cummins-powered 60 Hz sets and parts to the rental company that wins; DQCA and C800D6E are the rental-sized 60 Hz sets in the catalogue.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW",
+     "3512C (60 Hz) 1500 ekW"
+    ],
+    "why": "Caterpillar rental fleets via Zahid bid directly and Cat sets make up much of the Saudi rental fleet (Aggreko / Altaaqa, the incumbents, are not catalogue companies).",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1000"
+    ],
+    "why": "Kohler / SDMO sets are common in rental fleets; KD1000 is its rental-sized 60 Hz set.",
+    "incumbent": false
+   },
+   {
+    "company": "Generac",
+    "products": [
+     "SDMD1000 (SD1000 / MD1000)"
+    ],
+    "why": "Perkins-engined 60 Hz sets at a low price, suited to rental fleet owners.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 300000,
+  "revenue_basis": "No value published. The rental contract itself (multi-MW for several weeks, including fuel) is roughly USD 1-3M to the rental company (inferred). The revenue open to Cummins is fleet sets and parts sold to that rental company, estimated at USD 0.1-0.5M; midpoint USD 0.3M.",
+  "confidence": "medium"
+ },
+ "Provision of Kohler spare parts for generators, Eastern Province": {
+  "need": "Kohler (Rehlko) brand spare parts for the Border Guard's installed genset fleet in the Eastern Province. Not a new genset purchase.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "The tender names Kohler parts for an installed Kohler fleet, so Cummins parts are not what the buyer asked for. Its only value is showing where Kohler is installed, to target the next fleet renewal.",
+  "poor_label": "Kohler parts: not a Cummins product",
+  "competitors": [
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [],
+    "why": "Named brand: Kohler holds the Border Guard Eastern Province installed base, so its authorised distributor is the natural supplier (installed models not stated).",
+    "incumbent": true
+   }
+  ],
+  "revenue_mid_usd": 100000,
+  "revenue_basis": "No value published. Estimate: a regional spare-parts order for a Border Guard genset fleet is about USD 50-150k; midpoint USD 0.1M. None of it is open to Cummins.",
+  "confidence": "high"
+ },
+ "Supply of spare parts (generator, electric, engine driven, portable) for the Forsan System on the West Coast, 60020987": {
+  "need": "Spare parts for portable engine-driven diesel gensets at the Forsan water transmission system (Red Sea coast), 60 Hz. Brand not stated; portable sets are typically under 500 kVA (inferred).",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "This is a parts job with no brand named, so Cummins can only bid if the installed sets are Cummins or the specification allows equivalent parts. The catalogue has no 60 Hz portable set below 750 kVA for later replacement.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Caterpillar parts via Zahid Tractor are the most likely incumbent parts channel for SWA portable sets (brand not stated in the tender).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 80000,
+  "revenue_basis": "No value published. Estimate: a spare-parts supply order for a set of portable gensets on one transmission system is about USD 40-120k; midpoint USD 80k.",
+  "confidence": "low"
+ },
+ "2 GW battery energy storage system procurement, initial phase of a 10 GW by 2030 programme": {
+  "need": "Grid-scale battery energy storage (BESS), 2 GW phase; prior rounds were about 500 MW / 2,000 MWh per site, 60 Hz grid. Not a genset purchase.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "The catalogue's Cummins BESS units (C200B5ZE to C2000B5ZE) are 100 kW to 1 MW commercial units listed at 50 Hz, far below a 2 GW utility build. The buyer has bought cells and containers directly from Chinese makers. Any genset content, such as black-start sets, would come in separate EPC packages.",
+  "poor_label": "Grid-scale BESS: outside Cummins range",
+  "competitors": [
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu EnergyPack QG"
+    ],
+    "why": "The only grid-scale BESS in the catalogue (largest order 582 MWh); it is listed at 50 Hz and still far smaller than the Sungrow / Hithium / Huawei rounds that won before.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1000000000,
+  "revenue_basis": "Order-of-magnitude estimate of the battery supply pool: 2 GW at about 4 h (8 GWh, inferred from prior rounds) at about USD 100-150/kWh gives roughly USD 0.8-1.2bn; midpoint USD 1.0bn. This is NOT open to Cummins, whose share is about 0; the genset opportunity is in the separate EPC packages.",
+  "confidence": "high"
+ },
+ "Maintenance of backup generators for the Beish-Merba stations": {
+  "need": "Four-month maintenance service on existing standby diesel gensets at the Beish-Merba water pumping stations (Jazan), 60 Hz. Brand and kVA not published. Bidding closed 2026-09-17; award not yet reported.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "Any brand can bid this service job, so Cummins Arabia service can compete, but the fleet brand is unknown and bids have already closed. DQCA and C800D6E are the 60 Hz sets to offer when the stations are re-equipped.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor services much of the SWA pumping-station fleet and would supply the replacement sets; local electromechanical contractors (not in the catalogue) compete on price.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 50000,
+  "revenue_basis": "No value published. Estimate: a four-month service contract across the Beish-Merba stations is about USD 30-80k (the document fee of 1,000 suggests a small contract); midpoint USD 50k. Bids have closed.",
+  "confidence": "medium"
+ },
+ "Maintenance of power generators for Al-Saraya sites in Al-Wusta (Central Region)": {
+  "need": "45-day maintenance of prime or standby diesel gensets at dispersed Air Defense sites in the Central Region, 60 Hz. Brand and kVA not published. Bidding closed 2026-09-07; award not yet reported.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "Any brand can bid this short service job, but the fleet brand is unknown and bids have closed. The value is a service record with the Engineering and Works Department ahead of a fleet renewal, where DQCA and C800D6E cover the fixed-site 60 Hz band.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor is the likely service and replacement supplier for military sites.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1000"
+    ],
+    "why": "Kohler / Rehlko is named as a likely competitor and is installed with other Saudi security forces.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 40000,
+  "revenue_basis": "No value published. Estimate: a 45-day repair and maintenance contract (document fee 200) is about USD 20-60k; midpoint USD 40k. Bids have closed.",
+  "confidence": "medium"
+ },
+ "Providing and supplying diesel for backup generators for the hospital and its affiliated sites": {
+  "need": "Diesel fuel supply for the standby generators of Jazan Armed Forces Hospital and its affiliated sites. Not a genset, parts or service purchase.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "This tender buys diesel fuel, which Cummins does not supply. It only shows that the hospital runs its generators regularly, which could justify offering a fleet health audit.",
+  "poor_label": "Diesel fuel supply: not a genset product",
+  "competitors": [],
+  "revenue_mid_usd": 200000,
+  "revenue_basis": "No value published. Estimate: annual diesel supply for a military hospital standby fleet running regular hours is about USD 0.1-0.3M, all going to fuel distributors; midpoint USD 0.2M. Cummins share is 0.",
+  "confidence": "high"
+ },
+ "Supply of carbon brushes for gas and steam turbine generators at Ras Al-Khair, 60021152": {
+  "need": "Carbon brushes for the gas and steam turbine generators at the Ras Al-Khair power and desalination complex. Turbine generator spares, not reciprocating gensets.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "These are turbine generator spares with no genset content. The tender is only useful for mapping SWA's Eastern Coast buyers.",
+  "poor_label": "Turbine carbon brushes: no genset content",
+  "competitors": [],
+  "revenue_mid_usd": 50000,
+  "revenue_basis": "No value published. Estimate: a carbon-brush spares order for a turbine generator fleet is about USD 20-80k, going to turbine OEM parts channels; midpoint USD 50k. Cummins share is 0.",
+  "confidence": "high"
+ },
+ "King Saud Air Base, Hafr Al-Batin: Phase Two design-and-build (buildings, power generation, water/wastewater pumping stations, fibre)": {
+  "need": "60 Hz diesel generation inside a design-and-build airbase package: possible power-generation extension of about 2,000 kWe-class sets (inferred) plus 8-15 standby sets of 300-1,000 kWe (inferred) for HQ, ammunition area, airfield and water/wastewater pumping stations. Needs a high-ambient (~50 C) rating (inferred). The main contractor buys the sets.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C2000D6E (Centum Series)",
+   "C3000D6 / C3000D6E",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "The Cummins 60 Hz range covers the inferred 2 MW generation sets and the 600-800 kW building and pumping-station sets, with 50 C cooling options; only standby sets below 750 kVA fall outside the catalogue. Cummins sells to whichever qualified contractor wins.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516C (60 Hz) 2500 ekW",
+     "3512C (60 Hz) 1500 ekW",
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor is the default Saudi MoD supplier and covers the whole inferred rating spread at 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)",
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "mtu has 60 Hz sets with 50 C radiators, suited to Hafr Al-Batin, and is the likely brand if the Phase One plant is mtu (not confirmed).",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD2000",
+     "KD1000"
+    ],
+    "why": "Rehlko offers 60 Hz sets with 50 C radiators across the 1-2.5 MVA band.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 2350000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 1.2M-3.5M (3-6 x 2,000 kWe generation sets plus 8-15 standby sets; low case is standby only).",
+  "confidence": "medium",
+  "qty_estimate": "3–6 generation sets of 2,000 kWe, plus 8–15 standby sets"
+ },
+ "NWC LTOM14 Eastern A Cluster: upgrade, expansion and long-term O&M of six sewage treatment plants (Eastern Province)": {
+  "need": "New or rehabilitated 60 Hz standby diesel gensets for the critical loads of six sewage treatment plants (about 0.5-1.5 MW per plant, 3-9 MW total, inferred), with ATS, plus a 15-year service and parts supply under the LTOM concession. Bought by the winning EPC/O&M bidder (AWPT, Civil Works Company or Miahona).",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C800D6E (S17 Centum Series)",
+   "DQCA",
+   "C1750D6E (Centum Series)"
+  ],
+  "cummins_why": "The inferred 625-1,875 kVA per-plant band is covered by DQCA, C800D6E and C1750D6E at 60 Hz, and the 15-year O&M term suits a Cummins Arabia service agreement. Gulf Power, the Alkhorayef packager, also uses Cummins engines.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor covers the same per-plant band and has strong service reach in the Eastern Province.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1250",
+     "KD1000"
+    ],
+    "why": "Rehlko's 60 Hz KD sets fill the 1,000-1,600 kVA gap in the Cummins 60 Hz catalogue (between 1,000 and 2,188 kVA).",
+    "incumbent": false
+   },
+   {
+    "company": "Generac",
+    "products": [
+     "SD1250 / MD1250"
+    ],
+    "why": "A Perkins-engined 60 Hz set suited to price-driven Saudi packagers such as Gulf Power on a lowest-tariff evaluation.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1450000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 0.7M-2.2M (40-70% new 60 Hz sets of 500-1,500 kWe at USD 100-200k plus ATS, plus a 15-year service agreement).",
+  "confidence": "medium"
+ },
+ "Ajyad residential tower, Mecca (365 m, 84 floors): main construction package": {
+  "need": "60 Hz standby and life-safety diesel generation for an 84-floor supertall residential tower (fire pumps, smoke control, firefighting lifts, residential backup): 3-5 x 2,000-2,500 kVA paralleled sets (inferred from BUA), plus fuel transfer to height and acoustic treatment. The main contractor buys the sets.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C2000D6E (Centum Series)",
+   "DQKAB",
+   "C1750D6E (Centum Series)"
+  ],
+  "cummins_why": "C2000D6E and DQKAB (2,500 kVA at 60 Hz) and C1750D6E (2,188 kVA) sit exactly in the inferred band, and PowerCommand paralleling suits a multi-set life-safety plant.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "3516C (60 Hz) 2500 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor is strong in Makkah high-rise MEP and brackets the 2-2.5 MVA band with its 1,875 and 3,125 kVA 60 Hz sets.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD2000"
+    ],
+    "why": "Kohler-SDMO's KD2000 matches the 2,500 kVA 60 Hz point exactly, with a 50 C radiator.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu is premium-positioned for landmark towers; its 2,812 kVA 60 Hz set has a 50 C radiator.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1450000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 0.9M-2.0M (3-5 x 2,000-2,500 kWe 60 Hz sets at USD 250-380k plus switchgear, fuel system and acoustics).",
+  "confidence": "medium"
+ },
+ "Expo 2030 Riyadh: Souq areas package (five precincts, ~300,000 m2, vertical elements, infrastructure and public realm)": {
+  "need": "Distributed 60 Hz standby and life-safety diesel sets for low-rise F&B, retail and pavilion buildings across five Expo Souq precincts: about 8-20 x 150-500 kWe sets (inferred) with ATS. The contractor's MEP buys them. The separate Expo event-power overlay is excluded.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "The inferred 150-500 kWe building sets are below the Cummins 60 Hz catalogue, whose smallest set is DQCA at 750 kVA / 600 kW, so only consolidated precinct-level plants would fit DQCA or C800D6E. The rating is not published.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor is present on most PIF giga-project MEP packages; the C27 is its entry 60 Hz set in the catalogue.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "An mtu packager option for consolidated precinct plants of about 1.1 MVA.",
+    "incumbent": false
+   },
+   {
+    "company": "Generac",
+    "products": [
+     "SDMD1000 (SD1000 / MD1000)"
+    ],
+    "why": "A Perkins-engined 60 Hz set in the price band used by Saudi packagers.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1050000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 0.5M-1.6M (8-20 x 150-500 kWe 60 Hz sets at USD 40-120k installed plus ATS; event overlay excluded).",
+  "confidence": "medium"
+ },
+ "Seven Dammam Water Park and 321-key hotel: lump-sum turnkey main construction package (incl. MEP)": {
+  "need": "60 Hz standby diesel sets for a 321-key hotel's essential loads and a water park's ride-evacuation and filtration pumps: 2-4 x 1,250-2,000 kVA sets (inferred) with ATS and paralleling, inside a lump-sum turnkey main contract.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C800D6E (S17 Centum Series)",
+   "C2000D6E (Centum Series)"
+  ],
+  "cummins_why": "C1750D6E (2,188 kVA) covers the upper part of the inferred band and C800D6E (1,000 kVA) covers smaller hotel loads. The catalogue has no 60 Hz Cummins set between 1,000 and 2,188 kVA, so a 1,250-1,600 kVA specification would be over- or under-sized.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor has a 1,875 kVA 60 Hz set that sits in the middle of the inferred band and Cat is strong in Dammam.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1250",
+     "KD1500"
+    ],
+    "why": "Rehlko's 1,562 and 1,875 kVA 60 Hz sets fill the band where Cummins has no 60 Hz model.",
+    "incumbent": false
+   },
+   {
+    "company": "Generac",
+    "products": [
+     "SD1250 / MD1250"
+    ],
+    "why": "A Perkins-engined 1,562 kVA 60 Hz set for price-led packagers (Volvo Penta has no model in the catalogue).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 700000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 0.4M-1.0M (2-4 x 1,250-2,000 kVA sets at USD 150-300k plus ATS/paralleling).",
+  "confidence": "medium"
+ },
+ "Saudi Royal Aviation aviation complex (Phase 2) at King Salman International Airport, Riyadh: design-and-build of 45 landside/airside buildings, hangars and site utilities": {
+  "need": "60 Hz standby diesel generation for a 45-building royal aviation complex (hangars, screening, gates, catering, IT and security): 3-5 x ~2,000 kVA central paralleled sets plus 8-15 building sets of 500-1,000 kVA (inferred). The design-build contractor buys them downstream of the KSIA utility tie-ins.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C2000D6E (Centum Series)",
+   "C1750D6E (Centum Series)",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "The Cummins 60 Hz range covers both the central 2-2.5 MVA sets (C1750D6E, C2000D6E) and the 750-1,000 kVA building sets (DQCA, C800D6E); only building sets below 750 kVA fall outside the catalogue.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "3516C (60 Hz) 2500 ekW",
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor covers both the central and building-set tiers at 60 Hz and is the default choice on Riyadh government projects.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)",
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "mtu is often specified for security-critical airport facilities; its 60 Hz sets have 50 C radiators.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD2000",
+     "KD1000"
+    ],
+    "why": "Kohler-SDMO's 60 Hz KD sets cover both tiers with 50 C radiators.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1750000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 1.0M-2.5M (3-5 x 2,000 kVA central sets plus 8-15 x 500-1,000 kVA building sets). Note: the estimate text says '50 Hz', but Riyadh is 60 Hz; the pricing logic still holds.",
+  "confidence": "medium"
+ },
+ "Replacement and provision of backup electrical power sources, Maternity and Children Hospital, Najran (إحلال وتأمين مصادر التغذية الإحتياطية الكهربائية لمستشفى الولادة والأطفال بنجران)": {
+  "need": "Replacement of the hospital standby power plant at the Maternity and Children Hospital in Najran (about 200 beds): 60 Hz LV diesel standby sets, estimated at 2-3 x 1,000-2,000 kVA (inferred; the BOQ is behind the paid Etimad booklet), with paralleling/ATS and O&M, over an 18-month construction contract. MoH mandatory local-content list and SME preference apply.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C800D6E (S17 Centum Series)",
+   "C2000D6E (Centum Series)"
+  ],
+  "cummins_why": "Hospital standby at 60 Hz in the 1-2 MVA band is core Cummins business: C800D6E (1,000 kVA) and C1750D6E (2,188 kVA) bracket the inferred ratings, and the tender is a reference for the MoH's wider standby-power renewal programme. Risks are the gap between 1,000 and 2,188 kVA in the catalogue and local-content rules.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor is the main rival on MoH standby renewals; its 1,875 kVA set sits in the middle of the inferred band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1500",
+     "KD1250"
+    ],
+    "why": "Rehlko's 60 Hz sets cover the 1,250-1,875 kVA band with 50 C radiators, suited to Najran's heat.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "mtu via local packagers is a premium hospital option at about 1.1 MVA (Perkins / FG Wilson packagers have no 60 Hz model in the catalogue).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 2400000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 1.2M-3.6M (genset share of a SAR 15-32M contract, based on 12 awarded contracts in the same MoH programme; 2-3 x 1,000-2,000 kVA 60 Hz sets).",
+  "confidence": "medium",
+  "qty_estimate": "2–3 sets of 1,000–2,000 kVA"
+ },
+ "Hexagon government data centre, Riyadh (480 MW, Tier IV): genset / backup power packages under main contractor AlBawani": {
+  "need": "Tier IV data-centre-rated (DCC) 60 Hz diesel standby for a 480 MW government data centre, with 2N or N+1 redundancy: for an inferred first phase of about 48 MW, roughly 20-25 x ~3,000 kVA sets (inferred), bought through AlBawani's MEP subcontract to the SDAIA specification. There is no dated RFQ yet.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C3000D6 / C3000D6E",
+   "DQLC",
+   "C3500D6 / C3500D6E"
+  ],
+  "cummins_why": "The catalogue's 60 Hz DCC-rated sets cover the ~3 MVA data-centre class (C3000D6 at 3,438 kVA DCC, DQLC at 2,920 kVA DCC, C3500D6 at 4,188 kVA DCC), and Cummins Arabia already supplied 30 DQLC units for a 73.2 MW Saudi hyperscale site.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3000 (60 Hz, 50 C)",
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu Series 4000 is the leading Tier IV data-centre choice; its 3,750 kVA 60 Hz set has a 50 C radiator.",
+    "incumbent": false
+   },
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (60 Hz) 2750 ekW",
+     "C175-20 (60 Hz) 4000 ekW"
+    ],
+    "why": "Caterpillar 3516 sets via Zahid are the incumbent choice on Saudi data centres and are Mission Critical rated to Uptime Tier IV.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD3000",
+     "KD3500"
+    ],
+    "why": "Rehlko's KD sets carry a DCC rating equal to standby and a 50 C radiator, a strong specification for a Riyadh Tier IV site.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 37500000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate USD 15M-60M (first phase of about 48 MW N+1 as 20-25 x 3,000 kVA DCC sets at USD 0.8-1.2M installed; 2N or a larger first build gives the upper end).",
+  "confidence": "high",
+  "qty_estimate": "20–25 sets of 3,000 kVA (first phase, about 48 MW)"
+ },
+ "Supply of electric generators for the Naval Supply Centre, Eastern Fleet (توريد مولدات كهرباء لمركز التموين البحري بالاسطول الشرقي)": {
+  "need": "Diesel standby gensets for a naval supply centre, 60 Hz; quantity and rating are in the paid booklet (not public). Inferred: 1-3 packaged sets of about 100-500 kVA.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA"
+  ],
+  "cummins_why": "The rating is unpublished and the inferred 100-500 kVA band sits below the smallest Cummins Arabia 60 Hz catalogue set (DQCA, 750 kVA standby). Fit is only confirmed if the booklet calls for sets of about 700 kVA or more.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Zahid (Cat) is named as likely; its smallest 60 Hz catalogue set (937 kVA) is also above the inferred band.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [],
+    "why": "Local Perkins/FG Wilson packagers are named as likely bidders for small sets, but the catalogue holds no 60 Hz Perkins model.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 115000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 30k-200k: 1-3 sets of 100-500 kVA at USD 25-70k each).",
+  "confidence": "low"
+ },
+ "Maintenance, operation and cleaning of King Salman Armed Forces Hospital (North-West) and King Khalid Military Hospital with affiliated facilities": {
+  "need": "Not a genset supply. It is a 24-month integrated maintenance, operation and cleaning (total FM) contract for two military hospitals in Tabuk. Genset PM, overhaul and parts are an inferred slice of that contract; the brand of the installed fleet is not stated.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "Genset service and parts for the standby plant is a subcontract under the FM prime and is open to any brand. No Cummins fleet is named, so no catalogue model applies.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Zahid (Cat) service is named as a likely competitor for the genset PM/overhaul subcontract.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 250000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 100k-400k: 24-month genset PM/overhaul and parts at USD 8-20k per set-year, genset share inferred).",
+  "confidence": "medium"
+ },
+ "Maintenance and technical support services for data-centre facilities (3 years)": {
+  "need": "Not a genset supply. It is 3-year maintenance and technical support of data-centre facilities in Riyadh. Standby genset PM, load-bank testing and parts are an inferred slice (2-6 sets of 1-2.5 MVA inferred); the installed brand is not stated.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "Genset service is a subcontract to the facility-maintenance winner and is open to any brand. No Cummins fleet is named, so no catalogue model applies.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Zahid (Cat) service is named as a likely competitor for data-centre genset service.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 150000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 50k-250k: 3 years of PM, load-bank testing and parts for 2-6 inferred sets at USD 8-15k per set-year).",
+  "confidence": "medium"
+ },
+ "Modernisation of the main power-supply interconnection units, Rabigh General Hospital (مشروع تحديث وحدات ربط التغذية الكهربائية الرئيسية بمستشفى رابغ العام)": {
+  "need": "Not a genset. It is a 60-day modernisation of the main power-supply interconnection units (grid/standby transfer and switching, likely ATS/changeover switchgear) at Rabigh General Hospital. No genset supply is stated.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "The scope is switchgear/ATS only, and no ATS or switchgear product is in the catalogue. At most, a PowerCommand controller retrofit could be a small add-on.",
+  "poor_label": "Switchgear/ATS modernisation: no genset in scope",
+  "competitors": [],
+  "revenue_mid_usd": 90000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 30k-150k: 1-3 ATS/changeover panels of 1,600-3,200 A).",
+  "confidence": "medium"
+ },
+ "Managed services for the Aziz supercomputer and maintenance of its infrastructure environment (3 years)": {
+  "need": "Not a power product. It is 3-year IT managed services for the Aziz HPC supercomputer at KAU, including infrastructure-environment upkeep. Any UPS/standby genset upkeep is unconfirmed and not itemised.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "This is an IT-led managed-services contract. Genset content is unconfirmed and would at most be a small service subcontract (1-3 sets inferred).",
+  "poor_label": "IT managed services: genset content unconfirmed",
+  "competitors": [],
+  "revenue_mid_usd": 60000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 20k-100k: genset PM/parts slice for 1-3 inferred sets over 3 years).",
+  "confidence": "medium"
+ },
+ "HUMAIN AI data centres, 250 MW EPC (expanded from 50 MW): standby genset package for the extra 200 MW, bought through sequential work orders": {
+  "need": "Standby diesel gensets for 200 MW of additional AI data-centre IT capacity (DCC application), 60 Hz, bought through sequential HUMAIN work orders via the EPC MIS. Inferred: about 80-100 sets of 2.5-3.0 MVA, MV/LV, N+1.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C3000D6 / C3000D6E",
+   "C3000D6EB (Centum Series)",
+   "DQLF"
+  ],
+  "cummins_why": "The Cummins Arabia 60 Hz high-horsepower range with DCC ratings covers the need directly: C3000D6/D6E has DCC 3,438 kVA, C3000D6EB 3,406 kVA and DQLF 3,125 kVA. C3500D6 (DCC 4,188 kVA) is available if larger blocks are specified. Set ratings are inferred; none are published.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (60 Hz) 2750 ekW",
+     "3516C (60 Hz) 2500 ekW",
+     "C175-20 (60 Hz) 4000 ekW"
+    ],
+    "why": "The 60 Hz mission-critical ratings, which are Uptime Tier III/IV compliant, sit in the same 2.5-3.5 MVA block, sold via Zahid Tractor.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3000 (60 Hz, 50 C)",
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu 20V4000 is a standard hyperscale data-centre block and is rated for 50 C ambient at 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD3000",
+     "KD2500",
+     "KD3250"
+    ],
+    "why": "The KD series carries a DCC rating equal to standby at 60 Hz with 50 C radiators, a direct match for 2.5-3.2 MVA blocks.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 32500000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 20M-45M: about 80-100 x 2.5-3.0 MVA sets at USD 250-450k, excluding the first 50 MW).",
+  "confidence": "medium",
+  "qty_estimate": "80–100 sets of 2.5–3.0 MVA (beyond the first 50 MW)"
+ },
+ "center3 DDC307 data centre, Dammam: design-build EPC with full MEP supply (standby gensets to be bought by stc 'solutions')": {
+  "need": "Standby diesel gensets with paralleling for data centre DCC307 in Dammam (DCC application), 60 Hz, inside a SAR 364m design-build MEP scope by solutions (stc). Capacity is unpublished; inferred from the contract value: about 8-12 MW IT, i.e. 6-10 sets of 2.5-3.0 MVA.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C3000D6 / C3000D6E",
+   "C3000D6EB (Centum Series)",
+   "DQLF"
+  ],
+  "cummins_why": "The Cummins Arabia 60 Hz high-horsepower range with DCC ratings covers the need directly: C3000D6/D6E has DCC 3,438 kVA, C3000D6EB 3,406 kVA and DQLF 3,125 kVA. C3500D6 (DCC 4,188 kVA) is available if larger blocks are specified. Count and rating are inferred from the contract value.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (60 Hz) 2750 ekW",
+     "3516C (60 Hz) 2500 ekW",
+     "C175-20 (60 Hz) 4000 ekW"
+    ],
+    "why": "The 60 Hz mission-critical ratings, which are Uptime Tier III/IV compliant, sit in the same 2.5-3.5 MVA block, sold via Zahid Tractor. The notes cite Cat's incumbency through Zahid in the Eastern Province; this is regional, not a fleet installed at DDC307.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3000 (60 Hz, 50 C)",
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu 20V4000 is a standard hyperscale data-centre block and is rated for 50 C ambient at 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD3000",
+     "KD2500",
+     "KD3250"
+    ],
+    "why": "The KD series carries a DCC rating equal to standby at 60 Hz with 50 C radiators, a direct match for 2.5-3.2 MVA blocks.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 2900000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 1.8M-4.0M: 6-10 x 2.5-3.0 MVA sets at USD 250-400k, inferred from contract value).",
+  "confidence": "medium",
+  "qty_estimate": "6–10 sets of 2.5–3.0 MVA"
+ },
+ "AirTrunk–HUMAIN 250 MW hyperscale data centre, Riyadh: main EPC (bids submitted May 2026, award pending; genset package follows award)": {
+  "need": "Standby diesel gensets for a 250 MW hyperscale AI data centre in Riyadh (DCC application), 60 Hz. The package follows the EPC award or is owner-furnished by AirTrunk. Inferred: about 100-130 sets of 2.5-3.2 MVA, MV (13.8 kV) paralleled blocks.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C3000D6 / C3000D6E",
+   "C3000D6EB (Centum Series)",
+   "DQLF"
+  ],
+  "cummins_why": "The Cummins Arabia 60 Hz high-horsepower range with DCC ratings covers the need directly: C3000D6/D6E has DCC 3,438 kVA, C3000D6EB 3,406 kVA and DQLF 3,125 kVA. C3500D6 (DCC 4,188 kVA) is available if larger blocks are specified. Ratings are inferred. The main risk is commercial: AirTrunk's global genset framework, not product fit.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (60 Hz) 2750 ekW",
+     "3516C (60 Hz) 2500 ekW",
+     "C175-20 (60 Hz) 4000 ekW"
+    ],
+    "why": "The 60 Hz mission-critical ratings, which are Uptime Tier III/IV compliant, sit in the same 2.5-3.5 MVA block, sold via Zahid Tractor.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3000 (60 Hz, 50 C)",
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu 20V4000 is a standard hyperscale data-centre block and is rated for 50 C ambient at 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD3000",
+     "KD2500",
+     "KD3250"
+    ],
+    "why": "The KD series carries a DCC rating equal to standby at 60 Hz with 50 C radiators, a direct match for 2.5-3.2 MVA blocks.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 42500000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 30M-55M: about 100-130 x 2.5-3.2 MVA sets at USD 250-420k).",
+  "confidence": "medium",
+  "qty_estimate": "100–130 sets of 2.5–3.2 MVA"
+ },
+ "Petrokemya 730 MW electricity and steam cogeneration IPP, Jubail: developer RFP (bids due 30 Nov 2026); emergency/black-start genset scope to be bought by the winning EPC": {
+  "need": "Inferred subpackage: 1-2 emergency diesel sets of about 1.5-2.5 MW for essential loads, plus possible black-start capacity, 60 Hz, inside a 730 MW gas-fired cogeneration IPP EPC. No genset scope is itemised publicly.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQKAB",
+   "DQLF",
+   "C2000D6E (Centum Series)"
+  ],
+  "cummins_why": "Cummins 60 Hz QSK60/QSK78 sets cover the inferred 1.5-2.5 MW band: DQKAB with 2,281 kVA prime and DQLF with 3,125 kVA prime for black start. The scope is inferred and can only be reached through the winning developer's EPC.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516C (60 Hz) 2500 ekW",
+     "3512C (60 Hz) 1500 ekW"
+    ],
+    "why": "Cat via Zahid is the default EDG and black-start brand for Jubail EPCs and has 60 Hz sets in the 1.5-2.5 MW band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu 16V4000 is a common power-plant emergency and black-start set at 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Mitsubishi MHIET (MGS)",
+    "products": [
+     "MGS2500B (60 Hz)",
+     "MGS2000B (60 Hz)"
+    ],
+    "why": "MHI packagers are named as likely, notably with Japanese or Korean EPCs.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 950000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.4M-1.5M: 1-2 emergency sets of 1.5-2.5 MW plus possible black start at USD 250-500k each; inferred subpackage).",
+  "confidence": "medium"
+ },
+ "SABIC Agri-Nutrients 'seventh major project' (1.2 MMTPA ammonia, 2 x urea plants, carbon capture), Jubail: EPC awarded to Samsung E&A; emergency power subpackage to be procured": {
+  "need": "Inferred subpackage: emergency diesel generators for safe shutdown across an ammonia/urea/carbon-capture complex, about 2-4 sets of 1.5-2.5 MW, 60 Hz. The package is bought by EPC Samsung E&A; no genset award or specification is published.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQKAB",
+   "DQLF",
+   "C2000D6E (Centum Series)"
+  ],
+  "cummins_why": "Cummins 60 Hz QSK60/QSK78 sets (DQKAB 2,500 kVA and DQLF 3,438 kVA standby) cover the inferred 1.5-2.5 MW band. The scope is inferred and goes through the Samsung E&A vendor list, with an RFQ expected around 2027.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516C (60 Hz) 2500 ekW",
+     "3512C (60 Hz) 1500 ekW"
+    ],
+    "why": "Cat via Zahid is the likely default for Jubail petrochemical EDG packages.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu 16V4000 is a standard oil-and-gas and chemical emergency set at 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Mitsubishi MHIET (MGS)",
+    "products": [
+     "MGS2500B (60 Hz)",
+     "MGS2000B (60 Hz)"
+    ],
+    "why": "MHI packages are commonly carried by Korean EPCs such as Samsung E&A.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1400000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.8M-2.0M: 2-4 EDG sets of 1.5-2.5 MW at USD 300-500k, plus parts and service; inferred).",
+  "confidence": "medium"
+ },
+ "SPPC Round 3 conventional CCGT IPPs: 13 developers qualified, RFP to follow (emergency/black-start diesel sets inside each plant's EPC)": {
+  "need": "Inferred subpackage per CCGT plant: about 2 emergency/black-start diesel sets of 2.5-3 MW, 60 Hz, inside each Round 3 IPP's EPC. The plant count and RFP are not yet published.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQLF",
+   "C3000D6 / C3000D6E",
+   "C3500D6 / C3500D6E"
+  ],
+  "cummins_why": "Cummins 60 Hz QSK78/QSK95 sets cover 2.5-3 MW black start: DQLF 3,125 kVA prime, C3000D6 3,438 kVA prime. The scope is inferred and is reached only through the developers' EPC partners after the RFP.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (60 Hz) 2750 ekW",
+     "C175-20 (60 Hz) 4000 ekW"
+    ],
+    "why": "Cat is the common black-start supplier on Saudi CCGT EPCs and has 60 Hz sets at 2.75-4 MW.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3000 (60 Hz, 50 C)"
+    ],
+    "why": "The mtu 20V4000 is rated for 50 C at 60 Hz and is often specified for power-plant black start.",
+    "incumbent": false
+   },
+   {
+    "company": "Weichai / Baudouin",
+    "products": [
+     "WPG2500B76 (12M55G2500 genset, 60 Hz)"
+    ],
+    "why": "A Chinese Weichai/Baudouin-based packager is the likely choice where POWERCHINA or another Chinese EPC wins.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 800000,
+  "revenue_basis": "Midpoint of the tender's per-plant revenue_estimate (USD 0.6M-1.0M: about 2 x 2.5-3 MW sets at USD 300-500k). Multiply by the Round 3 plant count once it is published.",
+  "confidence": "medium"
+ },
+ "Riyadh East ISTP (200,000 m3/day, expandable to 400,000): five bids received, preferred bidder pending (standby genset scope inside plant EPC)": {
+  "need": "Inferred subpackage: standby diesel gensets for the critical pumping and aeration loads of a 200,000 m3/day ISTP, about 2-3 sets of 1.5-2 MVA, 60 Hz. The winning consortium's EPC buys them.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C2000D6E (Centum Series)",
+   "DQKAB"
+  ],
+  "cummins_why": "The C1750D6E (2,188 kVA standby, 50 C option) covers the inferred 1.5-2 MVA sets. The scope is inferred and goes through one of the five consortia's EPC arms.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "D1500 (60 Hz) 1.5 MW"
+    ],
+    "why": "Cat via Zahid is named as likely and has 60 Hz sets at 1.5 MW (1,875 kVA).",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1500",
+     "KD2000"
+    ],
+    "why": "The Kohler KD1500/KD2000 at 60 Hz cover 1.9-2.5 MVA.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu is named as likely; the 16V4000 is its nearest 60 Hz catalogue set, though above the band.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 700000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.4M-1.0M: 2-3 x 1.5-2 MVA sets at USD 200-350k; inferred).",
+  "confidence": "medium"
+ },
+ "Umm Al-Qura University Hospital PPP, Makkah: completion and operation (EOI stage done, 73 companies; RFQ/RFP next); hospital standby power in the completion scope": {
+  "need": "Inferred scope: emergency diesel generation for completing a tertiary university hospital (NFPA 110/SBC), about 4-6 sets of 1.5-2 MVA, 60 Hz, with paralleling and a long-term O&M service contract. This is an early-stage PPP (EOI done; RFQ/RFP next).",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C2000D6E (Centum Series)",
+   "DQKAB"
+  ],
+  "cummins_why": "The C1750D6E and C2000D6E (60 Hz, 50 C option) cover inferred 1.5-2 MVA hospital emergency sets. The scope is unconfirmed and early, and is reachable only through a developer consortium.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "D1500 (60 Hz) 1.5 MW"
+    ],
+    "why": "Cat via Zahid is named as likely and has 60 Hz 1.5 MW sets for hospital emergency duty.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1500",
+     "KD2000"
+    ],
+    "why": "Kohler/Rehlko is named as likely; the KD1500/KD2000 cover 1.9-2.5 MVA at 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu is named as likely, with a 60 Hz 50 C-rated 2.8 MVA set.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1400000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.8M-2.0M: 4-6 x 1.5-2 MVA sets at USD 200-350k, plus O&M; inferred).",
+  "confidence": "low"
+ },
+ "Prince Naif bin Abdulaziz International Airport PPP, Qassim: six bidders qualified, RFP next (terminal and airside standby power in the DBFOM scope)": {
+  "need": "Inferred subpackage: standby diesel gensets for the terminal, AGL and ATC-critical loads of a new airport terminal under a 30-year PPP, about 2-4 sets of 1-2 MVA, 60 Hz, plus O&M. The winning consortium's EPC buys them.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C800D6E (S17 Centum Series)",
+   "C1750D6E (Centum Series)",
+   "DQCA"
+  ],
+  "cummins_why": "The C800D6E (1,000 kVA) and C1750D6E (2,188 kVA) bracket the inferred 1-2 MVA band at 60 Hz, though there is no Cummins 60 Hz model between 1,000 and 2,188 kVA. The scope is inferred and goes through one of six bidders' EPCs.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Cat via Zahid is named as likely, with 60 Hz sets at 0.9 and 1.9 MVA covering the band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1250",
+     "KD1500"
+    ],
+    "why": "The Kohler KD1250/KD1500 (1.6-1.9 MVA) fill the mid-band gap in the Cummins 60 Hz range.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "mtu is named as likely; the 12V1600 (1,125 kVA) fits the lower end.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 800000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.4M-1.2M: 2-4 x 1-2 MVA sets at USD 150-350k, plus O&M; inferred).",
+  "confidence": "low"
+ },
+ "Replacement and provision of backup power sources, Hawtat Bani Tamim General Hospital, Riyadh region (إحلال وتأمين مصادر التغذية الإحتياطية لمستشفى حوطة بني تميم بالرياض)": {
+  "need": "Standby diesel gensets replacing the backup power plant of a 100-bed MoH hospital (hospital standby), 60 Hz LV, with synchronising panel, ATS and tanks, plus 18 months of O&M. The BOQ is login-gated. Inferred: 2-3 sets of about 800-1,500 kVA. Sub-supply to the winning works contractor.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C800D6E (S17 Centum Series)",
+   "C1750D6E (Centum Series)",
+   "DQCA"
+  ],
+  "cummins_why": "The C800D6E (1,000 kVA standby, full power at high ambient) fits the inferred 800-1,500 kVA hospital sets at 60 Hz. The C1750D6E covers any larger set, and the DQCA covers 750 kVA. The main weakness is the gap between 1,000 and 2,188 kVA in the Cummins 60 Hz range.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1000",
+     "KD1250"
+    ],
+    "why": "Abdullah Abunayyan Trading is Kohler's exclusive KSA distributor and won 4 of 12 programme awards; the KD1000/KD1250 fit the band exactly.",
+    "incumbent": false
+   },
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW",
+     "3512C (60 Hz) 1500 ekW"
+    ],
+    "why": "Cat via Zahid is a listed competitor and has 60 Hz sets at 937 and 1,875 kVA.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "Local packagers using mtu engines are listed; the 12V1600 (1,125 kVA) fits the mid-band.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1500000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.9M-2.1M: genset/ATS/tank share of 25-45% of a likely SAR 14-18M contract, from six comparable programme awards).",
+  "confidence": "medium"
+ },
+ "Replacement and provision of standby electrical generators for critical and sensitive MoH sites (centres) in 7 cities (إحلال وتأمين المولدات الإحتياطية الكهربائية للمواقع (المراكز) الهامة والحساسة التابعة لوزارة الصحة)": {
+  "need": "Standby diesel gensets replacing and supplying sets at 'important and sensitive' MoH sites in 7 cities, 60 Hz, as an 18-month construction and O&M contract. The award is imminent; Cummins would sub-supply the winner. Inferred: 7-15 sets of about 250-1,000 kVA.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "Only the upper part of the inferred 250-1,000 kVA band is covered: the DQCA (750 kVA) and C800D6E (1,000 kVA). The Cummins Arabia 60 Hz catalogue has nothing below 750 kVA, so the smaller site sets are not covered.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1000"
+    ],
+    "why": "Abunayyan (Kohler exclusive in KSA) won 4 of 12 programme awards and is a likely winner or supplier.",
+    "incumbent": false
+   },
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Cat via Zahid is a listed competitor; the C27 (937 kVA) fits the upper band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "Local packagers using mtu engines are listed; the 12V1600 (1,125 kVA) sits at the top of the band.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1850000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.7M-3.0M: 7 sites x 1-2 sets of 250-1,000 kVA at USD 60-200k per installed set; weak basis).",
+  "confidence": "medium"
+ },
+ "Replacement and provision of backup electrical power sources, King Khalid Hospital, Al-Majma'ah (إحلال وتأمين مصادر التغذية الإحتياطية الكهربائية لمستشفى الملك خالد بالمجمعة)": {
+  "need": "Standby diesel power plant replacement for King Khalid Hospital, Al-Majma'ah (about 204-225 beds; hospital standby; Etimad also ticks 'power generation stations'), 60 Hz, with paralleling, as an 18-month construction and O&M contract. Award is pending; Cummins would sub-supply the winner. Inferred: 3-4 sets of about 1,000-2,000 kVA.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C800D6E (S17 Centum Series)",
+   "DQKAB"
+  ],
+  "cummins_why": "The C1750D6E (2,188 kVA standby, 50 C option) covers the top of the inferred 1,000-2,000 kVA band at 60 Hz, and the C800D6E covers 1,000 kVA sets. PowerCommand paralleling suits a multi-set hospital plant.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1500",
+     "KD1250",
+     "KD2000"
+    ],
+    "why": "Abunayyan (Kohler exclusive in KSA) won 4 of 12 programme awards; the KD1250-KD2000 cover the 1.6-2.5 MVA band without a gap.",
+    "incumbent": false
+   },
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "D1500 (60 Hz) 1.5 MW"
+    ],
+    "why": "Cat via Zahid is a listed competitor, with a 60 Hz 1.5 MW (1,875 kVA) set that fits the mid-band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS900 (60 Hz)",
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "Local packagers using mtu engines are listed; mtu has 60 Hz sets at 1,125 and 2,812 kVA.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 2600000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 1.4M-3.8M: 25-45% genset/ATS/paralleling share of the SAR 21-32M awards for comparable 200+ bed programme hospitals).",
+  "confidence": "medium",
+  "qty_estimate": "3–4 sets of 1,000–2,000 kVA"
+ },
+ "Maintenance, repair, rehabilitation and testing of electrical systems, generators, fire alarm and suppression systems and ventilation equipment for nine service centres": {
+  "need": "O&M, repair, rehabilitation and testing of existing standby diesel gensets (50 Hz) at nine PUMC service centres, inside a wider electrical/fire/ventilation works contract held by an MEP contractor. Brand and kVA not published; replacement units, if any, inferred 500-1,100 kVA.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C550D5",
+   "C700D5",
+   "C1100D5"
+  ],
+  "cummins_why": "A multi-brand service job open to any brand; Cummins Arabia enters as genset service/parts subcontractor to the MEP contractor and can offer 50 Hz C-series replacements where units are end-of-life (ratings inferred).",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C18 (50 Hz) 715 kVA"
+    ],
+    "why": "Al-Bahar's Kuwait service network bids exactly this kind of public-facility genset O&M and replacement work.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1100-1 / P1100-1M"
+    ],
+    "why": "FG Wilson dealers and local packagers compete on price for standby replacements in this band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS1000"
+    ],
+    "why": "mtu local agents service standby fleets and quote 1 MVA replacements.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 250000,
+  "revenue_basis": "ESTIMATE (no tender value): genset service/parts subcontract of ~USD 15-20k per site over the term for nine sites (~USD 150k) plus one or two replacement sets (~USD 100k); installed brand unknown.",
+  "confidence": "medium"
+ },
+ "Supply and installation of electric motors at the Doha West power generation and water desalination plant": {
+  "need": "Supply and installation of electric motors at Doha West power and desalination plant. Not a power-generation product; no genset content in the notice.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "Electric motors are outside the Cummins Arabia catalogue; the only link is a possible future MEW emergency/black-start genset buy, which this tender does not contain.",
+  "poor_label": "Electric motors: not a genset product",
+  "competitors": [],
+  "revenue_mid_usd": 0,
+  "revenue_basis": "No genset content; motor supply is not addressable by Cummins or any catalogue company.",
+  "confidence": "high"
+ },
+ "Sabiya (Subiya) power and water distillation plant Phase 4, 900 MW combined cycle gas turbine expansion": {
+  "need": "Plant emergency diesel generators and black-start sets inside the Sabiya Phase 4 900 MW CCGT EPC (50 Hz); inferred two or more units in the 1,500-3,000 kVA band, specified by the EPC contractor and turbine OEM. Bought as a sub-package by the EPC winner (Alghanim International lowest bidder).",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C3000D5",
+   "C2750D5",
+   "C2250D5"
+  ],
+  "cummins_why": "50 Hz QSK60/QSK78 sets cover the inferred 1,500-3,000 kVA emergency/black-start band, but the genset scope is a small EPC sub-package whose count and rating are not published and are subject to the turbine OEM's vendor list.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (50 Hz) 3000 kVA 1500 rpm",
+     "3516B (50 Hz) 2250 kVA"
+    ],
+    "why": "Al-Bahar is the entrenched Kuwait dealer for utility and power-plant emergency sets.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2750",
+     "mtu 20V4000 DS3100"
+    ],
+    "why": "mtu 4000-series sets are a common turbine-OEM/EPC choice for black-start and emergency power.",
+    "incumbent": false
+   },
+   {
+    "company": "Mitsubishi MHIET (MGS)",
+    "products": [
+     "MGS3100R",
+     "MGS2800B"
+    ],
+    "why": "Mitsubishi sets ride with Mitsubishi turbine packages if the EPC picks an MHI gas turbine.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1200000,
+  "revenue_basis": "ESTIMATE (only the USD 1.67bn EPC bid value is public): 2-4 emergency/black-start sets of 1,500-3,000 kVA (inferred) at USD 300-600k each packaged = USD 0.6-2.4M, midpoint ~USD 1.2M.",
+  "confidence": "medium"
+ },
+ "Ministry of Health package: maintenance, construction and minor expansion of hospitals and health centres (11 packages); main data centre upgrade; nurse call and code blue systems at Jaber Al-Ahmad Hospital": {
+  "need": "Possible standby generator replacement/addition inside Kuwait MoH hospital maintenance and minor-expansion packages (11 packages) and the MoH main data centre upgrade; genset scope not itemised. Inferred 50 Hz standby/DCC sets of ~1,000-2,250 kVA via the winning contractors.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C1100D5",
+   "C1675D5",
+   "C2250D5"
+  ],
+  "cummins_why": "50 Hz C-series standby and DCC-rated sets fit hospital standby and data-centre backup, but genset content is not itemised and Cummins can only sell through the eligible contractors.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512B (50 Hz) 1500 kVA",
+     "C32B (50 Hz) 1250 kVA"
+    ],
+    "why": "Al-Bahar has a strong Kuwait hospital and government standby base with Mission Critical-rated sets.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1500-E",
+     "KD1000-E"
+    ],
+    "why": "Kohler DCC-rated KD series targets both hospital standby and data-centre upgrades.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1100-1 / P1100-1M",
+     "P1650-1 / P1650-1M"
+    ],
+    "why": "FG Wilson packagers compete on price in contractor-led hospital packages.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1000000,
+  "revenue_basis": "ESTIMATE (no value disclosed): 3-6 standby/DCC sets of 1,000-2,250 kVA (inferred) at USD 150-300k each across hospital packages and the data centre upgrade = USD 0.5-1.5M.",
+  "confidence": "low"
+ },
+ "Dorra (Al-Durra) field onshore gas-processing facilities near Al-Zour: main EPC tender (emergency diesel generator / black-start / diesel fire-water pump scope inside utilities)": {
+  "need": "Emergency / black-start / essential-services diesel gensets (inferred 2-4 sets of 1.5-2.5 MW, i.e. ~1,900-3,100 kVA, 50 Hz) plus diesel fire-water pump engines and construction rental power, bought as EPC sub-packages for the Dorra onshore gas-processing plant. Sub-packages are inferred, not itemised.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C2500D5A",
+   "C3000D5",
+   "C2250D5"
+  ],
+  "cummins_why": "QSK60/QSK78 50 Hz sets cover the inferred 1.5-2.5 MW emergency/black-start band, but the scope is inferred and is sold to the EPC winner, not KGOC; fire-pump engines and rental are outside the catalogue.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516B (50 Hz) 2250 kVA",
+     "C175-16 (50 Hz) 3000 kVA"
+    ],
+    "why": "Al-Bahar has the strongest oil & gas base in Kuwait and is on most KPC-group vendor lists.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2750",
+     "mtu 12V4000 DS2250"
+    ],
+    "why": "mtu 4000-series is a standard O&G emergency/essential-power choice for Western EPCs.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P2500-3 / P2500-3M",
+     "P2250-3 / P2250-3M"
+    ],
+    "why": "Korean/Indian EPC packagers often price-bid 4016-based sets for utility packages.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 3000000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 1.5-4.5M, itself an ESTIMATE of genset, fire-pump engine and rental content in the USD 3.3bn EPC).",
+  "confidence": "medium"
+ },
+ "Construction, completion and maintenance of public buildings in districts N1, N3 and N4, Al-Mutlaa Residential City (PAHW tender 1443/1444 series) - standby generator sets for health centre, police, ambulance and co-op buildings": {
+  "need": "Standby diesel sets with ATS for the health centre, ambulance, police, co-op and similar buildings of Al-Mutlaa districts N1/N3/N4 (inferred ~6-15 sets of 200-1,000 kVA, 50 Hz), supplied to the winning main/MEP contractor. Generator schedule is not public; content inferred.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C550D5",
+   "C700D5",
+   "C1000D5"
+  ],
+  "cummins_why": "Catalogue 50 Hz sets cover the upper half of the inferred band (550-1,041 kVA); sets below 550 kVA are outside the listed catalogue and all supply runs through the contractor.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C18 (50 Hz) 715 kVA"
+    ],
+    "why": "Al-Bahar is the default Kuwaiti contractor choice for public-building standby sets.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1100-1 / P1100-1M"
+    ],
+    "why": "Al-Mulla and local packagers price-bid FG Wilson/Perkins sets on PAHW packages.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS1000"
+    ],
+    "why": "mtu competes on the larger health-centre/co-op sets.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 800000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.4-1.2M, an ESTIMATE of 6-15 standby sets inferred from the KD 500,000 bid bond).",
+  "confidence": "medium"
+ },
+ "Construction, completion and maintenance of public buildings in districts N5 and N6, Al-Mutlaa Residential City (PAHW tender 1443/1444 series) - standby generator sets for health centre, police, ambulance and co-op buildings": {
+  "need": "Standby diesel sets with ATS for the health centre, ambulance, police, co-op and similar buildings of Al-Mutlaa districts N5/N6 (inferred ~6-15 sets of 200-1,000 kVA, 50 Hz), supplied to the winning main/MEP contractor. Generator schedule is not public; content inferred.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C550D5",
+   "C700D5",
+   "C1000D5"
+  ],
+  "cummins_why": "Catalogue 50 Hz sets cover the upper half of the inferred band (550-1,041 kVA); sets below 550 kVA are outside the listed catalogue and all supply runs through the contractor.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C18 (50 Hz) 715 kVA"
+    ],
+    "why": "Al-Bahar is the default Kuwaiti contractor choice for public-building standby sets.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1100-1 / P1100-1M"
+    ],
+    "why": "Al-Mulla and local packagers price-bid FG Wilson/Perkins sets on PAHW packages.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS1000"
+    ],
+    "why": "mtu competes on the larger health-centre/co-op sets.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 800000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.4-1.2M, an ESTIMATE of 6-15 standby sets inferred from the KD 500,000 bid bond).",
+  "confidence": "medium"
+ },
+ "Supply, installation and maintenance of electric generators and their accessories (procurement plan)": {
+  "need": "Supply, installation and maintenance of electric generators and accessories for the Ministry of Education (KWD 700,000 plan budget); inferred 50 Hz standby diesel sets for schools/MoE buildings, typically small (inferred ~100-700 kVA), plus ATS and O&M. Formal tender not yet issued.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C550D5",
+   "C700D5"
+  ],
+  "cummins_why": "A direct generator supply+maintenance budget Cummins can bid, but school sets are likely below the 550 kVA floor of the listed 50 Hz catalogue, so only the larger buildings map to a catalogue model (rating inferred).",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C18 (50 Hz) 715 kVA"
+    ],
+    "why": "Al-Bahar/Cat packagers are the main branded rival on Kuwaiti ministry standby supply.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "2806A-E18TAG2"
+    ],
+    "why": "Local contractors package Perkins engines at low cost for school-size sets.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1885000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 1.5-2.27M, from the published KWD 700,000 plan budget, assuming 65-100% is genset/ATS supply and maintenance).",
+  "confidence": "medium"
+ },
+ "MAB - DC - Emergency DG (KNPC Mina Abdullah refinery, direct-charge purchase, RFQ 1064214)": {
+  "need": "One emergency diesel generator for KNPC Mina Abdullah refinery (direct-charge purchase, 50 Hz). Rating not published; inferred 250-1,000 kVA. Could be spares rather than a complete set.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C700D5",
+   "C1000D5",
+   "C550D5"
+  ],
+  "cummins_why": "A direct refinery emergency-DG buy that 50 Hz C-series sets would cover, but the rating is unpublished (inferred) and the order may be components only.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C18 (50 Hz) 715 kVA",
+     "C32B (50 Hz) 1250 kVA"
+    ],
+    "why": "Al-Bahar is strongly placed on KNPC vendor lists for refinery emergency sets.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS1000"
+    ],
+    "why": "mtu local agent quotes refinery-spec emergency sets in this band.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1100-1 / P1100-1M"
+    ],
+    "why": "Perkins packagers bid KNPC direct-charge purchases on price.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 230000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 60-400k, an ESTIMATE for one 250-1,000 kVA refinery emergency set with ATS/enclosure).",
+  "confidence": "medium"
+ },
+ "RFQ#2165184 Spare for Generator and Engine Control": {
+  "need": "Spare parts for generator and engine control equipment (controllers, AVR, governors, sensors inferred) for the KNPC/KPC group; make not public.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "An open parts RFQ; Cummins wins only if the installed controls are PowerCommand/Cummins, which the notice does not say. No catalogue genset applies.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Al-Bahar supplies Cat genset/engine control spares if the installed fleet is Cat, the most common make on KPC sites.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 32500,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 5-60k, an ESTIMATE for a controls spares lot).",
+  "confidence": "low"
+ },
+ "RFQ#2169013 Spare for Bahra Security Generator": {
+  "need": "Spare parts for the security generator at Bahra (north Kuwait); single generator, make and rating not public.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "A small single-generator parts lot; Cummins genuine parts fit only if the installed set is Cummins, which is not stated.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Al-Bahar supplies parts if the installed set is Cat; installed make unknown.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [],
+    "why": "FG Wilson dealers supply parts if the security set is an FG Wilson/Perkins unit.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 21500,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 3-40k, an ESTIMATE for a single-generator spares lot).",
+  "confidence": "low"
+ },
+ "RFQ#2167943 Spare for Diesel Forklift and Diesel Engine": {
+  "need": "Spare parts for a diesel forklift and a diesel engine; engine make not public. Not a genset or power-generation product.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "Forklift/engine spares with no stated Cummins engine and no genset content; outside the Cummins Arabia power catalogue.",
+  "poor_label": "Forklift/engine spares, make unknown: not a genset job",
+  "competitors": [
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [],
+    "why": "Perkins engines are common in diesel forklifts, so Perkins dealers are the likely parts source if fitted.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 16000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 2-30k, an ESTIMATE for a small engine spares lot).",
+  "confidence": "medium"
+ },
+ "RFQ#2169389 Spare for Fire Water Pump (diesel-driven)": {
+  "need": "Spares for diesel-driven fire-water pumps (pump-driver make not public); not a genset.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "Cummins makes fire-pump engines, so parts are addressable only if Cummins drivers are fitted; driver make is unknown and fire-pump engines are not in the catalogue.",
+  "poor_label": null,
+  "competitors": [],
+  "revenue_mid_usd": 21000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 2-40k, an ESTIMATE for fire-pump spares lots).",
+  "confidence": "low"
+ },
+ "Annual maintenance works for electrical equipment at Al-Zour (South) power generation and water distillation station": {
+  "need": "Annual electrical maintenance at Az-Zour South power and desalination station; genset share (emergency/black-start DG overhaul, parts, outage-cover rental) is inferred, not confirmed, and would be subcontracted by the Kuwaiti maintenance contractor. Installed DG make not public.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "A multi-brand service/parts subcontract at best; no new genset purchase is stated, and the installed DG brand is unknown.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Al-Bahar is the likely DG service subcontractor if the plant's emergency sets are Cat.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [],
+    "why": "mtu services large power-station emergency/black-start sets if installed.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 275000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 50-500k, an ESTIMATE of the DG service/parts subcontract share; main contract far larger).",
+  "confidence": "low"
+ },
+ "Annual maintenance works for electrical equipment at Shuaiba South power generation and water distillation plant": {
+  "need": "Annual electrical maintenance at Shuaiba South power and desalination plant; genset/emergency-power share not confirmed, subcontract only. Installed DG make not public.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "Possible DG service/parts/rental subcontract under the winning maintenance contractor; no genset purchase stated and installed brand unknown.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Al-Bahar is the likely DG service subcontractor if the installed sets are Cat.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 140000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 30-250k, an ESTIMATE of the DG service/parts subcontract share, KD 45,000 bid bond).",
+  "confidence": "low"
+ },
+ "National (backup) Data Center - consultancy for design, RFP/specifications and supervision": {
+  "need": "Consultancy for design, RFP/specifications and supervision of the government National (backup) Data Center. No genset purchase now; a later construction tender would carry a data-centre (DCC-rated, 50 Hz) standby genset package.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "Consultancy-only scope with no genset content now; value is limited to getting DCC-rated C-series sets specified for the later build tender.",
+  "poor_label": "Design consultancy: no genset purchase yet",
+  "competitors": [
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3600",
+     "mtu 16V4000 DS2750"
+    ],
+    "why": "mtu DCC-rated 4000-series sets are frequently written into government data-centre specs.",
+    "incumbent": false
+   },
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (50 Hz) 3500 kVA",
+     "C175-16 (50 Hz) 3000 kVA"
+    ],
+    "why": "Cat Mission Critical ratings meet Uptime Tier III/IV spec language consultants reuse.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD3500-E",
+     "KD2500-E"
+    ],
+    "why": "Kohler KD series carries DCC ratings equal to standby, attractive to spec writers.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 25000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0-50k); consultancy stage only, the later DC genset package is not estimated.",
+  "confidence": "high"
+ },
+ "Providing generators for Sweihan and Razin Mazayna 2026": {
+  "need": "Temporary/rental 50 Hz diesel gensets for two desert event sites; kVA and count not published (inferred small-to-mid sets, roughly 200-700 kVA).",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C550D5",
+   "C700D5",
+   "C1100D5"
+  ],
+  "cummins_why": "Right frequency, but the smallest 50 Hz Cummins Arabia set is 550 kVA and event rental is won by rental houses, so Cummins only gains through a Cummins-powered rental partner.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C18 (50 Hz) 715 kVA"
+    ],
+    "why": "Cat rental via Al-Bahar is named as a likely bidder and the C18 suits mid-size event loads.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1100-1 / P1100-1M"
+    ],
+    "why": "FG Wilson sets are common in Gulf rental fleets, though the catalogue's smallest 50 Hz model is 1,100 kVA.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 75000,
+  "revenue_basis": "No estimate in tender. Inferred 5-10 sets x 3-4 weeks x USD 2-4k per set-week rental = about USD 30k-160k; midpoint rounded to 75k.",
+  "confidence": "medium"
+ },
+ "Battery charger (DSE 9470 MKII) for emergency diesel generator, Cummins P1550C 550 kVA with QSX15-G8 engine, 3 units": {
+  "need": "3 x Deep Sea Electronics DSE 9470 MKII battery chargers (accessory) for installed Cummins P1550C 550 kVA / QSX15-G8 standby sets at DEWA.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "The fleet is Cummins, but the item is a third-party DSE charger any parts trader can supply; its value to Cummins is as a way into a DEWA parts framework.",
+  "poor_label": null,
+  "competitors": [],
+  "revenue_mid_usd": 3000,
+  "revenue_basis": "No estimate in tender. 3 chargers at roughly USD 800-1,200 each (inferred list price).",
+  "confidence": "high"
+ },
+ "Battery storage, absorbed glass mat type, 12 VDC 200 Ah, for diesel generator applications": {
+  "need": "Sealed AGM 12 VDC 200 Ah starter batteries for DEWA's standby diesel generator fleet; quantity not published.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "Starter batteries are a commodity consumable, not in the Cummins Arabia catalogue, and battery distributors win on price.",
+  "poor_label": "Starter batteries: not a Cummins product",
+  "competitors": [],
+  "revenue_mid_usd": 8000,
+  "revenue_basis": "No estimate or quantity in tender. Inferred 10-30 batteries at USD 300-500 each.",
+  "confidence": "high"
+ },
+ "Dubai Metro Gold Line (42 km fully underground, 18 stations): design-build prequalification for civil, electromechanical, rolling stock and rail systems (station/depot emergency-power scope inside E&M)": {
+  "need": "Emergency/standby 50 Hz diesel gensets for 18 underground metro stations, depot and OCC (fire/life-safety loads), inferred 25-40 sets of about 1-2 MW (1,250-2,500 kVA), plus construction temporary power. Quantities and ratings not published.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C2000D5",
+   "C1675D5",
+   "C2250D5"
+  ],
+  "cummins_why": "50 Hz Cummins sets from C1675D5 to C2250D5 cover the inferred 1-2 MW standby band, but the scope sits inside a design-and-build E&M package that is still at prequalification, with no confirmed quantities.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512B (50 Hz) 1500 kVA",
+     "3516B (50 Hz) 2250 kVA"
+    ],
+    "why": "Supplied 20 emergency sets (mostly 3512/3516 class) to the original Dubai Metro, so it holds the reference.",
+    "incumbent": true
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V4000 DS2000",
+     "mtu 18V2000 DS1400"
+    ],
+    "why": "Strong 1.4-2 MVA standby range and a good fit with European-led E&M consortia.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1650-1 / P1650-1M",
+     "P2250-3 / P2250-3M"
+    ],
+    "why": "Low-cost sets likely to be offered through Chinese-led consortia.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 10500000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 5.0M-16.0M (25-40 sets of 1-2 MW at USD 200-400k packaged; construction rental excluded).",
+  "confidence": "medium",
+  "qty_estimate": "25–40 sets of 1–2 MW"
+ },
+ "Upgradation of standby generators at DEWA Distribution Control Centres, Al Qusais (plot 232-552) and Warsan Second (plot 622-159)": {
+  "need": "Replacement/upgrade of standby diesel generator plant with synchronising and ATS at two DEWA Distribution Control Centres (Al Qusais, Warsan Second), 50 Hz. Unit count/rating only in the tender documents (inferred about 500-1,500 kVA per set for a control-centre building).",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C1100D5",
+   "C1400D5",
+   "C825D5"
+  ],
+  "cummins_why": "A pure 50 Hz standby genset upgrade that the C825D5-C1400D5 range with PowerCommand paralleling clearly covers; the route is to be the named OEM with the winning EPC bidder before award.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C32B (50 Hz) 1250 kVA",
+     "C18 (50 Hz) 715 kVA"
+    ],
+    "why": "Al-Bahar/Cat packages likely behind bidder Kanoo and others.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V2000 DS1100",
+     "mtu 12V1600 DS1000"
+    ],
+    "why": "mtu packagers are named as likely competitors in this rating band.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [
+     "P1100-1 / P1100-1M"
+    ],
+    "why": "FG Wilson packagers compete on price, which matters with Galadari's low bid.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1200000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 0.6M-1.8M (genset + sync/ATS at 50-60% of opened bids of AED 3.87M-10.75M).",
+  "confidence": "medium"
+ },
+ "Cummins spares for H.H. Ruler's Palaces emergency diesel generators (PCC3.3 controllers, speed governors, switches, senders)": {
+  "need": "Genuine Cummins spares for the Ruler's palace emergency diesel gensets: 2 x PCC3.3 controllers (C1675D5), 2 x speed governors (VTA28-G5), switches and senders (KTA50-G8, KTA38-G5).",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C1675D5",
+   "C700D5"
+  ],
+  "cummins_why": "The buyer names Cummins part numbers for an installed Cummins fleet (C1675D5/KTA50-G8, VTA28-G5, KTA38-G5), so as the authorised distributor Cummins Arabia is the natural supplier.",
+  "poor_label": null,
+  "competitors": [],
+  "revenue_mid_usd": 25000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 15k-35k.",
+  "confidence": "high"
+ },
+ "V-ribbed and fan belts for Cummins emergency diesel generators at H.H. Ruler's Palaces (KTA19-G4, KTA38-G5, KTA50-G8 / C1675D5)": {
+  "need": "Genuine Cummins belts (8 pcs) for three palace EDG engines: KTA19-G4, KTA38-G5 and KTA50-G8 (C1675D5).",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C1675D5"
+  ],
+  "cummins_why": "Cummins part numbers on an installed Cummins fleet. The lot is tiny but ties to the same palace EDG fleet as the PCC3.3 spares RFQ.",
+  "poor_label": null,
+  "competitors": [],
+  "revenue_mid_usd": 2000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 1k-3k.",
+  "confidence": "high"
+ },
+ "Diesel engine for 400 kV substation fire-fighting pump, 199 kW at 2900 rpm, UL/FM": {
+  "need": "1 x UL/FM-listed diesel fire-pump driver engine, 199 kW six-hour rating at 2900 rpm, heat-exchanger cooled, 'Fiat (FD275) or equivalent', for a 400 kV substation fire-fighting system. Not a genset.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "This is a UL/FM fire-pump engine specified against an FPT/Fiat FD275 at 2900 rpm, and there is no fire-pump engine in the Cummins Arabia catalogue. Cummins Fire Power engines exist globally, so check stock before passing.",
+  "poor_label": "Fire-pump engine (Fiat FD275 equiv.): not in Cummins catalogue",
+  "competitors": [],
+  "revenue_mid_usd": 40000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 25k-55k.",
+  "confidence": "medium"
+ },
+ "M-Station Block 30 EDG #12 - cylinder head gasket replacement, borescope and QL1 service (both engines)": {
+  "need": "Top-end overhaul service on M-Station Block 30 EDG #12: borescope, compression test, cylinder-head removal, head gasket/injector sleeve/HP adaptor replacement, load test. The engine is a 20-cylinder unit, S/N 528100868; its brand is not stated (inferred mtu 20V4000-class from 20 heads, HP adaptors and S/N format).",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "A 20-cylinder common-rail engine is not a Cummins genset engine (Cummins' largest here are 16/18-cylinder QSK), so it needs the OEM's parts kit and procedures. The brand is inferred, not stated.",
+  "poor_label": "20-cyl EDG overhaul (inferred mtu): not a Cummins engine",
+  "competitors": [
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3100",
+     "mtu 20V4000 DS3600"
+    ],
+    "why": "The 20 cylinder heads plus common-rail HP adaptors point to an mtu 20V4000 (inferred); the mtu dealer is listed as a likely bidder.",
+    "incumbent": false
+   },
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C175-20 (50 Hz) 4000 kVA"
+    ],
+    "why": "The Cat C175-20 is the other 20-cylinder common-rail EDG engine in this class (a lower-probability match).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 35000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 20k-50k.",
+  "confidence": "medium"
+ },
+ "Kohler generator alternator rotating diodes and diode kit (insurance spares)": {
+  "need": "Rotating diodes and diode kit for a Kohler alternator KH04402T04D (insurance spares).",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "These are brand-specific spares for a Kohler alternator; there is no Cummins product content.",
+  "poor_label": "Kohler alternator diodes: not a Cummins product",
+  "competitors": [
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [],
+    "why": "The Kohler alternator is installed, so the Rehlko/Kohler dealer is the natural supplier. The item is a spare part, not a catalogue model.",
+    "incumbent": true
+   }
+  ],
+  "revenue_mid_usd": 1250,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 0.5k-2k.",
+  "confidence": "high"
+ },
+ "Khazna Data Centres - Dubai Production City data centre (part of the 200 MW expansion), main contract": {
+  "need": "Hyperscale data-centre standby power: large N+1 fleet of 50 Hz diesel gensets with DCC rating (inferred 2.5-3.5 MVA sets, tens of MW), paralleling switchgear, bulk fuel, controls. MW not published.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C3000D5",
+   "C3500D5",
+   "C2750D5"
+  ],
+  "cummins_why": "The C3000D5/C3500D5 (DCC 2,750/3,125 kVA) and C2750D5 are Cummins' 50 Hz data-centre sets, a direct fit for Tier III hyperscale standby. The supply route is through the main/MEP contractor or a Khazna pre-buy.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C175-16 (50 Hz) 3000 kVA",
+     "3516E (50 Hz) 3500 kVA"
+    ],
+    "why": "Mission Critical-rated 3-3.5 MVA sets with Uptime Tier III/IV compliance, sold through Al-Bahar.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3600",
+     "mtu 16V4000 DS2750"
+    ],
+    "why": "The leading data-centre genset OEM, with published DCP ratings in this band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD3500-E",
+     "KD2500-E"
+    ],
+    "why": "The DCC rating equals standby, which suits hyperscale specifications.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 22000000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 16M-28M (4-7% of USD 408m project value).",
+  "confidence": "medium"
+ },
+ "Al Maktoum International Airport (DWC) expansion - power generation plant packages (upcoming DAEP awards)": {
+  "need": "Airport 'power generation plant' packages for the DWC expansion. The technology and MW are not published; inferred central standby/emergency plant of multi-MW 50 Hz diesel sets (2-3 MVA class, 20-60 MW), though it could be gas-fired.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C3000D5",
+   "C3500D5",
+   "C2500D5A"
+  ],
+  "cummins_why": "If the plant is diesel standby, the 50 Hz QSK78/QSK95 sets cover it (C2000N5CD gas sets are an option if gas-fired). But the technology, size and procurement route are all unconfirmed, and a turbine-based plant would fall outside the range.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516E (50 Hz) 3000 kVA 1500 rpm",
+     "C175-16 (50 Hz) 3000 kVA",
+     "G3516H (50 Hz) 2000 ekW"
+    ],
+    "why": "Covers both a diesel standby and a gas plant, sold through Al-Bahar.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 20V4000 DS3100",
+     "mtu 16V4000 DS2750",
+     "mtu 20V4000 GS (L64 FNER)"
+    ],
+    "why": "Has a recent Gulf airport emergency-power reference (Kuwait T2).",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD3500-E",
+     "KD2500-E"
+    ],
+    "why": "Named as a likely competitor with a 2.5-3.5 MVA 50 Hz range.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 17500000,
+  "revenue_basis": "Midpoint of tender revenue_estimate USD 5M-30M (20-60 MW at USD 250-500/kW; MW unknown).",
+  "confidence": "low"
+ },
+ "Back-Up Generators Project (buyer: 'Department of Procurement', Saudi Arabia)": {
+  "need": "Back-up (standby) generators for an unnamed Saudi public buyer, 6-month contract. The notice shows only the title; scope (supply, installation, rental or maintenance), quantity, kVA and Hz are not published. 60 Hz assumed for the Saudi grid; 1-3 sets of 250-1,000 kVA is the tender's own inferred band.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA",
+   "C800D6E (S17 Centum Series)"
+  ],
+  "cummins_why": "DQCA (750 kVA) and C800D6E (1,000 kVA) cover the top of the inferred band. The catalogue has no Cummins 60 Hz set below 750 kVA, so any 250-500 kVA units are outside the listed range. If the scope is rental or maintenance only, there is no Cummins set to sell. The booklet is behind the Etimad supplier login.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor is the usual Saudi government standby supplier; C27 (937 kVA) sits in the same band.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1000"
+    ],
+    "why": "Kohler-SDMO via Abunayyan is named as likely; KD1000 (1,250 kVA) is its smallest 60 Hz catalogue set.",
+    "incumbent": false
+   },
+   {
+    "company": "Generac",
+    "products": [
+     "SDMD1000 (SD1000 / MD1000)"
+    ],
+    "why": "Perkins-engined 60 Hz set at a lower price, typical of local packagers.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 12V1600 DS900 (60 Hz)"
+    ],
+    "why": "mtu via local packagers; DS900 (1,125 kVA) is its smallest 60 Hz catalogue set.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 350000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 100k-600k), an ESTIMATE: 1-3 sets of 250-1,000 kVA at USD 50-200k each, anchored on 2025-2026 Saudi standby awards. Near zero if the scope is rental or maintenance only.",
+  "confidence": "low"
+ },
+ "Supply, installation, programming and testing of 2 control panels and display boards for the back-up generators, Ministry of National Guard Health Affairs": {
+  "need": "Replace the control panels and display boards of 2 back-up generators at an MNG Health Affairs site, 180-day contract (old units removed). Controls retrofit only; no genset, kVA, make or Hz stated.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "This buys panels and display boards, not a genset. A Cummins PowerCommand panel only fits if the installed sets are Cummins; the notice names no make and MNG hospitals run mixed fleets. No catalogue genset applies.",
+  "poor_label": "Control-panel retrofit for 2 existing generators: no genset sale",
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Caterpillar via Zahid Tractor, if the installed sets are Cat (make not stated on this notice); no catalogue model applies to a panel swap.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [],
+    "why": "Kohler via Abunayyan, if the installed sets are Kohler (make not stated); no catalogue model applies.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 0,
+  "revenue_basis": "Poor fit, no genset content, so 0. For reference the tender's ESTIMATE is USD 30k-150k for the panel retrofit; none of it is a Cummins genset sale.",
+  "confidence": "high"
+ },
+ "Maintenance of emergency generators at King Faisal Naval Base": {
+  "need": "Maintenance of the emergency generators at King Faisal Naval Base, 60-day service contract. Number, make, kVA and Hz of the sets are not published.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "A short service job open to any brand; Cummins Arabia can bid service and genuine parts, but the fleet make is unknown and no catalogue model applies. Value is a service record at the base ahead of a fleet renewal. Bids close 22 Oct.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Caterpillar via Zahid Tractor service; the incumbent O&M contractors from the earlier base contracts are not catalogue companies.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 70000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 20k-120k), an ESTIMATE scaled from the earlier USD 594k RSNF base maintenance award to 60 days. Service only, no equipment sale.",
+  "confidence": "low"
+ },
+ "Operational rental of a generator for the Purveyor Fishing Port": {
+  "need": "Operational rental of 1 generator for a fishing port, 24-month contract. kVA and Hz are not stated (tender assumes 250-750 kVA, inferred; Saudi grid is 60 Hz).",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "DQCA"
+  ],
+  "cummins_why": "Cummins Arabia does not rent sets in this tender, so it can only supply a set or parts to the rental company that wins. DQCA (750 kVA) is the only catalogue 60 Hz set at the top of the inferred band; the catalogue has no Cummins 60 Hz set below 750 kVA.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "C27 (60 Hz) 750 ekW"
+    ],
+    "why": "Cat rental fleets via Zahid are common in Saudi; C27 is the comparable 60 Hz set.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1000"
+    ],
+    "why": "Kohler-SDMO sets are common in rental fleets; KD1000 is its smallest 60 Hz catalogue set.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 250000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 100k-400k), an ESTIMATE of the 24-month rental contract value (SAR 15-40k a month, excluding fuel). That is the rental firm's revenue; Cummins would earn only a fleet-set or parts sale, so the open amount is lower.",
+  "confidence": "low"
+ },
+ "Project to supply and operate a generator for the Facial Governorate building, Tibok area": {
+  "need": "Supply and operate 1 generator for a governorate building (probably Tabuk), 30-day contract. kVA and Hz not stated.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "A 30-day supply-and-operate job is a short-term rental, which Cummins Arabia does not bid. No set is sold and the size is not stated.",
+  "poor_label": "30-day single-set rental (supply and operate)",
+  "competitors": [
+   {
+    "company": "Local rental firms",
+    "products": [],
+    "why": "Small local rental companies are the likely winners (not catalogue companies).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 0,
+  "revenue_basis": "Poor fit, no genset sale, so 0. For reference the tender's ESTIMATE is USD 5k-40k for the 30-day rental.",
+  "confidence": "medium"
+ },
+ "H-AH-HR422988 Supply of diesel filters for generator units, Electricity Section, King Abdulaziz Hospital (Ministry of National Guard Health Affairs)": {
+  "need": "Supply of diesel filters for the generator units of the Electricity Section, King Abdulaziz Hospital (MNG Health), 6-month contract. Part numbers, quantity, make and Hz are not published.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "Filters only, no genset content. Fleetguard filters fit only if the sets are Cummins; the notice names no make and an earlier MNG-Health award shows Caterpillar sets at a King Abdulaziz facility. Closes 18 Oct.",
+  "poor_label": "Diesel filter consumables: parts counter, no genset sale",
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Caterpillar via Zahid Tractor parts, if the hospital sets are Cat (an earlier MNG-Health inspection award names Caterpillar sets at a King Abdulaziz facility).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 0,
+  "revenue_basis": "Poor fit, filters only, so 0. For reference the tender's ESTIMATE is USD 3k-30k for the consumables lot.",
+  "confidence": "high"
+ },
+ "Operation to connect and deliver the reserve generator to the Eastern Police (Public Security)": {
+  "need": "Connect and deliver a reserve generator to the Eastern Police (Public Security), 90-day contract. Closed 12 Oct 2026. Connection and delivery work; kVA, make and Hz not stated.",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "The bid deadline passed on 12 Oct and the job is connection and delivery of one set, not a genset supply. No catalogue model applies.",
+  "poor_label": "Closed connection-and-delivery job for 1 reserve set",
+  "competitors": [
+   {
+    "company": "Local electrical contractors",
+    "products": [],
+    "why": "Local contractors usually win connection work (not catalogue companies).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 0,
+  "revenue_basis": "Poor fit, closed, no genset content, so 0. For reference the tender's ESTIMATE is USD 10k-60k.",
+  "confidence": "high"
+ },
+ "SPARE PARTS FOR AUXILLARY ENGINE GENERATOR (Kuwait National Petroleum Company)": {
+  "need": "Spare parts for an auxiliary engine generator at KNPC (Kuwait, 50 Hz). Make, model, item list and quantity are not published.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "An open parts RFQ; Cummins genuine parts apply only if the set is Cummins-powered, which the notice does not say. No catalogue genset applies. Closes 2 Nov; KNPC e-sourcing registration is needed.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Caterpillar via Al-Bahar is the main Kuwait dealer for oil-sector sets and parts; installed model not stated.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 85000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 20k-150k), an ESTIMATE based on KOC genset spares RFQs (USD 283k-297k) scaled down to one auxiliary set.",
+  "confidence": "low"
+ },
+ "Zor/DC starter motors for Unit 93 generators (KNPC, Az-Zour refinery)": {
+  "need": "Starter motors for the Unit 93 generators at KNPC (probably Az-Zour refinery). Not stated whether diesel gensets or turbine generators; quantity and Hz not published (Kuwait is 50 Hz).",
+  "cummins_fit": "poor",
+  "cummins_products": [],
+  "cummins_why": "Starter motors only, make unknown, and the deadline is 15 Oct, two days after this review. No genset content and no catalogue model applies.",
+  "poor_label": "Starter-motor spares for refinery generators",
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Caterpillar via Al-Bahar, if the generators are Cat diesel sets (not confirmed).",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 0,
+  "revenue_basis": "Poor fit, parts only, so 0. For reference the tender's ESTIMATE is USD 5k-60k.",
+  "confidence": "medium"
+ },
+ "SPARE PARTS FOR DIESEL ENGINES (Kuwait National Petroleum Company)": {
+  "need": "Spare parts for diesel engines at KNPC (Kuwait). Make, models and quantities are not published; the engines may drive gensets, pumps or other equipment.",
+  "cummins_fit": "partial",
+  "cummins_products": [],
+  "cummins_why": "Cummins engine parts apply only if the fleet is Cummins; ask KNPC for the item list. The engine use is not stated, so no catalogue genset applies. Closes 19 Oct.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [],
+    "why": "Caterpillar via Al-Bahar is the main Kuwait dealer for engine parts; installed models not stated.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 55000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 10k-100k), an ESTIMATE scaled down from KOC engine and generator spares records (USD 283k-297k).",
+  "confidence": "low"
+ },
+ "Humain / center3 Riyadh AI data centre, phase 1 (16.2 MW IT, 50 MW at phase 2): MEP package awarded to Hassan Allam / Sterling & Wilson JV, standby gensets to be bought": {
+  "need": "Pursuit, not a buyer-issued tender: the genset is bought later by the MEP contractor. Hassan Allam / Sterling & Wilson JV won the SR750m (USD 200m) phase 1 MEP package for a 16.2 MW IT load (50 MW across both phases). Standby gensets are not named by MEED; estimated 9-12 sets of 2,000-2,500 kWe for phase 1 (inferred), 60 Hz.",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C2000D6E (Centum Series)",
+   "DQKAN",
+   "DQLC"
+  ],
+  "cummins_why": "C2000D6E (2,500 kVA / 2,000 kW) fits the 2,000 kWe class, and DQKAN / DQLC (3,125 kVA / 2,500 kW) fit the 2,500 kWe class, all 60 Hz and in the data-centre band of the catalogue. No catalogue gap for this size. The risk is timing and access: the JV procures, and mtu and Cat have large data-centre references.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516C (60 Hz) 2500 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor; 3516C (3,125 kVA) is the like-for-like 2,500 kWe set.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)",
+     "mtu 20V4000 DS3000 (60 Hz, 50 C)"
+    ],
+    "why": "mtu is the strongest data-centre brand and has 60 Hz 50 C ratings in the 2,250-3,000 kW range.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD2000",
+     "KD2500"
+    ],
+    "why": "Rehlko / Kohler KD2000 (2,500 kVA) and KD2500 (3,125 kVA) are direct 60 Hz equivalents.",
+    "incumbent": false
+   },
+   {
+    "company": "Generac",
+    "products": [
+     "SDMD2500 (SD2500 / MD2500)"
+    ],
+    "why": "Generac SDMD2500 (3,125 kVA) is a 60 Hz equivalent at a lower price.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 3500000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 2.4M-4.6M), an ESTIMATE for phase 1 only: 16.2 MW IT at PUE 1.3-1.4, N+1, 9-12 sets at USD 280-380k each. Phase 2 is excluded.",
+  "confidence": "medium"
+ },
+ "Almoosa Hospital, Al-Khobar (380-bed tower plus 224-clinic tower): MEP contract awarded to BEC Arabia, standby power to be procured": {
+  "need": "Pursuit, not a buyer-issued tender: the genset is bought later by the MEP contractor. BEC Arabia won the SR781m (USD 208m) MEP contract for a 380-bed tower plus a 224-clinic tower in Al-Khobar. MEED does not itemise standby gensets; estimated 3-5 sets of about 2,000 kVA, 60 Hz (inferred).",
+  "cummins_fit": "strong",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C2000D6E (Centum Series)",
+   "DQKAB"
+  ],
+  "cummins_why": "Hospital standby is the core Cummins case. The catalogue has no 60 Hz set between 1,000 and 2,188 kVA, so a true 2,000 kVA set is served by C1750D6E (2,188 kVA) or C2000D6E / DQKAB (2,500 kVA). The buyer is BEC Arabia, so Cummins sells through the contractor.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516C (60 Hz) 2500 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor; 3516C is the 2,500 kVA-class equivalent.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD2000"
+    ],
+    "why": "Rehlko / Kohler via Abunayyan; KD2000 (2,500 kVA) is a direct equivalent.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu via local packagers, 2,812 kVA 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [],
+    "why": "Perkins / FG Wilson packagers are named as likely, but the catalogue lists no Perkins 60 Hz model.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1450000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.9M-2.0M), an ESTIMATE: 3-5 sets of about 2,000 kVA at USD 250-350k each plus ATS and paralleling.",
+  "confidence": "medium"
+ },
+ "Taiba University Hospital, Medina (563 beds): completion contract awarded to Al-Mansouria, MEP and standby power inside scope": {
+  "need": "Pursuit, not a buyer-issued tender: the genset is bought later by the MEP contractor. Al-Mansouria won the SR396m (USD 105.6m) completion contract for the stalled 563-bed hospital in Medina, MEP included; 3-year programme, delivery late 2029. MEED does not mention generators; estimated 3-4 sets of about 2,000 kVA, 60 Hz (inferred).",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C2000D6E (Centum Series)"
+  ],
+  "cummins_why": "The product fit is good: C1750D6E (2,188 kVA) and C2000D6E (2,500 kVA), because the catalogue has no 60 Hz set between 1,000 and 2,188 kVA. The grade is partial because genset scope is an inference, some plant bought before the 2013 stall may be reused, and orders land in 2027-2028.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3516C (60 Hz) 2500 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor; 3516C is the 2,500 kVA-class equivalent.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD2000"
+    ],
+    "why": "Rehlko / Kohler; KD2000 (2,500 kVA) is a direct equivalent.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu via local packagers, 2,812 kVA 60 Hz.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 1150000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.5M-1.8M), an ESTIMATE: 3-4 sets of about 2,000 kVA at USD 250-350k each. Low case assumes some plant is reused.",
+  "confidence": "low"
+ },
+ "King Salman International Airport private aviation terminal, Riyadh: construction and MEP awarded to RTCC / IC Ictas JV": {
+  "need": "Pursuit, not a buyer-issued tender: the genset is bought later by the MEP contractor. RTCC / IC Ictas JV won the SR800m (USD 214m) construction and MEP contract for the King Salman Airport private aviation terminal, Riyadh. MEED does not name generators; estimated 2-4 sets of 1,500-2,500 kVA, 60 Hz (inferred). Airport power may come from a central plant.",
+  "cummins_fit": "partial",
+  "cummins_products": [
+   "C1750D6E (Centum Series)",
+   "C2000D6E (Centum Series)"
+  ],
+  "cummins_why": "C1750D6E (2,188 kVA) and C2000D6E (2,500 kVA) cover the inferred band; the catalogue has no 60 Hz set between 1,000 and 2,188 kVA, so a 1,500 kVA set would use C800D6E (1,000 kVA) in multiples or step up to C1750D6E. Partial because the genset scope is inferred and a central airport plant is the low case.",
+  "poor_label": null,
+  "competitors": [
+   {
+    "company": "Caterpillar",
+    "products": [
+     "3512C (60 Hz) 1500 ekW",
+     "3516C (60 Hz) 2500 ekW"
+    ],
+    "why": "Caterpillar via Zahid Tractor covers 1,875-3,125 kVA.",
+    "incumbent": false
+   },
+   {
+    "company": "Rolls-Royce Power Systems (mtu)",
+    "products": [
+     "mtu 16V4000 DS2250 (60 Hz, 50 C)"
+    ],
+    "why": "mtu via local packagers, 2,812 kVA 60 Hz.",
+    "incumbent": false
+   },
+   {
+    "company": "Rehlko (Kohler / SDMO)",
+    "products": [
+     "KD1500",
+     "KD2000"
+    ],
+    "why": "Rehlko / Kohler KD1500 (1,875 kVA) and KD2000 (2,500 kVA).",
+    "incumbent": false
+   },
+   {
+    "company": "Perkins / FG Wilson",
+    "products": [],
+    "why": "Perkins / FG Wilson packagers are named as likely, but the catalogue lists no Perkins 60 Hz model.",
+    "incumbent": false
+   }
+  ],
+  "revenue_mid_usd": 950000,
+  "revenue_basis": "Midpoint of the tender's revenue_estimate (USD 0.4M-1.5M), an ESTIMATE: 2-4 sets at USD 200-350k each plus paralleling. Low case is a central airport plant.",
+  "confidence": "low"
+ }
+}

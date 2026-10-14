@@ -1,0 +1,34 @@
+{
+  "KSSL": {
+    "India": [
+      {"name": "Local production", "c": "lp", "val": null, "since": "2021-02-23", "qty": null, "stage": "home",
+       "note": "Home market: ATAGS (184 guns on MoD contract) and the Kalyani M4, produced in India",
+       "src": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115365",
+       "srcnote": "government release; corroborated by parent-company press releases", "geo_news": []}
+    ],
+    "Armenia": [
+      {"name": "Export / supply", "c": "ex", "val": null, "since": "2022-11-09", "qty": null, "stage": "export",
+       "note": "Delivered: $155.5M export order for 155mm/39cal MArG-BR truck-mounted howitzers",
+       "src": "https://www.bharatforge.com/assets/pdf/press-report/Bharat-Forge-KSSL-Export-Order-CoverageReport.pdf",
+       "srcnote": "parent-company media dossier (official); buyer named by defence-ministry sources in the tier-1 press", "geo_news": []}
+    ],
+    "United Arab Emirates": [
+      {"name": "Export / supply", "c": "ex", "val": null, "since": "2025-09-11", "qty": null, "stage": "export",
+       "note": "Contracted: 155mm howitzer barrels to the UAE via GRADEONE/MP3 International",
+       "src": "https://www.amgeneral.com/kalyani-strategic-systems-ltd-and-am-general-sign-strategic-partnership-to-offer-distinct-mounted-artillery-gun-systems-for-world-armies/",
+       "srcnote": "company release, carried on a tier-1 wire", "geo_news": []}
+    ],
+    "United States": [
+      {"name": "Partnership / licence", "c": "pt", "val": null, "since": "2026-06-18", "qty": null, "stage": "contested",
+       "note": "Named bid: AM General has proposed a MArG-based system for the US Army Mobile Tactical Cannon",
+       "src": "https://www.amgeneral.com/kalyani-strategic-systems-ltd-and-am-general-sign-strategic-partnership-to-offer-distinct-mounted-artillery-gun-systems-for-world-armies/",
+       "srcnote": "partner company press release", "geo_news": []}
+    ],
+    "Spain": [
+      {"name": "Partnership / licence", "c": "pt", "val": null, "since": "2025-07-17", "qty": null, "stage": "contested",
+       "note": "Incorporated entity, no sale: Aegis Advanced Systems SL, KSSL 90% / Duma Engineering 10%",
+       "src": "https://www.bharatforge.com/investors/reports/investor-presentation",
+       "srcnote": "stock-exchange disclosure (SEBI Reg. 30)", "geo_news": []}
+    ]
+  }
+}

@@ -1,0 +1,1845 @@
+{
+ "adani-defence": {
+  "starting_year": {
+   "value": 2015,
+   "source_url": "https://www.business-standard.com/article/companies/adani-group-to-enter-defence-production-115052600389_1.html",
+   "quote": "Adani Group to enter defence production",
+   "fy": null
+  },
+  "hq": {
+   "value": "Ahmedabad, Gujarat, India",
+   "source_url": "https://www.adanidefence.com/en/contact-us",
+   "quote": "Adani Corporate House, Shantigram, Near Vaishnodevi Circle, SG Highway, Ahmedabad-382421, Gujarat, India",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "India (Kanpur, Uttar Pradesh); India (Hyderabad, Telangana)"
+   ],
+   "source_url": "https://www.adani.com/newsroom/media-releases/advancing-aatmanirbharta",
+   "quote": "Spread over 500 acres, the facility in Kanpur is set to become one of the largest integrated ammunition manufacturing complexes.",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "small arms",
+    "unmanned aerial systems (UAVs)",
+    "counter-drone systems",
+    "loitering munitions",
+    "missiles",
+    "ammunition",
+    "aircraft services / MRO"
+   ],
+   "source_url": "https://www.adanidefence.com/en/about-us",
+   "quote": "ranging from small arms, unmanned aerial systems to counter drone systems, loitering munitions, missiles, ammunition, and aircraft services.",
+   "fy": null
+  }
+ },
+ "aerovironment": {
+  "starting_year": {
+   "value": 1971,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001368622/000110465926078906/avav-20260430x10k.htm",
+   "quote": "AeroVironment, Inc. was originally incorporated in California in July 1971 and reincorporated in Delaware in 2006.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Arlington, Virginia, United States",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001368622/000110465926078906/avav-20260430x10k.htm",
+   "quote": "241 18th Street South, Suite 650, Arlington, Virginia 22202 (Address of principal executive offices).",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "United States"
+   ],
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1368622/000110465926078824/avav-20260629xex99d1.htm",
+   "quote": "With a national manufacturing footprint and a deep innovation pipeline, AV delivers proven systems and future-defining capabilities with speed, scale, and operational relevance.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "4,091 employees as of April 30, 2026 (3,991 full-time + 100 part-time)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/0001368622/000110465926078906/avav-20260430x10k.htm",
+   "quote": "As of April 30, 2026, we had 3,991 full time employees and 100 part time employees.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Defense technology across air, land, sea, space and cyber: uncrewed/autonomous systems (UAVs), precision strike, counter-UAS, space, directed energy, electronic/cyber warfare",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1368622/000110465926078824/avav-20260629xex99d1.htm",
+   "quote": "AeroVironment (\"AV\") (NASDAQ: AVAV) is a defense technology leader delivering integrated capabilities across air, land, sea, space, and cyber.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$1,976.8 million",
+   "fy": "FY2026 (year ended April 30, 2026)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1368622/000110465926078824/avav-20260629xex99d1.htm",
+   "quote": "fiscal year revenue of $1,976.8 million, up 133% and 141% year-over-year, respectively"
+  }
+ },
+ "anduril": {
+  "starting_year": {
+   "value": 2017,
+   "source_url": "https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/",
+   "quote": "Anduril, which was founded in 2017 by Palmer Luckey",
+   "fy": null
+  },
+  "hq": {
+   "value": "Costa Mesa, California, United States",
+   "source_url": "https://www.defensenews.com/industry/2025/01/16/anduril-to-build-arsenal-1-autonomous-weapons-plant-in-central-ohio/",
+   "quote": "The Costa Mesa, California-based defense technology company plans to begin construction of what it's calling 'Arsenal 1'",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "United States: Costa Mesa, California (HQ) and Arsenal-1, Ohio",
+    "Australia: Sydney",
+    "Taiwan",
+    "South Korea"
+   ],
+   "source_url": "https://breakingdefense.com/2025/08/anduril-increases-indo-pacific-footprint-with-taiwan-south-korea-partnerships/",
+   "quote": "Anduril said in a press release on Tuesday it would be opening Anduril Taiwan, a new office to support engineering, supply chain, and program execution in Taiwan and throughout the region.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Unmanned/autonomous systems, counter-UAS, command-and-control software (Lattice); missiles/interceptors",
+   "source_url": "https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/",
+   "quote": "hardware and software for uncrewed systems and counter-UAS tools",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$2.2 billion",
+   "fy": "2025",
+   "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/24/anduril-in-talks-to-raise-funding-at-about-100-billion-valuation/",
+   "quote": "The company said in January it had reported $2.2 billion in revenue in 2025, and doubled its workforce."
+  }
+ },
+ "bae-systems": {
+  "starting_year": {
+   "value": 1999,
+   "source_url": "https://heritage.baesystems.com/",
+   "quote": "While BAE Systems was formed with the merger of British Aerospace (BAe) and Marconi Electronic Systems in 1999, the company's roots can be traced back much further, through multiple aerospace, defense and manufacturing companies.",
+   "fy": null
+  },
+  "hq": {
+   "value": "London, United Kingdom",
+   "source_url": "https://www.baesystems.com/en/our-company/about-us",
+   "quote": "6 Carlton Gardens, London, SW1Y 5AD, United Kingdom",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "40+ countries worldwide; major markets: United Kingdom, United States, Australia, Saudi Arabia, Europe"
+   ],
+   "source_url": "https://www.baesystems.com/dam/jcr:430d3195-c990-4bd5-ac85-ec5588380dbf/FY-2025-Preliminary-Results-Announcements-FINAL.2026-02-18-09-10-25.pdf",
+   "quote": "We are a workforce of 111,400 highly skilled people in more than 40 countries.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "111,400 (year ended 31 December 2025, including share of employees of equity accounted investments)",
+   "source_url": "https://www.baesystems.com/dam/jcr:430d3195-c990-4bd5-ac85-ec5588380dbf/FY-2025-Preliminary-Results-Announcements-FINAL.2026-02-18-09-10-25.pdf",
+   "quote": "We are a workforce of 111,400 highly skilled people in more than 40 countries.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Defence, aerospace and security across land, sea, air, cyber and space (naval, combat vehicles, aerospace/air, munitions)",
+   "source_url": "https://www.baesystems.com/dam/jcr:430d3195-c990-4bd5-ac85-ec5588380dbf/FY-2025-Preliminary-Results-Announcements-FINAL.2026-02-18-09-10-25.pdf",
+   "quote": "We are supporting our customers so that they can stay ahead of evolving threats across land, sea, air, cyber and space.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "£30,662m (£30.7 billion) sales",
+   "fy": "FY2025 (year ended 31 December 2025)",
+   "source_url": "https://www.baesystems.com/dam/jcr:430d3195-c990-4bd5-ac85-ec5588380dbf/FY-2025-Preliminary-Results-Announcements-FINAL.2026-02-18-09-10-25.pdf",
+   "quote": "Sales £30,662m £28,335m +10%"
+  }
+ },
+ "babcock": {
+  "starting_year": {
+   "value": 1891,
+   "source_url": "https://www.babcockinternational.com/news/marking-the-80th-anniversary-of-victory-in-europe-day/",
+   "quote": "Babcock International Group can trace its roots back to 1891 and the formation of Babcock & Wilcox (B&W) Ltd.",
+   "fy": null
+  },
+  "hq": {
+   "value": "London, United Kingdom",
+   "source_url": "https://find-and-update.company-information.service.gov.uk/company/02342138",
+   "quote": "BABCOCK INTERNATIONAL GROUP PLC ... Registered office address: 33 Wigmore Street, London, W1U 1QX",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "United Kingdom",
+    "Australasia",
+    "Canada",
+    "France",
+    "South Africa"
+   ],
+   "source_url": "https://www.babcockinternational.com/where-we-do-it/",
+   "quote": "Babcock operates in the focus countries of the UK, Australasia, Canada, France and South Africa, with exports to additional markets with potential to become focus countries.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "Marine c.7,300, Nuclear c.10,000, Land c.6,300 (FY2025, by sector)",
+   "source_url": "https://www.investegate.co.uk/announcement/rns/babcock-international-group--bab/preliminary-results-for-the-year-ended-31-03-2025-/8946227",
+   "quote": "Marine: 'Our c.7,300 employees'; Nuclear: 'Our c.10,000 employees'; Land: 'Our c.6,300 employees'",
+   "fy": null
+  },
+  "sector": {
+   "value": "Marine, Nuclear, Land, Aviation (defence engineering & support)",
+   "source_url": "https://www.investegate.co.uk/announcement/rns/babcock-international-group--bab/preliminary-results-for-the-year-ended-31-03-2025-/8946227",
+   "quote": "The Group reports its performance through four reporting sectors.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "£4,831.3m",
+   "fy": "FY2025",
+   "source_url": "https://www.investegate.co.uk/announcement/rns/babcock-international-group--bab/preliminary-results-for-the-year-ended-31-03-2025-/8946227",
+   "quote": "Revenue3 £4,831.3m"
+  }
+ },
+ "bharat-dynamics": {
+  "starting_year": {
+   "value": 1970,
+   "source_url": "https://bdl-india.in/company-profile",
+   "quote": "Bharat Dynamics Limited (BDL), was incorporated on 16 July, 1970",
+   "fy": null
+  },
+  "hq": {
+   "value": "Hyderabad, Telangana, India",
+   "source_url": "https://bdl-india.in/company-profile",
+   "quote": "Headquartered in Hyderabad, Bharat Dynamics Limited (BDL)",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "India"
+   ],
+   "source_url": "https://bdl-india.in/company-profile",
+   "quote": "BDL has four manufacturing units, out of which three are located in Telangana State (Hyderabad, Bhanur and Ibrahimpatnam) and one Andhra Pradesh (Visakhapatnam)",
+   "fy": null
+  },
+  "company_size": {
+   "value": "2,269 employees (as on 31 March 2025)",
+   "source_url": "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/02092025/bbd6657e-c154-458b-b943-cc30b0d9e581.pdf",
+   "quote": "The company has 2269 employees as on 31 March 2025 and during the year 2024-25 reported a net sales turnover of Rs 3345 crore.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Missiles & air defence (guided missiles, underwater weapons, airborne products)",
+   "source_url": "https://bdl-india.in/company-profile",
+   "quote": "BDL has evolved as one among the few industries in the world having state-of-the-art facilities for manufacture and supply of Guided Missiles, Underwater Weapons, Air-borne products and allied defence equipment",
+   "fy": null
+  },
+  "revenue": {
+   "value": "₹3,345 crore",
+   "fy": "FY2024-25",
+   "source_url": "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/02092025/bbd6657e-c154-458b-b943-cc30b0d9e581.pdf",
+   "quote": "your company ... achieved sales turnover of Rs 3345 crore as against Rs 2369 crore of previous financial year, registering a growth of 41%."
+  }
+ },
+ "brahmos-aerospace": {
+  "starting_year": {
+   "value": 1998,
+   "source_url": "https://www.brahmos.com/about-jv",
+   "quote": "The journey of BrahMos Joint Venture (JV) started on 12th February 1998 after the landmark signing of an Inter-Governmental Agreement (IGA) at Moscow",
+   "fy": null
+  },
+  "hq": {
+   "value": "New Delhi, India",
+   "source_url": "https://www.brahmos.com/page/company-profile",
+   "quote": "BrahMos Aerospace, 16, Cariappa Marg, Kirby Place, Delhi Cantt. New Delhi - 110010 INDIA",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "India",
+    "Russia"
+   ],
+   "source_url": "https://www.brahmos.com/about-jv",
+   "quote": "The JV Company BrahMos Aerospace was formed by the amalgamation of Defence Research and Development Organisation (DRDO) of India and Joint Stock Company 'Military Industrial Corporation 'NPO Mashinostroyenia' of Russia.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Missiles & air defence (supersonic cruise missiles)",
+   "source_url": "https://www.brahmos.com/page/company-profile",
+   "quote": "a full-fledged design centre, a Missile Industrial Consortium for producing different sub-systems, a world-class integration, and check-out facilities",
+   "fy": null
+  }
+ },
+ "diehl-defence": {
+  "hq": {
+   "value": "Überlingen, Germany",
+   "source_url": "https://new.diehl.com/defence/en/company/facts-and-figures",
+   "quote": "Alte Nußdorfer Straße 13, 88662 Überlingen",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Germany",
+    "France",
+    "Thailand",
+    "United Arab Emirates"
+   ],
+   "source_url": "https://new.diehl.com/defence/en/company/locations",
+   "quote": "France — La Ferte Saint-Aubin; Germany — Überlingen, Röthenbach a. d. Pegnitz, Nonnweiler, Berlin, Koblenz; Thailand — Bangkok (Representative Office); United Arab Emirates — Abu Dhabi (Representative Office)",
+   "fy": null
+  },
+  "company_size": {
+   "value": "5,406 employees",
+   "source_url": "https://new.diehl.com/defence/en/company/facts-and-figures",
+   "quote": "Employees: 5,406",
+   "fy": null
+  },
+  "sector": {
+   "value": "Missiles & air defence, naval guns/ammunition, UAVs & drones, precision components & forgings",
+   "source_url": "https://new.diehl.com/group/en/corporate-divisions/diehl-defence",
+   "quote": "The company is a leading system integrator for guided missiles and air defence systems. The product range also includes medium- and large-caliber ammunition, unmanned and protection systems, solutions for state-of-the-art training environments, and expertise in explosive ordnance clearance and disposal.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "€2,331 million",
+   "fy": "2025",
+   "source_url": "https://new.diehl.com/defence/en/company/facts-and-figures",
+   "quote": "Sales: 2,331 Mio. Euros"
+  },
+  "starting_year": {
+   "value": 1902,
+   "source_url": "https://new.diehl.com/group/en/company/about-us",
+   "quote": "Diehl has been an independent family business since its foundation in 1902",
+   "fy": null
+  }
+ },
+ "elbit-systems": {
+  "starting_year": {
+   "value": 1966,
+   "source_url": "https://www.elbitsystems.com/sites/default/files/2025-03/eslt_12.31.2013_20-f.pdf",
+   "quote": "Our predecessor Elbit Ltd. was incorporated in Israel in 1966 as Elbit Computers Ltd.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Haifa, Israel",
+   "source_url": "https://www.elbitsystems.com/sites/default/files/2025-03/eslt_12.31.2013_20-f.pdf",
+   "quote": "Our main offices are in the Advanced Technology Center, Haifa 31053, Israel",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Israel",
+    "United States",
+    "Canada",
+    "Brazil",
+    "United Kingdom",
+    "Sweden",
+    "Finland",
+    "Netherlands",
+    "Germany",
+    "Austria",
+    "Switzerland",
+    "Hungary",
+    "Romania",
+    "United Arab Emirates",
+    "India",
+    "Australia"
+   ],
+   "source_url": "https://www.elbitsystems.com/about-us",
+   "quote": "Elbit Systems employs over 21,000 people in dozens of countries across five continents.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "Over 21,000 employees",
+   "source_url": "https://www.elbitsystems.com/about-us",
+   "quote": "Elbit Systems employs over 21,000 people in dozens of countries across five continents.",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Airborne/aerospace defense",
+    "Land systems",
+    "Naval systems",
+    "C4ISR & intelligence",
+    "Cyber & electronic warfare (EW)",
+    "Unmanned/autonomous systems",
+    "Precision munitions",
+    "Space & satellite defense",
+    "Homeland security"
+   ],
+   "source_url": "https://elbitsystems.com/about-us-introduction/",
+   "quote": "airborne, land and naval systems and products for defense, homeland security and commercial applications",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$7,938.6 million",
+   "fy": "2025",
+   "source_url": "https://www.elbitsystems.com/news/elbit-systems-reports-fourth-quarter-and-full-year-2025-results",
+   "quote": "The Company reported $7,938.6 million in revenues for the year ended December 31, 2025"
+  }
+ },
+ "general-dynamics": {
+  "starting_year": {
+   "value": 1952,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000004053320000015/gd-2019123110k.htm",
+   "quote": "General Dynamics was incorporated in Delaware in 1952.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Reston, Virginia, United States",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000004053325000008/gd-20241231.htm",
+   "quote": "11011 Sunset Hills Road, Reston, Virginia 20190",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Spain",
+    "Switzerland",
+    "Austria",
+    "Germany",
+    "Romania"
+   ],
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000004053325000008/gd-20241231.htm",
+   "quote": "Combat Systems provides similar capabilities for U.S. allies and partners through export opportunities and through our operations in several countries around the world, including Canada, the United Kingdom, Spain, Switzerland, Austria, Germany and Romania.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "approximately 117,000 employees",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000004053325000008/gd-20241231.htm",
+   "quote": "Our company is a global community of approximately 117,000 employees dedicated to our Ethos of transparency, trust, honesty and alignment.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Aerospace, Marine Systems, Combat Systems and Technologies",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000004053325000008/gd-20241231.htm",
+   "quote": "Our company consists of 10 business units, which are organized into four operating segments: Aerospace, Marine Systems, Combat Systems and Technologies.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$47.7 billion",
+   "fy": "2024",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/40533/000004053325000003/gd-20241231exhibit991.htm",
+   "quote": "For the full year, net earnings were $3.8 billion, up 14.1% from 2023, on revenue of $47.7 billion, up 12.9% from 2023."
+  }
+ },
+ "israel-aerospace-industries": {
+  "starting_year": {
+   "value": 1953,
+   "source_url": "https://www.iai.co.il/about/history",
+   "quote": "IAI is established as the Governmental Institute for Aviation, or Bedek Aviation Company. Its focus is on aircraft maintenance and overhaul.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Lod, Israel",
+   "source_url": "https://www.iai.co.il/wp-content/uploads/2026/04/IAI-Sustainability-Report-2024-Mungash.pdf",
+   "quote": "IAI's headquarters is located near Ben-Gurion Airport, Lod.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Israel",
+    "North America (United States)",
+    "Brazil",
+    "Colombia",
+    "India",
+    "South Korea",
+    "Germany"
+   ],
+   "source_url": "https://www.iai.co.il/iai-worldwide",
+   "quote": "From North America through Brazil and Colombia in the South and From India and South Korea in the East to Germany in Europe",
+   "fy": null
+  },
+  "company_size": {
+   "value": "14,638 employees (2024)",
+   "source_url": "https://www.iai.co.il/wp-content/uploads/2026/04/IAI-Sustainability-Report-2024-Mungash.pdf",
+   "quote": "14,638 Employees 2024",
+   "fy": null
+  },
+  "sector": {
+   "value": "Aerospace and Defense; systems across sea, air, land, space, and cyber domains, for defense and commercial markets",
+   "source_url": "https://www.iai.co.il/wp-content/uploads/2026/04/IAI-Sustainability-Report-2024-Mungash.pdf",
+   "quote": "Israel Aerospace Industries (IAI) is a global Aerospace and Defense (A&D) company, and the largest governmental company in Israel, delivering state-of-the-art technologies and systems in all domains: sea, air, land, space, and cyber for defense and commercial markets.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "about USD 7,384 million",
+   "fy": "2025",
+   "source_url": "https://www.iai.co.il/press/iai-annual-financial-results-for-2025/",
+   "quote": "The Company's revenues in 2025 amounted to about USD 7,384 million compared with about USD 6,112 million in 2024"
+  }
+ },
+ "hanwha-aerospace": {
+  "starting_year": {
+   "value": 1977,
+   "source_url": "https://www.hanwhaaerospace.com/files/down.do?id=fea09714-1d15-4246-ada0-82f1a629ee56",
+   "quote": "Hanwha Aerospace Co., Ltd. (the Parent Company) was incorporated in August, 1977 under its original name of Samsung Precision Co, Ltd.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Changwon, South Korea",
+   "source_url": "https://m.hanwhaaerospace.com/assets/content/esg/sustainBusiness/download/en/HanwhaAerospace_SustainabilityReport_2025_ENG.pdf",
+   "quote": "Headquarters Location 1204 Changwon-daero, Seongsan-gu, Changwon-si, Gyeongsangnam-do",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "South Korea",
+    "United States",
+    "Australia",
+    "Europe",
+    "Middle East",
+    "Vietnam"
+   ],
+   "source_url": "https://m.hanwhaaerospace.com/assets/content/esg/sustainBusiness/download/en/HanwhaAerospace_SustainabilityReport_2025_ENG.pdf",
+   "quote": "Hanwha Aerospace operates 13 bases including headquarters, manufacturing sites, and R&D campuses in Korea, as well as five overseas locations in the United States, Australia, Europe, the Middle East, and Vietnam.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "7,659 (as of 31 Dec 2024)",
+   "source_url": "https://m.hanwhaaerospace.com/assets/content/esg/sustainBusiness/download/en/HanwhaAerospace_SustainabilityReport_2025_ENG.pdf",
+   "quote": "Number of Employees 7,659 (12.31.2024)",
+   "fy": null
+  },
+  "sector": {
+   "value": "Aviation (aircraft engines and parts, aircraft machinery), defense (military equipment and precision-guided weapons), aerospace (Korean launch vehicle)",
+   "source_url": "https://m.hanwhaaerospace.com/assets/content/esg/sustainBusiness/download/en/HanwhaAerospace_SustainabilityReport_2025_ENG.pdf",
+   "quote": "Business Areas Aviation (aircraft engines and parts, aircraft machinery), defense (military equipment and precision-guided weapons), aerospace (Korean launch vehicle), IT services, etc.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "KRW 11.2401 trillion",
+   "fy": "2024",
+   "source_url": "https://m.hanwhaaerospace.com/assets/content/esg/sustainBusiness/download/en/HanwhaAerospace_SustainabilityReport_2025_ENG.pdf",
+   "quote": "KRW 11.2401 trillion (consolidated in 2024)"
+  }
+ },
+ "idv": {
+  "hq": {
+   "value": "Bolzano, Italy",
+   "source_url": "https://www.leonardo.com/en/press-release-detail/-/detail/30-07-2025-ldo-iveco-defence",
+   "quote": "Iveco Defence Vehicles is a division of the Iveco Group, headquartered in Bolzano, Italy.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Italy",
+    "Germany",
+    "Romania",
+    "Brazil"
+   ],
+   "source_url": "https://www.leonardo.com/en/press-release-detail/-/detail/18-03-2026-leonardo-completes-the-acquisition-of-iveco-group-s-defence-business",
+   "quote": "operates in six manufacturing sites (in Italy, Germany, Romania, and Brazil)",
+   "fy": null
+  },
+  "company_size": {
+   "value": "Approximately 2,000 employees",
+   "source_url": "https://www.leonardo.com/en/press-release-detail/-/detail/18-03-2026-leonardo-completes-the-acquisition-of-iveco-group-s-defence-business",
+   "quote": "employs approximately 2,000 people",
+   "fy": null
+  },
+  "sector": {
+   "value": "Land defence: light and medium armoured vehicles, heavy armoured platforms, logistic and tactical military vehicles",
+   "source_url": "https://www.leonardo.com/en/press-release-detail/-/detail/18-03-2026-leonardo-completes-the-acquisition-of-iveco-group-s-defence-business",
+   "quote": "The product portfolio spans light and medium armoured vehicles, heavy armoured platforms, and logistic and tactical vehicles, primarily for military applications.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "EUR 1,368 million",
+   "fy": "2025",
+   "source_url": "https://www.leonardo.com/en/press-release-detail/-/detail/18-03-2026-leonardo-completes-the-acquisition-of-iveco-group-s-defence-business",
+   "quote": "In 2025, the business reported revenues of EUR 1,368 million"
+  }
+ },
+ "huta-stalowa-wola": {
+  "starting_year": {
+   "value": 1938,
+   "source_url": "https://www.hsw.pl/en/history/new-opening/",
+   "quote": "On 20th March 1948, on the tenth anniversary of its establishment, upon request of the employees, the Southern Works acquired a new name - Huta Stalowa Wola.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Stalowa Wola, Poland",
+   "source_url": "https://www.hsw.pl/en/company/",
+   "quote": "8 Gen. Tadeusza Kasprzyckiego Str. PL 37-450 Stalowa Wola, Poland",
+   "fy": null
+  },
+  "sector": {
+   "value": "Artillery and rocket systems, armoured and mechanised vehicles, engineering vehicles, gun barrels",
+   "source_url": "https://www.hsw.pl/en/company/",
+   "quote": "Rocket and Artillery Forces ... Armored and Mechanized Forces ... Engineering Forces ... Barrels",
+   "fy": null
+  },
+  "company_size": {
+   "value": "760+ employees",
+   "source_url": "https://www.hsw.pl/en/news/huta-stalowa-wola-recruits-employees-for-new-positions/",
+   "quote": "Today Huta Stalowa Wola S.A. employs over 760 employees",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Poland"
+   ],
+   "source_url": "https://www.hsw.pl/en/company/",
+   "quote": "HQ Stalowa Wola plus branches in Stalowa Wola, Deblin, Sanok (all Poland); export country list not officially disclosed",
+   "fy": null
+  }
+ },
+ "iveco": {
+  "starting_year": {
+   "value": 1975,
+   "source_url": "https://www.iveco.com/global/press/pressreleases/2025/IVECO-Celebrates-50-Years-of-Pioneering-Innovation",
+   "quote": "IVECO proudly marks 50 years since its foundation in 1975, when five leading European industrial vehicle manufacturers came together",
+   "fy": null
+  },
+  "hq": {
+   "value": "Turin, Italy",
+   "source_url": "https://www.ivecogroup.com/group/governance/overview",
+   "quote": "The Company's statutory seat is in Amsterdam, the Netherlands, its headquarters are in Turin, Italy",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Italy",
+    "Spain",
+    "Brazil",
+    "Produces vehicles in 7 countries; 4,200 points of sale and service in 160+ countries"
+   ],
+   "source_url": "https://www.iveco.com/nz/discover-iveco/brand",
+   "quote": "IVECO produces vehicles equipped with the most advanced technologies in 7 countries of the world, in Europe, Asia, Africa, Oceania and Latin America",
+   "fy": null
+  },
+  "sector": {
+   "value": "Commercial & Specialty Vehicles, Powertrain, and related Financial Services (trucks, buses, specialty/defence vehicles, engines)",
+   "source_url": "https://www.ivecogroup.com/group/governance/overview",
+   "quote": "active in the Commercial & Specialty Vehicles, Powertrain, and related Financial Services arenas.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "EUR 14,948 million (Net revenues of Industrial Activities)",
+   "fy": "2024",
+   "source_url": "https://www.ivecogroup.com/-/media/corporate_press_releases/2025/february/iveco_group_2024_full_year_results/20250207_PR_IVG_FY_Q4_2024.pdf",
+   "quote": "Net revenues of Industrial Activities were EUR 14,948 million compared to EUR 15,640 million in 2023, with positive price realisation partially offsetting lower volumes in Truck and Powertrain."
+  }
+ },
+ "iwi": {
+  "starting_year": {
+   "value": 2005,
+   "source_url": "https://breakingdefense.com/2019/09/israeli-gunmaker-iwi-targets-us-special-ops-contract/",
+   "quote": "It was spun off and privatized as IWI in 2005, becoming part of the privately held SK Group.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Kiryat Gat, Israel",
+   "source_url": "https://iwi.net/contact-us/",
+   "quote": "18 Haharoshet Rd P.O.B 8632 Kiryat-Gat 8202132 Israel",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Israel",
+    "United States"
+   ],
+   "source_url": "https://iwi.us/our-story/",
+   "quote": "Based in Andersonville, Tennessee, IWI US's story now spans nearly a century of evolution in manufacturing and small arms development.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Small arms / firearms (assault rifles, light machine guns, pistols, submachine guns - e.g. Tavor, Negev, Galil ACE, Uzi)",
+   "source_url": "https://iwi.net/about-us/",
+   "quote": "Israel Weapon Industries (IWI), located in the center of Israel, has been a world leader in the production, marketing, design, and development of unrivalled weapons for over 85 years.",
+   "fy": null
+  }
+ },
+ "kalashnikov": {
+  "starting_year": {
+   "value": 2013,
+   "source_url": "https://www.defensenews.com/digital-show-dailies/idex/2015/02/22/kalashnikov-expands-business-to-drones-boats/",
+   "quote": "Kalashnikov Concern, which was rebranded in 2013, acquired a controlling stake of 51 percent of ZALA Aero-Russian, a developer of unmanned aerial systems.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Izhevsk, Russia",
+   "source_url": "https://shephardmedia.com/news/defence-notes/russias-kalashnikov-becomes-majority-private-owned/",
+   "quote": "Founded in 1807 in Izhevsk - 1,300 kilometres east of Moscow",
+   "fy": null
+  },
+  "sector": {
+   "value": "Small arms/firearms manufacturer; also produces UAVs, speedboats, guided missiles and protective equipment",
+   "source_url": "https://www.defensenews.com/digital-show-dailies/idex/2021/02/23/why-would-russias-kalashnikov-make-a-nato-friendly-assault-rifle/",
+   "quote": "At IDEX, Kalashnikov is also showcasing a number of military and commercial firearms, speedboats, and fire-and-forget missiles, commercial UAVs, and bulletproof gear and equipment for special forces.",
+   "fy": null
+  }
+ },
+ "knds": {
+  "starting_year": {
+   "value": 2015,
+   "source_url": "https://knds.com/en/about-us",
+   "quote": "KNDS N.V. has been established in 2015, to form the leading European Land Systems Group.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Amsterdam, Netherlands",
+   "source_url": "https://knds.com/en/about-us",
+   "quote": "KNDS N.V., with corporate seat and office in Amsterdam, the Netherlands",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "France",
+    "Germany"
+   ],
+   "source_url": "https://knds.com/en/about-us",
+   "quote": "a Franco-German company, with a global reach",
+   "fy": null
+  },
+  "company_size": {
+   "value": "Around 11,000 employees (as of December 31, 2025)",
+   "source_url": "https://knds.com/en/press-releases/knds-achieves-strong-revenue-growth-and-record-order-intake-in-2025",
+   "quote": "As of December 31, 2025, KNDS' workforce amounted to around 11,000 employees",
+   "fy": null
+  },
+  "sector": {
+   "value": "European land defence / land systems (main battle tanks, armoured vehicles, artillery, ammunition, manned and unmanned systems)",
+   "source_url": "https://knds.com/en/about-us",
+   "quote": "KNDS N.V. has been established in 2015, to form the leading European Land Systems Group.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "EUR 4.4 billion",
+   "fy": "2025",
+   "source_url": "https://knds.com/en/press-releases/knds-achieves-strong-revenue-growth-and-record-order-intake-in-2025",
+   "quote": "In 2025, KNDS' revenues grew by 15.9% year-on-year (YoY), reaching EUR 4.4 billion"
+  }
+ },
+ "kongsberg": {
+  "starting_year": {
+   "value": 1814,
+   "source_url": "https://www.kongsberg.com/who-we-are/",
+   "quote": "The company was founded in 1814 in the town of Kongsberg, Norway.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Kongsberg, Norway",
+   "source_url": "https://www.kongsberg.com/about-us/contact/",
+   "quote": "P.O. Box 1000, NO-3601 Kongsberg, Norway",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Norway",
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Germany",
+    "Sweden",
+    "Finland",
+    "Australia",
+    "More than 7,500 employees in about 20 countries"
+   ],
+   "source_url": "https://www.kongsberg.com/who-we-are/",
+   "quote": "more than 7,500 employees in about 20 countries",
+   "fy": null
+  },
+  "company_size": {
+   "value": "more than 7,500 employees",
+   "source_url": "https://www.kongsberg.com/who-we-are/",
+   "quote": "Today, we are more than 7,500 employees in about 20 countries.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Defence, security and surveillance",
+   "source_url": "https://www.kongsberg.com/who-we-are/",
+   "quote": "Through innovation, collaboration and determination, we develop technologies and solutions to serve the defence, security and surveillance markets.",
+   "fy": null
+  }
+ },
+ "l3harris": {
+  "starting_year": {
+   "value": 2019,
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1039101/000114036119011344/ex99_1.htm",
+   "quote": "Harris Corporation (NYSE:HRS) and L3 Technologies (NYSE:LLL) announced that they have received the necessary regulatory approvals for their all-stock merger and have set a closing date of June 29, 2019.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Melbourne, USA",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/202058/000020205825000023/hrs-20250103.htm",
+   "quote": "Our principal executive offices are located at 1025 West NASA Boulevard, Melbourne, Florida 32919.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "United Arab Emirates",
+    "Italy",
+    "Poland",
+    "Serves over 100 countries worldwide"
+   ],
+   "source_url": "https://www.l3harris.com/company/international",
+   "quote": "L3Harris serves over 100 countries",
+   "fy": null
+  },
+  "company_size": {
+   "value": "approximately 47,000 employees",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/202058/000020205825000023/hrs-20250103.htm",
+   "quote": "We had approximately 47,000 employees at January 3, 2025, including approximately 18,000 engineers and scientists.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Aerospace and defence; solutions across space, air, land, sea and cyber domains",
+   "source_url": "https://www.l3harris.com/who-we-are",
+   "quote": "integrated, mission-critical solutions across space, air, land, sea and cyber domains",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$21.9 billion",
+   "fy": "2025 (fiscal year ended January 2, 2026)",
+   "source_url": "https://investors.l3harris.com/news/news-details/2026/L3Harris-Technologies-Reports-Strong-Full-Year-and-Fourth-Quarter-2025-Results-Initiates-2026-Guidance/default.aspx",
+   "quote": "Revenue of $21.9 billion, up 3%, 5% organically"
+  }
+ },
+ "larsen-toubro": {
+  "starting_year": {
+   "value": 1938,
+   "source_url": "https://newsnviews.larsentoubro.com/Lists/Posts/Post.aspx?ID=528",
+   "quote": "L&T started off in 1938 as a Mumbai-based company that imported various equipment from Europe for sale in India.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Mumbai, India",
+   "source_url": "https://www.larsentoubro.com/corporate/about-lt-group",
+   "quote": "L&T House, N.M. Marg, Ballard Estate, Mumbai, Maharashtra - 400 001",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "India",
+    "Operates in over 50 countries worldwide"
+   ],
+   "source_url": "https://www.larsentoubro.com/corporate/about-lt-group",
+   "quote": "It operates in over 50 countries worldwide.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "56,458 employees in FY 2024-25 (excluding board and KMP)",
+   "source_url": "https://www.business-standard.com/companies/news/l-t-board-pay-jumps-two-fold-in-fy25-employee-headcount-shrinks-1-4-125052801799_1.html",
+   "quote": "L&T's total employee count, excluding the board and KMP, declined by 1.4 per cent to 56,458 in FY 2024-25.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Defence, aerospace and strategic electronics (Precision Engineering & Systems); also EPC, hi-tech manufacturing, services",
+   "source_url": "https://www.larsentoubro.com/businesses",
+   "quote": "Built on a culture of accuracy and mission-critical performance, the Precision Engineering and Systems (PES) business delivers advanced solutions for defence, aerospace and strategic electronics.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "Rs 2,55,734 crore (Group Turnover)",
+   "fy": "FY2024-25",
+   "source_url": "https://annualreview.larsentoubro.com/yearatglance.html",
+   "quote": "Group Turnover (Rs 2,55,734 cr)"
+  }
+ },
+ "lockheed-martin": {
+  "starting_year": {
+   "value": 1995,
+   "source_url": "https://www.lockheedmartin.com/en-us/news/features/history/merger.html",
+   "quote": "On March 15, 1995, the merger officially united what were then the second and third largest American defense contractors.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Bethesda, Maryland, USA",
+   "source_url": "https://www.lockheedmartin.com/en-us/who-we-are.html",
+   "quote": "Bethesda, MD 20817 U.S.A.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "United States (majority of workforce)",
+    "suppliers in 52+ countries outside the U.S.; 340+ facilities"
+   ],
+   "source_url": "https://www.lockheedmartin.com/en-us/who-we-are.html",
+   "quote": "340+ facilities and 13,000+ active suppliers, including suppliers in every U.S. state and more than 909 suppliers in over 52 countries outside the U.S.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "Approximately 123,000 employees (as of December 31, 2025)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+   "quote": "As of December 31, 2025, we had a highly skilled workforce made up of approximately 123,000 employees",
+   "fy": null
+  },
+  "sector": {
+   "value": "Aerospace & defense across four business segments: Aeronautics; Missiles and Fire Control; Rotary and Mission Systems; Space",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+   "quote": "We operate in four business segments: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS) and Space.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$75.0 billion",
+   "fy": "2025",
+   "source_url": "https://news.lockheedmartin.com/2026-01-29-Lockheed-Martin-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results",
+   "quote": "2025 sales increased 6% to $75.0 billion"
+  }
+ },
+ "mahindra-defence": {
+  "global_locations": {
+   "value": [
+    "India"
+   ],
+   "source_url": "https://www.mahindra.com/news-room/press-release/en/mahindra-defence-to-manufacture-integrated-asw-defence-suite-for-indian-navy",
+   "quote": "Naval Systems unit based in Pune has been supplying torpedo defence systems, decoy & torpedo launchers, and large composite structures for defence as well as space applications.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Armoured/land systems, underwater/naval warfare systems, radars and surveillance",
+   "source_url": "https://www.mahindra.com/news-room/press-release/en/mahindra-defence-to-manufacture-integrated-asw-defence-suite-for-indian-navy",
+   "quote": "Our product range includes armoured vehicles, underwater warfare equipment, radars and surveillance equipment, etc.",
+   "fy": null
+  },
+  "starting_year": {
+   "value": 2000,
+   "source_url": "https://www.mahindra.com/",
+   "quote": "MDS was formed in the year 2000 (Mahindra official domain; exact page slug not fetched)",
+   "fy": null
+  },
+  "hq": {
+   "value": "Mumbai, Maharashtra, India",
+   "source_url": "https://www.mahindra.com/sites/default/files/2025-05/SEIntimationforRPTH2F25Disclosure.pdf",
+   "quote": "Mahindra Group corporate HQ, Mahindra Towers, Worli, Mumbai (BSE filing)",
+   "fy": null
+  }
+ },
+ "mbda": {
+  "starting_year": {
+   "value": 2001,
+   "source_url": "https://www.janes.com/osint-insights/defence-news/defence/special-report-mbda-ups-production-volumes-as-european-countries-pursue-rearmament",
+   "quote": "Formed in 2001, the company claims to be the only non-US manufacturer offering solutions across all complex weapon sectors employing over 18,000 people across sites in France, Germany, Italy, and the UK.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "France",
+    "Germany",
+    "Italy",
+    "Spain",
+    "United Kingdom"
+   ],
+   "source_url": "https://newsroom.mbda-systems.com/?p=14019",
+   "quote": "MBDA and its 14,000+ employees work together to support the national sovereignty of France, Germany, Italy, Spain and the UK.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "over 18,000 people",
+   "source_url": "https://www.janes.com/osint-insights/defence-news/defence/special-report-mbda-ups-production-volumes-as-european-countries-pursue-rearmament",
+   "quote": "the company claims to be the only non-US manufacturer offering solutions across all complex weapon sectors employing over 18,000 people across sites in France, Germany, Italy, and the UK.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Complex weapon systems (missiles, air defence, naval strike)",
+   "source_url": "https://newsroom.mbda-systems.com/?p=14019",
+   "quote": "MBDA is a unique multi-national European group, a world-leader in the field of complex weapon systems, playing a key role in keeping nations safe.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "EUR 4.9 billion",
+   "fy": "2024",
+   "source_url": "https://breakingdefense.com/2025/03/mbda-ceo-sees-moment-of-truth-in-european-defense-as-firm-sets-order-record/",
+   "quote": "The company said its total revenues for 2024 were EUR4.9 billion, with a backlog of EUR37 billion."
+  }
+ },
+ "munitions-india": {
+  "starting_year": {
+   "value": 2021,
+   "source_url": "https://munitionsindia.in/wp-content/uploads/MIL-Manpower-100225.pdf",
+   "quote": "Munitions India Limited (MIL) came into existence as a Defence Public Sector Undertaking under Ministry of Defence (MoD) when Government of India restructured the erstwhile Ordnance Factory Board into seven (7) Defence PSUs from October 2021.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Pune, India",
+   "source_url": "https://munitionsindia.in/wp-content/uploads/1.-English-MIL-04th-Annual-Report-2024-25A.pdf",
+   "quote": "With Corporate Office at Pune (India), MIL in its 12 state-of-the-art manufacturing units located across the country employs skilled workforce of around 21211.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "India"
+   ],
+   "source_url": "https://munitionsindia.in/wp-content/uploads/1.-English-MIL-04th-Annual-Report-2024-25A.pdf",
+   "quote": "With Corporate Office at Pune (India), MIL in its 12 state-of-the-art manufacturing units located across the country employs skilled workforce of around 21211.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "around 21,211 skilled workforce across 12 manufacturing units (FY2024-25)",
+   "source_url": "https://munitionsindia.in/wp-content/uploads/1.-English-MIL-04th-Annual-Report-2024-25A.pdf",
+   "quote": "With Corporate Office at Pune (India), MIL in its 12 state-of-the-art manufacturing units located across the country employs skilled workforce of around 21211.",
+   "fy": null
+  },
+  "sector": {
+   "value": "ammunition and explosives",
+   "source_url": "https://munitionsindia.in/wp-content/uploads/1.-English-MIL-04th-Annual-Report-2024-25A.pdf",
+   "quote": "MIL, the India's biggest manufacturer and market leader is engaged in Production, Testing Research & Development and Marketing of comprehensive range of ammunition & explosives for Army, Navy, Air force & Para-Military Forces.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "₹8,214.10 crore",
+   "fy": "FY2024-25",
+   "source_url": "https://munitionsindia.in/wp-content/uploads/1.-English-MIL-04th-Annual-Report-2024-25A.pdf",
+   "quote": "Revenue from operations ... Year ended 31 March 2025 ... 8,214.10 ... Year ended 31 March 2024 ... 7,221.58"
+  }
+ },
+ "nammo": {
+  "starting_year": {
+   "value": 1998,
+   "source_url": "https://www.nammo.com/about-us/",
+   "quote": "Nammo was formed in 1998 through a merger of the ammunition businesses in the three Nordic countries",
+   "fy": null
+  },
+  "hq": {
+   "value": "Raufoss, Norway",
+   "source_url": "https://www.nammo.com/about-us/",
+   "quote": "headquartered in Raufoss, Norway",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Norway",
+    "Sweden",
+    "Finland",
+    "Germany",
+    "Spain",
+    "United Kingdom",
+    "Ireland",
+    "Switzerland",
+    "Poland",
+    "Denmark",
+    "Belgium",
+    "United States"
+   ],
+   "source_url": "https://www.nammo.com/about-us/finance/",
+   "quote": "The Group ended the year with 4200 employees across 27 sites in 12 countries, up from 3700 the previous year.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "4,200 employees (end 2025)",
+   "source_url": "https://www.nammo.com/about-us/finance/",
+   "quote": "The Group ended the year with 4200 employees across 27 sites in 12 countries, up from 3700 the previous year.",
+   "fy": null
+  },
+  "sector": {
+   "value": "specialty ammunition, shoulder-fired weapons and rocket motors",
+   "source_url": "https://www.nammo.com/about-us/",
+   "quote": "one of the world's leading providers of specialty ammunition, shoulder-fired weapons and rocket motors",
+   "fy": null
+  },
+  "revenue": {
+   "value": "NOK 14.41 billion",
+   "fy": "2025",
+   "source_url": "https://www.nammo.com/about-us/finance/",
+   "quote": "2025 Revenue (NOK) 14.41 billion"
+  }
+ },
+ "naval-group": {
+  "starting_year": {
+   "value": 2003,
+   "source_url": "https://www.naval-group.com/en/history",
+   "quote": "In 2003, the transition into a public limited company marked the creation of the international player in naval defence.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Paris, France",
+   "source_url": "https://www.naval-group.com/en/legal-notices",
+   "quote": "Registered office: 40 - 42 rue du docteur Finlay - 75015 Paris",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "France",
+    "United Arab Emirates",
+    "Egypt",
+    "Chile",
+    "Colombia",
+    "Greece",
+    "Indonesia",
+    "Philippines"
+   ],
+   "source_url": "https://www.naval-group.com/sites/default/files/2026-04/Rapport%20annuel%20Naval%20Group%202025%20EN.pdf",
+   "quote": "It has branches in the United Arab Emirates (UAE), Egypt, Chile, Colombia and Greece, and representative offices in Indonesia, the Philippines and the Netherlands (delisted with effect from November 24, 2025).",
+   "fy": null
+  },
+  "company_size": {
+   "value": "17,170 employees (as at 31 December 2025)",
+   "source_url": "https://www.naval-group.com/sites/default/files/2026-04/Rapport%20annuel%20Naval%20Group%202025%20EN.pdf",
+   "quote": "17,170 employees as at December 31, 2025: this constitutes the exceptional human capital that Naval Group has at its disposal.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Naval defence: submarines, heavily armed surface vessels, combat systems integration",
+   "source_url": "https://www.naval-group.com/sites/default/files/2026-04/Rapport%20annuel%20Naval%20Group%202025%20EN.pdf",
+   "quote": "As a systems integrator and prime contractor for submarine and heavily armed surface vessel programs, Naval Group has developed rare skills and very high-level expertise, alone or with its partners.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "€4.7 billion",
+   "fy": "2025",
+   "source_url": "https://www.naval-group.com/sites/default/files/2026-04/Rapport%20annuel%20Naval%20Group%202025%20EN.pdf",
+   "quote": "The group's revenue for the 2025 financial year amounted to €4.7 billion, a 7.5% improvement on the revenue of the 2024 financial year."
+  }
+ },
+ "nexter": {
+  "starting_year": {
+   "value": 1973,
+   "source_url": "https://knds.com/en/subsidiaries/knds-france",
+   "quote": "1973 - GIAT Industries creation",
+   "fy": null
+  },
+  "hq": {
+   "value": "Versailles, France",
+   "source_url": "https://knds.com/en/subsidiaries/knds-france",
+   "quote": "13 route de la Minière 78034 Versailles",
+   "fy": null
+  },
+  "company_size": {
+   "value": "4,500 employees",
+   "source_url": "https://knds.com/en/subsidiaries/knds-france",
+   "quote": "With its 4,500-strong workforce, KNDS France designs, develops and produces armored vehicles, artillery systems, guns and turrets, ammunition, robots and defense equipment.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Land defence: armoured vehicles, artillery systems (CAESAR), guns and turrets, ammunition, robotics",
+   "source_url": "https://knds.com/en/subsidiaries/knds-france",
+   "quote": "With its 4,500-strong workforce, KNDS France designs, develops and produces armored vehicles, artillery systems, guns and turrets, ammunition, robots and defense equipment.",
+   "fy": null
+  }
+ },
+ "norinco": {
+  "hq": {
+   "value": "Beijing, China",
+   "source_url": "http://en.norincogroup.com.cn/art/2015/8/23/art_449_1511.html",
+   "quote": "Address : No.46 Sanlihe Road, Xicheng District, Beijing, China",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "China (30 provinces/cities/autonomous regions incl. Beijing, Shaanxi, Inner Mongolia)",
+    "70+ countries worldwide (overseas branches/subsidiaries and representative offices)"
+   ],
+   "source_url": "http://en.norincogroup.com.cn/col/col432/index.html",
+   "quote": "NORINCO Group has operated more than 50 sub-groups and directly-managed entities, mainly distributed in 30 provinces, cities and autonomous regions such as Beijing, Shaanxi and Inner Mongolia, and has set up more than 100 overseas branches & subsidiaries and representative offices in more than 70 countries and regions around the world.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "more than 223,000 employees (end of 2024)",
+   "source_url": "http://en.norincogroup.com.cn/col/col432/index.html",
+   "quote": "As of the end of 2024, NORINCO Group holds assets totaling 578 billion yuan and gathers more than 223,000 employees.",
+   "fy": null
+  },
+  "sector": {
+   "value": "tanks and armoured vehicles, long-range suppression weapons, air-defence and anti-missile systems, ammunition/ordnance (plus civilian products)",
+   "source_url": "http://en.norincogroup.com.cn/col/col432/index.html",
+   "quote": "In addition to providing tanks and armored vehicles, long-range suppression weapons, air defense and anti-missile and other main battle equipment to the army, NORINCO Group also presents and offers strategic and basic products.",
+   "fy": null
+  }
+ },
+ "oshkosh-defense": {
+  "starting_year": {
+   "value": 1917,
+   "source_url": "https://oshkoshdefense.com/about/",
+   "quote": "About Oshkosh Defense | Military Vehicle Manufacturer Since 1917",
+   "fy": null
+  },
+  "hq": {
+   "value": "Oshkosh, Wisconsin, USA",
+   "source_url": "https://oshkoshdefense.com/about/",
+   "quote": "2307 Oregon Street Oshkosh, WI 54902",
+   "fy": null
+  },
+  "company_size": {
+   "value": "more than 3,500 people (Oshkosh Defense)",
+   "source_url": "https://oshkoshdefense.com/about/",
+   "quote": "More than 3,500 people drive Oshkosh Defense toward the future.",
+   "fy": null
+  },
+  "sector": {
+   "value": "military vehicles / land tactical mobility systems",
+   "source_url": "https://oshkoshdefense.com/about/",
+   "quote": "Oshkosh Defense develops mission-critical technology and mobility solutions for military and delivery fleet operations.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$2,180.5 million (Defense segment, Oshkosh Corporation)",
+   "fy": "FY2024 (year ended December 31, 2024)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/775158/000095017025010807/osk-ex99_1.htm",
+   "quote": "Total Defense | 559.1 | 560.5 | 2,180.5 | 2,001.4"
+  },
+  "global_locations": {
+   "value": [
+    "United States",
+    "31 facilities across 8 U.S. states and 7 countries; vehicles delivered in more than 20 countries"
+   ],
+   "source_url": "https://oshkoshdefense.com/about/why-oshkosh-defense/",
+   "quote": "31 facilities spanning 8 U.S. states and 7 countries, staffed by 18,500 global team members",
+   "fy": null
+  }
+ },
+ "otokar": {
+  "starting_year": {
+   "value": 1963,
+   "source_url": "https://www.otokar.com.tr/about-otokar/about-us",
+   "quote": "Otokar, a Koc Group company, has been [meeting] the needs of the customers with its own technology, design and applications since 1963.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Arifiye, Sakarya, Turkiye",
+   "source_url": "https://www.otokar.com.tr/getmedia/7dae10d3-bdbf-4830-b294-97dcf2ed52d8/otokar-31-12-2024",
+   "quote": "Grup'un kayitli oldugu adresi asagidaki gibidir: Fabrika: Ataturk Cad. No: 6 54580 Arifiye/Sakarya",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Turkiye (production, Arifiye/Sakarya)",
+    "products sold in 75+ countries across 5 continents"
+   ],
+   "source_url": "https://www.otokar.com.tr/about-otokar/about-us",
+   "quote": "Otokar products are currently sold and used in over 75 countries and 5 continents.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "more than 3,800 employees",
+   "source_url": "https://www.otokar.com.tr/about-otokar/about-us",
+   "quote": "It is operating with more than 3800 employees at the factory built on a land of 552,000 m2 in Sakarya.",
+   "fy": null
+  },
+  "sector": {
+   "value": "land defence systems (tactical wheeled and tracked armoured vehicles) and commercial vehicles",
+   "source_url": "https://www.otokar.com.tr/investor-relations/corporate-information",
+   "quote": "development and system integration of military vehicles and platforms in the land defense systems.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "TRY 33,885,780 thousand (~TRY 33.9 billion, inflation-adjusted per TAS 29)",
+   "fy": "FY2024 (year ended 31 December 2024)",
+   "source_url": "https://www.otokar.com.tr/getmedia/7dae10d3-bdbf-4830-b294-97dcf2ed52d8/otokar-31-12-2024",
+   "quote": "Hasilat ... 1 Ocak - 31 Aralik 2024 ... 33.885.780"
+  }
+ },
+ "paramount-group": {
+  "starting_year": {
+   "value": 1994,
+   "source_url": "https://www.paramountgroup.com/about/",
+   "quote": "Paramount was formed in South Africa in 1994",
+   "fy": null
+  },
+  "hq": {
+   "value": "Midrand, South Africa",
+   "source_url": "https://www.paramountgroup.com/about/",
+   "quote": "Headquartered in Midrand, South Africa",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "South Africa",
+    "operations/partnerships across five continents and 30+ countries"
+   ],
+   "source_url": "https://www.paramountgroup.com/about/",
+   "quote": "working with sovereign governments across five continents ... partnerships in more than 30 countries around the world",
+   "fy": null
+  },
+  "company_size": {
+   "value": "more than 3,000 employees",
+   "source_url": "https://www.paramountgroup.com/about/",
+   "quote": "We have more than 3000 employees",
+   "fy": null
+  },
+  "sector": {
+   "value": "defence and aerospace (land, sea, air, mission systems, border security)",
+   "source_url": "https://www.paramountgroup.com/about/",
+   "quote": "leaders in global defence and aerospace innovation",
+   "fy": null
+  }
+ },
+ "patria": {
+  "starting_year": {
+   "value": 1921,
+   "source_url": "https://www.patriagroup.com/about-us/over-100-years-of-patrias-legacy/the-foundation-for-a-secure-future",
+   "quote": "Patria's history began in 1921 with the establishment of the Finnish Air Force Aircraft Factory at Suomenlinna.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Finland",
+   "source_url": "https://www.patriagroup.com/about-us/patria-in-brief",
+   "quote": "Patria's operating countries include Finland, Sweden, Norway, Latvia, Belgium, the Netherlands, Germany, Poland, Slovakia and Japan.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Finland",
+    "Sweden",
+    "Norway",
+    "Latvia",
+    "Belgium",
+    "the Netherlands",
+    "Germany",
+    "Poland",
+    "Slovakia",
+    "Japan"
+   ],
+   "source_url": "https://www.patriagroup.com/about-us/patria-in-brief",
+   "quote": "Patria's operating countries include Finland, Sweden, Norway, Latvia, Belgium, the Netherlands, Germany, Poland, Slovakia and Japan.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "4,111 personnel (FTE) at end of 2025",
+   "source_url": "https://www.patriagroup.com/newsroom/news/2026/patria-groups-financial-review-for-2025-preliminary-data",
+   "quote": "Personnel, end of period (FTE) 4,111",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Protected Mobility",
+    "Defence and Weapon Systems",
+    "Sustainment Solutions"
+   ],
+   "source_url": "https://www.patriagroup.com/about-us/patria-in-brief",
+   "quote": "Protected Mobility, Defence and Weapon Systems and Sustainment Solutions business areas",
+   "fy": null
+  },
+  "revenue": {
+   "value": "EUR 1,086.7 million",
+   "fy": "2025",
+   "source_url": "https://www.patriagroup.com/newsroom/news/2026/patria-groups-financial-review-for-2025-preliminary-data",
+   "quote": "Net sales for the financial year exceeded one-billion-euro strategic milestone, totaling to EUR 1,086.7 million"
+  }
+ },
+ "plr-systems": {
+  "hq": {
+   "value": "Gwalior, India",
+   "source_url": "https://theprint.in/defence/in-boost-to-atmanirbhar-bharat-security-forces-to-get-india-made-israeli-assault-rifles/604934/",
+   "quote": "Adani-PLR Systems is in the process of setting up India's first private barrel manufacturing plant in Gwalior",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "India"
+   ],
+   "source_url": "https://theprint.in/defence/in-boost-to-atmanirbhar-bharat-security-forces-to-get-india-made-israeli-assault-rifles/604934/",
+   "quote": "Adani-PLR Systems is in the process of setting up India's first private barrel manufacturing plant in Gwalior",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Small arms (assault rifles, carbines, light machine guns)"
+   ],
+   "source_url": "https://www.janes.com/defence-intelligence-insights/defence-news/weapons/special-report-india-advances-indigenous-small-arms-production-with-prahar-lmg-programme",
+   "quote": "the Indian Army had received an initial batch of 2,000 locally manufactured 7.62x51 mm Negev light machine guns (LMGs), designated Prahar",
+   "fy": null
+  }
+ },
+ "poongsan": {
+  "hq": {
+   "value": "Seoul, South Korea",
+   "source_url": "https://www.poongsan.co.kr/en/company/ceo/profile",
+   "quote": "Poongsan Bldg., 23, Chungjeong-ro, Seodaemun-gu, Seoul 120-837, Korea",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Military Ammunition",
+    "Sports Ammunition",
+    "Propellant Powder",
+    "Ammunition Components",
+    "Defense Products",
+    "Fabricated non-ferrous metals"
+   ],
+   "source_url": "https://www.poongsan.co.kr/en",
+   "quote": "Military Ammunition, Sports Ammunition, Propellant Powder, Ammunition Components",
+   "fy": null
+  },
+  "revenue": {
+   "value": "US$3.5 billion (Poongsan Group)",
+   "fy": null,
+   "source_url": "https://www.poongsan.co.kr/en/company/ceo/profile",
+   "quote": "Chairman & CEO of Poongsan Group, a nonferrous metals conglomerate with annual sales of US $3.5 billion"
+  }
+ },
+ "rafael-advanced-defense-systems": {
+  "starting_year": {
+   "value": 1948,
+   "source_url": "https://www.defensenews.com/global/mideast-africa/2024/08/15/netanyahus-hernia-surgeon-gets-a-seat-on-rafael-board",
+   "quote": "Rafael started as an independent unit at the Israeli Ministry of Defense in 1948",
+   "fy": null
+  },
+  "hq": {
+   "value": "Northern Israel",
+   "source_url": "https://www.defensenews.com/global/mideast-africa/2024/08/15/netanyahus-hernia-surgeon-gets-a-seat-on-rafael-board",
+   "quote": "The company employs about 8,500 local workers and is defined as the largest employer in Northern Israel.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Israel",
+    "International (about half of sales outside Israel)"
+   ],
+   "source_url": "https://breakingdefense.com/2025/03/rafael-saw-record-sales-in-2024-with-almost-half-from-outside-israel/",
+   "quote": "Sales were $4.8 billion in 2024, with around half of that to international customers",
+   "fy": null
+  },
+  "company_size": {
+   "value": "about 8,500 local workers",
+   "source_url": "https://www.defensenews.com/global/mideast-africa/2024/08/15/netanyahus-hernia-surgeon-gets-a-seat-on-rafael-board",
+   "quote": "The company employs about 8,500 local workers and is defined as the largest employer in Northern Israel.",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Missiles / weapons systems",
+    "Air and missile defence",
+    "Defence electronics"
+   ],
+   "source_url": "https://www.defensenews.com/global/mideast-africa/2024/08/15/netanyahus-hernia-surgeon-gets-a-seat-on-rafael-board",
+   "quote": "whose weapons permeate the entire ecosystem of the country's sprawling defense apparatus",
+   "fy": null
+  },
+  "revenue": {
+   "value": "$4.8 billion",
+   "fy": "2024",
+   "source_url": "https://breakingdefense.com/2025/03/rafael-saw-record-sales-in-2024-with-almost-half-from-outside-israel/",
+   "quote": "Sales were $4.8 billion in 2024, with around half of that to international customers"
+  }
+ },
+ "raytheon": {
+  "hq": {
+   "value": "Arlington, Virginia, USA",
+   "source_url": "https://www.rtx.com/who-we-are",
+   "quote": "RTX is headquartered in Arlington, Virginia and we have bases across the globe, including Poland, Australia and Singapore.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "USA",
+    "Poland",
+    "Australia",
+    "Singapore"
+   ],
+   "source_url": "https://www.rtx.com/who-we-are",
+   "quote": "RTX is headquartered in Arlington, Virginia and we have bases across the globe, including Poland, Australia and Singapore.",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Missiles",
+    "Integrated Air & Missile Defense",
+    "Radars & sensors",
+    "Space systems"
+   ],
+   "source_url": "https://www.rtx.com/who-we-are/we-are-rtx/businesses/raytheon",
+   "quote": "Integrated Air & Missile Defense",
+   "fy": null
+  }
+ },
+ "rheinmetall": {
+  "starting_year": {
+   "value": 1889,
+   "source_url": "https://www.rheinmetall.com/en/company/about-rheinmetall",
+   "quote": "Rheinmetall was founded in 1889 as 'Rheinische Metallwaaren- und Maschinenfabrik Actiengesellschaft'.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Düsseldorf, Germany",
+   "source_url": "https://www.rheinmetall.com/en/company/about-rheinmetall",
+   "quote": "The listed company Rheinmetall AG, headquartered in Düsseldorf, Germany",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Germany",
+    "United States",
+    "United Kingdom",
+    "Italy",
+    "South Africa",
+    "Australia",
+    "Hungary",
+    "Canada",
+    "Switzerland",
+    "Austria",
+    "161 offices and production sites worldwide in more than 30 countries"
+   ],
+   "source_url": "https://www.rheinmetall.com/en/company/locations-worldwide",
+   "quote": "161 offices and production sites worldwide in more than 30 countries",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Cross-domain defence systems (land, sea, air, space)"
+   ],
+   "source_url": "https://www.rheinmetall.com/en/company/about-rheinmetall",
+   "quote": "As a cross-domain systems supplier for the security and defence industry, we offer an innovative range of products and services for use on land, at sea, in the air and in space.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "EUR 9,935 million",
+   "fy": "2025",
+   "source_url": "https://www.rheinmetall.com/en/media/news-watch/news/2026/03/2026-03-11-rheinmetall-presents-annual-report-for-2025",
+   "quote": "Consolidated sales up significantly by 29% to €9,935 million (2024: €7,715 million)"
+  }
+ },
+ "roshel": {
+  "hq": {
+   "value": "Brampton, Ontario, Canada",
+   "source_url": "https://roshel.com/about/",
+   "quote": "255 Biscayne Crescent Brampton, Ontario L6W 4R2 Canada",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Canada",
+    "United States",
+    "Ukraine",
+    "Moldova"
+   ],
+   "source_url": "https://www.janes.com/defence-intelligence-insights/defence-news/land/moldova-and-estonia-procure-roshel-armoured-vehicles-for-moldovan-national-army",
+   "quote": "The vehicles are built in Canada and combat-proven through the deployment of over 2,500 vehicles in Ukraine",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Armoured vehicles"
+   ],
+   "source_url": "https://roshel.com/about/",
+   "quote": "Roshel is one of the largest manufacturers of smart armored vehicles for commercial and government organizations in North America.",
+   "fy": null
+  }
+ },
+ "uvision-air": {
+  "hq": {
+   "value": "Israel",
+   "source_url": "https://uvisionusa.com/about-us/",
+   "quote": "The Group's headquarters in Israel serve as its core R&D and advanced production center",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "United States",
+    "Europe",
+    "India",
+    "Israel"
+   ],
+   "source_url": "https://uvisionusa.com/about-us/",
+   "quote": "With fully operational manufacturing facilities in the United States, Europe, India, and Israel, Uvision delivers integrated, mission-ready solutions.",
+   "fy": null
+  },
+  "sector": {
+   "value": [
+    "Loitering munitions (UAVs & drones)",
+    "Precision strike / missiles"
+   ],
+   "source_url": "https://www.defensenews.com/unmanned/2019/02/21/israeli-firm-uvision-opens-us-subsidiary-with-eye-toward-kamikaze-drones-market/",
+   "quote": "has developed a family of lethal loitering munitions, including the Hero-30, the man-packable, canister-launched system",
+   "fy": null
+  }
+ },
+ "saab": {
+  "starting_year": {
+   "value": 1937,
+   "source_url": "https://www.saab.com/about/company-in-brief/history",
+   "quote": "Saab was founded on 2nd April 1937 to develop and manufacture combat aircraft.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Stockholm, Sweden",
+   "source_url": "https://www.saab.com/about/locations",
+   "quote": "Visiting address: Olof Palmes gata 17, 5 tr, 111 22 Stockholm, Sweden",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Sweden",
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "South Africa",
+    "Brazil",
+    "Finland",
+    "Germany",
+    "Operations in over 30 countries; products sold to over 100 countries"
+   ],
+   "source_url": "https://www.saab.com/about/company-in-brief",
+   "quote": "Saab's products are sold to over 100 countries and we currently operate in over 30 countries.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "26,100 employees (2025)",
+   "source_url": "https://www.saab.com/about/company-in-brief",
+   "quote": "Number of employees in the world 26,100 2025",
+   "fy": null
+  },
+  "sector": {
+   "value": "Defence and security (military defence to civil security)",
+   "source_url": "https://www.saab.com/about/company-in-brief",
+   "quote": "we serve the global market with world-leading products, services and solutions from military defence to civil security.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "SEK 79.1 billion",
+   "fy": "2025",
+   "source_url": "https://www.saab.com/about/company-in-brief",
+   "quote": "Sales in 2025 79.1 BSEK"
+  }
+ },
+ "sig-sauer": {
+  "global_locations": {
+   "value": [
+    "United States",
+    "Switzerland"
+   ],
+   "source_url": "https://www.americanrifleman.org/content/sig-sauer-gmbh-ended-by-hostile-business-climate-lack-of-demand/",
+   "quote": "SIG Sauer, Inc. operations in the U.S. will continue business as usual.",
+   "fy": null
+  }
+ },
+ "solar-industries": {
+  "starting_year": {
+   "value": 1995,
+   "source_url": "https://solargroup.com/api/download-file?file=Investors-Relation%2FFinancialReporting%2FAnnual+Reports%2FFY+2024-25+Annual+Reports%2FSolar+IR+2024-25.pdf",
+   "quote": "Established in 1995 in Nagpur, India, Solar Group has emerged as a global leader in industrial explosives and initiating systems.",
+   "fy": null
+  },
+  "hq": {
+   "value": "Nagpur, India",
+   "source_url": "https://solargroup.com/api/download-file?file=Investors-Relation%2FFinancialReporting%2FAnnual+Reports%2FFY+2024-25+Annual+Reports%2FSolar+IR+2024-25.pdf",
+   "quote": "Established in 1995 in Nagpur, India, Solar Group has emerged as a global leader in industrial explosives and initiating systems.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Manufacturing units in 9 countries across 4 continents (incl. India, Zambia, Nigeria, Ghana, Tanzania, South Africa, Australia)",
+    "Products sold to 90+ countries"
+   ],
+   "source_url": "https://solargroup.com/api/download-file?file=Investors-Relation%2FFinancialReporting%2FAnnual+Reports%2FFY+2024-25+Annual+Reports%2FSolar+IR+2024-25.pdf",
+   "quote": "manufacturing units in 9 countries and 4 continents; new plants",
+   "fy": null
+  },
+  "company_size": {
+   "value": "2,403 permanent employees on the rolls of the Company (FY2024-25)",
+   "source_url": "https://solargroup.com/api/download-file?file=Investors-Relation%2FFinancialReporting%2FAnnual+Reports%2FFY+2024-25+Annual+Reports%2FSolar+IR+2024-25.pdf",
+   "quote": "The number of permanent employees on the rolls of Company: 2403",
+   "fy": null
+  },
+  "sector": {
+   "value": "Industrial & military explosives, initiating systems and ammunition; defence and space",
+   "source_url": "https://solargroup.com/api/download-file?file=Investors-Relation%2FFinancialReporting%2FAnnual+Reports%2FFY+2024-25+Annual+Reports%2FSolar+IR+2024-25.pdf",
+   "quote": "We rank among the world's leading manufacturers and suppliers of explosives, initiating systems and Ammunitions.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "INR 7,540 crore",
+   "fy": "FY2024-25",
+   "source_url": "https://solargroup.com/api/download-file?file=Investors-Relation%2FFinancialReporting%2FAnnual+Reports%2FFY+2024-25+Annual+Reports%2FSolar+IR+2024-25.pdf",
+   "quote": "revenue of ₹7,540 crore and a Profit After Tax (PAT) of ₹1,288 crore"
+  }
+ },
+ "tata-advanced-systems": {
+  "starting_year": {
+   "value": 2006,
+   "source_url": "https://www.tataadvancedsystems.com/pdf/new_policy/Annual%20Return%20FY25.pdf",
+   "quote": "Date of Incorporation 19/09/2006",
+   "fy": null
+  },
+  "hq": {
+   "value": "Hyderabad, Telangana, India",
+   "source_url": "https://www.tataadvancedsystems.com/about",
+   "quote": "Hardware Park Plot No.21, Sy No.1/1 Imarat Kancha Raviryala Village, Maheshwaram Mandal, Hyderabad – 501 218, Telangana, India",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "India – 7+ locations / 6+ research and production centres"
+   ],
+   "source_url": "https://www.tataadvancedsystems.com/people-culture",
+   "quote": "We are spread over 7+ LOCATIONS",
+   "fy": null
+  },
+  "company_size": {
+   "value": "5,000+ employees across the globe",
+   "source_url": "https://www.tataadvancedsystems.com/people-culture",
+   "quote": "5000+ EMPLOYEES Across the globe",
+   "fy": null
+  },
+  "sector": {
+   "value": "Aerospace & defence: Aerostructures & Aero-Engines; Airborne Platforms & Systems; Defence & Security; Land Mobility",
+   "source_url": "https://www.tataadvancedsystems.com/about",
+   "quote": "The company operates across \"Aerostructures & Aero-Engines,\" \"Airborne Platforms & Systems,\" \"Defence & Security,\" and \"Land Mobility\"",
+   "fy": null
+  },
+  "revenue": {
+   "value": "INR 5,051.20 crore",
+   "fy": "FY2024-25",
+   "source_url": "https://www.tataadvancedsystems.com/pdf/new_policy/Annual%20Return%20FY25.pdf",
+   "quote": "Turnover 5051.20 Crore"
+  }
+ },
+ "sss-defence": {
+  "starting_year": {
+   "value": 2017,
+   "source_url": "https://sssdefence.com/about",
+   "quote": "2017 — SSS Defence is born",
+   "fy": null
+  },
+  "hq": {
+   "value": "Bengaluru, India",
+   "source_url": "https://theprint.in/defence/india-becomes-exporter-of-sniper-rifles-bengaluru-firm-bags-mega-contract-from-friendly-nation/2166312/",
+   "quote": "Bengaluru-based small-arms manufacturer SSS Defence has bagged and fulfilled a mega export contract from a friendly foreign country for the supply of .338 Lapua Magnum calibre sniper rifle, ThePrint has learnt.",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Bengaluru, India (manufacturing and testing centre)"
+   ],
+   "source_url": "https://theprint.in/defence/india-becomes-exporter-of-sniper-rifles-bengaluru-firm-bags-mega-contract-from-friendly-nation/2166312/",
+   "quote": "Delegations from these countries have visited the company's manufacturing and testing centre in Bengaluru and are in talks, they added.",
+   "fy": null
+  },
+  "sector": {
+   "value": "Small arms, sniper/precision rifles and ammunition",
+   "source_url": "https://sssdefence.com/about",
+   "quote": "From pistols and submachine guns to long-range precision rifles, and ammunition products across all major calibres from small to medium.",
+   "fy": null
+  }
+ },
+ "supacat": {
+  "starting_year": {
+   "value": 1980,
+   "source_url": "https://find-and-update.company-information.service.gov.uk/company/01514084",
+   "quote": "Incorporation Date: 26 August 1980",
+   "fy": null
+  },
+  "hq": {
+   "value": "Dunkeswell, Devon, United Kingdom",
+   "source_url": "https://find-and-update.company-information.service.gov.uk/company/01514084",
+   "quote": "Registered Office Address: The Airfield, Dunkeswell, Honiton, Devon, EX14 4LF",
+   "fy": null
+  },
+  "company_size": {
+   "value": "149 (average number of employees, year to 31 Aug 2025)",
+   "source_url": "https://find-and-update.company-information.service.gov.uk/company/01514084/filing-history/MzUyMzI5MTAzMWFkaXF6a2N4/document?format=xhtml",
+   "quote": "Average number of employees 149 139",
+   "fy": null
+  },
+  "sector": {
+   "value": "Defence & aerospace – design and manufacture of high-mobility (protected/all-terrain) military vehicles",
+   "source_url": "https://find-and-update.company-information.service.gov.uk/company/01514084/filing-history/MzUyMzI5MTAzMWFkaXF6a2N4/document?format=xhtml",
+   "quote": "The principal activities of the company are the research and development, design, prototyping, manufacture and sale of high mobility vehicles, trailers and other systems together with the provision of engineering services and equipment.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "GBP 69.06 million",
+   "fy": "Year ended 31 August 2025",
+   "source_url": "https://find-and-update.company-information.service.gov.uk/company/01514084/filing-history/MzUyMzI5MTAzMWFkaXF6a2N4/document?format=xhtml",
+   "quote": "Turnover was £69.1m (2024: £58.1m) –18.8% higher than the prior year."
+  }
+ },
+ "aweil": {
+  "starting_year": {
+   "value": 2021,
+   "source_url": "https://www.aweil.in/about?lang=en",
+   "quote": "AW&EIL has been incorporated under the Companies Act 2013 on 14th August, 2021 however, its commencement of business took place on 1st October 2021",
+   "fy": null
+  },
+  "hq": {
+   "value": "Kanpur, Uttar Pradesh, India",
+   "source_url": "https://www.aweil.in/about?lang=en",
+   "quote": "Ordnance Factory Kanpur, Kalpi Road, Kanpur, Uttar Pradesh, India – 208009",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Eight production units + academy across India: Rifle Factory Ishapore, Small Arms Factory Kanpur, Gun & Shell Factory Cossipore, Ordnance Factory Tiruchirapalli, Ordnance Factory Kanpur, Field Gun Factory Kanpur, Gun Carriage Factory Jabalpur, Ordnance Factory Project Korwa"
+   ],
+   "source_url": "https://www.aweil.in/about?lang=en",
+   "quote": "Rifle Factory Ishapore, Small Arms Factory, Kanpur, Gun & Shell Factory, Cossipore, Ordnance Factory Tiruchirapalli, Ordnance Factory, Kanpur, Field Gun Factory, Kanpur, Gun Carriage Factory, Jabalpur, and Ordnance Factory Project Korwa",
+   "fy": null
+  },
+  "company_size": {
+   "value": "12,007 employees (as of 31 March 2025)",
+   "source_url": "https://www.aweil.in/download/Annual-Report-2024-25-en.pdf",
+   "quote": "MANPOWER (CATEGORY WISE) AS OF MARCH 31, 2025 ... 12007",
+   "fy": null
+  },
+  "sector": {
+   "value": "Artillery, small arms and defence equipment / ammunition",
+   "source_url": "https://www.aweil.in/?lang=en",
+   "quote": "Its eight production units and training academy carry forward a long manufacturing tradition in artillery, small arms and defence equipment.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "INR 2,530.93 crore (Revenue from Operations)",
+   "fy": "FY2024-25",
+   "source_url": "https://www.aweil.in/download/Annual-Report-2024-25-en.pdf",
+   "quote": "AWEIL has registered highest-ever Revenue from Operations of INR 2531 Cr. for FY 2024-25 as against INR 2042 Cr for the previous FY."
+  }
+ },
+ "premier-explosives": {
+  "starting_year": {
+   "value": 1980,
+   "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28827_PREMEXPLN_2024_2025_A_1627996_06092025194124.pdf",
+   "quote": "PEL, incorporated in 1980, began its journey as a manufacturer of commercial explosives",
+   "fy": null
+  },
+  "hq": {
+   "value": "Secunderabad, Telangana, India",
+   "source_url": "https://www.pelgel.com/our-company.html",
+   "quote": "Secunderabad, Telangana – 500015",
+   "fy": null
+  },
+  "global_locations": {
+   "value": [
+    "Telangana (Peddakandukur, Katepally, Ramajipet, Manuguru)",
+    "Tamil Nadu (Neyveli)"
+   ],
+   "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28827_PREMEXPLN_2024_2025_A_1627996_06092025194124.pdf",
+   "quote": "Company's manufacturing facilities are located at Ramajipet, Yadadri Bhuvanagiri District of Telangana.",
+   "fy": null
+  },
+  "company_size": {
+   "value": "838 permanent employees (as on 31 March 2025)",
+   "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28827_PREMEXPLN_2024_2025_A_1627996_06092025194124.pdf",
+   "quote": "Number of permanent employees on the rolls of the company as on 31.03.2025 was 838 (841 as on 31.03.2024).",
+   "fy": null
+  },
+  "sector": {
+   "value": "Explosives, detonators, bulk explosives, solid propellants (missiles/air-defence), chaffs & flares; defence",
+   "source_url": "https://www.pelgel.com/our-company.html",
+   "quote": "The company manufactures \"Emulsion and Slurry explosives, LD cartridge explosives, Bulk Explosives\" and solid propellants for missiles.",
+   "fy": null
+  },
+  "revenue": {
+   "value": "INR 417.45 crore (INR 4,174.5 million) Revenue from Operations",
+   "fy": "FY2024-25",
+   "source_url": "https://nsearchives.nseindia.com/annual_reports/AR_28827_PREMEXPLN_2024_2025_A_1627996_06092025194124.pdf",
+   "quote": "In FY25, Premier Explosives Limited recorded a strong 53.6% growth in revenue from operations, reaching ₹4,174.5 million."
+  }
+ },
+ "rtx": {
+  "company_size": {
+   "value": "~186,000 (as of 31 December 2024)",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/rtx-20241231.htm",
+   "quote": "approximately 186,000 employees",
+   "fy": 2024
+  },
+  "global_locations": {
+   "value": [
+    "United States",
+    "Poland",
+    "Canada",
+    "United Kingdom",
+    "France",
+    "Germany",
+    "India",
+    "Singapore",
+    "Australia",
+    "Facilities in approximately 25 countries"
+   ],
+   "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm",
+   "quote": "We manufacture and service our products in approximately 225 manufacturing, production, or overhaul facilities in approximately 25 countries.",
+   "fy": null
+  }
+ }
+}

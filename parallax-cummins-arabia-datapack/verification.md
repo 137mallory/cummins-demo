@@ -1,0 +1,63 @@
+# Verification of parallax-cummins-arabia-data.json
+
+Checked 2026-09-28 by opening each cited URL (WebFetch, curl, pdftotext). Verdicts: CONFIRMED / PARTLY (what differs) / REFUTED / UNREACHABLE.
+
+## A. Signals (first 12, threats first)
+
+| # | Item | Claim | Source | Verdict | Note |
+|---|------|-------|--------|---------|------|
+| A0 | Signal 2026-09-22 Rehlko Changzhou | Doubles capacity 5.5 GW to 11 GW; 6 kW to 4,000 kW; China, SE Asia, EMEA, LatAm; CEO "critical hub" for EMEA; no footprint expansion; FPY 93% to 98% | rehlko.com newsroom, 22 Sep 2026 | PARTLY | All figures and the CEO quote are on the page. Tense differs: Rehlko "announced a strategic investment program ... to double" capacity; the 11 GW is the programme target and "is targeted without requiring any physical expansion". Headline "doubles" and the Rehlko read "has doubled" overstate; write "programme to double to 11 GW". |
+| A1 | Signal 2026-09-10 Weichai H1 2026 | Revenue RMB 123.16 bn (+8.8%), net profit RMB 7.7 bn (+36.5%), DC genset sales >1,400 units > full-year 2025, M-series 6,700 units (+31.5%), Baudouin strategic cooperation with major French customer | markets.financialcontent.com (MarketersMedia release, 10 Sep 2026) | CONFIRMED | All numbers match. Source is a syndicated PR, not the HKEX interim report. |
+| A2 | Signal 2026-08-04 Caterpillar Q2 2026 | Sales USD 20.5 bn (+24%), P&E USD 8.238 bn (+17%) 24.6% margin, power gen retail +72%, backlog USD 72 bn (+92%), guidance mid-to-high teens, USD 392 m IEEPA recovery, 10 MW medium-speed gas engine restart, Q4 2026 shipments, 1.5 GW | fool.com transcript (call 4 Aug 2026) | CONFIRMED | Transcript rounds P&E to "$8.2 billion"; the 8.238 precision is not on this page (presumably from the earnings release). Everything else verbatim. |
+| A3 | Signal 2026-07-29 Generac Q2 2026 | Net sales USD 1.17 bn (+11%), C&I USD 556 m (+29%), DC backlog ~USD 1.6 bn, second hyperscale agreement, ~USD 700 m committed 2027, ~USD 1 bn additional orders, C&I FY growth low 30s % | investors.generac.com release, 29 Jul 2026 | CONFIRMED | All figures match. |
+| A4 | Signal 2026-06-29 Baudouin scaling 1,900 to 6,250 kVA | 20M33 2,500; 12M55 3,125; 16M55 4,125; 20M55 5,250; 20M61 6,250 kVA; lead time as critical-path variable; components with lead times beyond 18 months | baudouin.com news, 29 Jun 2026 (fetched via curl; robots blocks WebFetch) | PARTLY | Models, kVA and date confirmed. The lead-time / "beyond 18 months" argument is not on this page (summary says "separately argued"; needs its own source URL or removal). |
+| A5 | Signal 2026-06-17 Liebherr Colmar | Nearly 12,000 sqm extension; engine capacity for Rehlko to more than double; KD Series; growing backlog | rehlko.com newsroom, 17 Jun 2026 | CONFIRMED | |
+| A6 | Signal 2026-06-02 Generac SDMD sets gain hyperscale agreement | SDMD2250/2500 (12M55, 65.6 L), SDMD3250 (16M55, 87.5 L), Baudouin M55, Marathon DataMAX, DSE G8601; agreement names APAC, Europe, Middle East, LatAm | investors.generac.com release, 2 Jun 2026 | PARTLY | Agreement and the four regions confirmed. None of the product detail (SDMD models, engine, alternator, controller) is in the release. Generac SDMD3250 product page confirms Baudouin M55 87.5 L, Marathon DataMAX, Deep Sea G8601, 50 C cooling; it does not name 16M55, and the SDMD2250/2500 (65.6 L) pages return 404. Cite the product page for the product facts, and drop 12M55/16M55 designations and the 2250/2500 models unless another source is found. |
+| A7 | Signal 2026-06-02 Generac global supply agreement | Unnamed hyperscaler; qualification via factory visits and performance reviews; Beaver Dam, Oshkosh, Sussex; EPC Power; Enercon | investors.generac.com release, 2 Jun 2026 | CONFIRMED | |
+| A8 | Signal 2026-05-03 Al Mulla mtu MRO HQ Ahmadi | 5,000 sqm plot, >3,600 sqm built-up, MRO, workshops, parts, support, training, offices, RRPS standards, completion Sep 2026; stage 4 overhaul for four engines (2024 agreement) | almullagroup.com news | PARTLY | Facility facts confirmed. Date wrong: the item is dated 5 March 2026, not 3 May 2026 (DD-MM swap). Stage 4 / four engines is on the separate Dec 2024 agreement page (confirmed there), not this one. |
+| A9 | Signal 2026-04-30 Caterpillar Q1 2026 | Sales USD 17.4 bn (+22%), P&E USD 7 bn (+22%), power gen +48%, capacity plan 2x to ~3x 2024, invest 2027-29, ~15 GW/yr, large engine backlog 3.5x since Jan 2024, tariffs USD 2.2-2.4 bn, six 1 GW+ agreements, Middle East softening | fool.com transcript, 30 Apr 2026 | CONFIRMED | |
+| A10 | Signal 2026-04-29 Rehlko 1.7 GW in 60 days | "Another" 1.7 GW, diesel modular backup, North American hyperscale campuses, repeatable architectures, standardised delivery | rehlko.com newsroom, 29 Apr 2026 | CONFIRMED | |
+| A11 | Signal 2026-03-26 Weichai 2025 results | Revenue RMB 231.8 bn; DC backup power sales +259%; M-series >10,000 units (+32%), revenue +65%; 20M61 world's first 5 MW high-speed diesel genset engine; PSI 81% of revenue from power gen | hkexnews.hk 2025 annual results PDF (p. ~40) | CONFIRMED | Report says "sales volume of ... data center backup power products increased by 259%". |
+
+## B. Competitor read claims
+
+| # | Competitor | Claim | Source | Verdict | Note |
+|---|-----------|-------|--------|---------|------|
+| B1 | rolls-royce-mtu | Makeen exclusive stationary power distributor from 1 Oct 2025 | makeen-ksa.com "MAKEEN Expands Stationary Power Coverage" (13 Oct 2025) | CONFIRMED | "expansion of its exclusive distributorship agreement ... effective October 1, 2025", from mobile to stationary applications. |
+| B2 | rolls-royce-mtu | Ras Al Khair manufacturing licence | makeen-ksa.com "Forge Groundbreaking Partnership" (14 Dec 2023) | PARTLY | Framework Licence Agreement to manufacture, test, sell and service mtu engines and gensets in KSA confirmed; JV of Saudi Aramco, HD Hyundai Heavy Industries, Dussur confirmed. "Ras Al Khair" appears nowhere on the cited page, the Makeen home page or the expansion page. Remove the location or source it. |
+| B3 | rolls-royce-mtu | Makeen = Aramco, HD Hyundai, Dussur JV | same | CONFIRMED | |
+| B4 | rolls-royce-mtu | Al Mulla Kuwait Airport T2, 7 x 20V4000 DS3600, 55 C | rolls-royce.com release 5 Nov 2025 | CONFIRMED | Seven 20-cyl Series 4000 DS3600, via "Al Mulla Power Systems", Limak, DGCA + MPW, up to 55 C, delivery early 2026. |
+| B5 | rolls-royce-mtu | Al Mulla sole mtu distributor Kuwait; stage 4 overhaul, four engines | almullagroup.com agreement news 22 Dec 2024 | CONFIRMED | "sole distribution partner"; stage 4 overhauling, four engines simultaneously; facility then expected early 2026 (now Sep 2026 per A8). |
+| B6 | weichai-baudouin | DC genset sales +259% in 2025 | HKEX PDF | CONFIRMED | See A11. |
+| B7 | weichai-baudouin | >1,400 units H1 2026 | financialcontent.com | CONFIRMED | See A1. |
+| B8 | weichai-baudouin | 20M61 6,250 kVA pre-launched at Middle East Energy 2025 as platinum sponsor | baudouin.com/middle-east-energy-2025 | CONFIRMED | Platinum sponsor, 7-9 Apr 2025 DWTC, stands S3.B40 / OS.90, 20M61 up to 6,250 kVA pre-launch, 6M31, 20M55 gas 5,250 kVA, 12M33+SCR, 6M16. CEO Fabrizio Mozzi quote and PSI exhibiting not found on page. |
+| B9 | weichai-baudouin | Reaches Gulf via Generac SDMD sets on Baudouin engines | generac.com SDMD3250 page | CONFIRMED | Baudouin M55 87.5 L confirmed for SDMD3250. Partnership scope text naming 12M55/16M55, SDMD2250/2500, 60 Hz, EPA Tier 2 is not verifiable from this page (see A6). |
+| B10 | rehlko | Changzhou doubled to 11 GW, EMEA in scope | rehlko.com | PARTLY | See A0: announced programme to double; EMEA explicitly named. |
+| B11 | rehlko | Gulf channel via Midis Group affiliates (MMR Riyadh, Site & Power Dubai and Kuwait, Mideast Data Systems Abu Dhabi) and Abunayyan Trading | legacy.powersystems-emea.kohlerenergy.com/EN/Distributors (queried /EN/GetDistributors/SA, AE, KW via curl) | CONFIRMED | KSA: A. Abunayyan Trading Corp (Riyadh), Mohammed M. Al Rumaih Co for Trading (Riyadh). UAE: Mideast Data Systems LLC (Abu Dhabi), Site & Power DK FZ LLC Dubai Branch, SDMO Industries Middle East (Dubai). Kuwait: Site and Power Kuwait. Midis links via midisenergy.com websites. mdsenergy.me confirms MDS SI Group 2,600+ staff, 60 affiliates, Kohler and Vertiv partners; it does not say "exclusive" or "1986". |
+| B12 | generac | Al Mulla Power Solutions added as Kuwait dealer July 2026 | almullagroup.com news 6 Jul 2026; support.generacinternational.com dealer locator | CONFIRMED | Signed 6 Jul 2026, authorised distributor, diesel/gas/bi-fuel, residential/commercial/industrial, 24/7 support. Locator lists AL Mulla Power Solutions Company (Kuwait), Watan Altaqa (Riyadh), Atlas (Riyadh and Dubai). |
+| B13 | caterpillar | Zahid Tractor dealer since 1950 | zahidcat.com/about-us | CONFIRMED | "1950 M.M. Zahid & Brothers is appointed the Caterpillar dealer in Saudi Arabia". |
+| B14 | caterpillar | Zahid 22 Saudi branches | zahidcat.com/about-us (cited); zahidcat.com/contact-us | PARTLY | Cited about-us page says "Zahid Tractor operates 24 branches"; contact-us page says "a network of 22 branches" and lists 22. Zahid's own pages conflict. Use "22 to 24 branches" or cite contact-us for 22. The 23 June 2026 map date in the movement is not on the page (map image uploaded 2026/09). "Sole dealer" wording is not on about-us. |
+| B15 | caterpillar | Altaaqa 1 GW Cat rental fleet | zahid.com Altaaqa 1 GW milestone | CONFIRMED | Surpassed 1 GW; world's largest single owner of Cat rental gensets; 6 depots + 17 Zahid branches. Page typo reads "62 kVA to 2000 MW". Undated page. |
+
+## C. Client (Cummins Arabia) claims
+
+| # | Claim | Source | Verdict | Note |
+|---|-------|--------|---------|------|
+| C1 | 73.2 MW hyperscale, 30 DQLC + 6 DQCA, seven months, 50 C, remote radiators, dual ACB, Ni-Cad, fuel coolers, Uptime Institute | cummins.com case study (June 2025) | CONFIRMED | Also: four sites, two contractors, FAT per model, follow-on awards. |
+| C2 | BESS launch April 2025 in UAE with Amit Deshpande (MD) and Emad Lotfy | prnewswire.com release | PARTLY | Release is dated 16 April 2025 (dateline "DUBAI, UAE, April 16, 2025"), not 14 April as in movements. Names and titles confirmed. "LFP" chemistry is not stated in the release. |
+| C3 | 550 plus staff, 10 service branches, 8 warehouses, HHP Master Rebuild Center, training centre | prnewswire.com release | CONFIRMED | "team of over 550 professionals"; JV of Cummins Inc. and Olayan Group. |
+| C4 | Cummins FY2025 revenue USD 33.7 bn, Power Systems USD 7.463 bn | investor.cummins.com release 5 Feb 2026 | CONFIRMED | Revenue USD 33.7 bn (-1%), net income USD 2.8 bn, EBITDA USD 5.4 bn; Power Systems USD 7.463 bn, EBITDA USD 1.694 bn (22.7%); Q4 PS +11% to USD 1.9 bn. |
+
+## D. Spec spot check (standby kVA/kW, fuel at 100%)
+
+| # | Product | Claim | Source | Verdict | Note |
+|---|---------|-------|--------|---------|------|
+| D1 | Caterpillar 3516E (50 Hz) | 3,500 kVA / 2,800 ekW; 750.9 L/h at 100% | LEHE21424-04 PDF (emc.cat.com) | CONFIRMED | Standby and Mission Critical both 3500 kVA / 2800 ekW; 750.9 / 566.3 / 413.1 L/h; Tier 2 EPA ESE; 8513 x 2640 x 3342 mm; 23,000 kg. |
+| D2 | mtu 20V4000 DS3600 (50 Hz) | 3,730 kVA / 2,984 kW; 756 L/h at 100% | 32310691 spec PDF (mtu-solutions.com) | CONFIRMED | 3730 kVA / 2984 kWel only with LSA54.2 ZL12 at 11 kV (engine-output optimised); LV standard is 3700 kVA / 2960 kW; range 3580-3730 kVA. Fuel 756 / 578 / 402 l/h. The 3,380 kVA prime figure is not on this standby sheet. |
+| D3 | Rehlko KD3000 (60 Hz) | 3,750 kVA / 3,000 kW; 801.8 L/h at 100% standby | g5665.pdf (techcomm.rehlko.com) | CONFIRMED | Sheet gives standby 2800-3000 kW / 3500-3750 kVA by voltage; 3750/3000 at most voltages; prime 3400/2720; 801.8 / 687.0 / 456.0 L/h; DCC = standby. |
+| D4 | Cummins C2750D5 (50 Hz) | 2,750 kVA / 2,200 kW; 524 L/h at full standby | cummins.gr C2750D5.pdf | CONFIRMED | Prime 2500/2000, 479 L/h; QSK78-G9. |
+| D5 | Cummins C3500D5 (50 Hz) | 3,500 kVA / 2,800 kW; 662 L/h at full standby | shanahanpower.com data sheet PDF | CONFIRMED | Prime 3125/2500 (590 L/h), continuous 2750/2200 (526 L/h); QSK95-G4. |
+| D6 | Baudouin WPG3000*7 (12M55G3000) 50 Hz | 3,000 kVA / 2,400 kWe DCR; fuel not published | baudouin.com 12M55 generator set page; rating card 50 Hz PDF | CONFIRMED | Product page: 50 Hz 12M55G10D2 DCR 3000 kVA / 2400 kWe, DCP 2750 / 2200; 60 Hz 12M55G2500 3125 / 2500. Rating card: WPG3000*7, 12M55G3000, 3000 / 2400, 2750 / 2200. No fuel figures on either (data correctly null). Engine string "12M55G3000/5" suffix not seen. |
+
+## Unreachable
+None. baudouin.com blocks WebFetch via robots.txt but was retrieved with curl.

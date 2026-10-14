@@ -1,0 +1,275 @@
+{
+ "CLIENT-P1": {
+  "file": "CLIENT-P1.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070395.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070395.pdf",
+  "basis": "model",
+  "note": "QSZ13-G10 engine specification sheet (Cummins, 10/21); engine image. QSZ13-G10 is the engine of this set. Image embedded in the PDF."
+ },
+ "CLIENT-P2": {
+  "file": "CLIENT-P2.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070377.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070377.pdf",
+  "basis": "model",
+  "note": "VTA28-G5 engine specification sheet (Cummins, 09/21); engine image. VTA28-G5 is the engine of this set. Image embedded in the PDF."
+ },
+ "CLIENT-P3": {
+  "file": "CLIENT-P3.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK23 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P4": {
+  "file": "CLIENT-P4.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK23 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P5": {
+  "file": "CLIENT-P5.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QST30 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P6": {
+  "file": "CLIENT-P6.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QST30 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P7": {
+  "file": "CLIENT-P7.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "basis": "model",
+  "note": "KTA38-G14 engine specification sheet (Cummins, 06/21); engine image. KTA38-G14 engine exactly. Image embedded in the PDF."
+ },
+ "CLIENT-P8": {
+  "file": "CLIENT-P8.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "basis": "series",
+  "note": "KTA38-G14 engine specification sheet (Cummins, 06/21); engine image. Another KTA38 engine (G14) of the same series. Image embedded in the PDF."
+ },
+ "CLIENT-P9": {
+  "file": "CLIENT-P9.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070366.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070366.pdf",
+  "basis": "model",
+  "note": "KTA50-G3 engine specification sheet (Cummins, 07/21); engine image. KTA50-G3 engine exactly. Image embedded in the PDF."
+ },
+ "CLIENT-P10": {
+  "file": "CLIENT-P10.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "basis": "model",
+  "note": "KTA50-G8 engine specification sheet (Cummins, 07/21); engine image. KTA50-G8 engine exactly. Image embedded in the PDF."
+ },
+ "CLIENT-P11": {
+  "file": "CLIENT-P11.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "basis": "series",
+  "note": "KTA50-G8 engine specification sheet (Cummins, 07/21); engine image. Another KTA50 engine (G8) of the same series. Image embedded in the PDF."
+ },
+ "CLIENT-P12": {
+  "file": "CLIENT-P12.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "series",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK60-G23 V16 genset, same QSK60 series. Image embedded in the PDF."
+ },
+ "CLIENT-P13": {
+  "file": "CLIENT-P13.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "series",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK60-G23 V16 genset, same QSK60 series. Image embedded in the PDF."
+ },
+ "CLIENT-P14": {
+  "file": "CLIENT-P14.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "series",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK60-G23 V16 genset, same QSK60 series. Image embedded in the PDF."
+ },
+ "CLIENT-P15": {
+  "file": "CLIENT-P15.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "basis": "model",
+  "note": "Cummins C2750 D5e / C3000 D5e QSK78 spec sheet EMERS-5867. Spec sheet covers C2750 D5e (same set, regulated variant). Image embedded in the PDF."
+ },
+ "CLIENT-P16": {
+  "file": "CLIENT-P16.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "basis": "model",
+  "note": "Cummins C2750 D5e / C3000 D5e QSK78 spec sheet EMERS-5867. Spec sheet covers C3000 D5e (same set, regulated variant). Image embedded in the PDF."
+ },
+ "CLIENT-P17": {
+  "file": "CLIENT-P17.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "basis": "series",
+  "note": "Cummins QSK95 Series generator sets brochure; QSK95 genset. QSK95 series genset (50 Hz C3500D5 uses QSK95-G4). Image embedded in the PDF."
+ },
+ "CLIENT-P18": {
+  "file": "CLIENT-P18.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK23 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P19": {
+  "file": "CLIENT-P19.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2025-06/s-6786-spec-sheet.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2025-06/s-6786-spec-sheet.pdf",
+  "basis": "model",
+  "note": "Cummins S-6786 spec sheet, S17 Centum Series C600D6E-C1000D6E. S-6786 spec sheet covers C600D6E-C1000D6E including C800D6E. Image embedded in the PDF."
+ },
+ "CLIENT-P20": {
+  "file": "CLIENT-P20.jpg",
+  "image_url": "https://www.powertraininternationalweb.com/wp-content/uploads/2024/02/Centum-hero.jpg",
+  "page_url": "https://powertraininternationalweb.com/powergen/cummins-adds-new-1750-2000kw-gensets-to-the-centum-series",
+  "basis": "family",
+  "note": "Cummins Centum Series genset press image as published by Power Train International (trade press, not the maker site; cummins.com returned 403). Centum Series range image."
+ },
+ "CLIENT-P21": {
+  "file": "CLIENT-P21.jpg",
+  "image_url": "https://www.powertraininternationalweb.com/wp-content/uploads/2024/02/Centum-hero.jpg",
+  "page_url": "https://powertraininternationalweb.com/powergen/cummins-adds-new-1750-2000kw-gensets-to-the-centum-series",
+  "basis": "family",
+  "note": "Cummins Centum Series genset press image as published by Power Train International (trade press, not the maker site; cummins.com returned 403). Centum Series range image."
+ },
+ "CLIENT-P22": {
+  "file": "CLIENT-P22.jpg",
+  "image_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "page_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "basis": "model",
+  "note": "Cummins DQKAB spec sheet (Cummins document, hosted by reseller CS Diesel Generators); small source image. DQKAB spec sheet photo; only 504 px wide. Image embedded in the PDF."
+ },
+ "CLIENT-P23": {
+  "file": "CLIENT-P23.jpg",
+  "image_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "page_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "basis": "series",
+  "note": "Cummins DQKAB spec sheet (Cummins document, hosted by reseller CS Diesel Generators); small source image. DQKAB, same QSK60 60 Hz DQK family; only 504 px wide. Image embedded in the PDF."
+ },
+ "CLIENT-P24": {
+  "file": "CLIENT-P24.jpg",
+  "image_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "page_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "basis": "series",
+  "note": "Cummins DQKAB spec sheet (Cummins document, hosted by reseller CS Diesel Generators); small source image. DQKAB, same QSK60 60 Hz DQK family; only 504 px wide. Image embedded in the PDF."
+ },
+ "CLIENT-P25": {
+  "file": "CLIENT-P25.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P26": {
+  "file": "CLIENT-P26.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P27": {
+  "file": "CLIENT-P27.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P29": {
+  "file": "CLIENT-P29.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 engine in a different frame; Centum housing not shown. Image embedded in the PDF."
+ },
+ "CLIENT-P30": {
+  "file": "CLIENT-P30.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "basis": "series",
+  "note": "Cummins QSK95 Series generator sets brochure; QSK95 genset. QSK95 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P31": {
+  "file": "CLIENT-P31.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "basis": "series",
+  "note": "Cummins QSK95 Series generator sets brochure; QSK95 genset. QSK95 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P33": {
+  "file": "CLIENT-P33.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "basis": "model",
+  "note": "Cummins HSK78G 50 Hz lean-burn gas genset spec sheet. HSK78G 50 Hz spec sheet covers C2000N5CD. Image embedded in the PDF."
+ },
+ "CLIENT-P34": {
+  "file": "CLIENT-P34.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "basis": "series",
+  "note": "Cummins HSK78G 50 Hz lean-burn gas genset spec sheet. 50 Hz HSK78G set; same HSK78G series. Image embedded in the PDF."
+ },
+ "CLIENT-P35": {
+  "file": "CLIENT-P35.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "basis": "family",
+  "note": "Cummins HSK78G 50 Hz lean-burn gas genset spec sheet. No QSK60G photo >=500 px found; shows the maker larger lean-burn gas genset (HSK78G). Image embedded in the PDF."
+ },
+ "CLIENT-P36": {
+  "file": "CLIENT-P36.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P37": {
+  "file": "CLIENT-P37.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P38": {
+  "file": "CLIENT-P38.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P39": {
+  "file": "CLIENT-P39.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P40": {
+  "file": "CLIENT-P40.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P41": {
+  "file": "CLIENT-P41.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ }
+}

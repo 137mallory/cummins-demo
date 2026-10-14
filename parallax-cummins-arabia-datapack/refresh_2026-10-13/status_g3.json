@@ -1,0 +1,649 @@
+{
+ "Providing generators for Sweihan and Razin Mazayna 2026": {
+  "status": "closed",
+  "published": "25 Sep 2026",
+  "closes": "30 Sep 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": null,
+  "milestone": "Deadline 30 Sep 2026 passed; no award or extension found; portal/aggregator page not reachable (HTTP 403) on 13 Oct so no extension or award re-check beyond the listed date (tendersontime 403)",
+  "evidence": [
+   {
+    "url": "https://www.tendersontime.com/tenders-details/providing-generators-sweihan-and-razin-mazayna-2026-8edfab1/",
+    "quote": "Providing Generators for Sweihan and Razin Mazayna 2026 ... ABU DHABI HERITAGE AUTHORITY ... TOT Reference No.: 149813937 ... Published 25 Sep 2026 ... Deadline: 30 Sep 2026"
+   },
+   {
+    "url": "https://www.mediaoffice.abudhabi/en/arts-culture/under-patronage-of-uae-president-20th-al-dhafra-festival-to-begin-october-27/",
+    "quote": "The Sweihan Camel Mazayna will be held from October 27 to November 3, 2026 ... The Razeen Camel Mazayna, the second stage, will take place from November 15-22, 2026 (search-result summary of Abu Dhabi Media Office release)"
+   }
+  ]
+ },
+ "Battery charger (DSE 9470 MKII) for emergency diesel generator, Cummins P1550C 550 kVA with QSX15-G8 engine, 3 units": {
+  "status": "closed",
+  "published": "n/d (RFQ 2012604983, REQ 1012605463)",
+  "closes": "29 Sep 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": "Cummins P1550C gensets (existing); charger DSE 9470 MKII",
+  "milestone": "RFQ closed 29 Sep 2026 (biddetail page re-opened 13 Oct: no extension, no award); DEWA does not publish local-purchase RFQ results",
+  "evidence": [
+   {
+    "url": "https://www.biddetail.com/latest-tenders/118491378$dd7c5247-bafc-49be-a508-047ccd3f3ea8",
+    "quote": "Last Date of Bid Submission | 29 Sep 2026 ... Stand by Dg Charger 1012605463 ... BATTERY CHARGER; FOR EMERGENCY DIESEL GENERATOR; MODEL: DSE 9470 MKII ... GEN SET BRAND: CUMMINS; MODEL NUMBER:P1550C; 550 KVA; ENGINE MODEL: QSX15-G8 ... 400KV HASSYAN S/S; 3 EA"
+   },
+   {
+    "url": "https://srm.dewa.gov.ae/sap/opu/odata/sap/ZSRM_RFX_REG_BID_SRV/AttachmentSet(2012604983)/$value",
+    "quote": "DEWA SRM tender link given by BidDetail (RFx 2012604983)"
+   }
+  ]
+ },
+ "Battery storage, absorbed glass mat type, 12 VDC 200 Ah, for diesel generator applications": {
+  "status": "closed",
+  "published": "21 Sep 2026",
+  "closes": "30 Sep 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": null,
+  "milestone": "RFQ closed 30 Sep 2026 (biddetail page re-opened 13 Oct: no extension, no award); DEWA does not publish local-purchase RFQ results",
+  "evidence": [
+   {
+    "url": "https://www.dewa.gov.ae/api/RfxDownload/Get/2012604957",
+    "quote": "RFQ NUMBER : 2012604957 DATE : 21.09.2026 REQ No : 1012604206 REQ TITLE : BTRY_STRG 1012604206 DELIVERY LOCATION : 0009 - BMC STORES CLOSING DATE : 30.09.2026 CLOSING TIME : 10:00:00 ... BATTERY_STORAGE; TYPE: ABSORBED GLASS MAT, SEALED; VOLTAGE: 12VDC; AMPHOURS: 200AH; APPLICATION: DIESEL GENERATOR 7 EA"
+   },
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/procurement-rfx",
+    "quote": "2012604957 View RFx details BTRY_STRG 1012604206 21-Sep-2026 30-Sep-2026"
+   }
+  ]
+ },
+ "Maintenance, repair, rehabilitation and testing of electrical systems, generators, fire alarm and suppression systems and ventilation equipment for nine service centres": {
+  "status": "closed",
+  "published": "24 Sep 2026",
+  "closes": "08 Oct 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Deadline 08 Oct 2026 passed; globaltenders page (13 Oct) shows no extension or award",
+  "evidence": [
+   {
+    "url": "https://www.globaltenders.com/tender-detail/carrying-out-maintenance-repair-rehabilita-Om7CKRksJdHZtokC",
+    "quote": "Deadline - Oct 08, 2026"
+   }
+  ]
+ },
+ "Supply and installation of electric motors at the Doha West power generation and water desalination plant": {
+  "status": "open",
+  "published": "23 Sep 2026",
+  "closes": "13 Oct 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Deadline is today 13 Oct 2026 (time not stated); no extension shown on globaltenders page opened 13 Oct; closed/awaiting award from tomorrow unless extended",
+  "evidence": [
+   {
+    "url": "https://www.globaltenders.com/tender-detail/supply-and-installation-of-electric-motors-a-G1Kv8eBZkHSFpS9p",
+    "quote": "The tender was released on Sep 23, 2026."
+   }
+  ]
+ },
+ "Sabiya (Subiya) power and water distillation plant Phase 4, 900 MW combined cycle gas turbine expansion": {
+  "status": "closed",
+  "published": "27 Apr 2025",
+  "closes": "22 Jul 2025",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [
+   {
+    "name": "Alghanim International",
+    "price": "516.8m",
+    "currency": "KWD"
+   },
+   {
+    "name": "Heavy Engineering Industries & Shipbuilding Co. (HEISCO)",
+    "price": "548.45m",
+    "currency": "KWD"
+   },
+   {
+    "name": "Al-Dhow Engineering General Trading & Contracting Co.",
+    "price": "569.39m",
+    "currency": "KWD"
+   }
+  ],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Bids in since 2025 (3 bidders, Alghanim lowest). Jun 2026: CAPT had bidders extend bid bonds to 29 Sep 2026. No award or further extension found in public sources as of 13 Oct 2026 (bond expiry date has passed)",
+  "evidence": [
+   {
+    "url": "https://www.tradingview.com/news/reuters.com,2026-06-10:newsml_Zaw7HKMVl:0-zawya-kuwait-asks-sabiya-power-plant-phase-4-bidders-to-extend-bid-bonds/",
+    "quote": "The renewed bid bonds will remain valid from 29 June 2026 until 29 September 2026."
+   }
+  ]
+ },
+ "Ministry of Health package: maintenance, construction and minor expansion of hospitals and health centres (11 packages); main data centre upgrade; nurse call and code blue systems at Jaber Al-Ahmad Hospital": {
+  "status": "closed",
+  "published": "Jul 2026 (S/MQA/7/2026/2027 original closing 11 Aug 2026)",
+  "closes": "08 Sep 2026 (postponed from 11 Aug 2026)",
+  "bid_opening": "09 Sep 2026 (CAPT meeting, reported 15 Sep 2026)",
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "15 Sep 2026: CAPT opened bids (18 bids on 11 building packages, 7 on data-centre upgrade, 4 on nurse call/Code Blue), 29 of 32 firms eligible, referred to MoH; MoH has 30 days to evaluate and recommend (about mid-Oct 2026). No recommendation or award found as of 13 Oct",
+  "evidence": [
+   {
+    "url": "https://www.arabtimesonline.com/news/capt-29-firms-deemed-eligible-for-three-moh-tenders/",
+    "quote": "The Board of Directors of CAPT referred the submitted bid documents to the ministry for evaluation"
+   }
+  ]
+ },
+ "Dorra (Al-Durra) field onshore gas-processing facilities near Al-Zour: main EPC tender (emergency diesel generator / black-start / diesel fire-water pump scope inside utilities)": {
+  "status": "open",
+  "published": "23 Aug 2026",
+  "closes": "29 Dec 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "USD",
+  "brand": null,
+  "milestone": "MEED 14 Sep 2026: contractor meeting postponed from 14 Sep to 14 Oct 2026 (tomorrow); bid deadline unchanged at 29 Dec 2026. Site preparation awarded to Ahmadiah Contracting & Trading on 10 Aug 2026 (separate works, per MEED search snippet)",
+  "evidence": [
+   {
+    "url": "https://guest.meed.com/contractor-meeting-postponed-for-33bn-gas-project-in-kuwait/",
+    "quote": "Sources said contractors have not been told why the meeting date was pushed back."
+   }
+  ]
+ },
+ "Dubai Metro Gold Line (42 km fully underground, 18 stations): design-build prequalification for civil, electromechanical, rolling stock and rail systems (station/depot emergency-power scope inside E&M)": {
+  "status": "closed",
+  "published": "Jun 2026 (RFQ notice)",
+  "closes": "09 Oct 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [
+   {
+    "name": "Alstom / China Railway Engineering Corporation / National Projects Construction / Dogus Construction",
+    "price": null,
+    "currency": null
+   },
+   {
+    "name": "CRRC / Limak / Mapa Group",
+    "price": null,
+    "currency": null
+   },
+   {
+    "name": "Hitachi / China Harbour Engineering Company / China State Construction Engineering Corporation",
+    "price": null,
+    "currency": null
+   },
+   {
+    "name": "Siemens / Petrojet / Concord Engineering & Contracting / Rowad Modern Engineering",
+    "price": null,
+    "currency": null
+   },
+   {
+    "name": "Hassan Allam / IC Ictas / Siemens",
+    "price": null,
+    "currency": null
+   },
+   {
+    "name": "Larsen & Toubro / Powerchina / Wade Adams",
+    "price": null,
+    "currency": null
+   }
+  ],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": null,
+  "milestone": "13 Oct 2026 (MEED): six contracting groups submitted prequalification statements on 9 Oct 2026. Shortlist and main design-build tender not yet announced; completion target Sep 2032",
+  "evidence": [
+   {
+    "url": "https://guest.meed.com/contractor-groups-prequalify-for-dubai-metro-gold-line/",
+    "quote": "Six contracting groups submitted prequalification statements on 9 October for the contract to build Dubai Metro's new Gold Line."
+   }
+  ]
+ },
+ "Construction, completion and maintenance of public buildings in districts N1, N3 and N4, Al-Mutlaa Residential City (PAHW tender 1443/1444 series) - standby generator sets for health centre, police, ambulance and co-op buildings": {
+  "status": "extended",
+  "published": "30 Aug 2026 (Kuwait Al-Youm issue 1806)",
+  "closes": "28 Oct 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "PAHW tenders page re-opened 13 Oct 2026: status 'closing date extended', closing 28 Oct 2026, addendum 1 handover 14 Oct 2026; no opening, award or cancellation dates posted",
+  "evidence": [
+   {
+    "url": "https://www.pahw.gov.kw/Downloads/Tenders/AR/14430002-20260929-412701.pdf",
+    "quote": "المناقصة رقم: م.ع.ر.س/م/1443-2026/2027 ... تعلن المؤسسة العامة للرعاية السكنية عن تعديل موعد استلام الملحق رقم (1) وموعد تقديم العطاءات (الإقفال) ... بمشروع مدينة المطلاع السكنية والمعلن عنها في العدد رقم (1806) بتاريخ 2026/08/30 ... تاريخ استلام ملحق (1) للمناقصة: 2026/10/14 بدلا من 2026/10/04 ... تاريخ الإقفال وتقديم العطاءات: 2026/10/28 بدلا من 2026/10/14"
+   },
+   {
+    "url": "https://www.pahw.gov.kw/Tenders_arabic",
+    "quote": "PAHW tenders page lists the notice file 14430002-20260929 (dated 29 Sep 2026)"
+   }
+  ]
+ },
+ "Construction, completion and maintenance of public buildings in districts N5 and N6, Al-Mutlaa Residential City (PAHW tender 1443/1444 series) - standby generator sets for health centre, police, ambulance and co-op buildings": {
+  "status": "extended",
+  "published": "30 Aug 2026 (Kuwait Al-Youm issue 1806)",
+  "closes": "28 Oct 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "PAHW tenders page re-opened 13 Oct 2026: status 'closing date extended', closing 28 Oct 2026, addendum 1 handover 14 Oct 2026; no opening, award or cancellation dates posted",
+  "evidence": [
+   {
+    "url": "https://www.pahw.gov.kw/Downloads/Tenders/AR/14440002-20260929-490703.pdf",
+    "quote": "المناقصة رقم: م.ع.ر.س/م/1444-2026/2027 ... بإنشاء وإنجاز وصيانة المباني العامة بالضاحيتين (N5,N6) بمشروع مدينة المطلاع السكنية والمعلن عنها في العدد رقم (1806) بتاريخ 2026/08/30 ... تاريخ استلام ملحق (1) للمناقصة: 2026/10/14 بدلا من 2026/10/04 ... تاريخ الإقفال وتقديم العطاءات: 2026/10/28 بدلا من 2026/10/14"
+   }
+  ]
+ },
+ "Supply, installation and maintenance of electric generators and their accessories (procurement plan)": {
+  "status": "upcoming",
+  "published": null,
+  "closes": null,
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "No tender floated found as of 13 Oct 2026 (search found nothing; kuwaitendersgate page timed out). Still listed only in the MoE procurement plan",
+  "evidence": [
+   {
+    "url": "https://kuwaitendersgate.com/tenders/procurement-plan-for-supply-installation-and-maintenance-of-electric-generators-and-their-accessories-2/",
+    "quote": "Procurement Plan For Supply, Installation, And Maintenance Of Electric Generators And Their Accessories (page metadata datePublished 2026-06-16)"
+   },
+   {
+    "url": "https://kuwaitendersgate.com/tenders/procurement-plan-for-supply-installation-and-maintenance-of-electric-generators-and-their-accessories/",
+    "quote": "Procurement Plan For Supply, Installation, And Maintenance Of Electric Generators And Their Accessories (page metadata datePublished 2026-06-02)"
+   }
+  ]
+ },
+ "MAB - DC - Emergency DG (KNPC Mina Abdullah refinery, direct-charge purchase, RFQ 1064214)": {
+  "status": "closed",
+  "published": "22 Sep 2026",
+  "closes": "07 Oct 2026 13:00",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Deadline 07 Oct 2026 passed; no award published for KNPC direct-charge RFQs; portal/aggregator page not reachable (HTTP 403) on 13 Oct so no extension or award re-check beyond the listed date (tendersontime 403)",
+  "evidence": [
+   {
+    "url": "https://ktendering.com.kw/esop/kuw-kpc-host/public/report/knpc_t_summary.jsp?rfqId=rfq_90173",
+    "quote": "event_73744 1064214 - MAB - DC - EMERGENCY DG ... Status Running Supplier Access RFQ Open to All Suppliers Estimated Contract Value Hide Value from Suppliers: 3,189.6 Yes ... Event Currency KWD ... Maximo RFQ Number 1064214 ... Closing Date Closing Time 07/10/2026 13:00 ... Publication- Date 22/09/2026 12:00"
+   },
+   {
+    "url": "https://www.tendersontime.com/tenders-details/1064214---mab---dc---emergency-dg-8eaf63f/",
+    "quote": "This Tender notice was published on 22 Sep 2026 and is scheduled to close on 07 Oct 2026 (TOT Ref 149616191)"
+   }
+  ]
+ },
+ "RFQ#2165184 Spare for Generator and Engine Control": {
+  "status": "open",
+  "published": "23 Sep 2026",
+  "closes": "19 Oct 2026 13:00",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": "Kongsberg (generator/engine control - project title 'Spare for Generator Control MFR Kons Berg')",
+  "milestone": "biddetail page re-opened 13 Oct: deadline 19 Oct 2026, no extension or award shown",
+  "evidence": [
+   {
+    "url": "https://www.biddetail.com/latest-tenders/118491531$8bb766c8-700e-4056-8e00-65e3e21f4669",
+    "quote": "Last Date of Bid Submission 19 Oct 2026"
+   }
+  ]
+ },
+ "RFQ#2169013 Spare for Bahra Security Generator": {
+  "status": "open",
+  "published": "21 Sep 2026",
+  "closes": "18 Oct 2026 13:00",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Closes 18 Oct 2026 per 23 Sep listing; portal/aggregator page not reachable (HTTP 403) on 13 Oct so no extension or award re-check beyond the listed date (tendersontime 403)",
+  "evidence": [
+   {
+    "url": "https://ktendering.com.kw/esop/kuw-kpc-host/public/report/knpc_t_summary.jsp?rfqId=rfq_90113",
+    "quote": "event_73684 RFQ#2169013_Spare for Bahra Security Generator ... YOU ARE INVITED BY KOC TO SUBMIT A MUMARASA TENDER ON THIS RFQ ... Status Running ... Estimated Contract Value ... 1,729.264 ... KWD ... Closing Date Closing Time 18/10/2026 13:00 ... Publication- Date 21/09/2026 15:23"
+   },
+   {
+    "url": "https://www.tendersontime.com/tenders-details/rfq2169013spare-bahra-security-generator-8ea807c/",
+    "quote": "published on 22 Sep 2026 and is scheduled to close on 18 Oct 2026 (TOT 149586044)"
+   }
+  ]
+ },
+ "RFQ#2167943 Spare for Diesel Forklift and Diesel Engine": {
+  "status": "open",
+  "published": "23 Sep 2026",
+  "closes": "19 Oct 2026 13:00",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Closes 19 Oct 2026 per listing; portal/aggregator page not reachable (HTTP 403) on 13 Oct so no extension or award re-check beyond the listed date (tendersontime not re-opened)",
+  "evidence": [
+   {
+    "url": "https://ktendering.com.kw/esop/kuw-kpc-host/public/report/knpc_t_summary.jsp?rfqId=rfq_90231",
+    "quote": "event_73800 RFQ#2167943_Spare for Deisel Forklift and Diesel Engine ... Status Running Supplier Access RFQ Open to All Suppliers Estimated Contract Value ... 25,119.914 ... KWD ... Closing Date Closing Time 19/10/2026 13:00 ... Publication- Date 23/09/2026 15:49"
+   },
+   {
+    "url": "https://www.tendersontime.com/tenders-details/rfq2167943spare-deisel-forklift-and-diesel-engine-8ec9e98/",
+    "quote": "published on 24 Sep 2026 and is scheduled to close on 19 Oct 2026 (TOT 149724824)"
+   }
+  ]
+ },
+ "RFQ#2169389 Spare for Fire Water Pump (diesel-driven)": {
+  "status": "open",
+  "published": "28 Sep 2026",
+  "closes": "26 Oct 2026 13:00",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Closes 26 Oct 2026 per listing; portal/aggregator page not reachable (HTTP 403) on 13 Oct so no extension or award re-check beyond the listed date (tendersontime not re-opened)",
+  "evidence": [
+   {
+    "url": "https://ktendering.com.kw/esop/kuw-kpc-host/public/report/knpc_t_summary.jsp?rfqId=rfq_90301",
+    "quote": "event_73873 RFQ#2169389_SPARE FOR FIRE WATER PUMP Description 1: KIT, MAJOR SPARE PARTS, FOR FIRE WATER PUMP AT EPF-18 ( GC-16) - 2 KIT Status Running ... Estimated Contract Value ... 5,944.224 ... KWD ... Closing Date Closing Time 26/10/2026 13:00 ... Publication- Date 28/09/2026 07:42"
+   },
+   {
+    "url": "https://www.tendersontime.com/tenders-details/rfq2169389spare-for-fire-water-pump-8f09c1d/",
+    "quote": "published on 28 Sep 2026 and is scheduled to close on 26 Oct 2026 (TOT 149986333)"
+   }
+  ]
+ },
+ "Annual maintenance works for electrical equipment at Al-Zour (South) power generation and water distillation station": {
+  "status": "closed",
+  "published": "16 Aug 2026",
+  "closes": "06 Oct 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Closing was 06 Oct 2026 after one earlier extension (15 Sep to 6 Oct); no further extension or award found in public sources. CAPT results not reachable",
+  "evidence": [
+   {
+    "url": "https://indembkwt.gov.in/pdf/Tenders%20Issue%201804.pdf",
+    "quote": "TENDER NO. MEW/2/2026/2027 A.P. 82 ... Annual Maintenance Works for Electrical Equipment at AlZour Power Generation and Water Distillation Station Relevant Fee KD 3500- ... Initial Guarantee KD 100,000/- ... Date of Obtaining Documents Sunday, 16.08.2026 Closing Date 1.00 p.m., 15.09.2026 ... Pre-Tender Meeting ... 25.08.2026 in the Al Zour Power Station"
+   },
+   {
+    "url": "https://www.tendersontime.com/tenders-details/annual-maintenance-work-electrical-equipment-al-zour-south-electric-power-generation-and-water-disti-8df830d/",
+    "quote": "Deadline: 06 Oct 2026 | Posting Date: 10 Sep 2026 ... TOT Ref.No.: 148865805 ... Tender Value: KWD 3500000"
+   }
+  ]
+ },
+ "Annual maintenance works for electrical equipment at Shuaiba South power generation and water distillation plant": {
+  "status": "closed",
+  "published": "16 Aug 2026",
+  "closes": "06 Oct 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "Closing was 06 Oct 2026 after one earlier extension (15 Sep to 6 Oct); no further extension or award found in public sources. CAPT results not reachable",
+  "evidence": [
+   {
+    "url": "https://indembkwt.gov.in/pdf/Tenders%20Issue%201804.pdf",
+    "quote": "TENDER NO. MEW/61/2025/2026 A.P. 84 ... Annual Maintenance Works for Electrical Equipment at the Shuaiba South Power Generation and Water Distillation Plant Relevant Fee KD 1000- ... Initial Guarantee KD 45,000/- ... Date of Obtaining Documents Sunday, 16.08.2026 Closing Date 1.00 p.m., 15.09.2026"
+   },
+   {
+    "url": "https://www.tendersontime.com/tenders-details/annual-maintenance-work-electrical-equipment-southern-shuaiba-electric-power-generation-and-water-di-8df99ae/",
+    "quote": "This Tender notice was published on 10 Sep 2026 and is scheduled to close on 06 Oct 2026 ... TOT Ref No. 148871598"
+   }
+  ]
+ },
+ "National (backup) Data Center - consultancy for design, RFP/specifications and supervision": {
+  "status": "upcoming",
+  "published": null,
+  "closes": null,
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "KWD",
+  "brand": null,
+  "milestone": "28 Sep 2026: CAPT postponed its decision on CAIT's request until CAIT sends a formal letter with amendments (within five working days). No later decision found as of 13 Oct 2026",
+  "evidence": [
+   {
+    "url": "https://www.arabtimesonline.com/news/data-center-tender-awaits-capt-nod/",
+    "quote": "CAPT decided to postpone the issuance of its decision until it receives a formal letter from CAIT"
+   }
+  ]
+ },
+ "Upgradation of standby generators at DEWA Distribution Control Centres, Al Qusais (plot 232-552) and Warsan Second (plot 622-159)": {
+  "status": "closed",
+  "published": "19 May 2026",
+  "closes": "30 Jul 2026",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": null,
+  "milestone": "Opened 30 Jul 2026: 5 priced offers + 2 regrets, lowest Galadari Energy Solutions AED 3.87m (DEWA results page, per 30 Sep data). No award found; DEWA results page blocks outside access, no public press found",
+  "evidence": [
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/tender-opening-results/tender-item?tno=2132600053",
+    "quote": "Tender No 2132600053 ... Floating Date 19-May-2026 Closing Date 30-Jul-2026 Tender Type Open Tender ... Offer No 02 GALADARI ENERGY SOLUTIONS LLC , Main ... 3,872,910.00 ... DEFINITE 3872910.00 ONLINE OFFER"
+   },
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/tender-opening-results/tender-item?tno=2132600053",
+    "quote": "Offer No 01 DANWAY LLC , Main ... 7,497,000.00 ... 13 MONTHS INCLUDING 15 DAYS MOBILISATION; Offer No 03 KANOO ENERGY L.L.C ... 6,300,000.00 ... 40 WEEKS; Offer No 04 PRECISION INDUSTRIES LLC ... 6,847,260.00; Offer No 05 YUKON INTERNATIONAL CONTRACTING LLC ... 10,747,350.32 ... 2% DISCOUNT OFFERED; Offer No 06 JUBAILI BROS. LLC ... 0.01 REGRET; Offer No 07 AL MASAOOD L.L.C. ... 0.01 REGRET"
+   }
+  ]
+ },
+ "Cummins spares for H.H. Ruler's Palaces emergency diesel generators (PCC3.3 controllers, speed governors, switches, senders)": {
+  "status": "closed",
+  "published": "23 Sep 2026",
+  "closes": "30 Sep 2026 (extended from 28 Sep 2026; 10:00 GST per RFQ)",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": "Cummins (spares for Cummins VTA-28-G5 etc. at H.H. Ruler's Palaces)",
+  "milestone": "RFQ deadline (30 Sep 2026 (extended from 28 Sep 2026; 10:00 GST per RFQ)) passed; DEWA does not publish local-purchase RFQ results; DEWA portal returned HTTP 403 on 13 Oct so a further extension cannot be ruled out",
+  "evidence": [
+   {
+    "url": "https://www.dewa.gov.ae/api/RfxDownload/Get/2412601624",
+    "quote": "RFQ NUMBER : 2412601624 DATE : 23.09.2026 REQ No : 1012603642 REQ TITLE : 1-CUMMINS SPARES ... CLOSING DATE : 28.09.2026 CLOSING TIME : 10:00:00 ... SPEED GOVERNER; CUMMINS; P/N:3098693 ... FORH.H.RULER'S PALACES CUMMINS DIESEL ENGINE GENERATOR; MODEL:VTA-28-G5"
+   },
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/procurement-rfx",
+    "quote": "2412601624 View RFx details 1-CUMMINS SPARES 1012603642 23-Sep-2026 30-Sep-2026"
+   }
+  ]
+ },
+ "V-ribbed and fan belts for Cummins emergency diesel generators at H.H. Ruler's Palaces (KTA19-G4, KTA38-G5, KTA50-G8 / C1675D5)": {
+  "status": "closed",
+  "published": "28 Sep 2026",
+  "closes": "02 Oct 2026 10:00 GST",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": "Cummins (belts for KTA19-G4 / KTA38-G5 / KTA50-G8 engines)",
+  "milestone": "RFQ deadline (02 Oct 2026 10:00 GST) passed; DEWA does not publish local-purchase RFQ results; DEWA portal returned HTTP 403 on 13 Oct so a further extension cannot be ruled out",
+  "evidence": [
+   {
+    "url": "https://www.dewa.gov.ae/api/RfxDownload/Get/2012605085",
+    "quote": "RFQ NUMBER : 2012605085 DATE : 28.09.2026 REQ No : 1012605471 ... CLOSING DATE : 02.10.2026 CLOSING TIME : 10:00:00 ... V RIBBED BELT; MAKE: CUMMINS; P/NO: 541298700 ... ENGINE MODEL NO: KTA19-G4"
+   },
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/procurement-rfx",
+    "quote": "2012605085 View RFx details V RIBBED BELT; MAKE: CUMMINS; 1012605471 28-Sep-2026 02-Oct-2026"
+   }
+  ]
+ },
+ "Diesel engine for 400 kV substation fire-fighting pump, 199 kW at 2900 rpm, UL/FM": {
+  "status": "closed",
+  "published": "28 Sep 2026",
+  "closes": "01 Oct 2026 00:00 (i.e. end of 30 Sep 2026)",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": null,
+  "milestone": "RFQ deadline (01 Oct 2026 00:00 (i.e. end of 30 Sep 2026)) passed; DEWA does not publish local-purchase RFQ results; DEWA portal returned HTTP 403 on 13 Oct so a further extension cannot be ruled out",
+  "evidence": [
+   {
+    "url": "https://www.dewa.gov.ae/api/RfxDownload/Get/2412601652",
+    "quote": "RFQ NUMBER : 2412601652 DATE : 28.09.2026 REQ No : 1012603089 REQ TITLE : 1-ENGINE; DIESEL; FOR 400 ... CLOSING DATE : 01.10.2026 CLOSING TIME : 00:00:00 ... ENGINE; DIESEL; FOR 400 KV FIREFIGHTING SYSTEM; TYPE: FD275 ... 199KW AT 2900 RPM"
+   },
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/procurement-rfx",
+    "quote": "2412601652 View RFx details 1-ENGINE; DIESEL; FOR 400 KV FI 28-Sep-2026 01-Oct-2026"
+   }
+  ]
+ },
+ "M-Station Block 30 EDG #12 - cylinder head gasket replacement, borescope and QL1 service (both engines)": {
+  "status": "closed",
+  "published": "22 Sep 2026",
+  "closes": "02 Oct 2026 10:00 GST",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": null,
+  "milestone": "RFQ deadline (02 Oct 2026 10:00 GST) passed; DEWA does not publish local-purchase RFQ results; DEWA portal returned HTTP 403 on 13 Oct so a further extension cannot be ruled out",
+  "evidence": [
+   {
+    "url": "https://www.dewa.gov.ae/api/RfxDownload/Get/2332602361",
+    "quote": "RFQ NUMBER : 2332602361 DATE : 22.09.2026 REQ No : 1032604527 REQ TITLE : 1-Block #30 EDG # 12 all Cyli ... CLOSING DATE : 02.10.2026 CLOSING TIME : 10:00:00 ... PERFORM BORESCOPE INSPECTION AND COMPRESSION TEST ON BOTH ENGINES"
+   },
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/procurement-rfx",
+    "quote": "2332602361 View RFx details 1-Block #30 EDG # 12 all Cyli 1032604527 22-Sep-2026 02-Oct-2026"
+   }
+  ]
+ },
+ "Kohler generator alternator rotating diodes and diode kit (insurance spares)": {
+  "status": "closed",
+  "published": "23 Sep 2026",
+  "closes": "02 Oct 2026 (extended from 29 Sep 2026)",
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": "Kohler (existing generator)",
+  "milestone": "RFQ deadline (02 Oct 2026 (extended from 29 Sep 2026)) passed; DEWA does not publish local-purchase RFQ results; DEWA portal returned HTTP 403 on 13 Oct so a further extension cannot be ruled out",
+  "evidence": [
+   {
+    "url": "https://www.dewa.gov.ae/api/RfxDownload/Get/2012604992",
+    "quote": "RFQ NUMBER : 2012604992 DATE : 23.09.2026 REQ No : 1012605472 REQ TITLE : KOHLER GENERATOR ... CLOSING DATE : 29.09.2026 CLOSING TIME : 10:00:00 ... DIODE; ROTATING DIODE; MAKE: MS POWER; TYPE: MS D136R"
+   },
+   {
+    "url": "https://www.dewa.gov.ae/en/supplier/services/procurement-rfx",
+    "quote": "2012604992 View RFx details KOHLER GENERATOR INSURANCE PA 1012605472 23-Sep-2026 02-Oct-2026"
+   }
+  ]
+ },
+ "Khazna Data Centres - Dubai Production City data centre (part of the 200 MW expansion), main contract": {
+  "status": "unknown",
+  "published": "03 Sep 2025 (MEED report)",
+  "closes": null,
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "USD",
+  "brand": null,
+  "milestone": "Last public milestone still MEED 3 Sep 2025: USD 408m project in bid evaluation, main contract yet to be awarded. No contractor award found as of 13 Oct 2026",
+  "evidence": [
+   {
+    "url": "https://guest.meed.com/khazna-secures-262bn-for-uae-data-centre-projects/",
+    "quote": "The $408m project is in the bid evaluation stage, with the main contract yet to be awarded."
+   }
+  ]
+ },
+ "Al Maktoum International Airport (DWC) expansion - power generation plant packages (upcoming DAEP awards)": {
+  "status": "upcoming",
+  "published": "15-16 Jun 2026 (news)",
+  "closes": null,
+  "bid_opening": null,
+  "award_date": null,
+  "bidders": [],
+  "winner": null,
+  "award_value": null,
+  "currency": "AED",
+  "brand": null,
+  "milestone": "Jun 2026: DAEP to award over AED 55bn by end-2026 incl. power generation and district cooling plants; Aug 2026: Mitsubishi/L&T won the people-mover (unrelated package). No power-plant package tender or award found as of 13 Oct 2026",
+  "evidence": [
+   {
+    "url": "https://www.districtenergy.org/blogs/district-energy/2026/06/17/dubais-al-maktoum-airport-enters-major-constructio",
+    "quote": "Dubai's Al Maktoum International Airport remains on track to begin operations in 2032"
+   }
+  ]
+ }
+}

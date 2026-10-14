@@ -1,0 +1,2438 @@
+{
+ "_asOf": "2026-10-13",
+ "projects": [
+  {
+   "id": "cat-joule-utah",
+   "cid": "CATERPIL",
+   "name": "Joule / Wheeler 4 GW data centre campus, Utah",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "Joule Capital Partners (dealer Wheeler Machinery)",
+   "location": "Central Utah, USA",
+   "stage": 2,
+   "stageNote": "Agreement announced Aug 2025 for a 4,000-acre campus; launch is targeted for 2026.",
+   "refs": {
+    "move": [
+     "Joule, Caterpillar and Wheeler"
+    ],
+    "partner": [
+     "JOULECAP"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-08-07",
+     "Joule, Caterpillar and Wheeler announce the agreement"
+    ],
+    [
+     "2026",
+     "Launch targeted",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Cat G3520K gas gensets with combined cooling, heat and power"
+    ],
+    [
+     "Storage",
+     "1.1 GWh grid-forming battery"
+    ],
+    [
+     "Scale",
+     "4 GW total energy, 4,000 acre campus"
+    ]
+   ],
+   "mw": 4000,
+   "stance": null
+  },
+  {
+   "id": "cat-monarch",
+   "cid": "CATERPIL",
+   "name": "Monarch Compute Campus, 2 GW gas power (AIP Corp, Boyd CAT)",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "American Intelligence & Power Corp (dealer Boyd CAT)",
+   "location": "West Virginia, USA",
+   "stage": 2,
+   "stageNote": "Alliance formed 28 Jan 2026. Deliveries run Sep 2026 to Aug 2027 with 2 GW online in 2027; 8 GW is planned in total.",
+   "refs": {
+    "move": [
+     "AIP Corp, Caterpillar and Boyd CAT"
+    ],
+    "partner": [
+     "AMERICAN"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-01-28",
+     "Alliance announced"
+    ],
+    [
+     "2026-09",
+     "Deliveries begin",
+     "expected"
+    ],
+    [
+     "2027-08",
+     "Deliveries complete; 2 GW online in 2027",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Cat G3516 fast-response natural gas gensets with battery storage and SCR"
+    ],
+    [
+     "Scale",
+     "2 GW now, 8 GW planned"
+    ]
+   ],
+   "mw": 2000,
+   "stance": null
+  },
+  {
+   "id": "cat-propwr",
+   "cid": "CATERPIL",
+   "name": "ProPetro (PROPWR) 1.5 GW gas generation framework",
+   "kind": "Framework supply",
+   "region": "Worldwide",
+   "customer": "ProPetro, PROPWR division",
+   "location": "Not stated (record: global)",
+   "stage": 2,
+   "stageNote": "Framework signed 29 Apr 2026: at least 1.5 GW over five years, option to about 2.1 GW; 550 MW already ordered.",
+   "refs": {
+    "move": [
+     "PROPWR signs framework"
+    ],
+    "partner": [
+     "PROPETRO"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-04-29",
+     "Framework agreement signed"
+    ],
+    [
+     "2031",
+     "About 2.6 GW operating by end 2031, including the 550 MW already ordered",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Cat gas generation assets"
+    ],
+    [
+     "Scale",
+     "1.5 GW minimum, about 2.1 GW with option"
+    ],
+    [
+     "Uses",
+     "Data centres, oil and gas, industry"
+    ]
+   ],
+   "mw": 1500,
+   "stance": null
+  },
+  {
+   "id": "cat-onepwr",
+   "cid": "CATERPIL",
+   "name": "OnePWR / Vero3 500 MW gas power with carbon capture",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "OnePWR Solutions (owner-operator), Vero3 (CO2 storage)",
+   "location": "Not stated (record: global)",
+   "stage": 1,
+   "stageNote": "Collaboration announced Mar 2026; the inaugural 500 MW prime power project is targeted to launch in 2026. Caterpillar supplies generation and leads front-end engineering for the capture.",
+   "refs": {
+    "move": [
+     "Caterpillar, OnePWR Solutions and Vero3"
+    ],
+    "partner": [
+     "ONEPWRSO"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-03",
+     "Collaboration announced"
+    ],
+    [
+     "2026",
+     "Inaugural project targeted to launch",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Scope",
+     "Gas generation, carbon capture, battery storage, permanent CO2 sequestration"
+    ],
+    [
+     "Scale",
+     "500 MW prime power (inaugural project)"
+    ]
+   ],
+   "mw": 500,
+   "stance": null
+  },
+  {
+   "id": "cat-energyvault-texas",
+   "cid": "CATERPIL",
+   "name": "Energy Vault 1.25 GW hyperscaler power, Texas",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "Energy Vault (for an unnamed AI data centre operator)",
+   "location": "Texas, USA",
+   "stage": 2,
+   "stageNote": "Signed Aug 2026, Energy Vault's largest contract. A power-generation EPC deploys Cat gensets with Energy Vault grid-forming batteries; first deployments within 4 to 12 months.",
+   "refs": {
+    "move": [
+     "Energy Vault signs 1.25 GW"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-08-07",
+     "Contract announced"
+    ],
+    [
+     "2027-08",
+     "First deployments due within 4 to 12 months of signing",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Cat gensets plus Energy Vault grid-forming BESS"
+    ],
+    [
+     "Scale",
+     "1.25 GW integrated power"
+    ]
+   ],
+   "mw": 1250,
+   "stance": null
+  },
+  {
+   "id": "cat-stella",
+   "cid": "CATERPIL",
+   "name": "Stella Power Titan 130 turbine packages",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "Stella Power Company",
+   "location": "North America",
+   "stage": 2,
+   "stageNote": "Large order placed Aug 2026 with Caterpillar's Solar Turbines for onsite power.",
+   "refs": {
+    "move": [
+     "Stella Power orders"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-08-04",
+     "Order announced"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Solar Turbines PGM130 packages (Titan 130, over 16 MW each, 90 second start)"
+    ],
+    [
+     "Uses",
+     "Data centres, industrial sites, oil and gas"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "cat-kazakh-mine",
+   "cid": "CATERPIL",
+   "name": "Off-grid gold mine power, Aktobe, Kazakhstan",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "West Gold Mining (dealer Borusan Cat)",
+   "location": "Aktobe, Kazakhstan",
+   "stage": 2,
+   "stageNote": "Two Cat G3500K gas gensets selected for a site nearly 300 km from the nearest city; small in scale.",
+   "refs": {
+    "news": [
+     "Caterpillar G3500K gas gensets selected"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-10-07",
+     "Selection reported"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "2 x Cat G3500K gas gensets"
+    ],
+    [
+     "Use",
+     "Prime off-grid power"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "cat-engine-capacity",
+   "cid": "CATERPIL",
+   "name": "Large-engine capacity expansion (Lafayette and gas-engine restart)",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Caterpillar (own investment)",
+   "location": "Lafayette, Indiana, USA, and other large-engine sites",
+   "stage": 3,
+   "stageNote": "USD 725m Lafayette expansion committed Oct 2025; plan raised in Apr 2026 to about 3x 2024 large-engine capacity (about 15 GW a year more); the 10 MW gas engine restarts with shipments from Q4 2026.",
+   "refs": {
+    "move": [
+     "Caterpillar commits USD 725 million",
+     "Q1 2026: Caterpillar triples"
+    ],
+    "news": [
+     "Caterpillar restarts 10 MW"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-10-21",
+     "USD 725m Lafayette expansion committed"
+    ],
+    [
+     "2026-04-30",
+     "Capacity plan raised to about 3x 2024 levels, investment mainly 2027 to 2029"
+    ],
+    [
+     "2026-09-28",
+     "10 MW gas engine restart reported, about 1.5 GW of capacity back online"
+    ],
+    [
+     "2026-10",
+     "Shipments from the restarted line expected from Q4 2026",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Investment",
+     "USD 725m (Lafayette) plus USD 100m workforce pledge"
+    ],
+    [
+     "Capacity",
+     "About 15 GW a year of added large-engine capacity"
+    ],
+    [
+     "Order book",
+     "Large gas-engine orders booked into 2028-29 (Trefis)"
+    ]
+   ],
+   "mw": null,
+   "stance": "threat"
+  },
+  {
+   "id": "cat-red-sea",
+   "cid": "CATERPIL",
+   "name": "The Red Sea Project construction power",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Red Sea Global (via Zahid Tractor)",
+   "location": "Saudi Arabia, west coast",
+   "stage": 4,
+   "stageNote": "Delivered (record dated Jun 2022): 69 Cat gensets for the construction phase.",
+   "refs": {
+    "ref": [
+     "The Red Sea Project construction power"
+    ],
+    "partner": [
+     "REDSEAGL"
+    ]
+   },
+   "timeline": [
+    [
+     "2022-06",
+     "69 gensets supplied by Zahid Tractor"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "69 Cat gensets, diesel or B100 biodiesel, with Cat Connect remote monitoring"
+    ],
+    [
+     "Scale",
+     "32 MW prime"
+    ],
+    [
+     "Segment",
+     "Construction"
+    ]
+   ],
+   "mw": 32,
+   "stance": null
+  },
+  {
+   "id": "cat-neom",
+   "cid": "CATERPIL",
+   "name": "NEOM earthworks fleet (The Line)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "NEOM (via Zahid Tractor)",
+   "location": "NEOM, Saudi Arabia",
+   "stage": 3,
+   "stageNote": "Ongoing: about 5,000 Cat machines supported on site, expected to double the following year. No genset scope is stated.",
+   "refs": {
+    "ref": [
+     "NEOM earthworks fleet"
+    ],
+    "partner": [
+     "NEOMVIAZ"
+    ]
+   },
+   "timeline": [
+    [
+     "2023-01",
+     "About 5,000 Cat machines on site, supported by Zahid Tractor"
+    ]
+   ],
+   "specs": [
+    [
+     "Scope",
+     "Machines, customer value agreements, technician training, 24/7 support"
+    ],
+    [
+     "Genset scope",
+     "Not stated"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "cat-tanajib",
+   "cid": "CATERPIL",
+   "name": "Aramco Tanajib Gas Plant temporary power",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Saudi Aramco (via Altaaqa, Zahid Group)",
+   "location": "Tanajib, Saudi Arabia",
+   "stage": 4,
+   "stageNote": "Delivered for one month; the genset brand is not named in the source.",
+   "refs": {
+    "ref": [
+     "Aramco Tanajib Gas Plant"
+    ],
+    "partner": [
+     "ALTAAQAA"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Temporary power delivered by Altaaqa"
+    ]
+   ],
+   "specs": [
+    [
+     "Scale",
+     "1.94 MW (2 x 970 kW), one month"
+    ],
+    [
+     "Voltage",
+     "460 V and 380 V with a 50 kVA transformer and LV panel"
+    ],
+    [
+     "Segment",
+     "Oil and gas"
+    ]
+   ],
+   "mw": 1.94,
+   "stance": null
+  },
+  {
+   "id": "cat-themar",
+   "cid": "CATERPIL",
+   "name": "Themar Al Emarat greenhouse hybrid power, Sharjah",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Themar Al Emarat LLC (via Al-Bahar)",
+   "location": "Sharjah, UAE",
+   "stage": 4,
+   "stageNote": "Delivered Feb 2020 as a single-supplier microgrid, then extended with 3516E sets for a 5.94 MW hybrid.",
+   "refs": {
+    "ref": [
+     "Themar Al Emarat greenhouse"
+    ],
+    "partner": [
+     "THEMARAL"
+    ]
+   },
+   "timeline": [
+    [
+     "2020-02",
+     "6 MW microgrid delivered by Al-Bahar"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Cat PV, five 3412 gensets, Cat energy storage and Master Microgrid Controller; later 3516E 50 and 60 Hz HV ratings"
+    ],
+    [
+     "Scale",
+     "5.94 MW hybrid; earlier 6 MW (2.7 MW PV, 3.24 MW gensets, 286 kWh storage)"
+    ],
+    [
+     "Segment",
+     "Utility"
+    ]
+   ],
+   "mw": 5.94,
+   "stance": null
+  },
+  {
+   "id": "cat-lamprell",
+   "cid": "CATERPIL",
+   "name": "Lamprell jack-up rig power (LeTourneau Super 116E)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Lamprell (via Al-Bahar)",
+   "location": "UAE",
+   "stage": 4,
+   "stageNote": "First of two rigs commissioned Nov 2022; the second rig is in development.",
+   "refs": {
+    "ref": [
+     "Lamprell jack-up rig power"
+    ],
+    "partner": [
+     "LAMPRELL"
+    ]
+   },
+   "timeline": [
+    [
+     "2020-01",
+     "Order placed"
+    ],
+    [
+     "2022-11",
+     "First rig's power package commissioned"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "5 x Cat 3516C (1,530 ekW, 60 Hz, 600 V) and 1 x 3512C (1,310 ekW)"
+    ],
+    [
+     "Segment",
+     "Marine"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "cat-dubai-metro",
+   "cid": "CATERPIL",
+   "name": "Dubai Metro emergency backup power",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Roads & Transport Authority, Dubai (via Al-Bahar)",
+   "location": "Dubai, UAE",
+   "stage": 4,
+   "stageNote": "Delivered for phases 1 and 2 (2009), with a three-year maintenance contract. Caterpillar is the incumbent reference for the Gold Line expansion that Cummins Arabia is tracking.",
+   "refs": {
+    "ref": [
+     "Dubai Metro emergency backup power"
+    ],
+    "partner": [
+     "DUBAIROA"
+    ]
+   },
+   "timeline": [
+    [
+     "2009",
+     "20 gensets supplied, installed and commissioned"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "20 Cat gensets: 8 x 3516, 8 x 3512, 2 x C18, 2 x C15"
+    ],
+    [
+     "Rating",
+     "320 to 1,820 kW each, 50 Hz"
+    ],
+    [
+     "Service",
+     "Staff training and a three-year maintenance contract"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "cat-covid",
+   "cid": "CATERPIL",
+   "name": "COVID-19 emergency power, Abu Dhabi and Kuwait",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Quarantine and test facilities (via Al-Bahar)",
+   "location": "Abu Dhabi, UAE, and Kuwait",
+   "stage": 4,
+   "stageNote": "Delivered Apr 2020 as rental power.",
+   "refs": {
+    "ref": [
+     "COVID-19 emergency power"
+    ],
+    "partner": [
+     "MOHAMEDA"
+    ]
+   },
+   "timeline": [
+    [
+     "2020-04",
+     "17 MW of rental power deployed"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "10 x C15 500 kVA, 4 x C32 1,000 kVA, 8 x 3512 1,500 kVA; plus C13 sets with ATS for five test centres; two C18 and one C13 in Kuwait"
+    ],
+    [
+     "Scale",
+     "17 MW rental"
+    ],
+    [
+     "Segment",
+     "Healthcare"
+    ]
+   ],
+   "mw": 17,
+   "stance": null
+  },
+  {
+   "id": "rr-energyvault",
+   "cid": "ROLLSROY",
+   "name": "Energy Vault 275 MW mtu engine capacity for AI sites",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "Energy Vault (financed by Eagle Point Credit Management)",
+   "location": "Not stated",
+   "stage": 2,
+   "stageNote": "Fully contracted 10 Sep 2026. Deliveries run from H2 2027 to H1 2028.",
+   "refs": {
+    "news": [
+     "Energy Vault contracts 275 MW"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-09-10",
+     "Capacity secured and fully contracted"
+    ],
+    [
+     "2027-07",
+     "Deliveries start (H2 2027)",
+     "expected"
+    ],
+    [
+     "2028-06",
+     "Deliveries finish (H1 2028)",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Reciprocating engine generation using Rolls-Royce mtu technology"
+    ],
+    [
+     "Scale",
+     "275 MW"
+    ]
+   ],
+   "mw": 275,
+   "stance": null
+  },
+  {
+   "id": "rr-kuwait-t2",
+   "cid": "ROLLSROY",
+   "name": "Kuwait International Airport Terminal 2 backup power",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "DGCA and Ministry of Public Works (builder Limak), via Al Mulla Power Solutions",
+   "location": "Kuwait",
+   "stage": 3,
+   "stageNote": "Awarded Nov 2025; units were due for delivery in early 2026, then commissioning. Completion has not been reported.",
+   "refs": {
+    "move": [
+     "Seven mtu 20V4000 DS3600"
+    ],
+    "ref": [
+     "Kuwait International Airport Terminal 2"
+    ],
+    "partner": [
+     "LIMAKTUR"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-11-05",
+     "Award announced"
+    ],
+    [
+     "2026-03",
+     "Delivery due (early 2026), then commissioning",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "7 x mtu 20V4000 DS3600 diesel gensets (3,580 to 3,730 kVA class)"
+    ],
+    [
+     "Design",
+     "55 C ambient"
+    ],
+    [
+     "Scope",
+     "Catering building and central energy infrastructure"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "rr-saudi-trains",
+   "cid": "ROLLSROY",
+   "name": "Dammam to Riyadh high-speed trains, mtu rail engines",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Stadler Bussnang AG",
+   "location": "Saudi Arabia",
+   "stage": 2,
+   "stageNote": "Ordered Aug 2025, with an option for 40 more. A rail engine order, not a genset sale.",
+   "refs": {
+    "move": [
+     "50 mtu 12V4000 R64 engines"
+    ],
+    "ref": [
+     "Dammam to Riyadh high-speed trains"
+    ],
+    "partner": [
+     "STADLERB"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-08-21",
+     "50 engines ordered, 10 trains"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "50 x mtu 12V4000 R64 rail engines, 1,500 kW each, EU Stage V"
+    ],
+    [
+     "Option",
+     "40 more engines"
+    ],
+    [
+     "Trains",
+     "10 trains, up to 200 km/h"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "rr-kaust",
+   "cid": "ROLLSROY",
+   "name": "KAUST supercomputing facility dynamic UPS",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "King Abdullah University of Science and Technology",
+   "location": "Thuwal, Saudi Arabia",
+   "stage": 4,
+   "stageNote": "Delivered; won in Apr 2021 after discussions since 2016, with substantial local content.",
+   "refs": {
+    "ref": [
+     "KAUST supercomputing facility"
+    ],
+    "partner": [
+     "KINGABDU"
+    ]
+   },
+   "timeline": [
+    [
+     "2016",
+     "Discussions begin"
+    ],
+    [
+     "2021-04-07",
+     "Contract announced"
+    ],
+    [
+     "2021-07",
+     "Delivery in summer 2021"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "12 x mtu Kinetic PowerPacks (16V4000 G74S, 1.6 MW each)"
+    ],
+    [
+     "Scale",
+     "19.2 MW"
+    ],
+    [
+     "Segment",
+     "Data centre"
+    ]
+   ],
+   "mw": 19.2,
+   "stance": null
+  },
+  {
+   "id": "rr-makeen",
+   "cid": "ROLLSROY",
+   "name": "Makeen: mtu licence and exclusive Saudi distribution",
+   "kind": "Programme",
+   "region": "Gulf",
+   "customer": "Saudi Engines Manufacturing Company (Makeen: Aramco, HD Hyundai, Dussur)",
+   "location": "Saudi Arabia",
+   "stage": 2,
+   "stageNote": "Exclusive stationary-power distribution effective 1 Oct 2025; individual licence for mtu Series 2000 marine engines signed Oct 2026. No volumes, investment or start date are disclosed.",
+   "refs": {
+    "move": [
+     "Makeen becomes exclusive mtu distributor"
+    ],
+    "news": [
+     "Rolls-Royce licenses MAKEEN"
+    ],
+    "partner": [
+     "SAUDIENG"
+    ]
+   },
+   "timeline": [
+    [
+     "2023-11",
+     "Framework agreement (the partner record dates it 14 Dec 2023)"
+    ],
+    [
+     "2025-10-01",
+     "Exclusive distribution extended to stationary power across Saudi Arabia"
+    ],
+    [
+     "2026-10-01",
+     "Individual licence for Series 2000 marine engines"
+    ]
+   ],
+   "specs": [
+    [
+     "Scope",
+     "Local manufacture and assembly, parts, factory-certified MRO, integrated power solutions"
+    ],
+    [
+     "Next target",
+     "Rail, after marine"
+    ]
+   ],
+   "mw": null,
+   "stance": "threat"
+  },
+  {
+   "id": "rr-almulla-mro",
+   "cid": "ROLLSROY",
+   "name": "Al Mulla Power Solutions mtu MRO headquarters, Ahmadi",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Al Mulla Power Solutions",
+   "location": "Ahmadi, Kuwait",
+   "stage": 3,
+   "stageNote": "Under construction with completion due September 2026; an opening has not been reported.",
+   "refs": {
+    "move": [
+     "Al Mulla Power Solutions builds mtu MRO"
+    ]
+   },
+   "timeline": [
+    [
+     "2024",
+     "Agreement describes stage 4 overhaul capability for four engines at once"
+    ],
+    [
+     "2026-03-05",
+     "Build announced"
+    ],
+    [
+     "2026-09",
+     "Completion due",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Site",
+     "5,000 sqm plot, over 3,600 sqm built up, Ahmadi industrial zone"
+    ],
+    [
+     "Scope",
+     "MRO centre, workshops, spare parts, technical support, training centre, offices"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "rr-ignitis",
+   "cid": "ROLLSROY",
+   "name": "Ignitis 582 MWh mtu battery order, Lithuania",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "Ignitis Group (Lithuania); Sunly (Latvia) separately",
+   "location": "Lithuania",
+   "stage": 2,
+   "stageNote": "Ordered Sep 2025, Rolls-Royce's largest battery order; operational from 2027.",
+   "refs": {
+    "move": [
+     "Largest ever mtu battery order"
+    ],
+    "partner": [
+     "IGNITISG"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-09-16",
+     "Order announced"
+    ],
+    [
+     "2027",
+     "Sites operational",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "mtu EnergyPack with EnergetIQ Manager controller"
+    ],
+    [
+     "Scale",
+     "582 MWh / 291 MW at three sites (wind farms and a pumped storage plant)"
+    ]
+   ],
+   "mw": 291,
+   "stance": null
+  },
+  {
+   "id": "rr-avk",
+   "cid": "ROLLSROY",
+   "name": "AVK five-year Series 4000 capacity agreement",
+   "kind": "Framework supply",
+   "region": "Worldwide",
+   "customer": "AVK (UK and Ireland packager)",
+   "location": "United Kingdom and Ireland",
+   "stage": 2,
+   "stageNote": "Signed Dec 2025: guaranteed Series 4000 emergency genset capacity for five years.",
+   "refs": {
+    "move": [
+     "Five-year guaranteed Series 4000"
+    ],
+    "partner": [
+     "AVKUKAND"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-12-04",
+     "Five-year capacity agreement signed"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "mtu Series 4000 emergency gensets, HVO-ready"
+    ],
+    [
+     "Track record",
+     "AVK has taken over 600 mtu gensets in a decade"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "rr-us-capacity",
+   "cid": "ROLLSROY",
+   "name": "US Series 4000 capacity expansion (Mankato and Aiken)",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Rolls-Royce Power Systems (own investment)",
+   "location": "Mankato, Minnesota, and Aiken, South Carolina, USA",
+   "stage": 3,
+   "stageNote": "Mankato logistics centre opened Jul 2026 (genset capacity to more than double by end 2026). Aiken engine machining starts production July 2027.",
+   "refs": {
+    "move": [
+     "USD 24 million Mankato expansion",
+     "USD 75 million Aiken",
+     "Mankato logistics centre opens"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-06-03",
+     "USD 24m Mankato expansion announced"
+    ],
+    [
+     "2025-07-15",
+     "USD 75m Aiken expansion announced"
+    ],
+    [
+     "2026-01",
+     "Aiken construction starts (Q1 2026)",
+     "expected"
+    ],
+    [
+     "2026-07-09",
+     "Mankato logistics centre opens"
+    ],
+    [
+     "2026-12",
+     "Genset capacity more than doubles by end 2026",
+     "expected"
+    ],
+    [
+     "2027-07",
+     "Aiken production starts",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Investment",
+     "USD 24m (Mankato) and USD 75m (Aiken)"
+    ],
+    [
+     "Output",
+     "Series 4000 genset production up more than 120% versus the prior year"
+    ],
+    [
+     "Frequency",
+     "Mankato builds 60 Hz sets"
+    ]
+   ],
+   "mw": null,
+   "stance": "watch"
+  },
+  {
+   "id": "rr-dubai-airport",
+   "cid": "ROLLSROY",
+   "name": "Dubai International Airport standby power",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Dubai International Airport",
+   "location": "Dubai, UAE",
+   "stage": 4,
+   "stageNote": "Long-running: mtu gensets and combined heat and power have operated at the airport for many years; quantity not stated.",
+   "refs": {
+    "ref": [
+     "Dubai International Airport standby power"
+    ],
+    "partner": [
+     "ALMASAOO"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-11-05",
+     "Cited by Rolls-Royce among major airports it secures"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "mtu gensets and CHP systems"
+    ],
+    [
+     "Quantity",
+     "Not stated"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "rr-saudi-naval",
+   "cid": "ROLLSROY",
+   "name": "Saudi naval and government fleets, mtu marine engines",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Saudi naval and government fleets",
+   "location": "Saudi Arabia",
+   "stage": 3,
+   "stageNote": "450 mtu marine engines in service, serviced with local partners; cited in the World Defense Show 2026 localisation statement.",
+   "refs": {
+    "ref": [
+     "Saudi naval and government fleets"
+    ],
+    "partner": [
+     "SAUDIENG"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-02-06",
+     "450 engines in service reported"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "450 mtu marine engines"
+    ],
+    [
+     "Local content",
+     "Over 80% Saudisation reported"
+    ],
+    [
+     "Segment",
+     "Defence"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "rr-adports",
+   "cid": "ROLLSROY",
+   "name": "Abu Dhabi Ports Group fast ferries",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Abu Dhabi Ports Group (built by Penguin Shipyard International)",
+   "location": "Abu Dhabi, UAE",
+   "stage": 4,
+   "stageNote": "Delivered: two high-speed aluminium ferries.",
+   "refs": {
+    "ref": [
+     "Abu Dhabi Ports Group fast ferries"
+    ],
+    "partner": [
+     "SAUDIENG"
+    ]
+   },
+   "timeline": [
+    [
+     "2023-09-04",
+     "Vessels announced"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "8 x mtu 16V4000 engines (four per vessel)"
+    ],
+    [
+     "Power",
+     "Over 10,000 kW per vessel"
+    ],
+    [
+     "Segment",
+     "Marine"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-innio",
+   "cid": "REHLKO",
+   "name": "INNIO 1.25 GW gas-engine framework",
+   "kind": "Framework supply",
+   "region": "Worldwide",
+   "customer": "INNIO Group (Jenbacher), delivered through Clarke Energy",
+   "location": "Clarke Energy's authorised territories (no KSA, UAE or Kuwait office)",
+   "stage": 2,
+   "stageNote": "Three-year framework signed Apr 2026 allocating 1.25 GW of INNIO gas engine capacity to Rehlko.",
+   "refs": {
+    "move": [
+     "Rehlko and INNIO sign"
+    ],
+    "partner": [
+     "INNIOGRO"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-04-09",
+     "Framework signed"
+    ],
+    [
+     "2029-04",
+     "Framework term ends (three years)",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "INNIO gas engines as integrated gas genset plus battery hybrids"
+    ],
+    [
+     "Scale",
+     "1.25 GW over three years"
+    ],
+    [
+     "Markets",
+     "Hyperscale, colocation, enterprise data centres; flexible generation"
+    ]
+   ],
+   "mw": 1250,
+   "stance": null
+  },
+  {
+   "id": "reh-hyperscale-us",
+   "cid": "REHLKO",
+   "name": "1.7 GW of North American hyperscale backup orders",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "Multiple North American hyperscale campuses",
+   "location": "North America",
+   "stage": 2,
+   "stageNote": "Orders secured within 60 days to 29 Apr 2026, for diesel modular backup generator solutions.",
+   "refs": {
+    "move": [
+     "Rehlko secures another 1.7 GW"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-04-29",
+     "Orders announced"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Diesel modular backup generator solutions, repeatable architectures"
+    ],
+    [
+     "Scale",
+     "1.7 GW"
+    ]
+   ],
+   "mw": 1700,
+   "stance": null
+  },
+  {
+   "id": "reh-jordan-dc",
+   "cid": "REHLKO",
+   "name": "Jordan data centre backup power",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "Jordan data centre (via Alghanem Trading and Contracting)",
+   "location": "Jordan",
+   "stage": 4,
+   "stageNote": "Delivered; capacity and models were not published.",
+   "refs": {
+    "move": [
+     "Rehlko and Alghanem deliver"
+    ],
+    "ref": [
+     "Data centre backup power, Jordan"
+    ],
+    "partner": [
+     "ALGHANEM"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-11-11",
+     "Delivery reported"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Rehlko generators (models not published)"
+    ],
+    [
+     "Channel",
+     "Alghanem, exclusive Jordan distributor for over 25 years"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-changzhou",
+   "cid": "REHLKO",
+   "name": "Changzhou capacity doubling, 5.5 GW to 11 GW",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Rehlko (own investment)",
+   "location": "Changzhou, China",
+   "stage": 3,
+   "stageNote": "Programme launched Sep 2026 to reach 11 GW without expanding the footprint; the plant serves EMEA.",
+   "refs": {
+    "news": [
+     "Rehlko launches programme to double Changzhou"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-09-22",
+     "Programme launched"
+    ]
+   ],
+   "specs": [
+    [
+     "Output",
+     "From 5.5 GW to 11 GW of backup power"
+    ],
+    [
+     "Range",
+     "Generator systems from 6 kW to 4,000 kW and key components"
+    ],
+    [
+     "Yield",
+     "First pass yield from 93% to 98%"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-colmar",
+   "cid": "REHLKO",
+   "name": "Liebherr Colmar engine plant extension for KD Series",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Liebherr-Components Colmar (supplier to Rehlko)",
+   "location": "Colmar, France",
+   "stage": 3,
+   "stageNote": "Extension of nearly 12,000 square metres marked in a Jun 2026 ceremony; engine capacity for Rehlko more than doubles once fully ramped.",
+   "refs": {
+    "move": [
+     "Liebherr expands Colmar"
+    ],
+    "partner": [
+     "LIEBHERR"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-06-17",
+     "Extension ceremony"
+    ]
+   ],
+   "specs": [
+    [
+     "Site",
+     "Nearly 12,000 square metre extension"
+    ],
+    [
+     "Output",
+     "Engine production for Rehlko to more than double"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-kenosha",
+   "cid": "REHLKO",
+   "name": "Kenosha eFRAME enclosure assembly",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Rehlko (own investment)",
+   "location": "Kenosha, Wisconsin, USA",
+   "stage": 3,
+   "stageNote": "Opened Jun 2026; initial production late 2026, full capacity early 2027.",
+   "refs": {
+    "move": [
+     "Rehlko opens Kenosha"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-06-01",
+     "Facility opened"
+    ],
+    [
+     "2026-12",
+     "Initial production (late 2026)",
+     "expected"
+    ],
+    [
+     "2027-03",
+     "Full capacity (early 2027)",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Product",
+     "Integrated eFRAME enclosures for backup generators up to 4 MW"
+    ],
+    [
+     "Plan",
+     "Capacity up more than 400% through the decade"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-cholet",
+   "cid": "REHLKO",
+   "name": "Cholet switchgear plant expansion",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Rehlko (own investment)",
+   "location": "Cholet, France",
+   "stage": 3,
+   "stageNote": "EUR 12m expansion, completion due Nov 2026.",
+   "refs": {
+    "news": [
+     "Rehlko invests EUR 12 million"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-07-14",
+     "Investment announced"
+    ],
+    [
+     "2026-11",
+     "Completion due",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Investment",
+     "EUR 12m"
+    ],
+    [
+     "Space",
+     "56% more manufacturing space over five years"
+    ],
+    [
+     "Lead time",
+     "30% shorter on completion"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-mdsenergy-ksa",
+   "cid": "REHLKO",
+   "name": "Mobily telecom sites (MDS Energy reference)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Mobily",
+   "location": "Saudi Arabia",
+   "stage": 4,
+   "stageNote": "A customer reference of MDS Energy, the Midis affiliate that distributes Rehlko and Vertiv; equipment scope and capacity not published.",
+   "refs": {
+    "ref": [
+     "Mobily (telecom) sites"
+    ],
+    "partner": [
+     "MIDISGRO"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Listed as a customer reference"
+    ]
+   ],
+   "specs": [
+    [
+     "Segment",
+     "Data centre"
+    ],
+    [
+     "Scope",
+     "Not published"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-mdsenergy-sib",
+   "cid": "REHLKO",
+   "name": "The Saudi Investment Bank (MDS Energy reference)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "The Saudi Investment Bank",
+   "location": "Saudi Arabia",
+   "stage": 4,
+   "stageNote": "A customer reference of MDS Energy; equipment scope and capacity not published.",
+   "refs": {
+    "ref": [
+     "The Saudi Investment Bank"
+    ],
+    "partner": [
+     "MIDISGRO"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Listed as a customer reference"
+    ]
+   ],
+   "specs": [
+    [
+     "Segment",
+     "Data centre"
+    ],
+    [
+     "Scope",
+     "Not published"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-mdsenergy-airports",
+   "cid": "REHLKO",
+   "name": "Abu Dhabi Airport and Al Ain Airport (MDS Energy reference)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Abu Dhabi Airport and Al Ain Airport",
+   "location": "UAE",
+   "stage": 4,
+   "stageNote": "A customer reference of MDS Energy; whether the scope was Kohler gensets or Vertiv equipment is not stated.",
+   "refs": {
+    "ref": [
+     "Abu Dhabi Airport and Al Ain Airport"
+    ],
+    "partner": [
+     "MIDISGRO"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Listed as a customer reference"
+    ]
+   ],
+   "specs": [
+    [
+     "Segment",
+     "Construction"
+    ],
+    [
+     "Scope",
+     "Not stated"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-mdsenergy-landmarks",
+   "cid": "REHLKO",
+   "name": "Sheikh Zayed Grand Mosque and Yas Mall (MDS Energy reference)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Sheikh Zayed Grand Mosque; Yas Mall",
+   "location": "Abu Dhabi, UAE",
+   "stage": 4,
+   "stageNote": "Customer references of MDS Energy; equipment scope and capacity not published.",
+   "refs": {
+    "ref": [
+     "Sheikh Zayed Grand Mosque and Yas Mall"
+    ],
+    "partner": [
+     "MIDISGRO"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Listed as customer references"
+    ]
+   ],
+   "specs": [
+    [
+     "Segment",
+     "Construction"
+    ],
+    [
+     "Scope",
+     "Not published"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "reh-mdsenergy-dubai",
+   "cid": "REHLKO",
+   "name": "Emirates Airlines, Al Jalila Children's Hospital, NYU and Zayed University (MDS Energy reference)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Emirates Airlines; Al Jalila Children's Hospital; NYU; Zayed University",
+   "location": "UAE",
+   "stage": 4,
+   "stageNote": "Dubai customer references of MDS Energy; equipment scope and capacity not published.",
+   "refs": {
+    "ref": [
+     "Emirates Airlines, Al Jalila"
+    ],
+    "partner": [
+     "MIDISGRO"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Listed as customer references"
+    ]
+   ],
+   "specs": [
+    [
+     "Segment",
+     "Healthcare"
+    ],
+    [
+     "Scope",
+     "Not published"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "mit-amiral",
+   "cid": "MITSUBIS",
+   "name": "Amiral cogeneration plant, Jubail: first locally assembled M501JAC",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "TAQA and JERA (serving the SATORP petrochemical complex)",
+   "location": "Jubail, Saudi Arabia",
+   "stage": 3,
+   "stageNote": "First M501JAC turbine assembled at Dammam in Oct 2025, destined for the plant. A Mitsubishi Power group reference, not an MGS genset project.",
+   "refs": {
+    "move": [
+     "Mitsubishi Power unveils first locally assembled"
+    ],
+    "ref": [
+     "Amiral Cogeneration Plant"
+    ],
+    "partner": [
+     "SAUDIARA"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-10-14",
+     "First locally assembled turbine unveiled at Dammam"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Mitsubishi Power M501JAC gas turbine"
+    ],
+    [
+     "Scale",
+     "475 MW cogeneration plant"
+    ],
+    [
+     "Segment",
+     "Utility"
+    ]
+   ],
+   "mw": 475,
+   "stance": null
+  },
+  {
+   "id": "mit-jeddah-shuqaiq",
+   "cid": "MITSUBIS",
+   "name": "Jeddah South and Shuqaiq power plants fuel conversion",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Saudi Energy (local EPC Dar Al Balad)",
+   "location": "Jeddah and Shuqaiq, Saudi Arabia",
+   "stage": 2,
+   "stageNote": "Contract won Jul 2026 for dual-fuel conversion of four units at each plant. Boilers, not gensets.",
+   "refs": {
+    "move": [
+     "Mitsubishi Power wins boiler supply"
+    ],
+    "ref": [
+     "Jeddah South and Shuqaiq"
+    ],
+    "partner": [
+     "SAUDIARA"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-07-13",
+     "Contract announced"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Mitsubishi Power boiler components"
+    ],
+    [
+     "Scale",
+     "About 2.9 GW per plant, four units each"
+    ],
+    [
+     "Agent",
+     "Mitsubishi Corporation Machinery"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "mit-kuwait-dealer",
+   "cid": "MITSUBIS",
+   "name": "Kuwait ministry and commercial projects (Al-Sultan & Khalaf)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Kuwaiti ministries and commercial clients",
+   "location": "Kuwait",
+   "stage": 4,
+   "stageNote": "The Kuwait MGS dealer states it takes part in ministry and commercial projects; specific sites and MW are not published.",
+   "refs": {
+    "ref": [
+     "Kuwait ministry and commercial projects"
+    ],
+    "partner": [
+     "ALSULTAN"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Dealer states participation"
+    ]
+   ],
+   "specs": [
+    [
+     "Segment",
+     "Construction"
+    ],
+    [
+     "Scope",
+     "Installation, commissioning, training and handover"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "mit-sdec-dc",
+   "cid": "MITSUBIS",
+   "name": "Saudi data centre and industrial sites (SDEC MGS-R)",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Saudi data centre and industrial operators",
+   "location": "Saudi Arabia",
+   "stage": 1,
+   "stageNote": "SDEC markets the MGS-R range as Uptime certified for data centres; no named installations are published.",
+   "refs": {
+    "ref": [
+     "Saudi data centre and industrial sites"
+    ],
+    "partner": [
+     "SAUDIDIE"
+    ]
+   },
+   "timeline": [
+    [
+     "Undated",
+     "Range marketed as Uptime certified"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Mitsubishi MGS-R compact and medium range"
+    ],
+    [
+     "Segment",
+     "Data centre"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "mit-johor",
+   "cid": "MITSUBIS",
+   "name": "MGS assembly plant, Johor Bahru, Malaysia",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "MHI Engine System Asia (with WDG Assembly)",
+   "location": "Johor Bahru, Malaysia",
+   "stage": 4,
+   "stageNote": "Added Feb 2025 alongside Singapore and Vietnam assembly, to meet data centre demand in Southeast Asia.",
+   "refs": {
+    "move": [
+     "MHI-ESA adds MGS assembly plant"
+    ],
+    "partner": [
+     "MHIENGIN"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-02-14",
+     "New production hub announced"
+    ]
+   ],
+   "specs": [
+    [
+     "Site",
+     "MGS assembly hub, with Singapore and Vietnam"
+    ],
+    [
+     "Supply",
+     "MGS assembly plants supply the Middle East"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "per-shaybah",
+   "cid": "PERKINSF",
+   "name": "Saudi Aramco Shaybah field expansion",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Saudi Aramco (EPC Samsung Engineering), via TAMGO",
+   "location": "Shaybah, Saudi Arabia",
+   "stage": 4,
+   "stageNote": "Delivered: order secured May 2011 for 128 sets, raised to 140; completion was targeted for 2016.",
+   "refs": {
+    "ref": [
+     "Saudi Aramco Shaybah field expansion"
+    ],
+    "partner": [
+     "TAMGOZAH"
+    ]
+   },
+   "timeline": [
+    [
+     "2011-05",
+     "Order secured for 128 sets, later 140"
+    ],
+    [
+     "2016",
+     "Completion targeted",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "140 FG Wilson gensets, 13 to 750 kVA"
+    ],
+    [
+     "Service",
+     "Maintenance at 55 C ambient and dust storm conditions"
+    ],
+    [
+     "Segment",
+     "Oil and gas"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "per-binquraya",
+   "cid": "PERKINSF",
+   "name": "Bin Quaraya residential camp and Schlumberger oilfield rental",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "A Saudi rental company serving Bin Quaraya camp and Schlumberger (via Abdul Latif Jameel Machinery)",
+   "location": "Salasil, north-east of Riyadh, Saudi Arabia",
+   "stage": 4,
+   "stageNote": "Delivered (record dated 2017).",
+   "refs": {
+    "ref": [
+     "Bin Quaraya residential camp"
+    ],
+    "partner": [
+     "ABDULLAT"
+    ]
+   },
+   "timeline": [
+    [
+     "2017",
+     "20 Teksan gensets supplied"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "20 Perkins-powered Teksan gensets: 8 x 150 kVA, 8 x 350 kVA, 4 x 600 kVA prime"
+    ],
+    [
+     "Segment",
+     "Rental"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "per-generac",
+   "cid": "PERKINSF",
+   "name": "Generac US industrial diesel sets on Perkins engines",
+   "kind": "Framework supply",
+   "region": "Worldwide",
+   "customer": "Generac Power Systems",
+   "location": "United States",
+   "stage": 3,
+   "stageNote": "Generac standardises its 1,000 to 1,500 kW diesel sets on Perkins 4008 and D46L engines.",
+   "refs": {
+    "move": [
+     "Generac standardises"
+    ],
+    "partner": [
+     "GENERACP"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-11",
+     "Standardisation reported"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Perkins 4008 (30.6 L) and D46L / 4012 (45.8 L) in Generac SD1000 to SD1250 sets"
+    ],
+    [
+     "Controller",
+     "Deep Sea G8601"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "per-tria-hvo",
+   "cid": "PERKINSF",
+   "name": "FG Wilson HVO field trials with Tria Energy",
+   "kind": "Programme",
+   "region": "Worldwide",
+   "customer": "Tria Energy",
+   "location": "Ireland",
+   "stage": 3,
+   "stageNote": "Trials reported May 2026: diesel-equivalent performance on HVO with no engine or fuel-system change.",
+   "refs": {
+    "move": [
+     "FG Wilson gensets pass HVO"
+    ],
+    "partner": [
+     "TRIAENER"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-05-20",
+     "Trial results published"
+    ]
+   ],
+   "specs": [
+    [
+     "Fuel",
+     "HVO (EN 15940)"
+    ],
+    [
+     "Result",
+     "Diesel-equivalent performance, up to 90% lifecycle CO2 saving"
+    ],
+    [
+     "Aimed at",
+     "Data centre, construction, critical infrastructure"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "gen-amazon",
+   "cid": "GENERAC",
+   "name": "Amazon long-term backup-generator supply agreement",
+   "kind": "Framework supply",
+   "region": "Worldwide",
+   "customer": "Amazon",
+   "location": "Not stated; no Gulf scope named in the filing",
+   "stage": 2,
+   "stageNote": "Signed 16 Sep 2026. Initial deliveries of about USD 2.4bn are expected in 2027 and 2028; the USD 8bn is a warrant-vesting threshold, not a committed order.",
+   "refs": {
+    "news": [
+     "Generac signs long-term Amazon",
+     "Amazon's USD 8bn",
+     "KeyBanc upgrades Generac"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-09-16",
+     "Agreement signed; Amazon receives a warrant for up to 1,693,745 shares"
+    ],
+    [
+     "2027",
+     "Initial deliveries begin",
+     "expected"
+    ],
+    [
+     "2028",
+     "Deliveries continue; Amazon seen as about USD 1.6bn of 2028 data-centre revenue (KeyBanc)",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Backup generators"
+    ],
+    [
+     "Scale",
+     "About USD 2.4bn initial deliveries 2027-2028; payments up to USD 8bn to vest the warrant"
+    ]
+   ],
+   "mw": null,
+   "stance": "threat"
+  },
+  {
+   "id": "gen-hyperscale-global",
+   "cid": "GENERAC",
+   "name": "Global hyperscale supply agreements (Middle East in scope)",
+   "kind": "Framework supply",
+   "region": "Worldwide",
+   "customer": "Two unnamed hyperscale data centre operators",
+   "location": "APAC, Europe, Middle East and Latin America",
+   "stage": 2,
+   "stageNote": "First agreement signed Jun 2026 after factory visits; a second was secured in Q2 2026. About USD 700m is committed for 2027.",
+   "refs": {
+    "move": [
+     "Generac signs global supply agreement",
+     "Generac Q2 2026"
+    ],
+    "partner": [
+     "UNNAMEDH"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-06-02",
+     "First global supply agreement announced"
+    ],
+    [
+     "2026-07-29",
+     "Second hyperscale agreement reported with Q2 results"
+    ],
+    [
+     "2027",
+     "About USD 700m committed for delivery",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Large diesel data centre sets; production in Wisconsin"
+    ],
+    [
+     "Backlog",
+     "Data centre backlog about USD 1.6bn"
+    ],
+    [
+     "Scope",
+     "Global frame agreement naming the Middle East"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "gen-belvidere",
+   "cid": "GENERAC",
+   "name": "Belvidere plant and large-megawatt packaging capacity",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Generac (own investment)",
+   "location": "Belvidere, Illinois, USA",
+   "stage": 2,
+   "stageNote": "Plant bought Jun 2026 to add large-megawatt genset packaging capacity from Q1 2027; Generac expects over USD 1.25bn of annual large-megawatt capacity.",
+   "refs": {
+    "move": [
+     "Generac buys Belvidere"
+    ],
+    "news": [
+     "Generac targets more than $1.25bn"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-02",
+     "Enercon Engineering (enclosures and switchgear) acquired"
+    ],
+    [
+     "2026-06-15",
+     "Belvidere plant acquired"
+    ],
+    [
+     "2026-09-24",
+     "Annual capacity target of over USD 1.25bn reported"
+    ],
+    [
+     "2027-03",
+     "Packaging capacity from Q1 2027",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Jobs",
+     "Over 100"
+    ],
+    [
+     "Capacity",
+     "More than USD 1.25bn a year of large-megawatt generators"
+    ]
+   ],
+   "mw": null,
+   "stance": "threat"
+  },
+  {
+   "id": "wei-aidc-ramp",
+   "cid": "WEICHAIB",
+   "name": "Data centre genset output ramp (4,000 units in 2026)",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Weichai Power (own programme)",
+   "location": "China and Europe",
+   "stage": 3,
+   "stageNote": "H1 2026 data centre genset sales passed 1,400 units, above all of 2025; targets are 4,000 units in 2026 and 6,000 in 2027.",
+   "refs": {
+    "news": [
+     "Weichai H1 2026",
+     "Brokerage: Generac-Amazon deal"
+    ],
+    "move": [
+     "Weichai 2025 results"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-03-26",
+     "2025 results: data centre backup power sales up 259%"
+    ],
+    [
+     "2026-09-10",
+     "H1 2026: over 1,400 data centre gensets sold"
+    ],
+    [
+     "2026-12",
+     "2026 target: 4,000 diesel AIDC gensets",
+     "expected"
+    ],
+    [
+     "2027-12",
+     "2027 target: 6,000",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Output",
+     "4,000 AIDC diesel gensets in 2026, 6,000 in 2027; gas gensets 200 then 2,000"
+    ],
+    [
+     "Engines",
+     "M-series large-bore engines: 6,700 units in H1 2026 (+31.5%)"
+    ]
+   ],
+   "mw": null,
+   "stance": "threat"
+  },
+  {
+   "id": "wei-generac-m55",
+   "cid": "WEICHAIB",
+   "name": "Baudouin M55 engines in Generac's hyperscale agreement",
+   "kind": "Framework supply",
+   "region": "Worldwide",
+   "customer": "Generac, for a hyperscale operator",
+   "location": "APAC, Europe, Middle East and Latin America",
+   "stage": 2,
+   "stageNote": "Generac's SDMD2250 to SDMD3250 sets use Baudouin M55 engines and sit under its global hyperscale supply agreement (signed Jun 2026).",
+   "refs": {
+    "move": [
+     "Generac's Baudouin M55"
+    ],
+    "partner": [
+     "GENERACP"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-06-02",
+     "Generac signs the global agreement naming the Middle East"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Generac SDMD2250, SDMD2500 (12M55) and SDMD3250 (16M55) with Baudouin M55 engines"
+    ],
+    [
+     "Alternator and control",
+     "Marathon DataMAX, DSE G8601"
+    ]
+   ],
+   "mw": null,
+   "stance": "threat"
+  },
+  {
+   "id": "wei-cassis",
+   "cid": "WEICHAIB",
+   "name": "Baudouin Cassis plant expansion",
+   "kind": "Capacity expansion",
+   "region": "Worldwide",
+   "customer": "Baudouin (own investment)",
+   "location": "Cassis, France",
+   "stage": 1,
+   "stageNote": "Expansion and investment projects were discussed in Sep 2026 with local officials; no figures were given.",
+   "refs": {
+    "news": [
+     "Baudouin hosts regional prefect"
+    ]
+   },
+   "timeline": [
+    [
+     "2026-09-14",
+     "Prefect and mayor tour the plant; expansion projects discussed"
+    ]
+   ],
+   "specs": [
+    [
+     "Site",
+     "Baudouin's French plant for high-horsepower data centre gensets"
+    ],
+    [
+     "Scale",
+     "Not disclosed"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "wei-eodev",
+   "cid": "WEICHAIB",
+   "name": "Baudouin SOFC power with EODev",
+   "kind": "Programme",
+   "region": "Worldwide",
+   "customer": "EODev",
+   "location": "France and Poland (exclusive), Europe",
+   "stage": 3,
+   "stageNote": "Commercial launch of Baudouin solid oxide fuel cell baseload power is set for Sep 2026 across Europe.",
+   "refs": {
+    "move": [
+     "Baudouin partners with EODev"
+    ],
+    "partner": [
+     "EODEVXXX"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-11",
+     "Weichai deepens its Ceres Power collaboration"
+    ],
+    [
+     "2026-07-28",
+     "Partnership announced"
+    ],
+    [
+     "2026-09",
+     "Commercial launch",
+     "expected"
+    ]
+   ],
+   "specs": [
+    [
+     "Technology",
+     "Solid oxide fuel cell, over 65% electrical efficiency, CE certified"
+    ],
+    [
+     "Rights",
+     "Exclusive in France and Poland"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "wei-almajd",
+   "cid": "WEICHAIB",
+   "name": "Saudi municipal buildings, two Baudouin PowerKit gensets",
+   "kind": "Gulf reference",
+   "region": "Gulf",
+   "customer": "Saudi government (via Almajd Power)",
+   "location": "Saudi Arabia",
+   "stage": 4,
+   "stageNote": "Delivered Feb 2022: a small government purchase of two sets through the local partner Almajd Power.",
+   "refs": {
+    "ref": [
+     "Saudi government municipal buildings"
+    ],
+    "partner": [
+     "ALMAJDPO"
+    ]
+   },
+   "timeline": [
+    [
+     "2022-02",
+     "Purchase reported"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "2 x Baudouin 6M16 PowerKit gensets"
+    ],
+    [
+     "Segment",
+     "Utility"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "vol-dc-programme",
+   "cid": "VOLVOPEN",
+   "name": "Data centre backup programme with OEMs and integrators",
+   "kind": "Programme",
+   "region": "Worldwide",
+   "customer": "OEMs and system integrators (data centre)",
+   "location": "North America and global",
+   "stage": 3,
+   "stageNote": "Positioning built up from Dec 2025 to Apr 2026: modular Tier 4 Final platform, G17 gas engine and battery solutions. North American industrial engine sales doubled.",
+   "refs": {
+    "move": [
+     "Volvo Penta positions itself",
+     "Volvo Penta introduces G17",
+     "Volvo Penta reports doubled",
+     "Volvo Penta publishes data centre"
+    ],
+    "partner": [
+     "OEMSANDS"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-12",
+     "Total power solutions positioning for digital infrastructure (CONEXPO 2026)"
+    ],
+    [
+     "2026-01",
+     "G17 natural gas engine introduced"
+    ],
+    [
+     "2026-02",
+     "North American industrial engine sales reported doubled"
+    ],
+    [
+     "2026-04",
+     "Data centre backup power positioning published"
+    ]
+   ],
+   "specs": [
+    [
+     "Platform",
+     "Tier 4 Final, stackable modular configurations, HVO100 compatible for engines since 2016"
+    ],
+    [
+     "Engines",
+     "G17 gas engine, D17 and D16 genset range"
+    ]
+   ],
+   "mw": null,
+   "stance": null
+  },
+  {
+   "id": "vol-kjpower",
+   "cid": "VOLVOPEN",
+   "name": "KJ Power mobile battery storage",
+   "kind": "Customer project",
+   "region": "Worldwide",
+   "customer": "KJ Power Generator (Turkey)",
+   "location": "Turkey",
+   "stage": 4,
+   "stageNote": "Volvo Penta battery system supplied for KJ Power's mobile battery storage for the rental sector.",
+   "refs": {
+    "partner": [
+     "KJPOWERG"
+    ],
+    "move": [
+     "Volvo Penta positions itself"
+    ]
+   },
+   "timeline": [
+    [
+     "2025-12",
+     "Referenced as a battery storage win (KJ Power, Aura Clean Energy, SEETEL)"
+    ]
+   ],
+   "specs": [
+    [
+     "Equipment",
+     "Volvo Penta battery system"
+    ],
+    [
+     "Use",
+     "Mobile battery storage for the rental sector"
+    ]
+   ],
+   "mw": null,
+   "stance": "watch"
+  }
+ ]
+}

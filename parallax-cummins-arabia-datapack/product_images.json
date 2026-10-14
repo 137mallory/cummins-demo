@@ -1,0 +1,877 @@
+{
+ "CATERPIL-P1": {
+  "file": "CATERPIL-P1.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20200528-13714-9c27d",
+  "page_url": "https://www.hawthornecat.com/item/c18-generator-set/",
+  "basis": "model",
+  "note": "Cat C18 generator set (Hawthorne Cat page, Cat image CDN)"
+ },
+ "CATERPIL-P2": {
+  "file": "CATERPIL-P2.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20191111-88cb4-23b44",
+  "page_url": "https://www.hawthornecat.com/item/c27-generator-set/",
+  "basis": "model",
+  "note": "Cat C27 generator set (Hawthorne Cat page, Cat image CDN)"
+ },
+ "CATERPIL-P3": {
+  "file": "CATERPIL-P3.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20211122-2d398-ee385",
+  "page_url": "https://www.hawthornecat.com/item/c32-50-hz/",
+  "basis": "series",
+  "note": "Cat C32 (50 Hz) generator set; the C32B is the same engine series"
+ },
+ "CATERPIL-P4": {
+  "file": "CATERPIL-P4.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190212-24471-60719",
+  "page_url": "https://www.hawthornecat.com/item/3512b-50-hz/",
+  "basis": "model",
+  "note": "Cat 3512B 50 Hz generator set"
+ },
+ "CATERPIL-P5": {
+  "file": "CATERPIL-P5.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180806-17095-50145",
+  "page_url": "https://www.hawthornecat.com/item/3512c-generator-set/",
+  "basis": "model",
+  "note": "Cat 3512C generator set in sound-attenuated enclosure"
+ },
+ "CATERPIL-P6": {
+  "file": "CATERPIL-P6.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180801-16229-19345",
+  "page_url": "https://www.hawthornecat.com/item/3516b-50-hz/",
+  "basis": "model",
+  "note": "Cat 3516B 50 Hz generator set"
+ },
+ "CATERPIL-P7": {
+  "file": "CATERPIL-P7.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20240311-0d0ae-56643",
+  "page_url": "https://www.hawthornecat.com/item/3516c-60hz/",
+  "basis": "model",
+  "note": "Cat 3516C 60 Hz generator set in sound-attenuated enclosure"
+ },
+ "CATERPIL-P8": {
+  "file": "CATERPIL-P8.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180807-14762-28254",
+  "page_url": "https://www.hawthornecat.com/item/3516e-generator-set/",
+  "basis": "model",
+  "note": "Cat 3516E generator set"
+ },
+ "CATERPIL-P9": {
+  "file": "CATERPIL-P9.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180807-14762-28254",
+  "page_url": "https://www.hawthornecat.com/item/3516e-generator-set/",
+  "basis": "model",
+  "note": "Cat 3516E generator set (same image as P8; open set shown)"
+ },
+ "CATERPIL-P10": {
+  "file": "CATERPIL-P10.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180807-14762-28254",
+  "page_url": "https://www.hawthornecat.com/item/3516e-generator-set/",
+  "basis": "model",
+  "note": "Cat 3516E generator set (same image as P8)"
+ },
+ "CATERPIL-P11": {
+  "file": "CATERPIL-P11.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180920-37030-64320",
+  "page_url": "https://www.hawthornecat.com/item/c175-16-generator-set/",
+  "basis": "model",
+  "note": "Cat C175-16 generator set"
+ },
+ "CATERPIL-P12": {
+  "file": "CATERPIL-P12.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180920-37030-64320",
+  "page_url": "https://www.hawthornecat.com/item/c175-16-generator-set/",
+  "basis": "series",
+  "note": "Cat C175-16 shown; C175-20 is the larger size of the same series"
+ },
+ "CATERPIL-P13": {
+  "file": "CATERPIL-P13.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180920-37030-64320",
+  "page_url": "https://www.hawthornecat.com/item/c175-16-generator-set/",
+  "basis": "series",
+  "note": "Cat C175-16 shown; C175-20 is the larger size of the same series"
+ },
+ "CATERPIL-P14": {
+  "file": "CATERPIL-P14.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20230214-77cbf-a1c4d",
+  "page_url": "https://www.hawthornecat.com/item/g3516/",
+  "basis": "series",
+  "note": "Cat G3516 1500 kW gas generator set; G3516H is the same 3500 gas family"
+ },
+ "CATERPIL-P15": {
+  "file": "CATERPIL-P15.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20240830-2e2d3-ab4f1",
+  "page_url": "https://www.hawthornecat.com/item/g3520k/",
+  "basis": "model",
+  "note": "Cat G3520K gas generator set"
+ },
+ "CATERPIL-P16": {
+  "file": "CATERPIL-P16.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20210126-a6309-f884f",
+  "page_url": "https://www.hawthornecat.com/item/cg260-16/",
+  "basis": "model",
+  "note": "Cat CG260-16 gas generator set (staged on a plant-room backdrop)"
+ },
+ "CATERPIL-P17": {
+  "file": "CATERPIL-P17.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20250121-05d4b-0cba1",
+  "page_url": "https://www.warrencat.com/new/power-systems/electric-power/diesel-generator-sets/c32b-d1500-generator-set/",
+  "basis": "model",
+  "note": "Cat D1500 (C32B D1500) generator set, unit is labelled D1500 (Warren Cat dealer page)"
+ },
+ "PERKINSF-P1": {
+  "file": "PERKINSF-P1.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466862",
+  "page_url": "https://www.fgwilson.com.sg/product/p1825-p2000e/",
+  "basis": "model",
+  "note": "FG Wilson P2500-3 genset (fgwilson.com.sg page titled P2500-3; same image as the P2250-3 page)"
+ },
+ "PERKINSF-P2": {
+  "file": "PERKINSF-P2.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466862",
+  "page_url": "https://geniwatt.fr/en/product/p2250-3/",
+  "basis": "model",
+  "note": "FG Wilson P2250-3 page (GeniWatt, FG Wilson dealer); shares its image with P2500-3"
+ },
+ "PERKINSF-P3": {
+  "file": "PERKINSF-P3.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466866",
+  "page_url": "https://geniwatt.fr/en/product/p1100-1/",
+  "basis": "series",
+  "note": "FG Wilson P1100-1 shown; P1650-1 is the larger Large Range set (same family)"
+ },
+ "PERKINSF-P4": {
+  "file": "PERKINSF-P4.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466866",
+  "page_url": "https://geniwatt.fr/en/product/p1100-1/",
+  "basis": "model",
+  "note": "FG Wilson P1100-1 genset (GeniWatt, FG Wilson dealer)"
+ },
+ "PERKINSF-P5": {
+  "file": "PERKINSF-P5.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-27388-47363",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002720.html",
+  "basis": "model",
+  "note": "Perkins 4016-61TRG engine photo from the official Perkins spec sheet (PDF on Caterpillar CDN); the TRG3 is the 4016-61TRG engine"
+ },
+ "PERKINSF-P6": {
+  "file": "PERKINSF-P6.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-328e2-922da",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002696.html",
+  "basis": "model",
+  "note": "Perkins 4012-46TAG engine photo from the official Perkins spec sheet (PDF on Caterpillar CDN)"
+ },
+ "PERKINSF-P7": {
+  "file": "PERKINSF-P7.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-328e2-922da",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002696.html",
+  "basis": "model",
+  "note": "Perkins 4012-46TAG engine photo from the official Perkins spec sheet (PDF on Caterpillar CDN)"
+ },
+ "PERKINSF-P8": {
+  "file": "PERKINSF-P8.jpg",
+  "image_url": "https://www.spectrumfes.com/images/perkins/2806a-e18tag/large_2806a-e18tag.webp",
+  "page_url": "https://www.spectrumfes.com/en/products/perkins/generators/2806a-e18tag",
+  "basis": "model",
+  "note": "Perkins 2806A-E18TAG engine with radiator, from Spectrum FES (Perkins engine reseller); perkins.com returns 403"
+ },
+ "PERKINSF-P9": {
+  "file": "PERKINSF-P9.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-27388-47363",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002720.html",
+  "basis": "family",
+  "note": "Perkins large V16 power-generation engine (4016-61TRG, 4000 Series); no 5016AC photo reachable, 5000 Series is its bigger sibling"
+ },
+ "ROLLSROY-P1": {
+  "file": "ROLLSROY-P1.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/1600/12Vplus1600_TB_M_50mm_01_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/1600.html",
+  "basis": "series",
+  "note": "mtu Series 1600 open diesel genset product shot (12V1600 class) from the Series 1600 page"
+ },
+ "ROLLSROY-P11": {
+  "file": "ROLLSROY-P11.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/1600/12Vplus1600_TB_M_50mm_01_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/1600.html",
+  "basis": "series",
+  "note": "mtu Series 1600 open diesel genset product shot (12V1600 class) from the Series 1600 page"
+ },
+ "ROLLSROY-P2": {
+  "file": "ROLLSROY-P2.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/referencemap/OE_Genset_18V2000DS_G06_Seite_oeFA_2021.final.png",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/2000.html",
+  "basis": "series",
+  "note": "mtu Series 2000 DS genset image (source file named 18V2000DS), another size of the same series; native source is 545 px wide"
+ },
+ "ROLLSROY-P3": {
+  "file": "ROLLSROY-P3.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/referencemap/OE_Genset_18V2000DS_G06_Seite_oeFA_2021.final.png",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/2000.html",
+  "basis": "model",
+  "note": "mtu 18V2000 DS genset (source file named OE_Genset_18V2000DS); native source is 545 px wide"
+ },
+ "ROLLSROY-P4": {
+  "file": "ROLLSROY-P4.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P5": {
+  "file": "ROLLSROY-P5.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P6": {
+  "file": "ROLLSROY-P6.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P7": {
+  "file": "ROLLSROY-P7.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P8": {
+  "file": "ROLLSROY-P8.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P9": {
+  "file": "ROLLSROY-P9.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P10": {
+  "file": "ROLLSROY-P10.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P12": {
+  "file": "ROLLSROY-P12.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P13": {
+  "file": "ROLLSROY-P13.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/series/4000/MTU_Genset20V4000_M_50mm_RGB.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/diesel-generator-sets/series/4000.html",
+  "basis": "series",
+  "note": "mtu Series 4000 diesel genset (20V4000 shown) from the Series 4000 page"
+ },
+ "ROLLSROY-P14": {
+  "file": "ROLLSROY-P14.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/images/Header_20V4000.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/gas-generator-sets.html",
+  "basis": "model",
+  "note": "mtu 20V4000 gas genset (H2-ready header image of the gas generator sets page); exact L64 FNER variant not stated in the file"
+ },
+ "ROLLSROY-P16": {
+  "file": "ROLLSROY-P16.jpg",
+  "image_url": "https://www.mtu-solutions.com/content/dam/mtu/application/power-generation/energy-storage-system/mtu-energypack-qg/M-96632.jpg",
+  "page_url": "https://www.mtu-solutions.com/eu/en/applications/power-generation/power-generation-products/energy-storage-system/mtu-energypack-qg.html",
+  "basis": "model",
+  "note": "Official mtu EnergyPack QG site illustration from the product page (rendered container layout)"
+ },
+ "REHLKO-P10": {
+  "file": "REHLKO-P10.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/KD1000-E-01-LargeImage/accc9f6716358a082263a957d94d49bf/KD1000-E-01-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/KD1000-E",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image"
+ },
+ "REHLKO-P11": {
+  "file": "REHLKO-P11.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/KD1500-E-02-LargeImage/6cfb3b8c0742b4250430f65ef0def1f8/KD1500-E-02-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/KD1500-E",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image"
+ },
+ "REHLKO-P12": {
+  "file": "REHLKO-P12.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/KD2000-E-06-LargeImage/c44f582e10f1af14d0fd262bde162603/KD2000-E-06-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/KD2000-E",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image"
+ },
+ "REHLKO-P13": {
+  "file": "REHLKO-P13.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/KD2500-E-05-LargeImage/c855dd5eb96baecb3bb1da60c149d838/KD2500-E-05-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/KD2500-E",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image (page image is identical to the KD2000-E page image)"
+ },
+ "REHLKO-P14": {
+  "file": "REHLKO-P14.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/KD3500-E-03-LargeImage/af64e3ff4aa5fadac130e6360775920b/KD3500-E-03-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/KD3500-E",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image"
+ },
+ "REHLKO-P15": {
+  "file": "REHLKO-P15.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/KD4000M-E-00-LargeImage/5a0e1137485037fa2557a0348e3dfd08/KD4000M-E-00-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/KD4000-E_MV",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image"
+ },
+ "REHLKO-P16": {
+  "file": "REHLKO-P16.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/KD4500M-E-00-LargeImage/5af6abe323d58c0b5d77b7692c3a2972/KD4500M-E-00-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/KD4500-E_MV",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image (page image is identical to the KD4000-E_MV page image)"
+ },
+ "REHLKO-P17": {
+  "file": "REHLKO-P17.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/T2200C-01-LargeImage/1a020b5ac8a6fdb73bbbf2c41b4f8bc4/T2200C-01-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/T2200C",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image"
+ },
+ "REHLKO-P18": {
+  "file": "REHLKO-P18.jpg",
+  "image_url": "https://images.ctfassets.net/y9fczihu867g/T2500C-01-LargeImage/7a5e9bb2682b519576262aadd36be54c/T2500C-01-LargeImage.jpg",
+  "page_url": "https://www.powersystems.rehlko.com/emea/Industrial-Power-Generators/T2500-E",
+  "basis": "model",
+  "note": "Rehlko EMEA product page hero image (page image file is labelled T2500C)"
+ },
+ "REHLKO-P1": {
+  "file": "REHLKO-P1.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/aac07290_rgb-Rehlko",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd1000",
+  "basis": "model",
+  "note": "Rehlko product page main image"
+ },
+ "REHLKO-P2": {
+  "file": "REHLKO-P2.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/aac06418",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd1250",
+  "basis": "model",
+  "note": "Rehlko product page main image"
+ },
+ "REHLKO-P3": {
+  "file": "REHLKO-P3.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/aac07294_rgb-Rehlko",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd1500",
+  "basis": "model",
+  "note": "Rehlko product page main image"
+ },
+ "REHLKO-P4": {
+  "file": "REHLKO-P4.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/reh00013",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd2000",
+  "basis": "model",
+  "note": "Rehlko product page main image"
+ },
+ "REHLKO-P5": {
+  "file": "REHLKO-P5.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/reh00013",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd2500",
+  "basis": "model",
+  "note": "Rehlko product page main image (page image is shared with the neighbouring model page)"
+ },
+ "REHLKO-P6": {
+  "file": "REHLKO-P6.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/aaf74856-Rehlko",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd3000",
+  "basis": "model",
+  "note": "Rehlko product page main image"
+ },
+ "REHLKO-P7": {
+  "file": "REHLKO-P7.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/aaf74856-Rehlko",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd3250",
+  "basis": "model",
+  "note": "Rehlko product page main image (page image is shared with the neighbouring model page)"
+ },
+ "REHLKO-P8": {
+  "file": "REHLKO-P8.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/aad10592_rgb-Rehlko",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd3500",
+  "basis": "model",
+  "note": "Rehlko product page main image"
+ },
+ "REHLKO-P9": {
+  "file": "REHLKO-P9.jpg",
+  "image_url": "https://s7d9.scene7.com/is/image/discoveryenergy/aad10592_rgb-Rehlko",
+  "page_url": "https://www.powersystems.rehlko.com/product/kd4000",
+  "basis": "model",
+  "note": "Rehlko product page main image (page image is shared with the neighbouring model page)"
+ },
+ "MITSUBIS-P1": {
+  "file": "MITSUBIS-P1.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P2": {
+  "file": "MITSUBIS-P2.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P3": {
+  "file": "MITSUBIS-P3.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P4": {
+  "file": "MITSUBIS-P4.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P5": {
+  "file": "MITSUBIS-P5.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P6": {
+  "file": "MITSUBIS-P6.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P7": {
+  "file": "MITSUBIS-P7.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P8": {
+  "file": "MITSUBIS-P8.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P9": {
+  "file": "MITSUBIS-P9.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-01/Diesel_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs",
+  "basis": "series",
+  "note": "MHI Engine System Middle East 'Diesel Generator Sets' page photo: blue Mitsubishi MGS genset with 16-cyl S-series engine; shared across MGS-B sizes and both frequencies"
+ },
+ "MITSUBIS-P10": {
+  "file": "MITSUBIS-P10.jpg",
+  "image_url": "https://www.mhi.com/group/mhiet/sites/g/files/jwhtju1041/files/styles/original_image/public/2023-08/image1_2.jpg",
+  "page_url": "https://www.mhi.com/group/mhiet/news/20230822.html",
+  "basis": "model",
+  "note": "MHIET launch photo of the MGS3100R; MGS logo panel cropped off the left"
+ },
+ "MITSUBIS-P11": {
+  "file": "MITSUBIS-P11.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/styles/original_image/public/2026-03/Containerized%20Solution.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesa/news/20251007.html",
+  "basis": "model",
+  "note": "MHI-ESA press image of the containerised MGS-R solution (maker CGI render of the product itself)"
+ },
+ "MITSUBIS-P12": {
+  "file": "MITSUBIS-P12.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/desktop_image_style/public/2022-02/MU-G_Series.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs/mu-g_series",
+  "basis": "series",
+  "note": "MU-G series page image; shows the medium-speed engine only, no alternator"
+ },
+ "MITSUBIS-P13": {
+  "file": "MITSUBIS-P13.jpg",
+  "image_url": "https://www.mhi.com/group/mhiesme/sites/g/files/jwhtju1996/files/styles/original_image/public/2022-01/Gas_Generator_Sets.jpg",
+  "page_url": "https://www.mhi.com/group/mhiesme/products/mgs-g",
+  "basis": "series",
+  "note": "MGS-G 'Gas Generator Sets' page image; low resolution (744 px) but shows the gas genset"
+ },
+ "WEICHAIB-P1": {
+  "file": "WEICHAIB-P1.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/Baudouin_PowerKit_Diesel_12M55_HERO.jpeg",
+  "page_url": "https://baudouin.com/engine_product/12m55/",
+  "basis": "series",
+  "note": "Baudouin 12M55 PowerKit engine with radiator (the engine in the M55 data-centre gensets); engine only, no alternator"
+ },
+ "WEICHAIB-P2": {
+  "file": "WEICHAIB-P2.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/Baudouin_PowerKit_Diesel_12M55_HERO.jpeg",
+  "page_url": "https://baudouin.com/engine_product/12m55/",
+  "basis": "series",
+  "note": "Baudouin 12M55 PowerKit engine with radiator (the engine in the M55 data-centre gensets); engine only, no alternator"
+ },
+ "WEICHAIB-P3": {
+  "file": "WEICHAIB-P3.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/Baudouin_PowerKit_Diesel_12M55_HERO.jpeg",
+  "page_url": "https://baudouin.com/engine_product/12m55/",
+  "basis": "series",
+  "note": "Baudouin 12M55 PowerKit engine with radiator (the engine in the M55 data-centre gensets); engine only, no alternator"
+ },
+ "WEICHAIB-P8": {
+  "file": "WEICHAIB-P8.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/16M55_Hidden_Part_Renders_0005.webp",
+  "page_url": "https://baudouin.com/engine_product/16m55/",
+  "basis": "model",
+  "note": "Baudouin 16M55 engine render from its own product page (engine of the 16M55G4000 genset); engine only"
+ },
+ "WEICHAIB-P4": {
+  "file": "WEICHAIB-P4.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/Baudouin_PowerKit_Diesel_16M33_HERO.jpeg",
+  "page_url": "https://baudouin.com/engine_product/16m33/",
+  "basis": "series",
+  "note": "Baudouin M33 PowerKit engine (16M33 hero image) used for the M33 data-centre gensets; engine only. P5 is a 16M33 genset, P4 is the 20-cyl sibling"
+ },
+ "WEICHAIB-P5": {
+  "file": "WEICHAIB-P5.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/Baudouin_PowerKit_Diesel_16M33_HERO.jpeg",
+  "page_url": "https://baudouin.com/engine_product/16m33/",
+  "basis": "series",
+  "note": "Baudouin M33 PowerKit engine (16M33 hero image) used for the M33 data-centre gensets; engine only. P5 is a 16M33 genset, P4 is the 20-cyl sibling"
+ },
+ "WEICHAIB-P6": {
+  "file": "WEICHAIB-P6.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/Baudouin_12M33_PowerKit_Diesel_Engine_0005.jpg",
+  "page_url": "https://baudouin.com/engine_product/12m33/",
+  "basis": "model",
+  "note": "Baudouin 12M33 PowerKit engine photo from its own product page; engine only"
+ },
+ "WEICHAIB-P7": {
+  "file": "WEICHAIB-P7.jpg",
+  "image_url": "https://baudouin.com/wp-content/uploads/2022/11/Baudouin_PowerKit_Diesel_16M33_HERO.jpeg",
+  "page_url": "https://baudouin.com/engine_product/16m33/",
+  "basis": "model",
+  "note": "Baudouin 16M33 PowerKit engine hero image from its own product page; engine only"
+ },
+ "GENERAC-P2": {
+  "file": "GENERAC-P2.png",
+  "image_url": "https://www.generac.com/globalassets/business/products/products/generators/2.25-3.25kw_keystone_hero22.png",
+  "page_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2500kw-diesel-65-6l/",
+  "basis": "model",
+  "note": "Generac page hero render for the SDMD2500 / SDMD2250 (same image on both pages)"
+ },
+ "GENERAC-P3": {
+  "file": "GENERAC-P3.png",
+  "image_url": "https://www.generac.com/globalassets/business/products/products/generators/2.25-3.25kw_keystone_hero22.png",
+  "page_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2500kw-diesel-65-6l/",
+  "basis": "model",
+  "note": "Generac page hero render for the SDMD2500 / SDMD2250 (same image on both pages)"
+ },
+ "GENERAC-P1": {
+  "file": "GENERAC-P1.png",
+  "image_url": "https://www.generac.com/globalassets/business/products/products/generators/2.25-3.25kw_keystone_hero22.png",
+  "page_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/",
+  "basis": "series",
+  "note": "Same 2.25-3.25 MW SDMD hero render as the SDMD2250/2500 pages (the 3250 page uses this render plus an award badge, so the clean version is used)"
+ },
+ "GENERAC-P4": {
+  "file": "GENERAC-P4.png",
+  "image_url": "https://www.generac.com/globalassets/products/business/stationary-generators/diesel-industrial-generators/d46l/d46l_generator_noshadow_04.png",
+  "page_url": "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/",
+  "basis": "model",
+  "note": "Generac D46L (SD1250) product render from its page, cropped to the genset"
+ },
+ "GENERAC-P5": {
+  "file": "GENERAC-P5.jpeg",
+  "image_url": "https://www.generac.com/globalassets/business/products/business-product-images/industrial-generators-images/diesel-industrial-generators-images/industrial-generator-1000kw-diesel-30.61l_sdmd1000.jpeg",
+  "page_url": "https://www.generac.com/industrial-products/stationary-generators/1000kw-industrial-generator-30-6l-sd1000/",
+  "basis": "model",
+  "note": "Generac SDMD1000 enclosed genset image from its page (640 px wide)"
+ },
+ "GENERAC-P6": {
+  "file": "GENERAC-P6.jpeg",
+  "image_url": "https://www.generac.com/globalassets/business/products/business-product-images/industrial-generators-images/diesel-industrial-generators-images/industrial-generator-1000kw-diesel-30.61l_sdmd1000.jpeg",
+  "page_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-1000kw-gaseous-sg1000/",
+  "basis": "family",
+  "note": "Only image on the SG1000 page is the SDMD1000 enclosed 1 MW genset (same Generac Industrial Power enclosure); not a gas-specific unit"
+ },
+ "CLIENT-P1": {
+  "file": "CLIENT-P1.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070395.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070395.pdf",
+  "basis": "model",
+  "note": "QSZ13-G10 engine specification sheet (Cummins, 10/21); engine image. QSZ13-G10 is the engine of this set. Image embedded in the PDF."
+ },
+ "CLIENT-P2": {
+  "file": "CLIENT-P2.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070377.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070377.pdf",
+  "basis": "model",
+  "note": "VTA28-G5 engine specification sheet (Cummins, 09/21); engine image. VTA28-G5 is the engine of this set. Image embedded in the PDF."
+ },
+ "CLIENT-P3": {
+  "file": "CLIENT-P3.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK23 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P4": {
+  "file": "CLIENT-P4.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK23 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P5": {
+  "file": "CLIENT-P5.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QST30 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P6": {
+  "file": "CLIENT-P6.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QST30 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P7": {
+  "file": "CLIENT-P7.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "basis": "model",
+  "note": "KTA38-G14 engine specification sheet (Cummins, 06/21); engine image. KTA38-G14 engine exactly. Image embedded in the PDF."
+ },
+ "CLIENT-P8": {
+  "file": "CLIENT-P8.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070365.pdf",
+  "basis": "series",
+  "note": "KTA38-G14 engine specification sheet (Cummins, 06/21); engine image. Another KTA38 engine (G14) of the same series. Image embedded in the PDF."
+ },
+ "CLIENT-P9": {
+  "file": "CLIENT-P9.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070366.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070366.pdf",
+  "basis": "model",
+  "note": "KTA50-G3 engine specification sheet (Cummins, 07/21); engine image. KTA50-G3 engine exactly. Image embedded in the PDF."
+ },
+ "CLIENT-P10": {
+  "file": "CLIENT-P10.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "basis": "model",
+  "note": "KTA50-G8 engine specification sheet (Cummins, 07/21); engine image. KTA50-G8 engine exactly. Image embedded in the PDF."
+ },
+ "CLIENT-P11": {
+  "file": "CLIENT-P11.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0070367.pdf",
+  "basis": "series",
+  "note": "KTA50-G8 engine specification sheet (Cummins, 07/21); engine image. Another KTA50 engine (G8) of the same series. Image embedded in the PDF."
+ },
+ "CLIENT-P12": {
+  "file": "CLIENT-P12.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "series",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK60-G23 V16 genset, same QSK60 series. Image embedded in the PDF."
+ },
+ "CLIENT-P13": {
+  "file": "CLIENT-P13.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "series",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK60-G23 V16 genset, same QSK60 series. Image embedded in the PDF."
+ },
+ "CLIENT-P14": {
+  "file": "CLIENT-P14.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "series",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK60-G23 V16 genset, same QSK60 series. Image embedded in the PDF."
+ },
+ "CLIENT-P15": {
+  "file": "CLIENT-P15.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "basis": "model",
+  "note": "Cummins C2750 D5e / C3000 D5e QSK78 spec sheet EMERS-5867. Spec sheet covers C2750 D5e (same set, regulated variant). Image embedded in the PDF."
+ },
+ "CLIENT-P16": {
+  "file": "CLIENT-P16.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2023-05/2750%20kVA_QSK%2078-G15_Spec%20sheet.pdf",
+  "basis": "model",
+  "note": "Cummins C2750 D5e / C3000 D5e QSK78 spec sheet EMERS-5867. Spec sheet covers C3000 D5e (same set, regulated variant). Image embedded in the PDF."
+ },
+ "CLIENT-P17": {
+  "file": "CLIENT-P17.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "basis": "series",
+  "note": "Cummins QSK95 Series generator sets brochure; QSK95 genset. QSK95 series genset (50 Hz C3500D5 uses QSK95-G4). Image embedded in the PDF."
+ },
+ "CLIENT-P18": {
+  "file": "CLIENT-P18.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0061756.pdf",
+  "basis": "family",
+  "note": "Cummins C2750D5BE data-centre brochure (QSK60-G23 V16 genset in data hall). QSK23 photo too small (<500px); shows Cummins large data-centre genset range. Image embedded in the PDF."
+ },
+ "CLIENT-P19": {
+  "file": "CLIENT-P19.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2025-06/s-6786-spec-sheet.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2025-06/s-6786-spec-sheet.pdf",
+  "basis": "model",
+  "note": "Cummins S-6786 spec sheet, S17 Centum Series C600D6E-C1000D6E. S-6786 spec sheet covers C600D6E-C1000D6E including C800D6E. Image embedded in the PDF."
+ },
+ "CLIENT-P20": {
+  "file": "CLIENT-P20.jpg",
+  "image_url": "https://www.powertraininternationalweb.com/wp-content/uploads/2024/02/Centum-hero.jpg",
+  "page_url": "https://powertraininternationalweb.com/powergen/cummins-adds-new-1750-2000kw-gensets-to-the-centum-series",
+  "basis": "family",
+  "note": "Cummins Centum Series genset press image as published by Power Train International (trade press, not the maker site; cummins.com returned 403). Centum Series range image."
+ },
+ "CLIENT-P21": {
+  "file": "CLIENT-P21.jpg",
+  "image_url": "https://www.powertraininternationalweb.com/wp-content/uploads/2024/02/Centum-hero.jpg",
+  "page_url": "https://powertraininternationalweb.com/powergen/cummins-adds-new-1750-2000kw-gensets-to-the-centum-series",
+  "basis": "family",
+  "note": "Cummins Centum Series genset press image as published by Power Train International (trade press, not the maker site; cummins.com returned 403). Centum Series range image."
+ },
+ "CLIENT-P22": {
+  "file": "CLIENT-P22.jpg",
+  "image_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "page_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "basis": "model",
+  "note": "Cummins DQKAB spec sheet (Cummins document, hosted by reseller CS Diesel Generators); small source image. DQKAB spec sheet photo; only 504 px wide. Image embedded in the PDF."
+ },
+ "CLIENT-P23": {
+  "file": "CLIENT-P23.jpg",
+  "image_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "page_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "basis": "series",
+  "note": "Cummins DQKAB spec sheet (Cummins document, hosted by reseller CS Diesel Generators); small source image. DQKAB, same QSK60 60 Hz DQK family; only 504 px wide. Image embedded in the PDF."
+ },
+ "CLIENT-P24": {
+  "file": "CLIENT-P24.jpg",
+  "image_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "page_url": "https://csdieselgenerators.com/Images/Generators/5105/Cummins-DQKAB-spec-sheet.pdf",
+  "basis": "series",
+  "note": "Cummins DQKAB spec sheet (Cummins document, hosted by reseller CS Diesel Generators); small source image. DQKAB, same QSK60 60 Hz DQK family; only 504 px wide. Image embedded in the PDF."
+ },
+ "CLIENT-P25": {
+  "file": "CLIENT-P25.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P26": {
+  "file": "CLIENT-P26.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P27": {
+  "file": "CLIENT-P27.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P29": {
+  "file": "CLIENT-P29.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058416.pdf",
+  "basis": "series",
+  "note": "Cummins QSK78 series bulletin 5410880 (Rev 4/25); QSK78 genset. QSK78 engine in a different frame; Centum housing not shown. Image embedded in the PDF."
+ },
+ "CLIENT-P30": {
+  "file": "CLIENT-P30.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "basis": "series",
+  "note": "Cummins QSK95 Series generator sets brochure; QSK95 genset. QSK95 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P31": {
+  "file": "CLIENT-P31.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0058354.pdf",
+  "basis": "series",
+  "note": "Cummins QSK95 Series generator sets brochure; QSK95 genset. QSK95 series genset. Image embedded in the PDF."
+ },
+ "CLIENT-P33": {
+  "file": "CLIENT-P33.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "basis": "model",
+  "note": "Cummins HSK78G 50 Hz lean-burn gas genset spec sheet. HSK78G 50 Hz spec sheet covers C2000N5CD. Image embedded in the PDF."
+ },
+ "CLIENT-P34": {
+  "file": "CLIENT-P34.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "basis": "series",
+  "note": "Cummins HSK78G 50 Hz lean-burn gas genset spec sheet. 50 Hz HSK78G set; same HSK78G series. Image embedded in the PDF."
+ },
+ "CLIENT-P35": {
+  "file": "CLIENT-P35.jpg",
+  "image_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "page_url": "https://www.cummins.com/sites/default/files/2019-08/Spec-Sheet-HSK78G-50Hz_2.pdf",
+  "basis": "family",
+  "note": "Cummins HSK78G 50 Hz lean-burn gas genset spec sheet. No QSK60G photo >=500 px found; shows the maker larger lean-burn gas genset (HSK78G). Image embedded in the PDF."
+ },
+ "CLIENT-P36": {
+  "file": "CLIENT-P36.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P37": {
+  "file": "CLIENT-P37.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P38": {
+  "file": "CLIENT-P38.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P39": {
+  "file": "CLIENT-P39.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P40": {
+  "file": "CLIENT-P40.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ },
+ "CLIENT-P41": {
+  "file": "CLIENT-P41.jpg",
+  "image_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "page_url": "https://mart.cummins.com/imagelibrary/data/assetfiles/0079941.pdf",
+  "basis": "family",
+  "note": "Cummins BESS brochure (ZeroEmissions containerised LFP unit). Generic Cummins BESS container; size not matched to the model. Image embedded in the PDF."
+ }
+}

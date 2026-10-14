@@ -1,0 +1,680 @@
+{
+  "tenders": [
+    {
+      "id": "KSA-T-001",
+      "title": "Providing mobile generators for the mobile and fixed units of Sharurah Force and its affiliated units",
+      "issuer": "Royal Saudi Land Forces (Ground Forces), Sharurah Force",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Defense",
+      "status": "Open",
+      "published": "2026-09-22",
+      "closes": "2026-10-08",
+      "value": null,
+      "scope_summary": "Supply of mobile (trailer or skid mounted) generator sets for mobile and fixed military units of the Sharurah Force in the southern border sector. Bid bond required. International competitive bidding, self financed.",
+      "genset_relevance": "Mobile diesel gensets, 60 Hz. kVA band and quantity not published on the aggregator mirror; tender documents on Etimad hold the schedule.",
+      "source_url": "https://www.tendersontime.com/tenders-details/providing-mobile-generators-mobile-and-fixed-units-sharurah-force-and-its-affiliated-units-deposit-8eb22cb/",
+      "cummins_fit": {
+        "fit": "STRONG",
+        "matching_products": [
+          "Cummins C-series 60 Hz mobile gensets below 500 kVA",
+          "C1250D6 if fixed-unit base camps are included"
+        ],
+        "analysis": "Border-sector military units buy rugged, low-maintenance mobile sets and value service reach into Sharurah and Najran. Cummins Arabia's Saudi service footprint is the argument; price competition comes from Perkins and FG Wilson packagers sold through Zahid and local assemblers.",
+        "likely_competitors": [
+          "Caterpillar / FG Wilson via Zahid Tractor",
+          "Perkins-engined local packagers",
+          "Kohler / Rehlko (SDMO)",
+          "Saudi Diesel Equipment (SDEC) packages"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-002",
+      "title": "Renting, installing, operating and maintaining electrical generators with fuel for the King Abdulaziz Camel Festival, eleventh edition",
+      "issuer": "Camel Club (Saudi Camel Club)",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Rental / Events",
+      "status": "Open",
+      "published": "2026-09-21",
+      "closes": "2026-10-06",
+      "value": null,
+      "scope_summary": "Full-service temporary power for the eleventh King Abdulaziz Camel Festival at Al Sayahid: generator rental, installation, operation, maintenance and fuel supply for the festival period.",
+      "genset_relevance": "Rental diesel gensets, 60 Hz, multiple units across festival zones. kVA schedule and unit count not published on the mirror; the festival has historically run for several weeks, so this is a multi-MW temporary power job.",
+      "source_url": "https://www.tendersontime.com/tenders-details/renting-installing-operating-and-maintaining-electrical-generators-while-providing-all-requirement-8e9ab8a/",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins-engined rental fleet sets 200 to 1,250 kVA via rental partners",
+          "C1250D6"
+        ],
+        "analysis": "Cummins Arabia does not bid rental turnkey itself, so the play is through rental fleet owners running Cummins-powered sets. The win here is fleet supply and parts pull-through, not the tender itself. Aggreko and Altaaqa are the incumbents on large Saudi event power.",
+        "likely_competitors": [
+          "Aggreko",
+          "Altaaqa",
+          "Byrne Equipment Rental",
+          "Al-Faris Group",
+          "Caterpillar rental fleets via Zahid"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-003",
+      "title": "Provision of Kohler spare parts for generators, Eastern Province",
+      "issuer": "General Directorate of Border Guards",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Defense / Service",
+      "status": "Open",
+      "published": "2026-09-24",
+      "closes": "2026-10-07",
+      "value": null,
+      "scope_summary": "Supply of Kohler brand spare parts for Border Guard generator sets in the Eastern Province.",
+      "genset_relevance": "Parts for an installed Kohler (Rehlko) genset fleet. Confirms Kohler holds the Border Guard Eastern Province installed base.",
+      "source_url": "https://www.tendersontime.com/tenders-details/regarding-provision-kohler-spare-parts-1678-m-hsi-generators-eastern-province-8ed766e/",
+      "cummins_fit": {
+        "fit": "WEAK",
+        "matching_products": [
+          "Cummins parts and service (competitive replacement only)"
+        ],
+        "analysis": "This is a competitor's parts annuity. The value to Cummins Arabia is intelligence: Border Guards run Kohler in the east, so the next fleet renewal or expansion tender is where to compete, with lifecycle cost and local parts stocking as the pitch.",
+        "likely_competitors": [
+          "Kohler / Rehlko authorised distributor",
+          "Grey-market parts traders"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-004",
+      "title": "Supply of spare parts (generator, electric, engine driven, portable) for the Forsan System on the West Coast, 60020987",
+      "issuer": "Saudi Water Authority (SWA, formerly SWCC)",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Water / Desalination",
+      "status": "Open",
+      "published": "2026-09-21",
+      "closes": "2026-10-06",
+      "value": null,
+      "scope_summary": "Spare parts for portable engine-driven generators serving the Forsan water transmission system on the Red Sea coast.",
+      "genset_relevance": "Parts for portable diesel gensets at pumping and transmission sites. Brand not stated on the mirror.",
+      "source_url": "https://www.tendersontime.com/tenders-details/supply-spare-parts-generator-elect-engine-driven-portable-forsan-system-west-coast-60020987-8e9abf4/",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins genuine parts",
+          "Cummins C-series 60 Hz portable sets for future replacement"
+        ],
+        "analysis": "SWA issues a steady stream of generator parts and maintenance tenders for pumping stations (Beish-Merba backup generator maintenance closed 2026-09-17 on the same portal). A parts framework or maintenance contract with SWA is a recurring revenue line, and it positions Cummins Arabia for standby packages on new transmission systems.",
+        "likely_competitors": [
+          "Caterpillar via Zahid Tractor",
+          "Perkins / FG Wilson parts channels",
+          "Local maintenance contractors"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-005",
+      "title": "2 GW battery energy storage system procurement, initial phase of a 10 GW by 2030 programme",
+      "issuer": "Saudi Energy (formerly Saudi Electricity Company) / National Grid SA",
+      "country": "KSA",
+      "portal": "SEC",
+      "segment": "Utility / BESS",
+      "status": "Expected",
+      "published": "2026-04",
+      "closes": null,
+      "value": null,
+      "scope_summary": "MEED reported on 2 April 2026 that Saudi Arabia is preparing to tender a 2 GW battery storage phase as part of plans to procure up to 10 GW of BESS by 2030. Earlier rounds (2.5 GW across Riyadh, Qaisumah, Dawadmi, Al-Jouf and Rabigh) were sourced directly from battery makers Sungrow, Hithium and Huawei with EPC tendered separately.",
+      "genset_relevance": "Grid-scale BESS, 60 Hz. Prior rounds specified roughly 500 MW / 2,000 MWh per site for load shifting, black start, frequency and voltage support.",
+      "source_url": "https://www.meed.com/saudi-arabia-prepares-to-tender-2gw-battery-storage-project",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins BESS"
+        ],
+        "analysis": "Saudi Energy has so far bought cells and containers straight from Chinese integrators at prices Cummins BESS will not match at 2 GWh scale. The realistic entry is the balance of plant: black-start diesel gensets at each BESS site and hybrid genset plus storage packages for off-grid utility loads. Track the EPC award, not the battery award.",
+        "likely_competitors": [
+          "Sungrow",
+          "Hithium",
+          "Huawei",
+          "BYD",
+          "Algihaz Holding (EPC)"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-006",
+      "title": "Maintenance of backup generators for the Beish-Merba stations",
+      "issuer": "Saudi Water Authority (SWA), Services and Projects Purchasing Department",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Water / Service",
+      "status": "Open",
+      "published": "2026-09-01",
+      "closes": "2026-09-17",
+      "value": null,
+      "scope_summary": "Four month maintenance contract for standby generators at the Beish-Merba water pumping stations (Jazan region). Document fee 1,000. Bidding closed 2026-09-17; award not yet reported.",
+      "genset_relevance": "Service on existing standby diesel gensets at water pumping stations, 60 Hz. Brand and kVA not published.",
+      "source_url": "https://www.globaltenders.com/tender-detail/maintenance-of-backup-generators-for-the-bei-LfpiAgZRpt3jM86a",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins service and parts",
+          "C-series 60 Hz replacement sets 500 to 1,250 kVA"
+        ],
+        "analysis": "Short maintenance contracts like this are how SWA keeps aging station gensets alive. A regional service agreement covering the Jazan and Asir pumping systems would consolidate several of these into one recurring contract and set up the replacement cycle.",
+        "likely_competitors": [
+          "Caterpillar via Zahid Tractor",
+          "Local electromechanical maintenance contractors"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-007",
+      "title": "Maintenance of power generators for Al-Saraya sites in Al-Wusta (Central Region)",
+      "issuer": "Royal Saudi Air Defense Forces, Central Region Branch, Engineering and Works Department",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Defense / Service",
+      "status": "Open",
+      "published": "2026-09-01",
+      "closes": "2026-09-07",
+      "value": null,
+      "scope_summary": "45 day contract for maintenance of power generators at Air Defense Al-Saraya sites in the Central Region. Document fee 200. Bidding closed 2026-09-07; award not yet reported.",
+      "genset_relevance": "Maintenance of prime or standby diesel gensets at dispersed air defense sites, 60 Hz. Brand and kVA not published.",
+      "source_url": "https://www.globaltenders.com/tender-detail/maintenance-of-power-generators-for-al-saray-bgUAeeLDOh1RN9CP",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins service and parts",
+          "C-series 60 Hz mobile and fixed sets"
+        ],
+        "analysis": "Air defense sites ran hard through the 2026 strike period and their gensets are prime power at many locations. Short repair contracts signal fleet fatigue; a fleet renewal tender is the target, and a service track record with the Engineering and Works Department is the prerequisite.",
+        "likely_competitors": [
+          "Caterpillar via Zahid Tractor",
+          "Kohler / Rehlko",
+          "Local maintenance contractors"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-008",
+      "title": "Providing and supplying diesel for backup generators for the hospital and its affiliated sites",
+      "issuer": "Jazan Armed Forces Hospital",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Healthcare / Service",
+      "status": "Open",
+      "published": "2026-09-21",
+      "closes": "2026-09-28",
+      "value": null,
+      "scope_summary": "Diesel fuel supply for the hospital's standby generators and affiliated sites. A parallel tender (149627622, Eastern Province Narcotics Control) covers diesel for two generators at a vehicle impoundment centre, closing the same day.",
+      "genset_relevance": "Fuel for an operating standby diesel fleet at a military hospital, 60 Hz. Indicates regular genset running hours in Jazan, where grid reliability is weaker.",
+      "source_url": "https://www.tendersontime.com/tenders-details/providing-and-supplying-diesel-backup-generators-hospital-and-its-affiliated-sites-8e9c0ce/",
+      "cummins_fit": {
+        "fit": "WEAK",
+        "matching_products": [
+          "Cummins service agreements bundled with fuel management"
+        ],
+        "analysis": "Not a Cummins sale. It matters as a signal: Armed Forces hospitals in the south are burning diesel routinely, so their gensets need service and eventual replacement. Approach the Medical Services Directorate with a fleet health audit offer.",
+        "likely_competitors": [
+          "Fuel distributors",
+          "Facility management contractors"
+        ]
+      }
+    },
+    {
+      "id": "KSA-T-009",
+      "title": "Supply of carbon brushes for gas and steam turbine generators at Ras Al-Khair, 60021152",
+      "issuer": "Saudi Water Authority (General Corporation for Salt Water Conversion)",
+      "country": "KSA",
+      "portal": "Etimad",
+      "segment": "Utility / Desalination",
+      "status": "Open",
+      "published": "2026-09-23",
+      "closes": "2026-10-08",
+      "value": null,
+      "scope_summary": "Spare carbon brushes for the gas and steam turbine generators at the Ras Al-Khair power and desalination complex, Eastern Coast production system.",
+      "genset_relevance": "Turbine generator spares, not reciprocating gensets. Included because Ras Al-Khair is SWA's largest power and water complex and its emergency diesel and black-start sets sit in the same procurement stream.",
+      "source_url": "https://www.tendersontime.com/tenders-details/supplying-spare-parts-carbon-coals-gas-and-steam-turbine-generators-ras-al-khair-60021152-eastern-co-8eb8f73/",
+      "cummins_fit": {
+        "fit": "WEAK",
+        "matching_products": [],
+        "analysis": "No direct fit. Use it to map SWA's Eastern Coast procurement contacts; the same buyers issue the emergency genset and parts tenders for Ras Al-Khair, Jubail and Khobar production systems.",
+        "likely_competitors": [
+          "Turbine OEM parts channels (GE Vernova, Siemens Energy, Mitsubishi Power)"
+        ]
+      }
+    },
+    {
+      "id": "UAE-T-001",
+      "title": "Providing generators for Sweihan and Razin Mazayna 2026",
+      "issuer": "Abu Dhabi Heritage Authority",
+      "country": "UAE",
+      "portal": "Other",
+      "segment": "Rental / Events",
+      "status": "Open",
+      "published": "2026-09-25",
+      "closes": "2026-09-30",
+      "value": null,
+      "scope_summary": "Generator provision for the 2026 Al Dhafra region camel beauty events (Mazayna) at Sweihan and Razin. Short bid window, event-season procurement.",
+      "genset_relevance": "Temporary or rental diesel gensets, 50 Hz, for event sites. kVA and count not published.",
+      "source_url": "https://www.tendersontime.com/tenders-details/providing-generators-sweihan-and-razin-mazayna-2026-8edfab1/",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins-engined rental sets 100 to 1,100 kVA",
+          "C1100D5"
+        ],
+        "analysis": "Small, seasonal, and won by rental houses. Useful only as fleet pull-through for Cummins-powered rental partners in Abu Dhabi.",
+        "likely_competitors": [
+          "Byrne Equipment Rental",
+          "Aggreko",
+          "Al-Faris Group",
+          "Caterpillar rental via Al-Bahar"
+        ]
+      }
+    },
+    {
+      "id": "UAE-T-002",
+      "title": "Battery charger (DSE 9470 MKII) for emergency diesel generator, Cummins P1550C 550 kVA with QSX15-G8 engine, 3 units",
+      "issuer": "Dubai Electricity and Water Authority (DEWA)",
+      "country": "UAE",
+      "portal": "DEWA",
+      "segment": "Utility / Service",
+      "status": "Open",
+      "published": null,
+      "closes": "2026-09-29",
+      "value": null,
+      "scope_summary": "Request for quotation for three intelligent battery chargers, Deep Sea Electronics DSE 9470 MKII, for Cummins P1550C standby generator sets (QSX15-G8), delivered DDP DEWA stores, UAE Dirhams, 30 day terms.",
+      "genset_relevance": "Accessory for installed Cummins 550 kVA emergency diesel gensets at DEWA facilities. Confirms Cummins installed base inside DEWA.",
+      "source_url": "https://www.biddetail.com/latest-tenders/118491378$dd7c5247-bafc-49be-a508-047ccd3f3ea8",
+      "cummins_fit": {
+        "fit": "STRONG",
+        "matching_products": [
+          "Cummins genuine parts and controls for P1550C / QSX15-G8"
+        ],
+        "analysis": "DEWA is buying accessories for Cummins sets piecemeal on RFQ. Cummins Arabia should convert this into a parts and service framework covering DEWA's emergency genset fleet before an independent controls trader takes the annuity.",
+        "likely_competitors": [
+          "Deep Sea Electronics distributors",
+          "Independent genset parts traders"
+        ]
+      }
+    },
+    {
+      "id": "UAE-T-003",
+      "title": "Battery storage, absorbed glass mat type, 12 VDC 200 Ah, for diesel generator applications",
+      "issuer": "Dubai Electricity and Water Authority (DEWA)",
+      "country": "UAE",
+      "portal": "DEWA",
+      "segment": "Utility / Service",
+      "status": "Open",
+      "published": null,
+      "closes": "2026-09-30",
+      "value": null,
+      "scope_summary": "RFQ for sealed AGM starter batteries, 12 VDC, 200 Ah, for diesel generator sets, DDP DEWA stores.",
+      "genset_relevance": "Consumable for DEWA's standby diesel genset fleet.",
+      "source_url": "https://www.biddetail.com/latest-tenders/118544151$2f3c8175-9938-4950-8121-01aae9ea2a08",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins genuine parts (batteries, filters, coolant) supply framework"
+        ],
+        "analysis": "Low value on its own. Bundle with UAE-T-002 into a single DEWA standby-fleet consumables framework proposal.",
+        "likely_competitors": [
+          "Battery distributors",
+          "Independent genset parts traders"
+        ]
+      }
+    },
+    {
+      "id": "KWT-T-001",
+      "title": "Maintenance, repair, rehabilitation and testing of electrical systems, generators, fire alarm and suppression systems and ventilation equipment for nine service centres",
+      "issuer": "Public Utilities Management Company (PUMC), Kuwait",
+      "country": "Kuwait",
+      "portal": "Other",
+      "segment": "Service / Facilities",
+      "status": "Open",
+      "published": "2026-09-24",
+      "closes": "2026-10-08",
+      "value": null,
+      "scope_summary": "Works contract covering maintenance, repair, rehabilitation and testing of electrical systems and standby generators plus fire and ventilation systems, with associated civil and electrical works, at nine PUMC service centres.",
+      "genset_relevance": "O&M and rehabilitation of existing standby diesel gensets, 50 Hz, at nine sites. Brand and kVA not published.",
+      "source_url": "https://www.globaltenders.com/tender-detail/carrying-out-maintenance-repair-rehabilita-Om7CKRksJdHZtokC",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "Cummins service and parts",
+          "C1100D5 / C1675D5 for replacement units"
+        ],
+        "analysis": "A multi-site service contract that a Kuwaiti MEP contractor will hold. Cummins Arabia's route is as the genset subcontractor and parts supplier, and to push replacement of end-of-life units during rehabilitation. Kuwait's post-strike grid instability raises the priority of working standby sets at public facilities.",
+        "likely_competitors": [
+          "Al Mulla Group (diesel generators division)",
+          "Caterpillar via Mohamed Abdulrahman Al-Bahar",
+          "FG Wilson dealers",
+          "Local MEP contractors"
+        ]
+      }
+    },
+    {
+      "id": "KWT-T-004",
+      "title": "Supply and installation of electric motors at the Doha West power generation and water desalination plant",
+      "issuer": "Ministry of Electricity, Water and Renewable Energy (MEW), Kuwait",
+      "country": "Kuwait",
+      "portal": "MEW",
+      "segment": "Utility / Power plant",
+      "status": "Open",
+      "published": "2026-09-23",
+      "closes": "2026-10-13",
+      "value": null,
+      "scope_summary": "Supply and installation of electric motors at Doha West, one of Kuwait's large power and desalination plants, issued weeks after MEW completed repairs on units damaged in the July 2026 attacks.",
+      "genset_relevance": "Not a genset tender. Listed because it is the first visible MEW plant-equipment procurement after the strike repairs, and plant auxiliary standby and black-start gensets are procured through the same MEW generation sector.",
+      "source_url": "https://www.globaltenders.com/tender-detail/supply-and-installation-of-electric-motors-a-G1Kv8eBZkHSFpS9p",
+      "cummins_fit": {
+        "fit": "WEAK",
+        "matching_products": [
+          "C2250D5",
+          "C3000D5 for plant emergency diesel if MEW adds redundancy"
+        ],
+        "analysis": "Watch item. MEW is restarting equipment procurement at strike-affected plants. Ask the Kuwaiti agent to check whether MEW's 2027 capital list includes emergency diesel or black-start additions at Doha West, Doha East, Sabiya, Shuaiba and Az-Zour South.",
+        "likely_competitors": [
+          "Motor OEM channels (ABB, Siemens, WEG)",
+          "Caterpillar via Al-Bahar on any genset add-on"
+        ]
+      }
+    },
+    {
+      "id": "KWT-T-002",
+      "title": "Sabiya (Subiya) power and water distillation plant Phase 4, 900 MW combined cycle gas turbine expansion",
+      "issuer": "Ministry of Electricity, Water and Renewable Energy (MEW) via Central Agency for Public Tenders (CAPT)",
+      "country": "Kuwait",
+      "portal": "CAPT",
+      "segment": "Utility / Power plant",
+      "status": "Open",
+      "published": "2025-04-27",
+      "closes": "2025-07-22",
+      "value": "Lowest bid KWD 516.8 million (USD 1.67 billion), Alghanim International",
+      "scope_summary": "Supply, installation, commissioning, operation and maintenance of CCGT units adding about 900 MW at Sabiya, Al Jahra. Three prequalified bids: Alghanim International KWD 516.8 million, HEISCO KWD 548.45 million, Al-Dhow Engineering KWD 569.39 million. Bids under evaluation; CAPT asked bidders to extend bid bonds from 29 June to 29 September 2026. Award pending.",
+      "genset_relevance": "Plant-level emergency diesel generators and black-start sets for a 900 MW CCGT block; typically two or more units in the 1,500 to 3,000 kVA band, 50 Hz, specified by the EPC contractor and turbine OEM.",
+      "source_url": "https://www.tradingview.com/news/reuters.com,2026-06-10:newsml_Zaw7HKMVl:0-zawya-kuwait-asks-sabiya-power-plant-phase-4-bidders-to-extend-bid-bonds/",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "C2250D5",
+          "C2750D5",
+          "C3000D5"
+        ],
+        "analysis": "The genset content is small relative to the contract but it is a reference win inside MEW. Alghanim International is the likely winner; engage its procurement team now on emergency diesel and black-start packages before the turbine OEM's preferred vendor list is fixed.",
+        "likely_competitors": [
+          "Caterpillar via Al-Bahar",
+          "mtu (Rolls-Royce Power Systems)",
+          "Mitsubishi MGS",
+          "Kohler / Rehlko"
+        ]
+      }
+    },
+    {
+      "id": "KWT-T-003",
+      "title": "Ministry of Health package: maintenance, construction and minor expansion of hospitals and health centres (11 packages); main data centre upgrade; nurse call and code blue systems at Jaber Al-Ahmad Hospital",
+      "issuer": "Ministry of Health, Kuwait via CAPT",
+      "country": "Kuwait",
+      "portal": "CAPT",
+      "segment": "Healthcare",
+      "status": "Open",
+      "published": "2026-09-15",
+      "closes": null,
+      "value": null,
+      "scope_summary": "CAPT found 29 of 32 firms eligible across three MoH tenders (18 bids on the 11-package maintenance and minor expansion tender, 7 on the main data centre upgrade, 4 on nurse call systems) and referred the bids to MoH for evaluation within 30 days.",
+      "genset_relevance": "The hospital maintenance and expansion packages and the main data centre upgrade are the two lines where standby generator replacement or addition can sit. Genset scope is not itemised in the public report.",
+      "source_url": "https://www.arabtimesonline.com/news/capt-29-firms-deemed-eligible-for-three-moh-tenders/",
+      "cummins_fit": {
+        "fit": "PARTIAL",
+        "matching_products": [
+          "C1100D5",
+          "C1675D5",
+          "C2250D5"
+        ],
+        "analysis": "Kuwait MoH facilities lost grid supply repeatedly during the 2026 strikes and summer faults, which makes hospital standby capacity a live budget line. Work through the eligible contractors on the 11-package tender to place Cummins as the standby genset vendor on hospital expansions.",
+        "likely_competitors": [
+          "Caterpillar via Al-Bahar",
+          "Al Mulla Group genset division",
+          "FG Wilson dealers",
+          "Kohler / Rehlko"
+        ]
+      }
+    }
+  ],
+  "pipeline_signals": [
+    {
+      "date": "2026-09-27",
+      "signal": "Al Yamama Company for Trading and Contracting wins the enabling infrastructure contract for HUMAIN's 6 GW AI data centre campus at Al Saad, east Riyadh: 380/132/33 kV distribution network, 500 MVA and 200 MVA substations, 2,000 MVA bulk supply point, water, fire, sewage and roads across a 24 sq km site. Tender issued 4 May 2026 under early contractor involvement, bids closed 8 May 2026, consultants Hatch, Egis and JLL.",
+      "project": "HUMAIN Al-Saad 6 GW AI data centre campus",
+      "country": "KSA",
+      "segment": "Data centre",
+      "stage": "EPC award",
+      "expected_power_need": "Six 1 GW plots. Backup generation is not in this package; data hall developers will each specify N+1 or 2N standby diesel at roughly 1.1 to 1.3 times critical IT load, so the first 1 GW plot alone implies well over 1 GW of standby genset capacity in 2,500 to 3,500 kVA blocks, 60 Hz.",
+      "source_url": "https://enterpriseam.com/ksa/2026/09/27/al-yamama-takes-the-infrastructure-contract-for-humains-6-gw-riyadh-ai-campus/",
+      "analysis": "The substations are ordered, so plot-level data hall EPCs and their genset packages are the next procurement wave, likely 2027 into 2028. HUMAIN and its plot tenants (AirTrunk, hyperscalers) will spec through Hatch and JLL. Cummins Arabia should be qualified with HUMAIN's design consultants and with Al Yamama now, and have C3000D6 and C3500 class data centre ratings ready for a 60 Hz Riyadh ambient derate discussion."
+    },
+    {
+      "date": "2026-08-31",
+      "signal": "HUMAIN and DataVolt agree to jointly develop 100 MW of a 360 MW first-phase AI data centre at Oxagon, NEOM, first 100 MW operational in 2028, within DataVolt's planned 1.5 GW Oxagon campus.",
+      "project": "DataVolt / HUMAIN Oxagon AI data centre",
+      "country": "KSA",
+      "segment": "Data centre",
+      "stage": "Design",
+      "expected_power_need": "360 MW first phase implies 400 MW plus of standby diesel or gas generation in 2,500 to 3,500 kVA units, 60 Hz, unless NEOM's renewable-plus-storage supply is accepted as the redundancy layer.",
+      "source_url": "https://www.neom.com/en-us/newsroom/HUMAIN-and-DataVolt-to-develop-AI-data-center-in-NEOM",
+      "analysis": "DataVolt markets net zero, so the standby specification will be contested between diesel with HVO, gas gensets and BESS. Cummins Arabia can offer all three (C3500 class diesel, HSK78G gas, BESS) and should pitch the mixed architecture to DataVolt's engineers in 2027 before the EPC tender."
+    },
+    {
+      "date": "2025-12-10",
+      "signal": "Khazna Data Centers acquires 225,000 sq m in Dammam for a 200 MW AI-ready campus, its first in Saudi Arabia, with initial capacity targeted in 9 to 12 months and full build in stages; part of a 400 MW Saudi plan and USD 2.62 billion regional financing.",
+      "project": "Khazna Dammam 200 MW campus",
+      "country": "KSA",
+      "segment": "Data centre",
+      "stage": "Land",
+      "expected_power_need": "200 MW IT load, roughly 230 to 260 MW of standby diesel in 2,500 to 3,500 kVA blocks, 60 Hz, delivered in phases from late 2026.",
+      "source_url": "https://guest.meed.com/khazna-acquires-land-for-200mw-data-centre-in-dammam/",
+      "analysis": "Khazna's UAE fleet standard is the reference; whoever holds Khazna's UAE genset framework will be the default in Dammam. Cummins Arabia's Dammam base gives it a service argument the UAE incumbent cannot match locally. First phase genset orders should land in the second half of 2026 or early 2027."
+    },
+    {
+      "date": "2026-08-31",
+      "signal": "Microsoft confirms the Saudi Arabia East datacenter region (three availability zones, Eastern Province) will be available in November 2026, with an Innovation Hub and HUMAIN partnership.",
+      "project": "Microsoft Saudi Arabia East cloud region",
+      "country": "KSA",
+      "segment": "Data centre",
+      "stage": "Genset package expected",
+      "expected_power_need": "Initial zones are built; expansion halls and second-wave sites will need additional standby diesel in 2,750 to 3,500 kVA blocks, 60 Hz, from 2027.",
+      "source_url": "https://news.microsoft.com/source/emea/2026/08/microsoft-announces-saudi-arabia-east-datacenter-region-will-be-available-in-november-2026/",
+      "analysis": "Launch capacity gensets are already installed. The opportunity is service on the installed fleet and the expansion phases, which Microsoft procures through global frameworks. Cummins Arabia's job is to ensure Cummins' global Microsoft relationship is executed locally with Eastern Province service commitments."
+    },
+    {
+      "date": "2026-09-15",
+      "signal": "AWS says it cannot restore data in its Bahrain region or one of three UAE availability zones after Iranian strikes, offers no rebuild timeline for UAE or Bahrain, and states it plans three additional data zones in Saudi Arabia.",
+      "project": "AWS Saudi Arabia region expansion and UAE zone rebuild",
+      "country": "KSA",
+      "segment": "Data centre",
+      "stage": "Design",
+      "expected_power_need": "Three new Saudi availability zones, each a multi-building campus, implies several hundred MW of standby diesel at 2,750 to 3,500 kVA, 60 Hz. A UAE zone rebuild, if it proceeds, adds 50 Hz demand.",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/09/15/amazon-web-services-unable-to-restore-bahrain-data-network-knocked-out-by-iran/",
+      "analysis": "AWS is shifting Gulf capacity toward Saudi Arabia. Hyperscaler genset packages are placed through global agreements, but hardening requirements after the strikes (dispersed, protected genset yards, longer fuel autonomy) will be set locally. Cummins Arabia should be in front of AWS's Saudi construction team with resilience-focused packaging."
+    },
+    {
+      "date": "2026-07-15",
+      "signal": "King Salman International Airport awards SAR 800 million (USD 213 million) enabling and substructure works on Terminal 6 to a China Civil Engineering Construction and Mofarreh AlHarbi JV; the terminal adds 40 million passengers a year and is due before Expo 2030. Prequalification received in early July 2026 for the east-west corridor and landside access roads.",
+      "project": "King Salman International Airport, Terminal 6",
+      "country": "KSA",
+      "segment": "Airport",
+      "stage": "EPC award",
+      "expected_power_need": "Terminal standby power for life safety, baggage, IT and airfield lighting, typically tens of MW in 2,000 to 3,000 kVA units, 60 Hz, tendered with the main terminal MEP package.",
+      "source_url": "https://enterpriseam.com/ksa/2026/07/15/terminal-6-at-king-salman-airport-gets-sar-800-mn-construction-package/",
+      "analysis": "Substructure is under way, so the main terminal building and MEP contracts follow in 2027 and the genset schedule will be fixed by the airport's MEP consultant. Target the consultant's approved vendor list now; Caterpillar via Zahid will use its Riyadh airport references."
+    },
+    {
+      "date": "2026-04-21",
+      "signal": "Expo 2030 Riyadh awards two main utilities and infrastructure works packages to Al Yamama Company, following the first package to Nesma and Partners in December 2025: internal roads, water, sewage, electricity, telecoms and EV charging across the 6 million sq m site, preparing for pavilion construction.",
+      "project": "Expo 2030 Riyadh site",
+      "country": "KSA",
+      "segment": "Construction / Events",
+      "stage": "EPC award",
+      "expected_power_need": "Construction-phase prime power for contractors from 2026, then permanent standby for pavilions, transport and command facilities before 2030. Both phases sit in the 500 to 2,750 kVA band, 60 Hz, with a large rental component during build.",
+      "source_url": "https://www.saudigulfprojects.com/2026/04/al-yamama-company-awarded-main-utilities-and-infrastructure-works-for-expo-2030-riyadh/",
+      "analysis": "Utilities contractors Al Yamama and Nesma are the immediate buyers of site power. Offer sale or rental hybrids to them in 2026; the permanent pavilion standby packages come with the building contracts in 2027 to 2028."
+    },
+    {
+      "date": "2026-03-01",
+      "signal": "Saudi Energy (formerly SEC) invites bids for nine 380 kV bulk supply points and overhead lines for National Renewable Energy Program Round 7 wind and PV projects (Ashayrah, Mozeraah, Mastura, East Al-Amoah, North Asir, Tumair, Al-Majmaah, NIFI, Starah), about 5,300 MW combined.",
+      "project": "NREP Round 7 grid connections",
+      "country": "KSA",
+      "segment": "Utility",
+      "stage": "Grid tender",
+      "expected_power_need": "Each 380 kV substation requires station auxiliary standby diesel, typically 500 to 1,250 kVA, 60 Hz, and the wind and PV plants need construction power plus O&M building standby.",
+      "source_url": "https://www.saudigulfprojects.com/2026/03/saudi-energy-invite-bids-for-380kv-substations-of-renewable-energy-projects/",
+      "analysis": "Substation EPCs (Al Toukhi, Alfanar, Al Gihaz, Hyundai, Larsen and Toubro) buy station gensets on price and approved vendor status with Saudi Energy. Confirm Cummins' vendor approval for station service gensets and quote to all shortlisted EPCs."
+    },
+    {
+      "date": "2025-12-16",
+      "signal": "Aramco receives solicitation of interest responses for Jafurah unconventional gas Phase 5: EPC of three gas compression plants at 200 million cf/d each, FEED by Wood; main EPC tender expected from end 2025. Phase 3 (Tecnicas Reunidas and Sinopec, USD 2.24 billion) includes a 230 kV substation and utilities.",
+      "project": "Aramco Jafurah gas development, Phases 3 to 5",
+      "country": "KSA",
+      "segment": "Oil and gas",
+      "stage": "EPC award",
+      "expected_power_need": "Emergency and essential-services diesel gensets at each compression plant and substation, 1,000 to 2,500 kVA, 60 Hz, plus construction-phase prime power at remote sites.",
+      "source_url": "https://www.meed.com/contractors-express-interest-in-jafurah-fifth-expansion-phase",
+      "analysis": "Aramco emergency gensets are bought by the EPC against Aramco's approved manufacturer list. Cummins Arabia should hold pre-agreed pricing with Tecnicas Reunidas, Sinopec and the Phase 5 bidders; the same EPCs also supply rental prime power for construction camps."
+    },
+    {
+      "date": "2026-01-05",
+      "signal": "Saudi Water Partnership Company announces financial close for the Ras Mohaisen independent water desalination plant, valued at over SAR 2.5 billion (about USD 686 million).",
+      "project": "Ras Mohaisen IWP",
+      "country": "KSA",
+      "segment": "Water / Desalination",
+      "stage": "EPC award",
+      "expected_power_need": "SWRO plant emergency and black-start diesel for intake, high-pressure pumps and controls, typically two to four units of 1,500 to 3,000 kVA, 60 Hz.",
+      "source_url": "https://www.zawya.com/en/projects/utilities/saudi-arabias-ras-mohaisen-desalination-project-reaches-financial-close-h7e6s18i",
+      "analysis": "Financial close triggers EPC procurement within months. Desalination developers (ACWA Power, Acciona, GS Inima consortia) reuse their previous plant genset vendor; find out who supplied the last SWPC plant by the same EPC and displace on service terms."
+    },
+    {
+      "date": "2025-11-18",
+      "signal": "Diriyah Company awards USD 1.5 billion of construction contracts for the Media and Innovation district and King Khalid Road.",
+      "project": "Diriyah giga-project",
+      "country": "KSA",
+      "segment": "Construction / Hospitality",
+      "stage": "EPC award",
+      "expected_power_need": "District-level standby for hotels, museums and media studios, many units in the 500 to 2,000 kVA band, 60 Hz, plus construction prime power during 2026 to 2028.",
+      "source_url": "https://www.meed.com/diriyah-awards-15bn-project-contracts",
+      "analysis": "Diriyah standardises MEP specifications across districts, so one approved genset brand tends to repeat. Getting on the Diriyah master specification is worth more than any single package."
+    },
+    {
+      "date": "2026-07-10",
+      "signal": "Qiddiya Investment Company plans to tender a high-speed rail link connecting King Salman International Airport and KAFD with Qiddiya City in September 2026.",
+      "project": "Qiddiya high-speed rail",
+      "country": "KSA",
+      "segment": "Transport",
+      "stage": "Design",
+      "expected_power_need": "Traction substations, stations and depots each need standby diesel, typically 500 to 2,000 kVA, 60 Hz, specified by the rail systems contractor.",
+      "source_url": "https://www.meed.com/qiddiya-to-tender-high-speed-rail-in-september",
+      "analysis": "Rail systems integrators (Alstom, Siemens Mobility, Hitachi, CRRC consortia) carry their own genset frameworks. Engage the civil and systems bidders during tender so Cummins is named as an acceptable alternative in the technical submission."
+    },
+    {
+      "date": "2025-12-05",
+      "signal": "Khazna says the first 200 MW phase of Stargate UAE in Abu Dhabi (19.2 sq km campus, part of the 5 GW UAE-US AI campus) will complete in the third quarter of 2026, with full 1 GW within three years; more than 5,000 workers on site.",
+      "project": "Stargate UAE, Abu Dhabi",
+      "country": "UAE",
+      "segment": "Data centre",
+      "stage": "Genset package expected",
+      "expected_power_need": "Phase 1 gensets are installed or in commissioning. Phases 2 onward (800 MW) imply roughly 900 MW plus of standby in 2,750 to 3,500 kVA units, 50 Hz, ordered through 2027 and 2028.",
+      "source_url": "https://www.thenationalnews.com/business/2025/12/05/stargate-uaes-first-phase-to-be-completed-in-third-quarter-of-2026/",
+      "analysis": "Khazna is the largest single genset buyer in the UAE for the next three years. If Cummins is not on Phase 1, the Phase 2 specification cycle in 2026 to 2027 is the entry point, and the argument is delivery slots and service capacity, since all OEMs are supply constrained on 3 MW class data centre sets."
+    },
+    {
+      "date": "2025-11-06",
+      "signal": "Microsoft and G42 announce a 200 MW UAE data centre capacity expansion, developed by Khazna, expected live before the end of 2026, within Microsoft's USD 15.2 billion UAE commitment.",
+      "project": "Microsoft and G42 200 MW UAE expansion",
+      "country": "UAE",
+      "segment": "Data centre",
+      "stage": "Genset package expected",
+      "expected_power_need": "About 230 to 260 MW of standby diesel in 2,750 to 3,500 kVA units, 50 Hz, with orders placed in 2026 to meet a year-end go-live.",
+      "source_url": "https://www.datacenterdynamics.com/en/news/microsoft-and-g42-expand-data-center-capacity-plans-in-uae-by-200mw/",
+      "analysis": "Timing means genset orders are being placed now. Any slot Cummins can offer in 2026 or early 2027 is a competitive weapon while other OEMs quote 2028 deliveries."
+    },
+    {
+      "date": "2026-08-10",
+      "signal": "ADNOC Gas awards USD 8.2 billion in EPC contracts: Wison Engineering for a new gas processing train at Habshan (USD 3.9 billion) and Tecnimont for a new NGL fractionation train at Ruwais (USD 4.3 billion), part of a USD 28 billion 2026 to 2030 programme.",
+      "project": "ADNOC Gas Rich Gas Development Phases 2 and 3",
+      "country": "UAE",
+      "segment": "Oil and gas",
+      "stage": "EPC award",
+      "expected_power_need": "Emergency and essential-services diesel gensets for each train and substation, 1,000 to 2,750 kVA, 50 Hz, plus construction prime power at Habshan and Ruwais, both of which sustained strike damage in 2026.",
+      "source_url": "https://www.worldoil.com/news/2026/8/10/adnoc-gas-awards-8-2-billion-in-contracts-for-rich-gas-development/",
+      "analysis": "Wison and Tecnimont will issue genset RFQs within 12 months against ADNOC's approved vendor list. Post-strike, ADNOC is likely to increase emergency generation redundancy, which enlarges the package. Confirm ADNOC vendor status and quote early to both EPCs."
+    },
+    {
+      "date": "2026-09-15",
+      "signal": "Kuwait's electricity minister says maintenance on several units damaged by Iranian attacks on power and desalination plants, fuel tanks and transmission lines was gradually completed by end August 2026; peak load reached 17,540 MW; the ministry ran conservation campaigns, cut government hours and curtailed factory lines. Unrelated station faults blacked out parts of Hawally and Mubarak Al-Kabeer on 6 September 2026.",
+      "project": "MEW post-strike restoration and grid hardening",
+      "country": "Kuwait",
+      "segment": "Utility",
+      "stage": "Design",
+      "expected_power_need": "MEW and government facility owners will fund backup and black-start capacity: distributed standby diesel at substations, pumping stations and public buildings in 500 to 3,000 kVA units, 50 Hz, and possibly rental or fast-track prime power ahead of summer 2027.",
+      "source_url": "https://www.arabtimesonline.com/news/kuwaits-grid-holds-despite-iran-attacks-record-summer-heat/",
+      "analysis": "Kuwait avoided a summer collapse through demand cuts, not new capacity. The 2027 budget cycle (starting April 2027) is where hardening spend lands, and MEW buys through CAPT with local agents. Cummins Arabia should have a Kuwaiti agent positioned with MEW's generation and distribution sectors before tenders appear in early 2027, and a rental partner ready for summer 2027 emergency capacity."
+    },
+    {
+      "date": "2026-02-03",
+      "signal": "ACWA Power and Gulf Investment Corporation consortium (Gulf Alliance for Power and Water, with KAPP holding 60 percent) signs a 25 year energy conversion and water purchase agreement with MEW for Az-Zour North Phase 2 and 3 IWPP: 2,700 MW and about 545,500 m3/day SWRO, USD 4.1 billion, EPC led by SEPCO III with GE Vernova gas turbines.",
+      "project": "Az-Zour North IWPP Phase 2 and 3",
+      "country": "Kuwait",
+      "segment": "Utility / Water",
+      "stage": "EPC award",
+      "expected_power_need": "Plant emergency diesel and black-start generation for a 2,700 MW CCGT and large SWRO plant, several units in the 2,000 to 3,500 kVA band, 50 Hz, plus construction prime power.",
+      "source_url": "https://www.saudigulfprojects.com/2026/02/acwa-power-company-acwa-led-consortium-signs-4-1-billion-az-zour-north-phase-2-3-iwpp-contract-in-kuwait/",
+      "analysis": "SEPCO III will run a Chinese-led procurement and default to its habitual genset vendor unless ACWA Power's O&M arm insists on a brand with Kuwait service. ACWA Operations is the lever; Cummins Arabia's Saudi relationship with ACWA is the way in."
+    },
+    {
+      "date": "2026-01",
+      "signal": "Mubarak Al-Kabeer Port enters implementation: China Communications Construction Company holds the USD 4 billion EPC for Phase 1 (1,200 m container terminal, 2.7 million TEU), awarded December 2025, with supervision starting January 2026 and later phases to exceed 8 million TEU.",
+      "project": "Mubarak Al-Kabeer Port, Boubyan Island",
+      "country": "Kuwait",
+      "segment": "Ports / Logistics",
+      "stage": "EPC award",
+      "expected_power_need": "Remote island site: multi-MW construction prime power from 2026, then terminal standby for cranes, reefer yards, buildings and navigation systems in 1,000 to 3,000 kVA units, 50 Hz.",
+      "source_url": "https://www.zawya.com/en/projects/construction/kuwaits-mubarak-al-kabeer-port-enters-implementation-phase-says-chinese-ambassador-qsf9z38z",
+      "analysis": "Boubyan has weak grid supply, so construction power is a genuine prime-power job now, and CCCC will rent or buy locally. Position through Kuwaiti rental houses and CCCC's Kuwait procurement office in 2026; the permanent standby package follows with the terminal MEP in 2028."
+    },
+    {
+      "date": "2026-03-24",
+      "signal": "Kuwait International Airport Terminal 2 (Limak, USD 4.3 billion plus) is about 81 percent complete with civil works completion targeted 30 November 2026 and passenger operations in late 2026; the new third runway and control tower opened late 2025.",
+      "project": "Kuwait International Airport Terminal 2",
+      "country": "Kuwait",
+      "segment": "Airport",
+      "stage": "Genset package expected",
+      "expected_power_need": "Terminal standby gensets are installed; the opportunity is commissioning support, service contracts and additional resilience capacity after the 2026 drone strikes on the airport, 50 Hz.",
+      "source_url": "https://www.ibtimes.com/kuwait-international-airports-new-terminal-2-not-opening-today-full-operations-targeted-late-2026-3800002",
+      "analysis": "The equipment decision is past, but the operator (DGCA) will tender O&M for the terminal's power plant after handover. A service bid with a Kuwaiti partner in 2027 is realistic, and airport hardening after the drone strikes may add standby capacity."
+    },
+    {
+      "date": "2025-10-09",
+      "signal": "Kuwait's Council of Ministers instructs the Ministry of Health to prepare initial plans for two medical cities, Sabah Al-Ahmad and Al-Mutlaa, each with two 500 bed hospitals plus clinics, dialysis, rehabilitation, staff housing and warehouses.",
+      "project": "Sabah Al-Ahmad and Al-Mutlaa medical cities",
+      "country": "Kuwait",
+      "segment": "Healthcare",
+      "stage": "Design",
+      "expected_power_need": "Four 500 bed hospitals imply roughly 8 to 16 standby gensets of 1,500 to 2,500 kVA, 50 Hz, plus smaller sets for ancillary buildings.",
+      "source_url": "https://www.zawya.com/en/business/healthcare/kuwait-lays-groundwork-for-new-medical-cities-in-sabah-al-ahmad-mutlaa-ixr67enr",
+      "analysis": "Design consultants will be appointed in 2026 to 2027 and genset packages tendered through CAPT with the main contractors around 2028. Caterpillar via Al-Bahar and Al Mulla's genset division are the entrenched Kuwaiti hospital suppliers; the specification stage is where that default is contested."
+    },
+    {
+      "date": "2026-05-21",
+      "signal": "Kuwait tenders power infrastructure packages covering substations and underground cable works for the South Saad Al-Abdullah and South Sabah Al-Ahmad residential projects.",
+      "project": "South Saad Al-Abdullah and South Sabah Al-Ahmad new cities",
+      "country": "Kuwait",
+      "segment": "Utility / Housing",
+      "stage": "Grid tender",
+      "expected_power_need": "Substation auxiliary standby gensets (250 to 1,100 kVA, 50 Hz) and later standby for schools, clinics and government buildings in both cities.",
+      "source_url": "https://www.meed.com/kuwait-tenders-power-infrastructure-packages",
+      "analysis": "Substation EPCs in Kuwait (Alghanim, Al-Dhow, HEISCO, Larsen and Toubro) buy station gensets against MEW approved vendor lists. Confirm Cummins approval status with MEW and quote to the substation bidders."
+    }
+  ]
+}

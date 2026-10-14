@@ -1,0 +1,945 @@
+{
+  "id": "perkins-fgwilson",
+  "name": "Perkins / FG Wilson",
+  "legal_name": "Perkins Engines Company Limited (Peterborough, UK) and FG Wilson, trading as Caterpillar (NI) Ltd (Belfast/Larne, UK); both wholly owned by Caterpillar Inc.",
+  "brands": [
+    "Perkins",
+    "FG Wilson",
+    "Marapco (Jubaili Bros gensets on Perkins engines)"
+  ],
+  "hq": "Perkins: Eastfield, Peterborough, England. FG Wilson: Belfast/Larne, Northern Ireland. Parent Caterpillar Inc.: Irving, Texas, USA",
+  "founded": 1932,
+  "founded_note": "Perkins founded 1932 (Frank Perkins and Charles Chapman), acquired by Caterpillar in 1998 for US$1.325 billion. FG Wilson founded 1966 in Belfast; celebrated 60 years at Catalyst 2026.",
+  "founded_sources": [
+    "https://en.wikipedia.org/wiki/Perkins_Engines",
+    "https://www.fgwilson.com/en_GB/company/about-us.html",
+    "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FGWilsonCatalyst2026.html"
+  ],
+  "employees": "Not disclosed separately for Perkins or FG Wilson. Caterpillar Inc. group: about 118,000 (2025). FG Wilson (Engineering) FZE Dubai: over 140 staff (company directory listing).",
+  "employees_sources": [
+    "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+    "https://www.aeconline.ae/fg-wilson-engineering-fze/company.html"
+  ],
+  "revenue": "Not disclosed separately. Caterpillar Inc. group sales and revenues US$67.6 billion (2025).",
+  "revenue_sources": [
+    "https://en.wikipedia.org/wiki/Caterpillar_Inc."
+  ],
+  "sector": "Diesel engines for electric power (Perkins, 4 to 2,500 kVA node engines) and packaged diesel generator sets (FG Wilson, 6.8 to 2,500 kVA)",
+  "positioning_text": "Perkins sells engines to independent genset packagers and FG Wilson sells complete gensets, so the two Caterpillar brands reach Gulf buyers through channels that are separate from the Cat dealer network. In KSA and UAE the Perkins channel runs through Kanoo Machinery and its Dubai arm Power Systems Gulf, while the FG Wilson channel runs through Zahid Group's TAMGO in Saudi Arabia and the TAMGO-owned FG Wilson (Engineering) FZE in Jebel Ali. Perkins engines also enter the market inside Jubaili Bros, Teksan, Almajd Power and Generac packaged sets, which multiplies the brand's presence in the 500 to 2,500 kVA band where Cummins Arabia competes. The current product push is the electronic 5000 Series (5006 to 5016, 750 to 2,500 kVA) aimed at data centres and hospitals, plus HVO and B100 fuel flexibility.",
+  "leadership": [
+    {
+      "name": "Joe Creed",
+      "title": "Chief Executive Officer, Caterpillar Inc.",
+      "scope": "global",
+      "source_url": "https://en.wikipedia.org/wiki/Caterpillar_Inc."
+    },
+    {
+      "name": "Richard Hemmings",
+      "title": "Vice President and General Manager, Global Sales, Marketing, Service and Parts, Perkins",
+      "scope": "global",
+      "source_url": "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-pushes-the-boundaries-of-diesel-at-conexpo-2026.html"
+    },
+    {
+      "name": "Roger Kennedy",
+      "title": "General Manager, FG Wilson (appointment article undated on fgwilson.com)",
+      "scope": "global",
+      "source_url": "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FG_Wilson_General_Manager_Appointment.html"
+    },
+    {
+      "name": "Graeme De Villiers",
+      "title": "General Manager, Power Business UAE, Kanoo Machinery LLC (Perkins distributor); as stated 2018-05",
+      "scope": "region",
+      "source_url": "https://ognnews.com/Article/43567/Kanoo_Machinery_is_region%E2%80%99s_distributor_of_Perkins"
+    },
+    {
+      "name": "Darren O'Connor",
+      "title": "Managing Director, FG Wilson Engineering (Dublin) Ltd (HVO trials partner, not Gulf)",
+      "scope": "global",
+      "source_url": "https://fueloilnews.co.uk/2026/05/hvo-proves-diesel-equivalent-performance-in-fg-wilson-generator-trials-with-tria-energy/"
+    }
+  ],
+  "regional_entities": [
+    {
+      "name": "Kanoo Machinery (Saudi Arabia)",
+      "country": "KSA",
+      "role": "Authorised Perkins distributor; five branches (Dammam, Riyadh, Jeddah, Jubail, Yanbu); Perkins genset supply 7.5 to about 2,250 kVA",
+      "since": "",
+      "hq_city": "Dammam",
+      "source_url": "https://www.kanoomachinery.com/ksa/engines-power-generation/perkins-generator",
+      "extra_sources": [
+        "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines",
+        "https://www.kanoomachinery.com/ksa/perkins-engine-repair-service"
+      ]
+    },
+    {
+      "name": "Kanoo Machinery LLC / Power Systems Gulf LLC (PSG)",
+      "country": "UAE",
+      "role": "Authorised Perkins distributor for UAE; PSG Dubai set up to manage Perkins business across the Arabian Gulf, with Perkins-approved training facility",
+      "since": "",
+      "hq_city": "Dubai",
+      "source_url": "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines",
+      "extra_sources": [
+        "http://www.psgulf.com/contactus",
+        "https://ognnews.com/Article/43567/Kanoo_Machinery_is_region%E2%80%99s_distributor_of_Perkins"
+      ]
+    },
+    {
+      "name": "Kanoo Machinery (Kuwait coverage)",
+      "country": "Kuwait",
+      "role": "Kuwait listed among Kanoo Machinery's Perkins territories (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, UAE, Yemen) as stated in 2018; no Kuwait branch verified",
+      "since": "",
+      "hq_city": "",
+      "source_url": "https://ognnews.com/Article/43567/Kanoo_Machinery_is_region%E2%80%99s_distributor_of_Perkins"
+    },
+    {
+      "name": "TAMGO (Zahid Group)",
+      "country": "KSA",
+      "role": "Sole FG Wilson dealer in Saudi Arabia (as stated in Zahid Group Aramco Shaybah article); supply, commissioning, maintenance",
+      "since": "",
+      "hq_city": "",
+      "source_url": "https://www.zahid.com/saudi-aramco-orders-128-fg-wilson-gen-sets-from-tamgo/"
+    },
+    {
+      "name": "FG Wilson (Engineering) FZE",
+      "country": "UAE",
+      "role": "FG Wilson authorised distributor and packager for UAE and Middle East; 160,000 sq ft facility in Jebel Ali Free Zone; parent organisation TAMGO; over 140 staff; 6.8 to 2,500 kVA",
+      "since": "1991",
+      "hq_city": "Dubai (Jebel Ali Free Zone South, S10603)",
+      "source_url": "https://fgwilson.ae/",
+      "extra_sources": [
+        "https://www.aeconline.ae/fg-wilson-engineering-fze/company.html"
+      ]
+    },
+    {
+      "name": "Jubaili Bros",
+      "country": "UAE",
+      "role": "Genset manufacturer since 1991 (Jebel Ali, Dubai, Abu Dhabi, Sharjah) building Marapco/JP sets on Perkins engines incl. the new 5012; FG Wilson dealer 1982 to 2009 (Lebanon origin)",
+      "since": "1991",
+      "hq_city": "Dubai",
+      "source_url": "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-the-uae",
+      "extra_sources": [
+        "https://jubailibros.com/en-ae/pages/our-history"
+      ]
+    },
+    {
+      "name": "Jubaili Energy (Jubaili Bros KSA)",
+      "country": "KSA",
+      "role": "Sales and manufacturing operations recently launched in Saudi Arabia; Riyadh office Al Sulay; telecom genset fleets already supplied",
+      "since": "",
+      "hq_city": "Riyadh",
+      "source_url": "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-saudi-arabia",
+      "extra_sources": [
+        "https://jubailibros.com/en-ae/pages/saudi-arabia-locations"
+      ]
+    },
+    {
+      "name": "Jubaili Bros Kuwait",
+      "country": "Kuwait",
+      "role": "Kuwait listed among Jubaili Bros operating countries; branch details not published",
+      "since": "",
+      "hq_city": "",
+      "source_url": "https://jubailibros.com/en-ae/pages/locations"
+    },
+    {
+      "name": "Abdul Latif Jameel Machinery (ALJM)",
+      "country": "KSA",
+      "role": "Named as Perkins distributor in the Teksan/Bin Quaraya Saudi case study (2017); current status not verified",
+      "since": "",
+      "hq_city": "",
+      "source_url": "https://www.perkins.com/en_GB/products/sectors/electric-power/ep-case-studies/Teksan-Powering-residences-and-rigs-in-Saudi-Arabia.html"
+    }
+  ],
+  "movements": [
+    {
+      "date": "2025-04-03",
+      "headline": "Perkins brings new 2606 (13 L) and 5012 (46 L) engines to Middle East Energy 2025 in Dubai",
+      "summary": "Perkins showcased the 2606 (350 to 550 kVA at 50 Hz, available H2 2025, 1,000 hour service intervals, HVO and B100 capable) and the electronic 5012 (1,275 to 1,875 kVA at 50 Hz, 1,125 to 1,500 kWe at 60 Hz, ISO G3, NFPA110, EPA Tier 2 on 60 Hz). Applications cited: data centres, hospitals, power plants.",
+      "category": "Product",
+      "country": "UAE",
+      "source_url": "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-to-showcase-powerful-new-13-and-46-litre-engines-at-middle-east-energy.html",
+      "source_domain": "perkins.com",
+      "extra_sources": [
+        "https://www.powertraininternationalweb.com/powergen/perkins-middle-east-2025/"
+      ],
+      "relevance": {
+        "level": "THREAT",
+        "analysis": "The 5012 sits exactly on the 1,250 to 1,875 kVA band where Cummins Arabia sells QSK50 and QSK60 based sets into data centres and hospitals, and it is offered to every independent packager in the Gulf. The 2606 attacks the 350 to 550 kVA band with 1,000 hour service intervals. Cummins Arabia should benchmark total cost of ownership against 5012-powered Jubaili and Teksan sets and lead with factory-packaged reliability, local service coverage and 50 degree C ambient performance."
+      }
+    },
+    {
+      "date": "2026-03-03",
+      "headline": "Perkins shows 2600 Series, hydrogen hybrid IOPU and battery-electric power unit at CONEXPO 2026",
+      "summary": "Perkins announced the 904J-E36TTA (129 kW), the 13 litre 2600 Series (340 to 515 kW, Stage V and Tier 4 Final), Project Coeus hydrogen hybrid IOPU (379 kW combined) and a 95.5 kW battery-electric power unit. Richard Hemmings, VP and GM Global Sales, Marketing, Service and Parts, framed the message as lower total cost of ownership and future fuel readiness.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-pushes-the-boundaries-of-diesel-at-conexpo-2026.html",
+      "source_domain": "perkins.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "Hybrid and alternative fuel work is still at prototype stage for Perkins and is aimed at off-highway more than gensets. The relevant signal is the Stage V 2600 Series, which packagers can pair with Gulf tenders that start asking for Stage V or Tier 4 Final in urban and data centre sites. Cummins Arabia should keep its own Stage V and Tier 4 Final genset offer visible to consultants in UAE and KSA."
+      }
+    },
+    {
+      "date": "2026-05-20",
+      "headline": "FG Wilson gensets pass HVO field trials with Tria Energy",
+      "summary": "FG Wilson Engineering (Dublin) Ltd and Tria Energy reported diesel-equivalent performance on HVO (EN 15940) across load conditions with no engine or fuel system changes, up to 90 percent lifecycle CO2 savings, aimed at data centre, construction and critical infrastructure customers.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://fueloilnews.co.uk/2026/05/hvo-proves-diesel-equivalent-performance-in-fg-wilson-generator-trials-with-tria-energy/",
+      "source_domain": "fueloilnews.co.uk",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "HVO acceptance is becoming a standard question in data centre tenders in the UAE. FG Wilson now has published trial evidence to cite. Cummins Arabia should have equivalent HVO approval statements for its data centre range ready in tender documents."
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "headline": "FG Wilson Catalyst 2026: 60th anniversary global dealer conference in Belfast",
+      "summary": "FG Wilson gathered its global dealer network, customers and staff in Belfast's Titanic Quarter for a week of strategy, innovation and growth sessions and a Product Discovery Zone. No new product launches were announced.",
+      "category": "Partnership",
+      "country": "Global",
+      "source_url": "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FGWilsonCatalyst2026.html",
+      "source_domain": "fgwilson.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "A dealer conference of this scale signals a channel re-energising exercise. Expect dealer targets and campaign activity in the Gulf over the next 12 months, especially from FG Wilson (Engineering) FZE and TAMGO. Cummins Arabia should expect sharper FG Wilson pricing in the 500 to 1,500 kVA commercial band."
+      }
+    },
+    {
+      "date": null,
+      "date_note": "Undated on fgwilson.com; listed among current top stories",
+      "headline": "FG Wilson appoints Roger Kennedy as General Manager",
+      "summary": "Roger Kennedy, a 30 year FG Wilson veteran with a commercial background, was appointed General Manager to lead the FG Wilson team worldwide.",
+      "category": "Leadership",
+      "country": "Global",
+      "source_url": "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FG_Wilson_General_Manager_Appointment.html",
+      "source_domain": "fgwilson.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "A commercially oriented GM tends to prioritise dealer growth and volume. Combined with the Catalyst 2026 conference, this points to a growth push rather than a hold strategy for FG Wilson."
+      }
+    },
+    {
+      "date": "2026-03-06",
+      "date_note": "Date taken from the Caterpillar media asset ID of the P2500-3M datasheet (CM20260306)",
+      "headline": "FG Wilson lists new 'M' variants across the large range (P1100-1M to P2500-3M) with DSE7410 control",
+      "summary": "FG Wilson's large range pages now pair each legacy model with an M variant (P1100-1M, P1650-1M, P2250-3M, P2500-3M), all on Perkins 4008, 4012 and 4016 engines, FG Wilson alternators with AREP excitation and Deep Sea 7410 controllers, with new datasheets dated 2024-10 and 2026-03.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators.html",
+      "source_domain": "fgwilson.com",
+      "extra_sources": [
+        "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/129762.html",
+        "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/129761.html",
+        "https://s7d2.scene7.com/is/content/Caterpillar/CM20260306-9707a-7b6c9"
+      ],
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "FG Wilson's top end remains 2,500 kVA on the mechanical 4016-61TRG3 while the electronic 5016 is sold to other packagers. Cummins Arabia's C2500 to C3500 range and its factory data centre ratings remain a differentiator above 2,500 kVA and in DCC rated applications. Below 2,500 kVA expect the refreshed FG Wilson range to be pushed hard by TAMGO and FG Wilson FZE."
+      }
+    },
+    {
+      "date": "2025-11",
+      "date_note": "Date from Generac D46L sell sheet version 1125",
+      "headline": "Generac standardises 1,000 to 1,500 kW US industrial diesel sets on Perkins 4008 (30.6 L) and 4012/D46L (45.8 L) engines",
+      "summary": "Generac's SD1000/MD1000 use the Perkins 30.6 L 8 cylinder engine and the SD1250/MD1250 (1,250 and 1,500 kW nodes) use the Perkins D46L 12 cylinder engine with Deep Sea G8601 controllers.",
+      "category": "Partnership",
+      "country": "Global",
+      "source_url": "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/",
+      "source_domain": "generac.com",
+      "extra_sources": [
+        "https://www.generac.com/industrial-products/stationary-generators/1000kw-industrial-generator-30-6l-sd1000/"
+      ],
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "Perkins gains a large 60 Hz OEM volume base through Generac, which feeds 60 Hz product maturity relevant to Saudi Arabia. If Generac's Gulf dealers (Atlas Power Solutions, Watan Altaqa, Al Mulla) bring these sets to KSA, Cummins Arabia faces Perkins-powered 1,000 to 1,500 kW packages under a second brand."
+      }
+    },
+    {
+      "date": "2025-05-21",
+      "headline": "Jubaili Bros (Perkins packager) signs strategic partnership with Wholesale Electric Asia for oil and gas power packages",
+      "summary": "Jubaili Bros (1,600 employees, 11 countries, 3 manufacturing plants, 1.5 GW annual capacity) and Singapore based WEA agreed to cooperate on power generation distribution and customised oil and gas packages across the Middle East, Africa and Southeast Asia.",
+      "category": "Partnership",
+      "country": "UAE",
+      "source_url": "https://jubailibros.com/en-ae/blogs/jubaili-stories/jubaili-bros-wholesale-electric-asia-wea-announce-a-strategic-partnership-for-power-generation-solutions",
+      "source_domain": "jubailibros.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "Jubaili Bros is scaling as a regional packager and now targets oil and gas packages, a core Cummins Arabia segment in KSA and Kuwait. Its Perkins-based JP range runs to 2,250 kVA prime. Cummins Arabia should monitor Jubaili's Saudi factory ramp and its bids into Aramco contractor and rental fleets."
+      }
+    },
+    {
+      "date": "2024-12-04",
+      "headline": "Jubaili Bros adds MWM gas gensets (400 to 4,500 kW) for Middle East and Africa",
+      "summary": "MWM (Mannheim) and Jubaili Bros (Dubai) announced a partnership to offer MWM gas generators of 400 to 4,500 kW electrical across MEA, under Group CEO Dr Marcus Schumacher.",
+      "category": "Partnership",
+      "country": "GCC",
+      "source_url": "https://ae.jubailibros.com/blogs/jubaili-stories/mwm-and-jubaili-bros-collaborate-to-provide-energy-efficient-gas-powered-solutions-in-the-middle-east-and-africa",
+      "source_domain": "jubailibros.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "This is context for the Perkins channel: Jubaili now covers diesel (Perkins) and gas (MWM), which lets it bid full gas and diesel packages against Cummins Arabia's HSK78G and diesel range. Included as a late 2024 baseline because it shapes 2025 to 2026 bidding behaviour."
+      }
+    }
+  ],
+  "products": [
+    {
+      "model": "P2500-3 / P2500-3M",
+      "series": "FG Wilson Large Range",
+      "category": "Diesel genset",
+      "frequency_hz": 50,
+      "standby_kva": 2500,
+      "standby_kw": 2000,
+      "prime_kva": 2250,
+      "prime_kw": 1800,
+      "continuous_kw": null,
+      "engine_model": "Perkins 4016-61TRG3",
+      "cylinders": 16,
+      "displacement_l": 61.1,
+      "aspiration": "Quad turbocharged, air to water charge cooled",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": 470.6,
+      "fuel_consumption_lph_75": 350.8,
+      "fuel_consumption_lph_50": 244.5,
+      "fuel_consumption_basis": "Prime rating, 50 Hz (standby 100 percent: 528.4 l/h)",
+      "length_mm": 6038,
+      "width_mm": 2184,
+      "height_mm": 2900,
+      "dry_weight_kg": 12980,
+      "emissions": "Fuel optimised (no emissions certification stated)",
+      "alternator": "Leroy Somer LL9324P (FG Wilson alternator with AREP excitation, IP23 on M variant)",
+      "controller": "Deep Sea DSE7410",
+      "voltage": "220 to 415 V",
+      "ambient_derate_note": "",
+      "data_center_rating": "Listed in FG Wilson data centre range; DCC value not published on page",
+      "source_url": "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/129762.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20150623-35493-36042",
+      "datasheet_url_m_variant": "https://s7d2.scene7.com/is/content/Caterpillar/CM20260306-9707a-7b6c9",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "P2250-3 / P2250-3M",
+      "series": "FG Wilson Large Range",
+      "category": "Diesel genset",
+      "frequency_hz": 50,
+      "standby_kva": 2250,
+      "standby_kw": 1800,
+      "prime_kva": 2000,
+      "prime_kw": 1600,
+      "continuous_kw": null,
+      "engine_model": "Perkins 4016-61TRG2",
+      "cylinders": 16,
+      "displacement_l": 61.1,
+      "aspiration": "Quad turbocharged, air to water charge cooled",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": 418.1,
+      "fuel_consumption_lph_75": 317.7,
+      "fuel_consumption_lph_50": 223.5,
+      "fuel_consumption_basis": "Prime rating, 50 Hz (110 percent: 470.8 l/h)",
+      "length_mm": 5839,
+      "width_mm": 2196,
+      "height_mm": 2605,
+      "dry_weight_kg": 12215,
+      "emissions": "Fuel optimised",
+      "alternator": "Leroy Somer LL9324H",
+      "controller": "Deep Sea DSE7410",
+      "voltage": "220 to 415 V",
+      "ambient_derate_note": "",
+      "data_center_rating": "In FG Wilson data centre range list; DCC value not published",
+      "source_url": "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/129761.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20150623-35493-37676",
+      "datasheet_url_m_variant": "https://s7d2.scene7.com/is/content/Caterpillar/CM20260306-dfc0c-04f49",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "P1650-1 / P1650-1M",
+      "series": "FG Wilson Large Range",
+      "category": "Diesel genset",
+      "frequency_hz": 50,
+      "standby_kva": 1650,
+      "standby_kw": 1320,
+      "prime_kva": 1500,
+      "prime_kw": 1200,
+      "continuous_kw": null,
+      "engine_model": "Perkins 4012-46TAG2A",
+      "cylinders": 12,
+      "displacement_l": 45.8,
+      "aspiration": "Turbocharged, air to air charge cooled",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": 296.6,
+      "fuel_consumption_lph_75": 225.7,
+      "fuel_consumption_lph_50": 159.8,
+      "fuel_consumption_basis": "Prime rating, 50 Hz (110 percent: 326.3 l/h)",
+      "length_mm": 5044,
+      "width_mm": 2200,
+      "height_mm": 2461,
+      "dry_weight_kg": 10181,
+      "emissions": "Fuel optimised",
+      "alternator": "Leroy Somer LL8224N",
+      "controller": "Deep Sea DSE7410",
+      "voltage": "220 to 415 V",
+      "ambient_derate_note": "",
+      "data_center_rating": "In FG Wilson data centre range list; DCC value not published",
+      "source_url": "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/128123.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20150623-35493-45631",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "P1100-1 / P1100-1M",
+      "series": "FG Wilson Large Range",
+      "category": "Diesel genset",
+      "frequency_hz": 50,
+      "standby_kva": 1100,
+      "standby_kw": 880,
+      "prime_kva": 1000,
+      "prime_kw": 800,
+      "continuous_kw": null,
+      "engine_model": "Perkins 4008TAG2A",
+      "cylinders": 8,
+      "displacement_l": 30.6,
+      "aspiration": "Turbocharged, charge air cooled",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": 214.0,
+      "fuel_consumption_lph_75": 156.5,
+      "fuel_consumption_lph_50": 108.9,
+      "fuel_consumption_basis": "Prime rating, 50 Hz (110 percent: 240 l/h); datasheet lists 1010/1110 kVA at 400/230 V",
+      "length_mm": 4967,
+      "width_mm": 2227,
+      "height_mm": 2073,
+      "dry_weight_kg": 6709,
+      "emissions": "Fuel optimised; built to BS5000, ISO 8528, ISO 3046, IEC 60034, NEMA MG-1.22",
+      "alternator": "FG Wilson FGL70050 (auxiliary winding excitation, IP23)",
+      "controller": "Deep Sea DSE7410",
+      "voltage": "220 to 415 V",
+      "ambient_derate_note": "",
+      "data_center_rating": "In FG Wilson data centre range list; DCC value not published",
+      "source_url": "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/127281.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20230302-fe58a-d1b1d",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "4016-61TRG3",
+      "series": "Perkins 4000 Series",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 2500,
+      "standby_kw": 2000,
+      "prime_kva": 2250,
+      "prime_kw": 1800,
+      "continuous_kw": null,
+      "engine_model": "4016-61TRG3 (1,600 kWm gross at 1500 rpm)",
+      "cylinders": 16,
+      "displacement_l": 61.1,
+      "aspiration": "Quad turbocharged, air to water charge cooled",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "fuel_consumption_basis": "Spec sheet gives g/kWh at prime: 205 (100 percent), 200 (75 percent), 204 (50 percent); l/h not published",
+      "length_mm": 4542,
+      "width_mm": 2185,
+      "height_mm": 3175,
+      "dry_weight_kg": 7783,
+      "emissions": "Fuel optimised",
+      "alternator": "Not applicable (bare ElectropaK)",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "Baseload rating 1,800 kVA at 1500 rpm published for the TRG family",
+      "source_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002720.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-27388-47363",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "4012-46TAG2A",
+      "series": "Perkins 4000 Series",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 1657,
+      "standby_kw": 1325,
+      "prime_kva": 1505,
+      "prime_kw": 1204,
+      "continuous_kw": null,
+      "engine_model": "4012-46TAG2A (1,077 kWm gross at 1500 rpm; 1,069 kWm at 1800 rpm)",
+      "cylinders": 12,
+      "displacement_l": 45.8,
+      "aspiration": "Turbocharged, air to air charge cooled",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "fuel_consumption_basis": "Spec sheet: 199 to 207 g/kWh at 100 percent prime; 60 Hz 1800 rpm typical 1,511 kVA prime, 1,661 kVA standby",
+      "length_mm": 3915,
+      "width_mm": 2200,
+      "height_mm": 2269,
+      "dry_weight_kg": 5690,
+      "emissions": "Fuel optimised",
+      "alternator": "Not applicable",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "",
+      "source_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002696.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-328e2-922da",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "4012-46TAG3A",
+      "series": "Perkins 4000 Series",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 1880,
+      "standby_kw": 1504,
+      "prime_kva": 1710,
+      "prime_kw": 1368,
+      "continuous_kw": null,
+      "engine_model": "4012-46TAG3A (1,281 kWm gross at 1500 rpm; 1,286 kWm at 1800 rpm)",
+      "cylinders": 12,
+      "displacement_l": 45.8,
+      "aspiration": "Turbocharged, air to air charge cooled",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "fuel_consumption_basis": "Spec sheet: 209 to 213 g/kWh at 100 percent prime; 60 Hz standby 1,880 kVA / 1,504 kWe at 1800 rpm",
+      "length_mm": 3919,
+      "width_mm": 2200,
+      "height_mm": 2614,
+      "dry_weight_kg": 5860,
+      "emissions": "Fuel optimised",
+      "alternator": "Not applicable",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "",
+      "source_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002696.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-328e2-922da",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "2806A-E18TAG2",
+      "series": "Perkins 2800 Series",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 700,
+      "standby_kw": 560,
+      "prime_kva": 650,
+      "prime_kw": 520,
+      "continuous_kw": null,
+      "engine_model": "2806A-E18TAG2 (584 kWm gross prime at 1500 rpm; 60 Hz: 625 kVA prime, 687 kVA standby)",
+      "cylinders": 6,
+      "displacement_l": 18.1,
+      "aspiration": "Parallel turbocharged, air to air charge cooled",
+      "bore_stroke_mm": "145 x 183",
+      "rated_rpm": 1500,
+      "fuel": "Diesel",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "fuel_consumption_basis": "Spec sheet prime g/kWh at 1500 rpm: 202 (100 percent), 198 (75 percent), 201 (50 percent)",
+      "length_mm": 2545,
+      "width_mm": 1536,
+      "height_mm": 1808,
+      "dry_weight_kg": 2050,
+      "emissions": "Fuel optimised",
+      "alternator": "Not applicable",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "",
+      "source_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000001943.html",
+      "datasheet_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200212-73080-68bae",
+      "spec_confidence": "datasheet"
+    },
+    {
+      "model": "5016AC-E61TRG",
+      "series": "Perkins 5000 Series (electronic)",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 2500,
+      "standby_kw": 2000,
+      "prime_kva": 2250,
+      "prime_kw": 1800,
+      "continuous_kw": null,
+      "engine_model": "5016AC-E61TRG (range 1,249 to 2,216 kWm gross; 1,750 to 2,250 kVA prime, 1,925 to 2,500 kVA standby at 50 Hz)",
+      "cylinders": 16,
+      "displacement_l": 61.1,
+      "aspiration": "Turbocharged, air to water charge cooled; compression ratio 13.8:1; direct injection, full authority ECM",
+      "bore_stroke_mm": "160 x 190",
+      "rated_rpm": 1500,
+      "fuel": "Diesel (B20 biodiesel and 100 percent HVO capable per 5000 Series release)",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "length_mm": null,
+      "width_mm": 3675,
+      "height_mm": 1260,
+      "dry_weight_kg": 6127,
+      "emissions": "Non-certified equivalent to EU Stage II, China Nonroad Stage III, US EPA Tier 2",
+      "alternator": "Not applicable",
+      "controller": "Integrated ECM with telematics; two year oil and fuel service intervals",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "Marketed for data centres (ISO 8528-5 G2/G3 load acceptance per 5000 Series release)",
+      "source_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/129740.html",
+      "datasheet_url": "https://emc.perkins.com/n/api/pubdirect?media_string_id=100523EN-",
+      "spec_confidence": "brochure"
+    },
+    {
+      "model": "5012",
+      "series": "Perkins 5000 Series (electronic)",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 1875,
+      "standby_kw": null,
+      "prime_kva": null,
+      "prime_kw": null,
+      "continuous_kw": null,
+      "engine_model": "5012 V12 (range 1,275 to 1,875 kVA at 50 Hz; 1,125 to 1,500 kWe at 60 Hz, EPA Tier 2 on 60 Hz)",
+      "cylinders": 12,
+      "displacement_l": 46.0,
+      "aspiration": "Twin turbochargers per bank (four in total)",
+      "bore_stroke_mm": "",
+      "rated_rpm": 1500,
+      "fuel": "Diesel (B20 or 100 percent HVO)",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "length_mm": null,
+      "width_mm": null,
+      "height_mm": null,
+      "dry_weight_kg": null,
+      "emissions": "ISO 8528 G3, NFPA110; EPA Tier 2 (60 Hz)",
+      "alternator": "Not applicable",
+      "controller": "Full authority electronic; 750 hour or two year oil and fuel filter intervals",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "Positioned for data centres and hospitals",
+      "source_url": "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-to-showcase-powerful-new-13-and-46-litre-engines-at-middle-east-energy.html",
+      "datasheet_url": null,
+      "spec_confidence": "brochure"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner": "Kanoo Machinery / Power Systems Gulf LLC (YBA Kanoo)",
+      "partner_type": "Dealer",
+      "relationship_label": "DEALER",
+      "since": "",
+      "country": "KSA, UAE (plus Bahrain, Oman, Qatar, Kuwait, Yemen per 2018 statement)",
+      "scope": "Authorised Perkins distributor: engines, gensets 7.5 to about 2,250 kVA, parts (over 5,000 active part numbers), Perkins approved training centre in Dubai, five Saudi branches",
+      "source_url": "https://ognnews.com/Article/43567/Kanoo_Machinery_is_region%E2%80%99s_distributor_of_Perkins",
+      "extra_sources": [
+        "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines",
+        "https://www.kanoomachinery.com/ksa/engines-power-generation/perkins-generator"
+      ],
+      "why_it_matters": {
+        "level": "THREAT",
+        "analysis": "Kanoo gives Perkins a parts and service backbone in Dammam, Riyadh, Jeddah, Jubail and Yanbu that packagers lean on when they bid against Cummins Arabia. Cummins Arabia's answer is service response time and parts availability guarantees written into bids, plus engine plus alternator plus control single-source warranty."
+      }
+    },
+    {
+      "partner": "TAMGO (Zahid Group)",
+      "partner_type": "Dealer",
+      "relationship_label": "EXCLUSIVE_DISTRIBUTOR",
+      "since": "",
+      "country": "KSA",
+      "scope": "Sole FG Wilson dealer in Saudi Arabia; also parent organisation of FG Wilson (Engineering) FZE in Dubai; delivered 140 FG Wilson sets to Aramco Shaybah via Samsung Engineering",
+      "source_url": "https://www.zahid.com/saudi-aramco-orders-128-fg-wilson-gen-sets-from-tamgo/",
+      "extra_sources": [
+        "https://fgwilson.ae/"
+      ],
+      "why_it_matters": {
+        "level": "THREAT",
+        "analysis": "Zahid Group is also the Cat dealer in Saudi Arabia, so TAMGO can offer FG Wilson below and Cat above in one Aramco or EPC bid. Cummins Arabia should target the mid band (500 to 2,000 kVA) with the Cummins single-brand argument and Olayan's local presence, and pre-qualify early with EPCs such as Samsung Engineering."
+      }
+    },
+    {
+      "partner": "FG Wilson (Engineering) FZE",
+      "partner_type": "Packager",
+      "relationship_label": "PACKAGER",
+      "since": "1991",
+      "country": "UAE",
+      "scope": "160,000 sq ft Jebel Ali facility, over 140 staff, FG Wilson sets 6.8 to 2,500 kVA, enclosures, containers, parts, service contracts; serves UAE and the Middle East",
+      "source_url": "https://www.aeconline.ae/fg-wilson-engineering-fze/company.html",
+      "extra_sources": [
+        "https://fgwilson.ae/"
+      ],
+      "why_it_matters": {
+        "level": "THREAT",
+        "analysis": "This is the most established FG Wilson base in the Gulf, with local enclosure and container build. It competes directly with Cummins Arabia's UAE branches on telecom, rental, retail and healthcare sets. Lead time and local customisation are the battleground."
+      }
+    },
+    {
+      "partner": "Jubaili Bros",
+      "partner_type": "Packager",
+      "relationship_label": "PACKAGER",
+      "since": "1991",
+      "country": "UAE, KSA, Kuwait",
+      "scope": "Lebanese-origin packager (1,600 employees, 11 countries, 3 manufacturing plants, 1.5 GW annual capacity) building JP and Marapco gensets 9 to over 2,000 kVA on Perkins engines including the 5012; historic FG Wilson dealer 1982 to 2009; new Saudi manufacturing; MWM gas partnership",
+      "source_url": "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-the-uae",
+      "extra_sources": [
+        "https://jubailibros.com/en-ae/pages/our-history",
+        "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-saudi-arabia",
+        "https://jubailibros.com/en-ae/blogs/jubaili-stories/jubaili-bros-wholesale-electric-asia-wea-announce-a-strategic-partnership-for-power-generation-solutions",
+        "https://jubailibros.com/en-ae/collections/diesel-generators"
+      ],
+      "why_it_matters": {
+        "level": "THREAT",
+        "analysis": "Jubaili is the volume packager that turns Perkins engines into low-cost sets in exactly Cummins Arabia's UAE and KSA territory, now with Saudi assembly. Its JP2250/50 (2,250 kVA prime) reaches the top of the Perkins range. Cummins Arabia should track Jubaili's Saudi plant ramp, its telecom fleet wins, and defend with factory-built quality, data centre ratings and Cummins-backed warranty."
+      }
+    },
+    {
+      "partner": "Teksan",
+      "partner_type": "Packager",
+      "relationship_label": "PACKAGER",
+      "since": "",
+      "country": "KSA",
+      "scope": "Turkish packager shipping Perkins-powered sets (1106A, 2206A, 2806A) into Saudi rental and oilfield camps; 20 sets for Bin Quaraya serving Schlumberger operations",
+      "source_url": "https://www.perkins.com/en_GB/products/sectors/electric-power/ep-case-studies/Teksan-Powering-residences-and-rigs-in-Saudi-Arabia.html",
+      "why_it_matters": {
+        "level": "WATCH",
+        "analysis": "Turkish packagers on Perkins engines undercut on price in Saudi rental and oilfield camp power. Cummins Arabia should keep rental fleet owners such as Bin Quaraya close and offer fleet service agreements that imported sets cannot match."
+      }
+    },
+    {
+      "partner": "Abdul Latif Jameel Machinery",
+      "partner_type": "Dealer",
+      "relationship_label": "DEALER",
+      "since": "",
+      "country": "KSA",
+      "scope": "Named as Perkins distributor supporting the Teksan/Bin Quaraya installation (2017); current status not verified",
+      "source_url": "https://www.perkins.com/en_GB/products/sectors/electric-power/ep-case-studies/Teksan-Powering-residences-and-rigs-in-Saudi-Arabia.html",
+      "why_it_matters": {
+        "level": "WATCH",
+        "analysis": "If ALJM still supports Perkins in Saudi Arabia alongside Kanoo, Perkins has two service organisations in the Kingdom. Verify current status before positioning against it."
+      }
+    },
+    {
+      "partner": "Generac Power Systems",
+      "partner_type": "OEM",
+      "relationship_label": "OEM_SUPPLIER",
+      "since": "",
+      "country": "Global",
+      "scope": "Perkins 4008 (30.6 L) and D46L/4012 (45.8 L) engines in Generac SD1000, SD1250 and 1,500 kW industrial diesel sets",
+      "source_url": "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/",
+      "extra_sources": [
+        "https://www.generac.com/industrial-products/stationary-generators/1000kw-industrial-generator-30-6l-sd1000/"
+      ],
+      "why_it_matters": {
+        "level": "WATCH",
+        "analysis": "Generac's Gulf dealers can bring Perkins-powered 60 Hz sets into Saudi Arabia under the Generac brand, giving Perkins another route into Cummins Arabia's 60 Hz market."
+      }
+    },
+    {
+      "partner": "Tria Energy",
+      "partner_type": "Consultant",
+      "relationship_label": "MOU",
+      "since": "2026",
+      "country": "Global",
+      "scope": "HVO field trials on FG Wilson gensets (Ireland), guidance for wider fleet deployment",
+      "source_url": "https://fueloilnews.co.uk/2026/05/hvo-proves-diesel-equivalent-performance-in-fg-wilson-generator-trials-with-tria-energy/",
+      "why_it_matters": {
+        "level": "WATCH",
+        "analysis": "Gives FG Wilson third-party HVO evidence for data centre tenders. Cummins Arabia should match with its own published HVO statements."
+      }
+    }
+  ],
+  "geo_footprint": [
+    {
+      "country": "KSA",
+      "city": "Dammam",
+      "facility_type": "Dealer branch",
+      "entity": "Kanoo Machinery (Perkins)",
+      "notes": "Full-size workshop; Kanoo Machinery Saudi facility listed in Dammam",
+      "source_url": "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines",
+      "extra_sources": [
+        "https://www.kanoomachinery.com/ksa/engines-power-generation/perkins-generator"
+      ]
+    },
+    {
+      "country": "KSA",
+      "city": "Riyadh",
+      "facility_type": "Dealer branch",
+      "entity": "Kanoo Machinery (Perkins)",
+      "notes": "Full-size workshop",
+      "source_url": "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines"
+    },
+    {
+      "country": "KSA",
+      "city": "Jeddah",
+      "facility_type": "Dealer branch",
+      "entity": "Kanoo Machinery (Perkins)",
+      "notes": "Full-size workshop",
+      "source_url": "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines"
+    },
+    {
+      "country": "KSA",
+      "city": "Jubail",
+      "facility_type": "Dealer branch",
+      "entity": "Kanoo Machinery (Perkins)",
+      "notes": "Branch; workshop planned within six months of April 2017 article",
+      "source_url": "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines"
+    },
+    {
+      "country": "KSA",
+      "city": "Yanbu",
+      "facility_type": "Dealer branch",
+      "entity": "Kanoo Machinery (Perkins)",
+      "notes": "Satellite workshop",
+      "source_url": "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines"
+    },
+    {
+      "country": "UAE",
+      "city": "Dubai",
+      "facility_type": "Training centre",
+      "entity": "Power Systems Gulf LLC (Kanoo, Perkins)",
+      "notes": "Perkins-approved training facility with two Perkins-approved trainers; manages Perkins business across the Arabian Gulf",
+      "source_url": "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines",
+      "extra_sources": [
+        "http://www.psgulf.com/contactus"
+      ]
+    },
+    {
+      "country": "UAE",
+      "city": "Dubai (Jebel Ali Free Zone South)",
+      "facility_type": "Manufacturing",
+      "entity": "FG Wilson (Engineering) FZE",
+      "notes": "160,000 sq ft facility, S10603 JAFZA South, over 140 staff, gensets 6.8 to 2,500 kVA, enclosures and containers; established 1991",
+      "source_url": "https://www.aeconline.ae/fg-wilson-engineering-fze/company.html",
+      "extra_sources": [
+        "https://fgwilson.ae/"
+      ]
+    },
+    {
+      "country": "UAE",
+      "city": "Jebel Ali, Dubai, Abu Dhabi, Sharjah",
+      "facility_type": "Manufacturing",
+      "entity": "Jubaili Bros",
+      "notes": "ISO-certified manufacturing plants, service centres and branches; gensets on Perkins engines",
+      "source_url": "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-the-uae"
+    },
+    {
+      "country": "KSA",
+      "city": "Riyadh",
+      "facility_type": "Dealer branch",
+      "entity": "Jubaili Energy (Jubaili Bros)",
+      "notes": "Bldg 4074, Southern Ring Rd, Al Sulay District; Saudi manufacturing facility announced, location not published",
+      "source_url": "https://jubailibros.com/en-ae/pages/saudi-arabia-locations",
+      "extra_sources": [
+        "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-saudi-arabia"
+      ]
+    },
+    {
+      "country": "Kuwait",
+      "city": "",
+      "facility_type": "Dealer branch",
+      "entity": "Jubaili Bros",
+      "notes": "Kuwait listed as an operating country; address not published",
+      "source_url": "https://jubailibros.com/en-ae/pages/locations"
+    }
+  ],
+  "gulf_reference_projects": [
+    {
+      "date": "2016",
+      "project": "Saudi Aramco Shaybah field expansion (Samsung Engineering EPC)",
+      "country": "KSA",
+      "segment": "Oil & gas",
+      "capacity": "140 FG Wilson gensets, 13 to 750 kVA",
+      "summary": "Order secured May 2011 for 128 sets, increased to 140, supplied and commissioned by TAMGO with maintenance at 55 degree C ambient and dust storm conditions; completion targeted 2016.",
+      "source_url": "https://www.zahid.com/saudi-aramco-orders-128-fg-wilson-gen-sets-from-tamgo/"
+    },
+    {
+      "date": "2017",
+      "project": "Bin Quaraya residential camp (Salasil, north-east of Riyadh) and Schlumberger oilfield operations",
+      "country": "KSA",
+      "segment": "Rental",
+      "capacity": "20 Teksan gensets: 8 x 150 kVA (Perkins 1106A-70TAG3), 8 x 350 kVA (2206A-E13TAG2), 4 x 600 kVA (2806A-E18TAG1A) prime",
+      "summary": "Perkins-powered Teksan sets supplied through Abdul Latif Jameel Machinery for a Saudi rental company serving 146 gas wells and 128 oil wells.",
+      "source_url": "https://www.perkins.com/en_GB/products/sectors/electric-power/ep-case-studies/Teksan-Powering-residences-and-rigs-in-Saudi-Arabia.html"
+    }
+  ],
+  "gaps": [
+    "Perkins and FG Wilson do not publish standalone revenue or headcount; Caterpillar group figures used.",
+    "FG Wilson dealer for Kuwait not verified from the FG Wilson locator (dynamic page); Kuwait coverage shown only via Kanoo (Perkins) 2018 statement and Jubaili Bros country list.",
+    "FG Wilson DCC (data centre continuous) values are referenced on fgwilson.com but not published on the fetched pages.",
+    "Jubaili Bros product pages do not state engine make per model; Perkins use is confirmed only at company level (5012 mention).",
+    "No Perkins or FG Wilson Middle East localisation or assembly announcement for 2025 to 2026 was found beyond the existing Jebel Ali facility.",
+    "Perkins Middle East Energy 2026 participation not verified."
+  ],
+  "sources": [
+    "http://www.psgulf.com/contactus",
+    "https://ae.jubailibros.com/blogs/jubaili-stories/mwm-and-jubaili-bros-collaborate-to-provide-energy-efficient-gas-powered-solutions-in-the-middle-east-and-africa",
+    "https://emc.perkins.com/n/api/pubdirect?media_string_id=100523EN-",
+    "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+    "https://en.wikipedia.org/wiki/Perkins_Engines",
+    "https://fgwilson.ae/",
+    "https://fueloilnews.co.uk/2026/05/hvo-proves-diesel-equivalent-performance-in-fg-wilson-generator-trials-with-tria-energy/",
+    "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-saudi-arabia",
+    "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-the-uae",
+    "https://jubailibros.com/en-ae/blogs/jubaili-stories/jubaili-bros-wholesale-electric-asia-wea-announce-a-strategic-partnership-for-power-generation-solutions",
+    "https://jubailibros.com/en-ae/collections/diesel-generators",
+    "https://jubailibros.com/en-ae/pages/locations",
+    "https://jubailibros.com/en-ae/pages/our-history",
+    "https://jubailibros.com/en-ae/pages/saudi-arabia-locations",
+    "https://ognnews.com/Article/43567/Kanoo_Machinery_is_region%E2%80%99s_distributor_of_Perkins",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20150623-35493-36042",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20150623-35493-37676",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20150623-35493-45631",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20200212-73080-68bae",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-27388-47363",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-328e2-922da",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20230302-fe58a-d1b1d",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20260306-9707a-7b6c9",
+    "https://s7d2.scene7.com/is/content/Caterpillar/CM20260306-dfc0c-04f49",
+    "https://www.aeconline.ae/fg-wilson-engineering-fze/company.html",
+    "https://www.almajd-power.com/en/",
+    "https://www.fgwilson.com/en_GB/company/about-us.html",
+    "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FGWilsonCatalyst2026.html",
+    "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FG_Wilson_General_Manager_Appointment.html",
+    "https://www.fgwilson.com/en_GB/industry/DataCentres.html",
+    "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators.html",
+    "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/127281.html",
+    "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/128123.html",
+    "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/129761.html",
+    "https://www.fgwilson.com/en_GB/products/new/fg-wilson/diesel-generators/large-range-800-kva/129762.html",
+    "https://www.generac.com/industrial-products/stationary-generators/1000kw-industrial-generator-30-6l-sd1000/",
+    "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/",
+    "https://www.kanoomachinery.com/ksa/engines-power-generation/perkins-generator",
+    "https://www.kanoomachinery.com/ksa/perkins-engine-repair-service",
+    "https://www.perkins.com/en_GB/campaigns/powernews/global-focus/get-to-know-your-distributors.html",
+    "https://www.perkins.com/en_GB/company/about-us.html",
+    "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-announces-its-complete-range-of-5000-series.html",
+    "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-powers-into-middle-east-energy-with-a-new-high-efficiency-engine.html",
+    "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-pushes-the-boundaries-of-diesel-at-conexpo-2026.html",
+    "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-to-showcase-powerful-new-13-and-46-litre-engines-at-middle-east-energy.html",
+    "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000001943.html",
+    "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002696.html",
+    "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002720.html",
+    "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/129740.html",
+    "https://www.perkins.com/en_GB/products/sectors/electric-power/ep-case-studies/Teksan-Powering-residences-and-rigs-in-Saudi-Arabia.html",
+    "https://www.powertraininternationalweb.com/powergen/perkins-middle-east-2025/",
+    "https://www.technicalreviewmiddleeast.com/power-a-water/power-generation/kanoo-machinery-continues-to-ensure-highest-level-of-support-for-perkins-engines",
+    "https://www.zahid.com/saudi-aramco-orders-128-fg-wilson-gen-sets-from-tamgo/"
+  ],
+  "positioning_sources": [
+    "https://www.almajd-power.com/en/",
+    "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-the-uae",
+    "https://www.perkins.com/en_GB/products/sectors/electric-power/ep-case-studies/Teksan-Powering-residences-and-rigs-in-Saudi-Arabia.html",
+    "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/"
+  ]
+}

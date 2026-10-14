@@ -1,0 +1,155 @@
+[
+ {
+  "title": "Supply of electric generators for the Naval Supply Centre, Eastern Fleet (توريد مولدات كهرباء لمركز التموين البحري بالاسطول الشرقي)",
+  "issuer": "Royal Saudi Naval Forces (القوات البحرية), Eastern Fleet, Jubail",
+  "country": "Saudi Arabia",
+  "pursuit": false,
+  "status_on_30sep": "open",
+  "closes": "2026-09-30",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=r0xFUYaiOxsqu4NDmTIqbw%3D%3D"
+ },
+ {
+  "title": "Maintenance, operation and cleaning of King Salman Armed Forces Hospital (North-West) and King Khalid Military Hospital with affiliated facilities",
+  "issuer": "Tabuk Hospital / King Salman Armed Forces Hospital NW Region (Ministry of Defense health services)",
+  "country": "Saudi Arabia",
+  "pursuit": false,
+  "status_on_30sep": "open",
+  "closes": "2026-10-05",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=TB%2A%40%40%2A%2AcppninE103Vr6hdAHtw%3D%3D"
+ },
+ {
+  "title": "Maintenance and technical support services for data-centre facilities (3 years)",
+  "issuer": "Presidency of State Security, General Directorate (الديوان العام لرئاسة أمن الدولة)",
+  "country": "Saudi Arabia",
+  "pursuit": false,
+  "status_on_30sep": "open",
+  "closes": "2026-10-15",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=NQvPn1FRiAjtje5P5kJdAg%3D%3D"
+ },
+ {
+  "title": "Modernisation of the main power-supply interconnection units, Rabigh General Hospital (مشروع تحديث وحدات ربط التغذية الكهربائية الرئيسية بمستشفى رابغ العام)",
+  "issuer": "Jeddah Second Health Cluster (تجمع جدة الصحي الثاني)",
+  "country": "Saudi Arabia",
+  "pursuit": false,
+  "status_on_30sep": "open",
+  "closes": "2026-10-01",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=d8YQ5%20AYn1GNhue80Szs5g%3D%3D"
+ },
+ {
+  "title": "Managed services for the Aziz supercomputer and maintenance of its infrastructure environment (3 years)",
+  "issuer": "King Abdulaziz University, Jeddah (جامعة الملك عبدالعزيز)",
+  "country": "Saudi Arabia",
+  "pursuit": false,
+  "status_on_30sep": "open",
+  "closes": "2026-10-04",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=AkzSb9nlRvRKUOwtJTQKAw%3D%3D"
+ },
+ {
+  "title": "HUMAIN AI data centres, 250 MW EPC (expanded from 50 MW): standby genset package for the extra 200 MW, bought through sequential work orders",
+  "issuer": "HUMAIN (Future of Artificial Intelligence Co., PIF-owned); EPC contractor Al Moammar Information Systems Co. (MIS, Tadawul 7200)",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "upcoming",
+  "closes": null,
+  "url": "https://www.saudigulfprojects.com/2026/09/humain-mis-250mw-ai-data-center-agreement-sar-8-77-billion/"
+ },
+ {
+  "title": "center3 DDC307 data centre, Dammam: design-build EPC with full MEP supply (standby gensets to be bought by stc 'solutions')",
+  "issuer": "center3 (Digital Data Centers for Data and Telecommunications Co., 100% stc); EPC contractor Arabian Internet and Communications Services Co. ('solutions', Tadawul 7202)",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "upcoming",
+  "closes": null,
+  "url": "https://www.saudigulfprojects.com/2026/08/solutions-awards-us97-million-contract-to-center3-for-dammam-data-center-development/"
+ },
+ {
+  "title": "AirTrunk–HUMAIN 250 MW hyperscale data centre, Riyadh: main EPC (bids submitted May 2026, award pending; genset package follows award)",
+  "issuer": "AirTrunk (Blackstone-backed) with HUMAIN (PIF)",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "closed",
+  "closes": "2026-05-04",
+  "url": "https://guest.meed.com/firms-prepare-250mw-airtrunk-data-centre-bids/"
+ },
+ {
+  "title": "Petrokemya 730 MW electricity and steam cogeneration IPP, Jubail: developer RFP (bids due 30 Nov 2026); emergency/black-start genset scope to be bought by the winning EPC",
+  "issuer": "Arabian Petrochemical Co. (Petrokemya), wholly owned by SABIC",
+  "country": "Saudi Arabia",
+  "pursuit": false,
+  "status_on_30sep": "open",
+  "closes": "2026-11-30",
+  "url": "https://guest.meed.com/developers-prepare-bids-for-730mw-petrokemya-plant/"
+ },
+ {
+  "title": "SABIC Agri-Nutrients 'seventh major project' (1.2 MMTPA ammonia, 2 x urea plants, carbon capture), Jubail: EPC awarded to Samsung E&A; emergency power subpackage to be procured",
+  "issuer": "SABIC Agri-Nutrients Co. (SABIC AN); EPC contractor Samsung E&A",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "upcoming",
+  "closes": null,
+  "url": "https://www.saudigulfprojects.com/2026/09/sabic-agri-nutrients-awards-3-465-billion-epc-contract-samsung-ea-ammonia-urea-project/"
+ },
+ {
+  "title": "SPPC Round 3 conventional CCGT IPPs: 13 developers qualified, RFP to follow (emergency/black-start diesel sets inside each plant's EPC)",
+  "issuer": "Saudi Power Procurement Company (SPPC), under Ministry of Energy supervision",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "upcoming",
+  "closes": null,
+  "url": "https://www.saudigulfprojects.com/2026/09/saudi-arabia-qualifies-13-companies-for-third-round-of-ccgt-independent-power-projects/"
+ },
+ {
+  "title": "Riyadh East ISTP (200,000 m3/day, expandable to 400,000): five bids received, preferred bidder pending (standby genset scope inside plant EPC)",
+  "issuer": "SHARAKAT (formerly Saudi Water Partnership Co., SWPC)",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "closed",
+  "closes": "2026-09-28",
+  "url": "https://www.saudigulfprojects.com/2026/09/sharakat-receives-five-bids-for-riyadh-east-200000-m%c2%b3-day-istp-project/"
+ },
+ {
+  "title": "Umm Al-Qura University Hospital PPP, Makkah: completion and operation (EOI stage done, 73 companies; RFQ/RFP next); hospital standby power in the completion scope",
+  "issuer": "Umm Al-Qura University with the National Center for Privatization & PPP (NCP)",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "upcoming",
+  "closes": "2026-07-21",
+  "url": "https://www.saudigulfprojects.com/2026/09/umm-al-qura-university-hospital-ppp-attracts-interest-from-73-companies/"
+ },
+ {
+  "title": "Prince Naif bin Abdulaziz International Airport PPP, Qassim: six bidders qualified, RFP next (terminal and airside standby power in the DBFOM scope)",
+  "issuer": "MATARAT Holding with the National Center for Privatization & PPP (NCP)",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "upcoming",
+  "closes": "2026-02-23",
+  "url": "https://www.saudigulfprojects.com/2026/09/saudi-arabia-qualifies-six-bidders-for-prince-naif-bin-abdulaziz-international-airport-ppp-project/"
+ },
+ {
+  "title": "Replacement and provision of backup power sources, Hawtat Bani Tamim General Hospital, Riyadh region (إحلال وتأمين مصادر التغذية الإحتياطية لمستشفى حوطة بني تميم بالرياض)",
+  "issuer": "Ministry of Health, General Directorate (وزارة الصحة الديوان العام) - General Administration of Contracts & Procurement",
+  "country": "Saudi Arabia",
+  "pursuit": false,
+  "status_on_30sep": "open",
+  "closes": "2026-10-18",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=DAxB4jUT37YE7zQ8eLl%20uw%3D%3D"
+ },
+ {
+  "title": "Replacement and provision of standby electrical generators for critical and sensitive MoH sites (centres) in 7 cities (إحلال وتأمين المولدات الإحتياطية الكهربائية للمواقع (المراكز) الهامة والحساسة التابعة لوزارة الصحة)",
+  "issuer": "Ministry of Health, General Directorate - General Administration of Contracts & Procurement",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "closed",
+  "closes": "2026-07-19",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Mzqdl%20Odw5Bvuem1bJYttQ%3D%3D"
+ },
+ {
+  "title": "Replacement and provision of backup electrical power sources, King Khalid Hospital, Al-Majma'ah (إحلال وتأمين مصادر التغذية الإحتياطية الكهربائية لمستشفى الملك خالد بالمجمعة)",
+  "issuer": "Ministry of Health, General Directorate - General Administration of Contracts & Procurement",
+  "country": "Saudi Arabia",
+  "pursuit": true,
+  "status_on_30sep": "closed",
+  "closes": "2026-01-11",
+  "url": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=oCMnBTN9x4iBjRbq5GzsAw%3D%3D"
+ }
+]

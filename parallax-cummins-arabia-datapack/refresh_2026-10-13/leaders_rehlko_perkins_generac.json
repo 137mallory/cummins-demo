@@ -1,0 +1,90 @@
+[
+ {
+  "company_id": "REHLKO",
+  "company": "Rehlko (Kohler / SDMO)",
+  "leaders": [
+   {
+    "name": "Brian Melka",
+    "title": "President and Chief Executive Officer, Rehlko",
+    "source": "https://www.rehlko.com/kohler-energy-is-now-rehlko"
+   },
+   {
+    "name": "Francis Perrin",
+    "title": "Chief Brand and Sustainability Officer, Rehlko",
+    "source": "https://www.platinumequity.com/news/kohler-energy-rebrands-as-rehlko/"
+   },
+   {
+    "name": "Lenaik Andrieux",
+    "title": "General Manager, EMEA, India and LATAM, Rehlko",
+    "source": "https://www.rehlko.com/newsroom-rehlko-integrates-wb-power-services-into-uk-emea-platform"
+   },
+   {
+    "name": "Kyle Quinn",
+    "title": "President, Clarke Energy (appointed April 2025)",
+    "source": "https://www.rehlko.com/kyle-quinn-appointed-as-president-of-clarke-energy"
+   },
+   {
+    "name": "Jerome Quere",
+    "title": "Regional Sales Director, Kohler Power Systems (presented EMEA distributor awards to Gulf affiliates, October 2023)",
+    "source": "https://www.midisgroup.com/kohler-power-systems-emea-distributor-awards-midis-group-affiliates-shine/"
+   }
+  ]
+ },
+ {
+  "company_id": "PERKINSF",
+  "company": "Perkins / FG Wilson",
+  "leaders": [
+   {
+    "name": "Joe Creed",
+    "title": "Chief Executive Officer, Caterpillar Inc.",
+    "source": "https://en.wikipedia.org/wiki/Caterpillar_Inc."
+   },
+   {
+    "name": "Richard Hemmings",
+    "title": "Vice President and General Manager, Global Sales, Marketing, Service and Parts, Perkins",
+    "source": "https://www.perkins.com/en_GB/company/news/corporate-press-release/perkins-pushes-the-boundaries-of-diesel-at-conexpo-2026.html"
+   },
+   {
+    "name": "Roger Kennedy",
+    "title": "General Manager, FG Wilson (appointment article undated on fgwilson.com)",
+    "source": "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FG_Wilson_General_Manager_Appointment.html"
+   },
+   {
+    "name": "Graeme De Villiers",
+    "title": "General Manager, Power Business UAE, Kanoo Machinery LLC (Perkins distributor); as stated 2018-05",
+    "source": "https://ognnews.com/Article/43567/Kanoo_Machinery_is_region%E2%80%99s_distributor_of_Perkins"
+   },
+   {
+    "name": "Darren O'Connor",
+    "title": "Managing Director, FG Wilson Engineering (Dublin) Ltd (HVO trials partner, not Gulf)",
+    "source": "https://fueloilnews.co.uk/2026/05/hvo-proves-diesel-equivalent-performance-in-fg-wilson-generator-trials-with-tria-energy/"
+   }
+  ]
+ },
+ {
+  "company_id": "GENERAC",
+  "company": "Generac",
+  "leaders": [
+   {
+    "name": "Aaron Jagdfeld",
+    "title": "Chairman, President and Chief Executive Officer (CEO since 2008)",
+    "source": "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data"
+   },
+   {
+    "name": "Erik Wilde",
+    "title": "Executive Vice President and President, Domestic C&I",
+    "source": "https://investors.generac.com/news-releases/news-release-details/generacs-325mw-generator-named-gold-winner-2026-consulting"
+   },
+   {
+    "name": "Niccolo Borracchini",
+    "title": "Executive Vice President, International (Generac and Pramac business outside US and Canada, covering EMEA, APAC, LATAM), since 2026-07-06",
+    "source": "https://investors.generac.com/news-releases/news-release-details/generac-promotes-niccolo-borracchini-executive-vice-president"
+   },
+   {
+    "name": "Paolo Campinoti",
+    "title": "President, International Development (advisory, after retiring 2026-07-01 from Pramac leadership)",
+    "source": "https://investors.generac.com/news-releases/news-release-details/generac-promotes-niccolo-borracchini-executive-vice-president"
+   }
+  ]
+ }
+]

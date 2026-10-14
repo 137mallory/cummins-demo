@@ -1,0 +1,622 @@
+[
+ {
+  "company_id": "REHLKO",
+  "name": "Brian Melka",
+  "title": "President and Chief Executive Officer, Rehlko",
+  "experience": [
+   {
+    "company": "Rehlko (formerly Kohler Energy)",
+    "role": "President and Chief Executive Officer",
+    "from": "",
+    "to": "Present"
+   },
+   {
+    "company": "Kohler Co. (Kohler Power)",
+    "role": "Group President, Kohler Power",
+    "from": "2020",
+    "to": ""
+   },
+   {
+    "company": "Kohler Co. (Kohler Engines)",
+    "role": "President - Engines",
+    "from": "2019",
+    "to": "2020"
+   },
+   {
+    "company": "Kohler Co. (Kohler Engines)",
+    "role": "Vice President - Kohler Engines Americas",
+    "from": "2013",
+    "to": "2019"
+   },
+   {
+    "company": "Rexnord, Inc. and Textron, Inc.",
+    "role": "Senior leadership roles incl. Vice President - Global Mining and Product Management; Director of Product Management and Service; Six Sigma Master Black Belt",
+    "from": "",
+    "to": "2013"
+   }
+  ],
+  "education": [
+   {
+    "institution": "University of Wisconsin-Madison",
+    "degree": "Bachelor's degree in Finance",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "University of Wisconsin-Whitewater",
+    "degree": "MBA",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Thunderbird School of Global Management",
+    "degree": "International Business Certification",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.powertraininternationalweb.com/news/brian-melka-named-group-president-of-kohler-power",
+  "quote": "A graduate of the University of Wisconsin-Madison, Brian holds a bachelor’s degree in finance, earned an MBA from the University of Wisconsin-Whitewater and holds International Business Certification from Thunderbird School of Global Management.",
+  "new": false,
+  "note": "Career and education from the June 2020 Kohler Power appointment release as reprinted by Powertrain International; Rehlko CEO title from rehlko.com release of 1 Apr 2025 ('President and CEO of Rehlko'). Start year of the CEO role is not stated on any page read. rehlko.com has no leadership page reachable. Which employer (Rexnord or Textron) held which role is not stated; 'to 2013' is the Kohler join year."
+ },
+ {
+  "company_id": "REHLKO",
+  "name": "Francis Perrin",
+  "title": "Chief Brand and Sustainability Officer, Rehlko",
+  "experience": [
+   {
+    "company": "Rehlko",
+    "role": "Chief Brand and Sustainability Officer",
+    "from": "",
+    "to": "Present"
+   },
+   {
+    "company": "Ste-Michelle Wine Estates",
+    "role": "Chief Marketing Officer",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Bel Brands",
+    "role": "Chief Marketing Officer",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "P&G, L'Oréal, Pernod Ricard",
+    "role": "Marketing roles (consumer marketing companies he worked with; years and roles not stated)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "HEC Montreal",
+    "degree": "Degree in Business Administration",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Columbia University",
+    "degree": "Master's degree (field not stated)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://event.adweek.com/MVS_2025/speaker/1650387/francis-perrin",
+  "quote": "Previously Francis served as the Chief Marketing Officer (CMO) of Ste-Michelle Wine Estates, a prominent premium wine company in the USA. He also held the position of CMO at Bel Brands.",
+  "new": false,
+  "note": "Adweek Marketing Vanguard Summit 2025 speaker page (third-party, event bio). No years published. Order of the earlier roles is as listed on the page."
+ },
+ {
+  "company_id": "REHLKO",
+  "name": "Lenaik Andrieux",
+  "title": "General Manager, EMEA, India and LATAM, Rehlko",
+  "experience": [
+   {
+    "company": "Rehlko (Kohler Power Systems)",
+    "role": "General Manager, EMEA, India and LATAM (joined Kohler Power Group January 2019 as General Manager EMEA and president of SDMO holding; president of GIGREL, French generating-set syndicate, from November 2019)",
+    "from": "2019",
+    "to": "Present"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "General Manager, Large Electric Power organization (adding Power Rental)",
+    "from": "2016",
+    "to": ""
+   },
+   {
+    "company": "Caterpillar",
+    "role": "General Manager, Electric Power Investor business (diesel generators above 750 kVA)",
+    "from": "2015",
+    "to": "2016"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "General Manager, Electric Power Retail business (incl. FG Wilson)",
+    "from": "2013",
+    "to": "2015"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Lead, Electric Power Retail sales worldwide (Geneva)",
+    "from": "2012",
+    "to": "2013"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Electric Power global product definition manager (Griffin, Georgia)",
+    "from": "2009",
+    "to": "2012"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Global engineering manager, diesel and gas generator sets 250kVA and below (Newberry, SC)",
+    "from": "2007",
+    "to": "2009"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Dealer interface and sales management roles, Europe, Africa, Middle East and CIS",
+    "from": "2001",
+    "to": "2007"
+   },
+   {
+    "company": "SDMO",
+    "role": "Sales management positions",
+    "from": "1998",
+    "to": "2000"
+   }
+  ],
+  "education": [
+   {
+    "institution": "Ecole Polytechnique de Nantes",
+    "degree": "Master engineering degree in power electronics",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Université de Nantes",
+    "degree": "Master engineering degree in power electronics",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "IMD Lausanne",
+    "degree": "Alumnus (executive programme; no degree stated)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.datacenterfrontier.com/executive-insights-lenaik-andrieux-of-kohler-power-systems",
+  "quote": "Lenaik is French and holds master engineering degrees in power electronics from both Ecole Polytechnique de Nantes and Université de Nantes.",
+  "new": false,
+  "note": "Data Center Frontier executive-roundtable bio (Kohler-supplied, undated, written when he was GM Kohler Power Systems EMEA). End year of the Caterpillar role from 2016 is not stated (he joined Kohler Jan 2019). Current title and scope from Rehlko release on WB Power Services (rehlko.com). The bio mentions 20+ years of industry experience and 2016 Caterpillar executive programme 'Digging Deep'."
+ },
+ {
+  "company_id": "REHLKO",
+  "name": "Kyle Quinn",
+  "title": "President, Clarke Energy (appointed April 2025)",
+  "experience": [
+   {
+    "company": "Rehlko (Clarke Energy)",
+    "role": "President, Clarke Energy",
+    "from": "2025",
+    "to": "Present"
+   },
+   {
+    "company": "Clarke Energy",
+    "role": "Legal and commercial roles (over 12 years at Clarke Energy as of April 2025; over 20 years in legal and commercial roles overall)",
+    "from": "",
+    "to": "2025"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.rehlko.com/kyle-quinn-appointed-as-president-of-clarke-energy",
+  "quote": "Kyle Quinn brings over 20 years of experience in legal and commercial roles, with a proven track record of over 12 years at Clarke Energy.",
+  "new": false,
+  "note": "Education not published. Official Rehlko release dated 1 Apr 2025. Clarke Energy start year not stated."
+ },
+ {
+  "company_id": "REHLKO",
+  "name": "Jerome Quere",
+  "title": "Regional Sales Director, Kohler Power Systems (EMEA)",
+  "experience": [
+   {
+    "company": "Kohler Power Systems",
+    "role": "Regional Sales Director (presented EMEA distributor awards to Gulf affiliates, Oct 2023)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.midisgroup.com/kohler-power-systems-emea-distributor-awards-midis-group-affiliates-shine/",
+  "quote": "MMR – KSA , MDS Site & Power – UAE and CPT for Computers – Kuwait were each presented with the awards at their offices by Kohler Regional Sales Director, Jerome Quere.",
+  "new": false,
+  "note": "Only a mention on a distributor press page; no career or education published anywhere found. Role may have changed since Oct 2023 and Kohler Power Systems is now Rehlko. Roles/titles not verified on a Rehlko page."
+ },
+ {
+  "company_id": "PERKINSF",
+  "name": "Joe Creed",
+  "title": "Chairman and Chief Executive Officer, Caterpillar Inc.",
+  "experience": [
+   {
+    "company": "Caterpillar",
+    "role": "Chairman and Chief Executive Officer (CEO 2025, chairman 2026)",
+    "from": "2025",
+    "to": "Present"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Chief Operating Officer",
+    "from": "2023",
+    "to": "2025"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Group President, Energy & Transportation",
+    "from": "2021",
+    "to": "2023"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Senior Vice President, Oil & Gas and Marine division and Electric Power division",
+    "from": "2019",
+    "to": "2021"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Interim Chief Financial Officer",
+    "from": "2018",
+    "to": "2018"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Senior Vice President, Caterpillar Finance Services",
+    "from": "2017",
+    "to": "2018"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Chief Financial Officer, Energy & Transportation segment",
+    "from": "2013",
+    "to": "2017"
+   },
+   {
+    "company": "Caterpillar",
+    "role": "Positions of increasing responsibility",
+    "from": "1997",
+    "to": "2013"
+   }
+  ],
+  "education": [
+   {
+    "institution": "Western Illinois University",
+    "degree": "Bachelor's degree in Accounting",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Stanford University (Caterpillar executive leadership program)",
+    "degree": "Executive leadership program, no degree",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://businessroundtable.org/members/joe-creed",
+  "quote": "Creed graduated from Western Illinois University with a bachelor’s degree in accounting and completed Caterpillar’s flagship executive leadership program, conducted by Stanford University for Caterpillar leaders, dealers, and suppliers.",
+  "new": false,
+  "note": "caterpillar.com officer page returned 403 (not bypassed); bio is the Caterpillar-supplied text on the Business Roundtable member page (same text on usispf.org). Title updated from input: now Chairman and CEO (chairman 2026). Strictly Caterpillar group CEO; FG Wilson and Perkins sit inside Caterpillar. Graduation year not stated."
+ },
+ {
+  "company_id": "PERKINSF",
+  "name": "Richard Hemmings",
+  "title": "Vice President and General Manager, Global Sales, Marketing, Service and Parts, Perkins",
+  "experience": [
+   {
+    "company": "Perkins",
+    "role": "Vice President and General Manager, Global Sales, Marketing, Service and Parts (SMSP)",
+    "from": "2026",
+    "to": "Present"
+   },
+   {
+    "company": "Perkins",
+    "role": "General Manager for Aftermarket",
+    "from": "",
+    "to": "2025"
+   },
+   {
+    "company": "Perkins",
+    "role": "Roles in SMSP incl. account management, market development, strategy, sales",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Perkins",
+    "role": "Graduate trainee, Peterborough, UK (nearly 20 years with Perkins as of Jan 2026)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.equipmentjournal.com/construction-news/perkins-welcomes-richard-hemmings-as-new-vice-president/",
+  "quote": "Hemmings has nearly 20 years of experience with Perkins, beginning his career as a graduate trainee in Peterborough, U.K.",
+  "new": false,
+  "note": "Equipment Journal, 6 Jan 2026, reproduces the Perkins release (effective 1 Jan 2026); perkins.com returned 403 (not bypassed). Education not published. Year ranges for earlier roles not stated."
+ },
+ {
+  "company_id": "PERKINSF",
+  "name": "Roger Kennedy",
+  "title": "General Manager, FG Wilson",
+  "experience": [
+   {
+    "company": "FG Wilson",
+    "role": "General Manager",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FG_Wilson_General_Manager_Appointment.html",
+  "quote": "",
+  "new": false,
+  "note": "Nothing verified: fgwilson.com returned 403 to direct fetch (not bypassed), so no quote could be taken. A search-result summary of that page says he has over three decades of experience in FG Wilson; not confirmed by a page read. Appointment date and education not found. Another FG Wilson notice says previous GM Andy Law moved to a Caterpillar marine role effective 1 Oct 2025."
+ },
+ {
+  "company_id": "PERKINSF",
+  "name": "Graeme De Villiers",
+  "title": "General Manager, Power Business UAE, Kanoo Machinery LLC (Perkins distributor); as stated 2018-05",
+  "experience": [
+   {
+    "company": "Kanoo Machinery LLC",
+    "role": "General Manager, Power Business UAE (as stated May 2018)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [],
+  "bio_source": "https://ognnews.com/Article/43567/Kanoo_Machinery_is_region%E2%80%99s_distributor_of_Perkins",
+  "quote": "says Graeme De Villiers, general manager, Power Business UAE, Kanoo Machinery LLC.",
+  "new": false,
+  "note": "Distributor executive, not a Perkins employee. Only a 2018 article found; current role not verified. No career or education published."
+ },
+ {
+  "company_id": "PERKINSF",
+  "name": "Darren O'Connor",
+  "title": "Managing Director, FG Wilson Engineering (Dublin) Ltd (HVO trials partner, not Gulf)",
+  "experience": [
+   {
+    "company": "FG Wilson Engineering (Dublin) Ltd",
+    "role": "Managing Director",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://fueloilnews.co.uk/2026/05/hvo-proves-diesel-equivalent-performance-in-fg-wilson-generator-trials-with-tria-energy/",
+  "quote": "Darren O’Connor, Managing Director at FGWD, said:",
+  "new": false,
+  "note": "Only a May 2026 press quote; 'FGWD' is a dealer/distributor entity (FG Wilson Engineering Dublin), not Gulf. No career or education published."
+ },
+ {
+  "company_id": "GENERAC",
+  "name": "Aaron Jagdfeld",
+  "title": "Chairman, President and Chief Executive Officer (CEO since 2008)",
+  "experience": [
+   {
+    "company": "Generac",
+    "role": "President and Chief Executive Officer (Chairman since 2016)",
+    "from": "2008",
+    "to": "Present"
+   },
+   {
+    "company": "Generac",
+    "role": "President, responsible for sales, marketing, engineering and product development",
+    "from": "2007",
+    "to": "2007"
+   },
+   {
+    "company": "Generac",
+    "role": "Chief Financial Officer",
+    "from": "2002",
+    "to": "2006"
+   },
+   {
+    "company": "Generac",
+    "role": "Finance Department",
+    "from": "1994",
+    "to": "2001"
+   },
+   {
+    "company": "Deloitte & Touche LLP",
+    "role": "Audit Practice (Milwaukee office)",
+    "from": "",
+    "to": "1994"
+   }
+  ],
+  "education": [
+   {
+    "institution": "University of Wisconsin-Whitewater",
+    "degree": "Bachelor of Business Administration in Accounting",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.sec.gov/Archives/edgar/data/1474735/000110465926051499/tm261388-1_def14a.htm",
+  "quote": "Mr. Jagdfeld holds a Bachelor of Business Administration in Accounting from the University of Wisconsin-Whitewater.",
+  "new": false,
+  "note": "Generac 2026 proxy statement (DEF 14A filed 29 Apr 2026) and FY2025 10-K. investors.generac.com returned 403 (not bypassed). Other board service: The Hillman Group."
+ },
+ {
+  "company_id": "GENERAC",
+  "name": "Erik Wilde",
+  "title": "President, Domestic C&I",
+  "experience": [
+   {
+    "company": "Generac",
+    "role": "President, Domestic C&I",
+    "from": "2016",
+    "to": "Present"
+   },
+   {
+    "company": "Komatsu America Corp.",
+    "role": "Vice President and General Manager, Mining Division",
+    "from": "2013",
+    "to": "2016"
+   },
+   {
+    "company": "Komatsu America Corp.",
+    "role": "Vice President, ICT Business Division and Product Marketing",
+    "from": "2005",
+    "to": "2013"
+   }
+  ],
+  "education": [
+   {
+    "institution": "Boise State University",
+    "degree": "Bachelor of Business Administration in Management",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Keller Graduate School of Management",
+    "degree": "M.B.A.",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.sec.gov/Archives/edgar/data/1474735/000143774926004568/gnrc20251231_10k.htm",
+  "quote": "Mr. Wilde holds a Bachelor of Business Administration in Management from Boise State University and an M.B.A. from the Keller Graduate School of Management.",
+  "new": false,
+  "note": "Generac FY2025 10-K, 'Information About Our Executive Officers'; title there is 'President, Domestic C&I' (input said Executive Vice President and President). End of the 2005 Komatsu role = 2013 per the following sentence. Graduation years not stated."
+ },
+ {
+  "company_id": "GENERAC",
+  "name": "Niccolo Borracchini",
+  "title": "Executive Vice President - International (Generac and Pramac business outside US and Canada), since 2026-07-06",
+  "experience": [
+   {
+    "company": "Generac",
+    "role": "Executive Vice President - International",
+    "from": "2026",
+    "to": "Present"
+   },
+   {
+    "company": "Generac / Pramac",
+    "role": "Senior Vice President - International",
+    "from": "2024",
+    "to": "2026"
+   },
+   {
+    "company": "Pramac (Generac from 2016)",
+    "role": "Corporate General Manager, then increasing leadership of international support functions and commercial areas",
+    "from": "2015",
+    "to": "2024"
+   },
+   {
+    "company": "Emisys Capital",
+    "role": "Private equity, mid-market investments across industrials, consumer and media",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "MPVenture",
+    "role": "Private equity",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "University of Siena",
+    "degree": "Master of Science in Management (magna cum laude)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "University of Siena",
+    "degree": "Bachelor of Economics and Business Administration (magna cum laude)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.adnkronos.com/immediapress/eng/generac-promotes-niccolo-borracchini-to-executive-vice-president-international_L8fs9QR2bNeBtHEb53E59",
+  "quote": "He holds a Master of Science in Management and a Bachelor of Economics and Business Administration from the University of Siena, both magna cum laude.",
+  "new": false,
+  "note": "Generac release of 6 Jul 2026 as reprinted by Adnkronos; investors.generac.com returned 403 (not bypassed). Years for MPVenture and Emisys Capital not stated; he joined Pramac in 2015. Also an Erasmus year at WHU and board member of ITS Energia e Ambiente Foundation since 2024."
+ },
+ {
+  "company_id": "GENERAC",
+  "name": "Paolo Campinoti",
+  "title": "President, International Development (advisory, after retiring 2026-07-01 from Pramac leadership)",
+  "experience": [
+   {
+    "company": "Generac",
+    "role": "President - International Development (consulting and advisory role)",
+    "from": "2026",
+    "to": "Present"
+   },
+   {
+    "company": "Generac / Pramac Group",
+    "role": "Executive Vice President - International and concurrently CEO of the Pramac Group",
+    "from": "2016",
+    "to": "2026"
+   },
+   {
+    "company": "Pramac",
+    "role": "Joined Pramac; more than three decades with the Pramac Group",
+    "from": "1993",
+    "to": "2016"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.adnkronos.com/immediapress/eng/generac-promotes-niccolo-borracchini-to-executive-vice-president-international_L8fs9QR2bNeBtHEb53E59",
+  "quote": "Campinoti joined Pramac in 1993 and most recently served as Executive Vice President – International since Generac's acquisition of Pramac in 2016, while concurrently serving as CEO of the Pramac Group.",
+  "new": false,
+  "note": "Has retired from his executive role effective 1 Jul 2026 and stays as adviser; kept in record. Roles between 1993 and 2016 and education not published."
+ },
+ {
+  "company_id": "GENERAC",
+  "name": "York Ragen",
+  "title": "Chief Financial Officer",
+  "experience": [
+   {
+    "company": "Generac",
+    "role": "Chief Financial Officer",
+    "from": "2008",
+    "to": "Present"
+   },
+   {
+    "company": "Generac",
+    "role": "Director of Finance and Vice President of Finance",
+    "from": "2005",
+    "to": "2008"
+   },
+   {
+    "company": "APW Ltd. (spin-off from Applied Power)",
+    "role": "Vice President, Corporate Controller",
+    "from": "",
+    "to": "2005"
+   },
+   {
+    "company": "Arthur Andersen (Milwaukee office audit practice)",
+    "role": "Began career",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "University of Wisconsin-Whitewater",
+    "degree": "Bachelor of Business Administration in Accounting",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.sec.gov/Archives/edgar/data/1474735/000143774926004568/gnrc20251231_10k.htm",
+  "quote": "Mr. Ragen holds a Bachelor of Business Administration in Accounting from the University of Wisconsin-Whitewater.",
+  "new": true,
+  "note": "Added: CFO of the group. Generac FY2025 10-K. 2005 = join year; 'to 2008' is the CFO start. No Middle East head at Generac is named in the 10-K; international head is Borracchini (already listed)."
+ }
+]

@@ -1,0 +1,402 @@
+{
+  "id": "volvo-penta",
+  "name": "Volvo Penta",
+  "legal_name": "AB Volvo Penta (Volvo Group)",
+  "brands": [
+    "Volvo Penta"
+  ],
+  "hq": "Gothenburg, Sweden",
+  "founded": 1907,
+  "founded_note": "Volvo Penta traces its origin to Skofde Gjuteri och Mekaniska Verkstad (1868); first engine (B1) built in 1907; AB Volvo Penta is an independent company within the Volvo Group",
+  "founded_sources": [
+    "https://www.volvopenta.com/about-us/"
+  ],
+  "employees": null,
+  "employees_note": "Not published on volvopenta.com; Volvo Group does not break out Volvo Penta headcount on the pages fetched",
+  "revenue": null,
+  "revenue_note": "Not published separately on volvopenta.com pages fetched",
+  "sector": "Genset engines 150 to 833 kVA (D8, D13, D16, D17 diesel and G17 natural gas), BESS subsystems for OEMs, marine and industrial engines",
+  "positioning_text": "Volvo Penta sells engines, not gensets, so it competes with Cummins Arabia through independent Gulf packagers that pick a Volvo D13, D16 or D17 for the 400 to 833 kVA band. Its message is automotive-scale production, short lead times, HVO100 compatibility on every engine built since 2016, and a modular data centre approach; it does not have an engine above about 880 kVA, so it is absent from the large data centre and utility band. The 2023 D17 (TWD1744GE, 758 kVA prime at 50 Hz) and the 2026 G17 natural gas engine are its current power generation pushes. In Saudi Arabia, Almajd Power lists Volvo among the engines it packages; no other Gulf packager or Volvo Penta dealer for KSA, UAE or Kuwait could be verified from official sources.",
+  "leadership": [
+    {
+      "name": "Anna Muller",
+      "title": "President, Volvo Penta",
+      "scope": "global",
+      "source_url": "https://www.volvopenta.com/about-us/"
+    }
+  ],
+  "regional_entities": [
+    {
+      "name": "Almajd Power (Al-Majd Power Factory)",
+      "country": "KSA",
+      "role": "Jeddah genset packager listing Volvo among its engine brands (with Perkins, Cummins, MTU, Baudouin), 9 to 3,000 kVA",
+      "since": "",
+      "hq_city": "Jeddah",
+      "source_url": "https://www.almajd-power.com/en/"
+    },
+    {
+      "name": "Volvo Penta dealer network (Gulf)",
+      "country": "GCC",
+      "role": "3,500 dealers in 130 countries per Volvo Penta; Gulf dealer names not retrievable from the dynamic locator",
+      "since": "",
+      "hq_city": "",
+      "source_url": "https://www.volvopenta.com/about-us/dealer-locator/"
+    }
+  ],
+  "movements": [
+    {
+      "date": "2023",
+      "headline": "Volvo Penta launches D17, its most powerful genset engine (TWD1744GE, 758 kVA prime at 50 Hz) (baseline)",
+      "summary": "17.26 litre six cylinder with dual-stage turbochargers and common rail, EPA Tier 2 certified for stationary emergency, dual speed 1500/1800 rpm, service interval up to 1,000 hours; 50 Hz prime 758 kVA, standby 833 kVA; 60 Hz prime 801 kVA, standby 881 kVA.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d17-eu-stage-ii/",
+      "source_domain": "volvopenta.com",
+      "extra_sources": [
+        "https://www.volvopenta.com/about-us/"
+      ],
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "Lifts Volvo's ceiling to about 880 kVA standby at 60 Hz, which puts Volvo-powered packager sets against Cummins QSX15 and QSK23 based sets in Saudi commercial and industrial standby. Above that band Volvo has no offer."
+      }
+    },
+    {
+      "date": "2025-12",
+      "headline": "Volvo Penta positions itself as total power solutions provider for the digital infrastructure market at CONEXPO 2026",
+      "summary": "Volvo Penta announced it would show D8 Stage V/Tier 4 Final, BESS, electric driveline and its energy transition roadmap, and referenced BESS wins with KJ Power (Turkey), Aura Clean Energy and SEETEL.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://www.volvopenta.com/about-us/news-page/2025/dec/volvo-penta-to-present-powering-your-ambition-at-conexpo-2026/",
+      "source_domain": "volvopenta.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "KJ Power is a Turkish packager active in Gulf tenders; Volvo BESS subsystems inside packager products would compete with Cummins BESS in rental and hybrid applications."
+      }
+    },
+    {
+      "date": "2026-01",
+      "headline": "Volvo Penta introduces G17 natural gas engine for power generation, aimed at data centres and utilities",
+      "summary": "First Volvo Penta natural gas genset engine, framed as lower-emission, scalable backup power for data centres, utilities and mission-critical infrastructure.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://www.volvopenta.com/about-us/news-page/2026/jan/power-generation-portfolio-with-g17-natural-gas-engine/",
+      "source_domain": "volvopenta.com",
+      "extra_sources": [
+        "https://www.volvopenta.com/about-us/"
+      ],
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "Adds a gas option at the 17 litre node for packagers. In the Gulf the relevant overlap is with Cummins gas gensets in the 400 to 700 kW band for oil and gas and utility sites in KSA and Kuwait."
+      }
+    },
+    {
+      "date": "2026-02",
+      "headline": "Volvo Penta reports doubled industrial engine sales in North America and targets the data centre boom",
+      "summary": "Volvo Penta said North American industrial engine sales doubled and highlighted backup power and BESS solutions for data centres ahead of CONEXPO 2026.",
+      "category": "Financial",
+      "country": "Global",
+      "source_url": "https://www.volvopenta.com/about-us/news-page/2026/feb/volvo-penta-doubles-industrial-engine-sales-in-north-america/",
+      "source_domain": "volvopenta.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "Growth is US-led. No Gulf-specific volume signal found."
+      }
+    },
+    {
+      "date": "2026-04",
+      "headline": "Volvo Penta publishes data centre backup power positioning: Tier 4 Final platform, modular approach, independent partner to OEMs and system integrators",
+      "summary": "Volvo Penta states it collaborates with OEMs and system integrators on flexible data centre backup power, cites automotive-scale production for shorter lead times, stackable modular configurations and HVO100 compatibility for all engines built since 2016.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://www.volvopenta.com/about-us/news-page/2026/apr/powering-data-centers-backup-power-systems-with-purpose/",
+      "source_domain": "volvopenta.com",
+      "extra_sources": [
+        "https://www.volvopenta.com/industrial/power-generation-engines/power-solutions-for-data-centers/"
+      ],
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "Volvo's data centre pitch is modular many-small-units, which fits edge and enterprise sites rather than the hyperscale campuses driving Gulf demand. Cummins Arabia should watch packager bids on edge data centres in UAE."
+      }
+    },
+    {
+      "date": null,
+      "date_note": "Undated on news listing",
+      "headline": "Volvo Penta adds D13 power node TAD1346GE 500 kVA",
+      "summary": "New D13 rating described as reliable, compact and fuel-efficient addition to the power offer.",
+      "category": "Product",
+      "country": "Global",
+      "source_url": "https://www.volvopenta.com/about-us/news-page/",
+      "source_domain": "volvopenta.com",
+      "relevance": {
+        "level": "WATCH",
+        "analysis": "500 kVA is the most contested packager node in the Gulf commercial market; a D13 at 500 kVA competes with Cummins QSX15 based sets on price through packagers."
+      }
+    }
+  ],
+  "products": [
+    {
+      "model": "TAD1642GE",
+      "series": "Volvo Penta D16 (EU Stage II / EPA Tier 2)",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 651,
+      "standby_kw": 521,
+      "prime_kva": 591,
+      "prime_kw": 473,
+      "continuous_kw": null,
+      "engine_model": "TAD1642GE (503 kWm prime, 554 kWm standby at 50 Hz; 60 Hz: 625 kVA / 500 kWe prime, 687 kVA / 550 kWe standby)",
+      "cylinders": 6,
+      "displacement_l": 16.1,
+      "aspiration": "Turbocharged, aftercooled (in-line six); electronic unit injectors",
+      "bore_stroke_mm": "",
+      "rated_rpm": 1500,
+      "fuel": "Diesel (HVO compatible)",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "length_mm": null,
+      "width_mm": null,
+      "height_mm": null,
+      "dry_weight_kg": null,
+      "emissions": "EU Stage II / EPA Tier 2",
+      "alternator": "Not applicable",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "",
+      "source_url": "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d16-eu-stage-ii-epa-tier-2/",
+      "datasheet_url": null,
+      "spec_confidence": "brochure"
+    },
+    {
+      "model": "TWD1645GE",
+      "series": "Volvo Penta D16 (EU Stage II / EPA Tier 2)",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 770,
+      "standby_kw": 616,
+      "prime_kva": 700,
+      "prime_kw": 560,
+      "continuous_kw": null,
+      "engine_model": "TWD1645GE (595 kWm prime, 655 kWm standby at 50 Hz; 60 Hz: 727 kVA / 582 kWe prime, 800 kVA / 640 kWe standby)",
+      "cylinders": 6,
+      "displacement_l": 16.1,
+      "aspiration": "Twin turbocharged, aftercooled; electronic unit injectors",
+      "bore_stroke_mm": "",
+      "rated_rpm": 1500,
+      "fuel": "Diesel (HVO compatible)",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "length_mm": null,
+      "width_mm": null,
+      "height_mm": null,
+      "dry_weight_kg": null,
+      "emissions": "EU Stage II / EPA Tier 2",
+      "alternator": "Not applicable",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "",
+      "source_url": "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d16-eu-stage-ii-epa-tier-2/",
+      "datasheet_url": null,
+      "spec_confidence": "brochure"
+    },
+    {
+      "model": "TWD1683GE",
+      "series": "Volvo Penta D16 (EU Stage V / EPA Tier 4 Final)",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 726,
+      "standby_kw": 581,
+      "prime_kva": 660,
+      "prime_kw": 528,
+      "continuous_kw": null,
+      "engine_model": "TWD1683GE (60 Hz: 700 kVA / 560 kWe prime, 770 kVA / 616 kWe standby)",
+      "cylinders": 6,
+      "displacement_l": 16.1,
+      "aspiration": "Twin turbocharged, aftercooled; electronic unit injectors; aftertreatment system",
+      "bore_stroke_mm": "",
+      "rated_rpm": 1500,
+      "fuel": "Diesel (HVO compatible)",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "length_mm": null,
+      "width_mm": null,
+      "height_mm": null,
+      "dry_weight_kg": null,
+      "emissions": "EU Stage V / EPA Tier 4 Final",
+      "alternator": "Not applicable",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "Tier 4 Final platform cited by Volvo Penta for data centre backup",
+      "source_url": "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d16-eu-stage-v/",
+      "datasheet_url": null,
+      "spec_confidence": "brochure"
+    },
+    {
+      "model": "TAD1651GE",
+      "series": "Volvo Penta D16 (EU Stage IIIA / EPA Tier 3)",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 556,
+      "standby_kw": 445,
+      "prime_kva": 505,
+      "prime_kw": 404,
+      "continuous_kw": null,
+      "engine_model": "TAD1651GE (430 kWm prime, 473 kWm standby at 50 Hz; 60 Hz: 580 kVA / 464 kWe prime, 642 kVA / 513 kWe standby)",
+      "cylinders": 6,
+      "displacement_l": 16.1,
+      "aspiration": "Turbocharged, aftercooled; electronic unit injectors",
+      "bore_stroke_mm": "",
+      "rated_rpm": 1500,
+      "fuel": "Diesel (HVO compatible)",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "length_mm": null,
+      "width_mm": null,
+      "height_mm": null,
+      "dry_weight_kg": null,
+      "emissions": "EU Stage IIIA / EPA Tier 3",
+      "alternator": "Not applicable",
+      "controller": "Not applicable",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "",
+      "source_url": "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d16-eu-stage-iiia-epa-tier-3/",
+      "datasheet_url": null,
+      "spec_confidence": "brochure"
+    },
+    {
+      "model": "TWD1744GE",
+      "series": "Volvo Penta D17 (EU Stage II / EPA Tier 2)",
+      "category": "Engine",
+      "frequency_hz": 50,
+      "standby_kva": 833,
+      "standby_kw": 666,
+      "prime_kva": 758,
+      "prime_kw": 606,
+      "continuous_kw": null,
+      "engine_model": "TWD1744GE (645 kWm prime, 709 kWm standby at 50 Hz; 60 Hz: 801 kVA / 641 kWe prime at 682 kWm, 881 kVA / 705 kWe standby at 750 kWm)",
+      "cylinders": 6,
+      "displacement_l": 17.26,
+      "aspiration": "Dual-stage turbochargers; common rail; heavy-duty steel pistons",
+      "bore_stroke_mm": "",
+      "rated_rpm": 1500,
+      "fuel": "Diesel (HVO compatible)",
+      "fuel_consumption_lph_100": null,
+      "fuel_consumption_lph_75": null,
+      "fuel_consumption_lph_50": null,
+      "length_mm": null,
+      "width_mm": null,
+      "height_mm": null,
+      "dry_weight_kg": null,
+      "emissions": "EU Stage II / EPA Tier 2 certified for stationary emergency",
+      "alternator": "Not applicable",
+      "controller": "Not applicable; service interval up to 1,000 hours; dual speed 1500/1800 rpm",
+      "voltage": "",
+      "ambient_derate_note": "",
+      "data_center_rating": "Listed on Volvo Penta data centre solutions page",
+      "source_url": "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d17-eu-stage-ii/",
+      "datasheet_url": null,
+      "spec_confidence": "brochure"
+    }
+  ],
+  "partnerships": [
+    {
+      "partner": "Almajd Power",
+      "partner_type": "Packager",
+      "relationship_label": "PACKAGER",
+      "since": "",
+      "country": "KSA",
+      "scope": "Jeddah packager listing Volvo engines among its brands for 9 to 3,000 kVA sets",
+      "source_url": "https://www.almajd-power.com/en/",
+      "why_it_matters": {
+        "level": "WATCH",
+        "analysis": "Only verified Saudi packager naming Volvo engines. Almajd also packages Cummins, so Cummins Arabia can influence engine choice through pricing and support to Almajd."
+      }
+    },
+    {
+      "partner": "OEMs and system integrators (data centre)",
+      "partner_type": "OEM",
+      "relationship_label": "OEM_SUPPLIER",
+      "since": "",
+      "country": "Global",
+      "scope": "Volvo Penta describes itself as an independent engine and BESS subsystem partner to OEMs and integrators for data centre backup",
+      "source_url": "https://www.volvopenta.com/about-us/news-page/2026/apr/powering-data-centers-backup-power-systems-with-purpose/",
+      "why_it_matters": {
+        "level": "WATCH",
+        "analysis": "Volvo's route to Gulf data centres is through packagers, and only at edge and enterprise scale given its 880 kVA ceiling."
+      }
+    },
+    {
+      "partner": "KJ Power Generator (Turkey)",
+      "partner_type": "Packager",
+      "relationship_label": "OEM_SUPPLIER",
+      "since": "",
+      "country": "Global",
+      "scope": "Volvo Penta battery system supplied for KJ Power mobile BESS for the rental sector",
+      "source_url": "https://www.volvopenta.com/about-us/news-page/2025/dec/volvo-penta-to-present-powering-your-ambition-at-conexpo-2026/",
+      "why_it_matters": {
+        "level": "WATCH",
+        "analysis": "KJ Power exports gensets to the Gulf; Volvo BESS inside KJ Power rental products would meet Cummins BESS in rental fleets."
+      }
+    }
+  ],
+  "geo_footprint": [
+    {
+      "country": "KSA",
+      "city": "Jeddah",
+      "facility_type": "Manufacturing",
+      "entity": "Almajd Power (packager using Volvo engines among others)",
+      "notes": "Genset factory and office",
+      "source_url": "https://www.almajd-power.com/en/"
+    },
+    {
+      "country": "UAE",
+      "city": "",
+      "facility_type": "Dealer branch",
+      "entity": "Not verified",
+      "notes": "No Volvo Penta UAE power generation dealer could be verified from official sources",
+      "source_url": "https://www.volvopenta.com/about-us/dealer-locator/"
+    },
+    {
+      "country": "Kuwait",
+      "city": "",
+      "facility_type": "Dealer branch",
+      "entity": "Not verified",
+      "notes": "No Volvo Penta Kuwait power generation dealer could be verified from official sources",
+      "source_url": "https://www.volvopenta.com/about-us/dealer-locator/"
+    }
+  ],
+  "gulf_reference_projects": [],
+  "gaps": [
+    "Volvo Penta Middle East regional office, and dealers for KSA, UAE and Kuwait, could not be verified: the dealer locator is a dynamic app with no static listing.",
+    "Claims that Jubaili Bros and Altaaqa package Volvo Penta engines were not confirmed; Jubaili's site names Perkins and MWM only.",
+    "Volvo Penta does not publish bore/stroke, weight, dimensions or fuel consumption on its web product pages; spec sheet PDFs were not exposed on the pages fetched.",
+    "No Volvo Penta Gulf reference project found.",
+    "Employee count and revenue are not published separately from Volvo Group."
+  ],
+  "sources": [
+    "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-the-uae",
+    "https://www.almajd-power.com/en/",
+    "https://www.volvopenta.com/about-us/",
+    "https://www.volvopenta.com/about-us/dealer-locator/",
+    "https://www.volvopenta.com/about-us/global-presence/",
+    "https://www.volvopenta.com/about-us/news-page/",
+    "https://www.volvopenta.com/about-us/news-page/2025/dec/volvo-penta-to-present-powering-your-ambition-at-conexpo-2026/",
+    "https://www.volvopenta.com/about-us/news-page/2026/apr/powering-data-centers-backup-power-systems-with-purpose/",
+    "https://www.volvopenta.com/about-us/news-page/2026/feb/volvo-penta-doubles-industrial-engine-sales-in-north-america/",
+    "https://www.volvopenta.com/about-us/news-page/2026/jan/power-generation-portfolio-with-g17-natural-gas-engine/",
+    "https://www.volvopenta.com/industrial/power-generation-engines/",
+    "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/",
+    "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d16-eu-stage-ii-epa-tier-2/",
+    "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d16-eu-stage-iiia-epa-tier-3/",
+    "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d16-eu-stage-v/",
+    "https://www.volvopenta.com/industrial/power-generation-engines/power-generation-engine-range/d17-eu-stage-ii/",
+    "https://www.volvopenta.com/industrial/power-generation-engines/power-solutions-for-data-centers/"
+  ]
+}

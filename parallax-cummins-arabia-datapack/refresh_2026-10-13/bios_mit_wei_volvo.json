@@ -1,0 +1,502 @@
+[
+ {
+  "company_id": "MITSUBIS",
+  "name": "Michiyoshi Furutono",
+  "title": "President and Chief Executive Officer, MHIET",
+  "experience": [
+   {
+    "company": "Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. (MHIET)",
+    "role": "President and Chief Executive Officer",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.mhi.com/group/mhiet/company/",
+  "quote": "President and CEO",
+  "new": false,
+  "note": "MHI company page lists him as President and CEO (org chart dated 1 Oct 2023); appointment year and prior career/education are not published on the page. No other source found."
+ },
+ {
+  "company_id": "MITSUBIS",
+  "name": "Minoru Esaki",
+  "title": "Managing Director, Mitsubishi Heavy Industries Engine System Asia (MHI-ESA), Singapore",
+  "experience": [
+   {
+    "company": "Mitsubishi Heavy Industries Engine System Asia (MHI-ESA)",
+    "role": "Managing Director",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.mhi.com/group/mhiesa/news/20260807-mgs-apac-conference.html",
+  "quote": "Managing Director of MHI-ESA",
+  "new": false,
+  "note": "Page gives only his title (welcome address at MGS APAC Sales & Service Maintenance Conference 2026). Career and education not published."
+ },
+ {
+  "company_id": "MITSUBIS",
+  "name": "Norio Murakami",
+  "title": "Managing Director, MHI-ESA (until about mid-2026)",
+  "experience": [
+   {
+    "company": "Mitsubishi Heavy Industries Engine System Asia (MHI-ESA)",
+    "role": "Managing Director",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.mhi.com/group/mhiesa/news/20251007.html",
+  "quote": "Managing Director of MHI-ESA",
+  "new": false,
+  "note": "Quoted as MD of MHI-ESA in Oct 2025 (MGS2500R launch). Input says Minoru Esaki succeeded him by June 2026 (Esaki is MD on the June 2026 conference page), so he has left this role; start and end years not published. Career and education not published."
+ },
+ {
+  "company_id": "MITSUBIS",
+  "name": "Takao Tsukui",
+  "title": "Chairman and CEO, Mitsubishi Heavy Industries America, Inc. (from 1 April 2026); previously President and CEO, Mitsubishi Power, Ltd.",
+  "experience": [
+   {
+    "company": "Mitsubishi Heavy Industries America, Inc.",
+    "role": "Chairman and CEO",
+    "from": "2026",
+    "to": "Present"
+   },
+   {
+    "company": "Mitsubishi Power, Ltd.",
+    "role": "President and Chief Executive Officer",
+    "from": "2025",
+    "to": "2026"
+   },
+   {
+    "company": "Mitsubishi Power, Ltd.",
+    "role": "Executive Vice President (global sales, marketing and commercial, gas turbine combined cycle)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Mitsubishi Power Americas, Inc.",
+    "role": "Vice President (Lake Mary, Florida)",
+    "from": "2011",
+    "to": ""
+   },
+   {
+    "company": "Mitsubishi Heavy Industries",
+    "role": "Joined; Power Systems International Operations, Tokyo",
+    "from": "1993",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "Keio University",
+    "degree": "Bachelor's degree in Economics",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.uschamber.com/bio/takao-tsukui",
+  "quote": "Tsukui holds a Bachelor's degree in Economics from Keio University.",
+  "new": false,
+  "note": "Moved from Mitsubishi Power CEO to MHI America Chairman and CEO effective 1 Apr 2026 (US Chamber bio), so he no longer runs Mitsubishi Power (the Dammam JAC context). Join year 1993 and EVP role come from search-result summaries of SIEW/Enlit speaker bios, not from a page I could open; 2011 is the only year the US Chamber page gives for the Americas VP role."
+ },
+ {
+  "company_id": "MITSUBIS",
+  "name": "Eisaku Ito",
+  "title": "President and CEO, Mitsubishi Heavy Industries, Ltd. (parent of MHIET)",
+  "experience": [
+   {
+    "company": "Mitsubishi Heavy Industries, Ltd.",
+    "role": "President and CEO",
+    "from": "2025",
+    "to": "Present"
+   },
+   {
+    "company": "Mitsubishi Heavy Industries, Ltd.",
+    "role": "Executive Vice President, CTO; from 2022 also Co-CSO",
+    "from": "2020",
+    "to": "2025"
+   },
+   {
+    "company": "Mitsubishi Heavy Industries, Ltd.",
+    "role": "Senior Vice President, Co-CTO",
+    "from": "2019",
+    "to": "2020"
+   },
+   {
+    "company": "Mitsubishi Heavy Industries, Ltd.",
+    "role": "Fellow, Deputy Head of Research & Innovation Center",
+    "from": "2018",
+    "to": "2019"
+   },
+   {
+    "company": "Mitsubishi Heavy Industries, Ltd.",
+    "role": "General Manager, Business Intelligence & Innovation Department, Marketing & Innovation Headquarters",
+    "from": "2016",
+    "to": "2018"
+   },
+   {
+    "company": "Mitsubishi Heavy Industries, Ltd.",
+    "role": "Joined",
+    "from": "1987",
+    "to": ""
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.mhi.com/company/aboutmhi/officers/photo.html",
+  "quote": "April, 1987 Joined Mitsubishi Heavy Industries, Ltd.",
+  "new": true,
+  "note": "Added under the thin-list rule (group CEO). MHI officer page publishes no education."
+ },
+ {
+  "company_id": "WEICHAIB",
+  "name": "Ma Changhai",
+  "title": "Chairman and Executive Director, Weichai Power Co., Ltd.",
+  "experience": [
+   {
+    "company": "Weichai Power Co., Ltd.",
+    "role": "Chairman and executive director",
+    "from": "2024",
+    "to": "Present"
+   },
+   {
+    "company": "Weichai Group Holdings Limited",
+    "role": "Secretary of the party committee, chairman of the board and general manager",
+    "from": "2024",
+    "to": "Present"
+   },
+   {
+    "company": "Weichai Group Holdings Limited",
+    "role": "General manager and compliance director (also deputy general manager and secretary to the board earlier)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Weifang Diesel Engine Factory",
+    "role": "Joined",
+    "from": "1997",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "Shandong University",
+    "degree": "Bachelor's degree in Laws (the June 2023 circular says Scientific Socialism)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.marketscreener.com/quote/stock/WEICHAI-POWER-CO-LTD-6170971/news/Weichai-Power-Co-Ltd-Announces-Board-Changes-47661348/",
+  "quote": "Mr. Ma joined Weifang Diesel Engine Factory in 1997.",
+  "new": false,
+  "note": "Chairman effective 12 Aug 2024 (Weichai board announcement as reproduced by MarketScreener); still Chairman on the 3 Jul 2026 HKEX director list. Degree field differs between the 2023 AGM circular (Scientific Socialism, https://en.weichaipower.com/investor_relations/hk_02338/old/2022/202306/P020230605748432726123.pdf) and the 2024 announcement (Laws); both say Shandong University. Group Holdings roles are from the 2024 announcement, start years not given."
+ },
+ {
+  "company_id": "WEICHAIB",
+  "name": "Wang Decheng",
+  "title": "Executive Director and General Manager (CEO), Weichai Power Co., Ltd.",
+  "experience": [
+   {
+    "company": "Weichai Power Co., Ltd.",
+    "role": "Executive director, Chief Executive Officer and general manager",
+    "from": "2023",
+    "to": "Present"
+   },
+   {
+    "company": "Weichai Power Co., Ltd.",
+    "role": "Executive president; earlier vice president, assistant to president, president of engine research institute, engine platform director, application engineering director",
+    "from": "2004",
+    "to": "2023"
+   }
+  ],
+  "education": [
+   {
+    "institution": "Tianjin University",
+    "degree": "Master's degree in Power Engineering",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Harbin Engineering University",
+    "degree": "Bachelor's degree in Automotive Application Engineering",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://en.weichaipower.com/investor_relations/hk_02338/old/2022/202306/P020230605748432726123.pdf",
+  "quote": "He joined the Company in July 2004 and held various positions including application engineering director, engine platform director",
+  "new": false,
+  "note": "CEO role effective 13 Oct 2023 (MarketScreener copy of company announcement); listed as Executive Director (General Manager) on the 3 Jul 2026 HKEX list. Also engineering doctoral student at Tianjin University per the 2023 circular. Years inside the 2004-2023 ladder are not published."
+ },
+ {
+  "company_id": "WEICHAIB",
+  "name": "Fabrizio Mozzi",
+  "title": "Chief Executive Officer (President and Managing Director), Moteurs Baudouin",
+  "experience": [
+   {
+    "company": "Société Internationale des Moteurs Baudouin SAS",
+    "role": "President & Managing Director / CEO",
+    "from": "2016",
+    "to": "Present"
+   },
+   {
+    "company": "Power Solutions International, Inc.",
+    "role": "Chairman",
+    "from": "2021",
+    "to": "2023"
+   },
+   {
+    "company": "Cummins, Inc.",
+    "role": "Director, Power Generation Business",
+    "from": "2014",
+    "to": "2016"
+   }
+  ],
+  "education": [
+   {
+    "institution": "LUISS University of Rome",
+    "degree": "Undergraduate degree",
+    "from": "",
+    "to": "2003"
+   },
+   {
+    "institution": "Kelley School of Business (Indiana University)",
+    "degree": "MBA",
+    "from": "",
+    "to": "2010"
+   }
+  ],
+  "bio_source": "https://www.zonebourse.com/insider/FABRIZIO-MOZZI-A3EANY/",
+  "quote": "Fabrizio Mozzi is currently the President & Managing Director at Société Internationale des Moteurs Baudouin SAS since 2016.",
+  "new": false,
+  "note": "Career and education come from a single data-aggregator profile (Zonebourse/MarketScreener), not an official page; the CEO title is confirmed by Powertrain International (Middle East Energy 2025 article, source in the input): 'Fabrizio Mozzi, CEO of Moteurs Baudouin.' Baudouin's own site would not load (certificate error). Undergraduate field not stated. Current status after 2025 not verified."
+ },
+ {
+  "company_id": "WEICHAIB",
+  "name": "Wang Cuiping",
+  "title": "Chief Financial Officer, Weichai Power Co., Ltd.",
+  "experience": [
+   {
+    "company": "Weichai Power Co., Ltd.",
+    "role": "Chief Financial Officer",
+    "from": "2024",
+    "to": "Present"
+   },
+   {
+    "company": "Zhongtong Bus Holding Co., Ltd.",
+    "role": "Chief Financial Officer and Secretary",
+    "from": "2022",
+    "to": "2024"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://it.marketscreener.com/insider/CUI-PING-WANG-A3T29D/",
+  "quote": "Chief Financial Officer at Weichai Power Co., Ltd. since 2024.",
+  "new": true,
+  "note": "Added under the thin-list rule (CFO). Aggregator source (MarketScreener); I could not open Weichai's own CFO appointment filing. Education not published on the page."
+ },
+ {
+  "company_id": "WEICHAIB",
+  "name": "Zhang Quan",
+  "title": "Vice Chairman and executive director, Weichai Power Co., Ltd. (as of June 2023)",
+  "experience": [
+   {
+    "company": "Weichai Power Co., Ltd.",
+    "role": "Vice chairman of the board",
+    "from": "2023",
+    "to": ""
+   },
+   {
+    "company": "Weichai Power Co., Ltd.",
+    "role": "Executive president and executive CEO (earlier)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Weifang Diesel Engine Factory",
+    "role": "Joined; later general manager of marketing and of the sales and marketing company",
+    "from": "1986",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "Shandong Polytechnical University",
+    "degree": "Bachelor's degree in Internal Combustion Engines",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Fudan University",
+    "degree": "Master's degree in Business Administration",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://en.weichaipower.com/investor_relations/hk_02338/old/2022/202306/P020230605748432726123.pdf",
+  "quote": "Mr. Zhang joined Weifang Diesel Engine Factory in 1986",
+  "new": true,
+  "note": "Added under the thin-list rule (senior executive). He is NOT on the 3 Jul 2026 HKEX list of Weichai Power directors (Ma Changhai, Wang Decheng, Ma Xuyao, Huang Weibiao, ...), so he has probably left the board; reason and date not found. Keep only as a former senior executive."
+ },
+ {
+  "company_id": "VOLVOPEN",
+  "name": "Anna Muller",
+  "title": "President, Volvo Penta",
+  "experience": [
+   {
+    "company": "Volvo Penta (Volvo Group)",
+    "role": "President",
+    "from": "2023",
+    "to": "Present"
+   },
+   {
+    "company": "Volvo Trucks",
+    "role": "Senior Vice President, Europe North & Central",
+    "from": "",
+    "to": "2023"
+   },
+   {
+    "company": "Volvo Trucks",
+    "role": "Several senior positions",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Volvo Penta",
+    "role": "Service organisation, business development (joined Volvo Group)",
+    "from": "2014",
+    "to": ""
+   },
+   {
+    "company": "Ford Motor Company AB",
+    "role": "Managing Director",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "Linkoping University",
+    "degree": "B.A., International Business Program",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.volvogroup.com/en/investors/corporate-governance/ceo-and-group-executive-board/Anna_Muller.html",
+  "quote": "B.A. International Business Program, Linköping University",
+  "new": false,
+  "note": "Start as President (Dec 2023) from the Volvo Group profile plus the Nov 2023 Powertrain International announcement (https://powertraininternationalweb.com/news/anna-muller-is-the-new-president-of-volvo-penta); Volvo profile lists the Ford role as prior to Volvo Trucks without years. Also board member of Alfa Laval AB."
+ },
+ {
+  "company_id": "VOLVOPEN",
+  "name": "Martin Lundstedt",
+  "title": "President and CEO, Volvo Group (Volvo Penta's parent)",
+  "experience": [
+   {
+    "company": "Volvo Group",
+    "role": "President and CEO",
+    "from": "",
+    "to": "Present"
+   },
+   {
+    "company": "Scania AB",
+    "role": "President and CEO",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Scania",
+    "role": "Various management positions",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "Chalmers University of Technology",
+    "degree": "MSc",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.volvogroup.com/en/investors/corporate-governance/ceo-and-group-executive-board/martin-lundstedt.html",
+  "quote": "MSc, Chalmers University of Technology",
+  "new": true,
+  "note": "Added under the thin-list rule (group CEO). Volvo profile gives no years or field of study; board seats include Chairman Permobil Holding AB, Autoliv, Concentric AB."
+ },
+ {
+  "company_id": "VOLVOPEN",
+  "name": "Mats Backman",
+  "title": "Executive Vice President, Group Finance and CFO, Volvo Group",
+  "experience": [
+   {
+    "company": "Volvo Group",
+    "role": "Executive Vice President, Group Finance and CFO",
+    "from": "",
+    "to": "Present"
+   },
+   {
+    "company": "Triton",
+    "role": "Operating Partner",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Autoliv Inc. and subsequently Veoneer Inc.",
+    "role": "Chief Financial Officer",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Sandvik Group",
+    "role": "Various management positions including CFO; also Outokumpu, Nordea, Boliden",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "",
+    "degree": "BSc in Business Administration",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.volvogroup.com/en/investors/corporate-governance/ceo-and-group-executive-board/Mats_Backman.html",
+  "quote": "BSc in Business Administration",
+  "new": true,
+  "note": "Added under the thin-list rule (CFO). Volvo profile gives no years and no university. Board member of Gränges AB."
+ },
+ {
+  "company_id": "VOLVOPEN",
+  "name": "Hannes Norrgren",
+  "title": "President, Industrial Business Unit, Volvo Penta (appointed 2022; current status unverified)",
+  "experience": [
+   {
+    "company": "Volvo Penta",
+    "role": "President, Industrial Business (member of Executive Management Group)",
+    "from": "2022",
+    "to": "Present"
+   },
+   {
+    "company": "Humphree",
+    "role": "Chief Executive Officer (about three years)",
+    "from": "",
+    "to": "2022"
+   },
+   {
+    "company": "Volvo Penta",
+    "role": "Vice President, Industrial Sales and Marketing, Europe",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.powerprogress.com/news/volvo-penta-appoints-new-industrial-business-president/8022938.article",
+  "quote": "Hannes Norrgren will assume the role of president of its Industrial Business",
+  "new": true,
+  "note": "Added under the thin-list rule (head of the industrial / power-generation business). Appointment announced 29 Aug 2022, effective 1 Nov 2022; no 2026 source found confirming he still holds the role (a Volvo Penta 'VP Power & Energy' post for data-centre power also exists, holder not found). Education not published."
+ }
+]

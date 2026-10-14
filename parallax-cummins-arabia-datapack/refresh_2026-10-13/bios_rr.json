@@ -1,0 +1,390 @@
+[
+ {
+  "company_id": "ROLLSROY",
+  "name": "Dr Jörg Stratmann",
+  "title": "CEO and Chairman of the Executive Board, Rolls-Royce Power Systems AG",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "CEO / President Power Systems and Chairman of the Board",
+    "from": "2022",
+    "to": "Present"
+   },
+   {
+    "company": "Mahle GmbH",
+    "role": "CEO and chairman of the executive board (most recent role before Rolls-Royce; years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Mahle GmbH",
+    "role": "Leading positions (years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Siemens AG",
+    "role": "Various international positions in the USA, Italy, Romania and Germany (years not published)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "Technical University of Berlin",
+    "degree": "Doctorate and master's, industrial engineering",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.rolls-royce.com/about/leadership/executive-leadership-team.aspx",
+  "quote": "Jörg was chief executive officer and chairman of the management board for the automotive supplier Mahle GmbH",
+  "new": false,
+  "note": "Joined 15 Nov 2022. Prior-role years not published on the pages read. Degree detail: Group page says doctorate and master's in industrial engineering from TU Berlin; mtu About page says he studied and earned his doctorate at the Technical University of Berlin; 2022 mtu release says 'holds a doctorate in industrial engineering'."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Dr Andreas Strecker",
+  "title": "Chief Financial Officer, Rolls-Royce Power Systems AG",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "Chief Financial Officer",
+    "from": "2022",
+    "to": "Present"
+   },
+   {
+    "company": "Accuride Wheels",
+    "role": "President, Europe & Asia (years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Deutz AG",
+    "role": "Chief Financial Officer (years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Solaris Bus & Coach sp. z o.o.",
+    "role": "Chief Executive Officer (years not published)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.mtu-solutions.com/eu/en/about-us/about-rolls-royce-power-systems.html",
+  "quote": "Since 1 December 2022, Dr. Andreas Strecker reinforces the Executive Board of Management as Chief Financial Officer.",
+  "new": false,
+  "note": "Education not published on official pages. Prior-role years not published."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Dr Thelse Godewerth",
+  "title": "Chief People Officer and Labour Director, Rolls-Royce Power Systems AG",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "Chief People Officer and Labour Director",
+    "from": "2022",
+    "to": "Present"
+   },
+   {
+    "company": "Life sciences provider (unnamed)",
+    "role": "Global HR and Organizational Development (years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "International consulting firm (unnamed)",
+    "role": "Managing Partner (years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "German media and newspaper publishing group (unnamed)",
+    "role": "Head of Corporate and HR Development (years not published)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "Heinrich Heine University, Düsseldorf",
+    "degree": "Politics, economics and psychology; doctorate",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.mtu-solutions.com/eu/en/about-us/about-rolls-royce-power-systems.html",
+  "quote": "studied politics, economics and psychology at Heinrich Heine University in Düsseldorf",
+  "new": false,
+  "note": "In role since 14 Jan 2022."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Tobias Ostermaier",
+  "title": "President Stationary Power Solutions (power generation business unit)",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "President Stationary Power Solutions",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.rolls-royce.com/media/press-releases/2025/02-10-2025-rr-introduces-fast-start-mtu-gas-gensets-for-powering-data-centers.aspx",
+  "quote": "President Stationary Power Solutions at Rolls-Royce Power Systems",
+  "new": false,
+  "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated. A 2020 press release (via search result, not read in full) described him as President MTU Greater China."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Andreas Görtz",
+  "title": "President Sustainable and Mobile Power Solutions (battery storage, marine, mobile)",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "President of Sustainable and Mobile Power Solutions",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.rolls-royce.com/media/press-releases/2025/16-09-2025-rr-biggest-battery-order-for-rolls-royce-large-scale-energy-storage-system-in-lithuania.aspx",
+  "quote": "President of Sustainable and Mobile Power Solutions at Rolls-Royce Power Systems",
+  "new": false,
+  "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Giovanni Spadaro",
+  "title": "President Global Markets",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "President, Global Markets",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.mtu-solutions.com/eu/en/pressreleases/2025/rolls-royce-publishes-position-paper-with-microsoft-on-the-use-of-hydrotreated-vegetable-oil-hvo-for-the-singapore-data-centre-sector.html",
+  "quote": "Giovanni Spadaro, President, Global Markets, Rolls-Royce Power Systems, added:",
+  "new": false,
+  "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Vittorio Pierangeli",
+  "title": "Senior Vice President Power Generation",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "Senior Vice President Power Generation",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.mtu-solutions.com/eu/en/pressreleases/2025/Rolls-Royce-and-AVK-strengthen-partnership.html",
+  "quote": "Senior Vice President Power Generation at Rolls-Royce Power Systems",
+  "new": false,
+  "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Simone Rühfel",
+  "title": "Vice President Global Markets (signed Kuwait distributor agreement)",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "Vice President Global Markets",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.almullagroup.com/news/al-mulla-group-rolls-royce-power-systems-sign-a-strategic-agreement-to-provide-innovative-power-solutions",
+  "quote": "Vice President Global Markets at Rolls-Royce Power Systems",
+  "new": false,
+  "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Alpin Asim Yildirim",
+  "title": "Head of Middle East, Rolls-Royce Power Systems (as of 2024-12-22)",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "Head of Middle East",
+    "from": "2024",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.almullagroup.com/news/al-mulla-group-rolls-royce-power-systems-sign-a-strategic-agreement-to-provide-innovative-power-solutions",
+  "quote": "the Head of Middle East, Alpin Asim Yildirim representing Rolls-Royce",
+  "new": false,
+  "note": "No career or education published. 'From 2024' reflects only the date of the page naming him in the role; current status not re-verified."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Salim El Banna",
+  "title": "Country Sales Manager UAE, Bahrain, Iraq and Kuwait, Power Systems division (as of 2025-11-05)",
+  "experience": [
+   {
+    "company": "Rolls-Royce Power Systems",
+    "role": "Country Sales Manager UAE, Bahrain, Iraq & Kuwait",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.rolls-royce.com/media/press-releases/2025/05-11-2025-rr-secures-emergency-power-supply-at-new-airport-terminal-in-kuwait-with-mtu-gensets.aspx",
+  "quote": "Country Sales Manager UAE, Bahrain, Iraq & Kuwait for the Power Systems division of Rolls-Royce",
+  "new": false,
+  "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Cate Wilkinson",
+  "title": "Senior Vice President Middle East, Rolls-Royce (group level, quoted on Saudi localisation at WDS 2026)",
+  "experience": [
+   {
+    "company": "Rolls-Royce",
+    "role": "Senior Vice President, Middle East",
+    "from": "",
+    "to": "Present"
+   }
+  ],
+  "education": [],
+  "bio_source": "https://www.rolls-royce.com/country-sites/arabic/rolls-royce-marks-a-milestone.aspx",
+  "quote": "Senior Vice President of Rolls-Royce, Middle East",
+  "new": false,
+  "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated. Group-level role (not Power Systems); she is not on the Rolls-Royce executive leadership page."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Tufan Erginbilgic",
+  "title": "Chief Executive, Rolls-Royce Holdings plc",
+  "experience": [
+   {
+    "company": "Rolls-Royce Holdings plc",
+    "role": "Chief Executive",
+    "from": "2023",
+    "to": "Present"
+   },
+   {
+    "company": "Global Infrastructure Partners",
+    "role": "Partner (senior adviser Jan 2023 to Jan 2024)",
+    "from": "2020",
+    "to": "2022"
+   },
+   {
+    "company": "BP",
+    "role": "Chief Executive Officer, downstream business",
+    "from": "2014",
+    "to": "2020"
+   },
+   {
+    "company": "BP",
+    "role": "Chief Operating Officer, downstream business (years between 2009 and 2014 not stated precisely)",
+    "from": "2009",
+    "to": "2014"
+   },
+   {
+    "company": "BP",
+    "role": "Chief of Staff to the Group CEO",
+    "from": "",
+    "to": "2009"
+   },
+   {
+    "company": "BP / Castrol",
+    "role": "CEO of Lubricants",
+    "from": "2006",
+    "to": "2007"
+   },
+   {
+    "company": "BP",
+    "role": "Various senior roles",
+    "from": "1997",
+    "to": "2020"
+   }
+  ],
+  "education": [
+   {
+    "institution": "Not named on source",
+    "degree": "BSc in engineering",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Not named on source",
+    "degree": "MBA",
+    "from": "",
+    "to": ""
+   },
+   {
+    "institution": "Not named on source",
+    "degree": "MA in economics",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.rolls-royce.com/media/press-releases/2022/26-07-2022-rr-appoints-tufan-erginbilgic-as-chief-executive-officer.aspx",
+  "quote": "Previously he worked for BP (1997-2020) in a number of senior roles.",
+  "new": false,
+  "note": "Institutions and graduation years not published. Also non-executive director GKN 2012-2018 and CNH Industrial 2020-2021 (not listed). Group page: joined Rolls-Royce Board 1 Jan 2023."
+ },
+ {
+  "company_id": "ROLLSROY",
+  "name": "Helen McCabe",
+  "title": "Chief Financial Officer, Rolls-Royce Holdings plc",
+  "experience": [
+   {
+    "company": "Rolls-Royce Holdings plc",
+    "role": "Chief Financial Officer",
+    "from": "2023",
+    "to": "Present"
+   },
+   {
+    "company": "BP",
+    "role": "Senior vice president of finance, Customer & Products division (years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "BP Downstream",
+    "role": "CFO of fuels and refining businesses in Europe and Southern Africa (years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "BP",
+    "role": "Planning and performance management lead, downstream division (four years; years not published)",
+    "from": "",
+    "to": ""
+   },
+   {
+    "company": "Ernst & Young",
+    "role": "Trained and qualified as a chartered accountant (years not published)",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "education": [
+   {
+    "institution": "University of Cambridge",
+    "degree": "BA History",
+    "from": "",
+    "to": ""
+   }
+  ],
+  "bio_source": "https://www.rolls-royce.com/about/leadership/board.aspx",
+  "quote": "Helen started her career with Ernst & Young where she trained and qualified as a chartered accountant",
+  "new": false,
+  "note": "Board appointment 4 Aug 2023 per annual report/board page (2024 Governance Report shows 1 Jan 2023; unresolved). Graduation year not published."
+ }
+]

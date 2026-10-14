@@ -1,0 +1,60 @@
+[
+ {
+  "company_id": "MITSUBIS",
+  "company": "Mitsubishi MHIET (MGS)",
+  "leaders": [
+   {
+    "name": "Michiyoshi Furutono",
+    "title": "President and Chief Executive Officer, MHIET",
+    "source": "https://www.mhi.com/group/mhiet/company/"
+   },
+   {
+    "name": "Minoru Esaki",
+    "title": "Managing Director, Mitsubishi Heavy Industries Engine System Asia (MHI-ESA), Singapore (MGS hub for Asia Pacific)",
+    "source": "https://www.mhi.com/group/mhiesa/news/20260807-mgs-apac-conference.html"
+   },
+   {
+    "name": "Norio Murakami",
+    "title": "Managing Director, MHI-ESA (quoted at MGS2500R containerised launch, October 2025; succeeded by Minoru Esaki by June 2026)",
+    "source": "https://www.mhi.com/group/mhiesa/news/20251007.html"
+   },
+   {
+    "name": "Takao Tsukui",
+    "title": "President and CEO, Mitsubishi Power (context: Dammam JAC turbine assembly)",
+    "source": "https://power.mhi.com/regions/emea/news/251014"
+   }
+  ]
+ },
+ {
+  "company_id": "WEICHAIB",
+  "company": "Weichai / Baudouin",
+  "leaders": [
+   {
+    "name": "Ma Changhai",
+    "title": "Chairman and executive director, Weichai Power (appointed August 2024, succeeding Tan Xuguang)",
+    "source": "https://www.yicaiglobal.com/news/weichai-powers-chairman-resigns-after-26-years-at-helm-of-chinese-diesel-engines-maker"
+   },
+   {
+    "name": "Wang Decheng",
+    "title": "Executive director, Weichai Power",
+    "source": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf"
+   },
+   {
+    "name": "Fabrizio Mozzi",
+    "title": "Chief Executive Officer, Moteurs Baudouin",
+    "source": "https://www.powertraininternationalweb.com/powergen/moteurs-baudouin-to-showcase-worlds-most-powerful-6-mva-genset-at-middle-east-energy-2025/"
+   }
+  ]
+ },
+ {
+  "company_id": "VOLVOPEN",
+  "company": "Volvo Penta",
+  "leaders": [
+   {
+    "name": "Anna Muller",
+    "title": "President, Volvo Penta",
+    "source": "https://www.volvopenta.com/about-us/"
+   }
+  ]
+ }
+]

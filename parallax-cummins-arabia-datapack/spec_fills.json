@@ -1,0 +1,1285 @@
+{
+ "MITSUBIS-P1": {
+  "f100": {
+   "value": 598,
+   "unit": "L/hr",
+   "basis": "standby (St-by 2750 kVA) 50 Hz 380 V",
+   "url": "https://gensetpower.vn/wp-content/uploads/MGS2800BC.pdf",
+   "quote": "Fuel Consumption (liter/hr) (% Load) 100 | 598 | 541 | 513",
+   "page": "p.1 (PDF p.2)"
+  },
+  "f75": {
+   "value": 445,
+   "unit": "L/hr",
+   "basis": "standby 50 Hz",
+   "url": "https://gensetpower.vn/wp-content/uploads/MGS2800BC.pdf",
+   "quote": "75 | 445 | 406 | 387",
+   "page": "p.1 (PDF p.2)"
+  },
+  "f50": {
+   "value": 306,
+   "unit": "L/hr",
+   "basis": "standby 50 Hz",
+   "url": "https://gensetpower.vn/wp-content/uploads/MGS2800BC.pdf",
+   "quote": "50 | 306 | 282 | 270",
+   "page": "p.1 (PDF p.2)"
+  },
+  "L": {
+   "value": 6280,
+   "unit": "mm",
+   "basis": "open skid, indoor, integral radiator",
+   "url": "https://gensetpower.vn/wp-content/uploads/MGS2800BC.pdf",
+   "quote": "D/G Set Dimension & Dry Weight: Length (mm) 6280",
+   "page": "p.1 (PDF p.2)"
+  },
+  "W": {
+   "value": 3125,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "https://gensetpower.vn/wp-content/uploads/MGS2800BC.pdf",
+   "quote": "Width (mm) 3125",
+   "page": "p.1 (PDF p.2)"
+  },
+  "H": {
+   "value": 3055,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "https://gensetpower.vn/wp-content/uploads/MGS2800BC.pdf",
+   "quote": "Height (mm) 3055",
+   "page": "p.1 (PDF p.2)"
+  },
+  "wt": {
+   "value": 18700,
+   "unit": "kg",
+   "basis": "dry, open set",
+   "url": "https://gensetpower.vn/wp-content/uploads/MGS2800BC.pdf",
+   "quote": "Weight (kg) 18700 (row header 'D/G Set Dimension & Dry Weight')",
+   "page": "p.1 (PDF p.2)"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 41: MGS2800B"
+  }
+ },
+ "MITSUBIS-P2": {
+  "f100": {
+   "value": 479,
+   "unit": "L/hr",
+   "basis": "standby (STAND-BY 2290 kVA, code 5S-KT83) 50 Hz 380 V, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf (archived: https://web.archive.org/web/20210305001503/http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf)",
+   "quote": "Fuel consumption load 100%* L/hr. 479 425 (cols STAND-BY 2290 kVA | PRIME 2035 kVA; * WITH FAN basis)",
+   "page": "p.2/4"
+  },
+  "f75": {
+   "value": 361,
+   "unit": "L/hr",
+   "basis": "standby 50 Hz, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf (archived: https://web.archive.org/web/20210305001503/http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf)",
+   "quote": "Fuel consumption load 75%* L/hr. 361 323",
+   "page": "p.2/4"
+  },
+  "L": {
+   "value": 5980,
+   "unit": "mm",
+   "basis": "open skid (reference data)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf (archived: https://web.archive.org/web/20210305001503/http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf)",
+   "quote": "Overall dimensions L : Length mm 5980",
+   "page": "p.1/4"
+  },
+  "W": {
+   "value": 2395,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf (archived: https://web.archive.org/web/20210305001503/http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf)",
+   "quote": "W : Width mm 2395",
+   "page": "p.1/4"
+  },
+  "H": {
+   "value": 3460,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf (archived: https://web.archive.org/web/20210305001503/http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf)",
+   "quote": "H : Height mm 3460",
+   "page": "p.1/4"
+  },
+  "wt": {
+   "value": 15300,
+   "unit": "kg",
+   "basis": "dry, open set (wet 15990 kg)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf (archived: https://web.archive.org/web/20210305001503/http://mhiesa.com.sg/wp-content/uploads/2019/08/02_MGS2500BMG-KT83-0819.pdf)",
+   "quote": "Total Weight (Dry) kg 15300 / Total Weight (Wet) kg 15990",
+   "page": "p.1/4"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 42: MGS2500B"
+  }
+ },
+ "MITSUBIS-P3": {
+  "f100": {
+   "value": 452,
+   "unit": "L/hr",
+   "basis": "standby (STAND-BY 2235 kVA, code 5S-KT83) 50 Hz 380 V, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf (archived: https://web.archive.org/web/20210305011214/http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf)",
+   "quote": "Fuel consumption load 100%* L/hr. 452 415 (cols STAND-BY 2235 kVA | PRIME 2030 kVA; * WITH FAN basis)",
+   "page": "p.2/4"
+  },
+  "f75": {
+   "value": 350,
+   "unit": "L/hr",
+   "basis": "standby 50 Hz, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf (archived: https://web.archive.org/web/20210305011214/http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf)",
+   "quote": "Fuel consumption load 75%* L/hr. 350 322",
+   "page": "p.2/4"
+  },
+  "L": {
+   "value": 5675,
+   "unit": "mm",
+   "basis": "open skid (reference data)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf (archived: https://web.archive.org/web/20210305011214/http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf)",
+   "quote": "Overall dimensions L : Length mm 5675",
+   "page": "p.1/4"
+  },
+  "W": {
+   "value": 2250,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf (archived: https://web.archive.org/web/20210305011214/http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf)",
+   "quote": "W : Width mm 2250",
+   "page": "p.1/4"
+  },
+  "H": {
+   "value": 2880,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf (archived: https://web.archive.org/web/20210305011214/http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf)",
+   "quote": "H : Height mm 2880",
+   "page": "p.1/4"
+  },
+  "wt": {
+   "value": 14400,
+   "unit": "kg",
+   "basis": "dry, open set (wet 15110 kg)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf (archived: https://web.archive.org/web/20210305011214/http://mhiesa.com.sg/wp-content/uploads/2019/07/03_MGS2000BMG-KT83-S16R-PTAH-0819.pdf)",
+   "quote": "Total Weight (Dry) kg 14400 / Total Weight (Wet) kg 15110",
+   "page": "p.1/4"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 43: MGS2000B"
+  }
+ },
+ "MITSUBIS-P5": {
+  "f100": {
+   "value": 315,
+   "unit": "L/hr",
+   "basis": "standby (STAND-BY 1500 kVA, code 5S-7PD) 50 Hz 380 V, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf (archived: https://web.archive.org/web/20210305004537/http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf)",
+   "quote": "Fuel consumption load 100%* L/hr. 315 289 (cols STAND-BY 1500 kVA | PRIME 1362.5 kVA; * WITH FAN basis)",
+   "page": "p.2/4"
+  },
+  "f75": {
+   "value": 243,
+   "unit": "L/hr",
+   "basis": "standby 50 Hz, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf (archived: https://web.archive.org/web/20210305004537/http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf)",
+   "quote": "Fuel consumption load 75%* L/hr. 243 223",
+   "page": "p.2/4"
+  },
+  "L": {
+   "value": 4680,
+   "unit": "mm",
+   "basis": "open skid (reference data)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf (archived: https://web.archive.org/web/20210305004537/http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf)",
+   "quote": "Overall dimensions L : Length mm 4680",
+   "page": "p.1/4"
+  },
+  "W": {
+   "value": 2160,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf (archived: https://web.archive.org/web/20210305004537/http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf)",
+   "quote": "W : Width mm 2160",
+   "page": "p.1/4"
+  },
+  "H": {
+   "value": 2495,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf (archived: https://web.archive.org/web/20210305004537/http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf)",
+   "quote": "H : Height mm 2495",
+   "page": "p.1/4"
+  },
+  "wt": {
+   "value": 10400,
+   "unit": "kg",
+   "basis": "dry, open set (wet 10930 kg)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf (archived: https://web.archive.org/web/20210305004537/http://mhiesa.com.sg/wp-content/uploads/2019/07/07_MGS1200BMG-7PD-0819-1.pdf)",
+   "quote": "Total Weight (Dry) kg 10400 / Total Weight (Wet) kg 10930",
+   "page": "p.1/4"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 45: MGS1200B"
+  }
+ },
+ "MITSUBIS-P6": {
+  "f100": {
+   "value": 258,
+   "unit": "L/hr",
+   "basis": "standby (STAND-BY 1250 kVA, code 5S-7PC) 50 Hz 380 V, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf (archived: https://web.archive.org/web/20210305001025/http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf)",
+   "quote": "Fuel consumption load 100%* L/hr. 258 234 (cols STAND-BY 1250 kVA | PRIME 1125 kVA; * WITH FAN basis)",
+   "page": "p.2/4"
+  },
+  "f75": {
+   "value": 199,
+   "unit": "L/hr",
+   "basis": "standby 50 Hz, with-fan basis",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf (archived: https://web.archive.org/web/20210305001025/http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf)",
+   "quote": "Fuel consumption load 75%* L/hr. 199 182",
+   "page": "p.2/4"
+  },
+  "L": {
+   "value": 4330,
+   "unit": "mm",
+   "basis": "open skid (reference data)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf (archived: https://web.archive.org/web/20210305001025/http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf)",
+   "quote": "Overall dimensions L : Length mm 4330",
+   "page": "p.1/4"
+  },
+  "W": {
+   "value": 1965,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf (archived: https://web.archive.org/web/20210305001025/http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf)",
+   "quote": "W : Width mm 1965",
+   "page": "p.1/4"
+  },
+  "H": {
+   "value": 2360,
+   "unit": "mm",
+   "basis": "open skid",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf (archived: https://web.archive.org/web/20210305001025/http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf)",
+   "quote": "H : Height mm 2360",
+   "page": "p.1/4"
+  },
+  "wt": {
+   "value": 9100,
+   "unit": "kg",
+   "basis": "dry, open set (wet 9570 kg)",
+   "url": "http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf (archived: https://web.archive.org/web/20210305001025/http://mhiesa.com.sg/wp-content/uploads/2019/07/08_MGS1000BMG-7PC-0819-1.pdf)",
+   "quote": "Total Weight (Dry) kg 9100 / Total Weight (Wet) kg 9570",
+   "page": "p.1/4"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 46: MGS1000B"
+  }
+ },
+ "MITSUBIS-P11": {
+  "f100": {
+   "value": 562,
+   "unit": "L/hr",
+   "basis": "standby ESP (and CP) 2500 kVA, 50 Hz 380-415 V",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Fuel Consumption (liter/hr) (% load) 100% | 562 | 507 | 430 (cols ESP/CP 2500 kVA | PRP/DCCP 2250 | COP 1900)",
+   "page": "p.1"
+  },
+  "f75": {
+   "value": 424,
+   "unit": "L/hr",
+   "basis": "standby ESP 50 Hz",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "75% | 424 | 383 | 325",
+   "page": "p.1"
+  },
+  "f50": {
+   "value": 287,
+   "unit": "L/hr",
+   "basis": "standby ESP 50 Hz",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "50% | 287 | 259 | 221",
+   "page": "p.1"
+  },
+  "L": {
+   "value": 5495,
+   "unit": "mm",
+   "basis": "open skid, MGS2500R-L (MG-L52L9M alternator); NOT a container",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Length (mm) 5495",
+   "page": "p.1"
+  },
+  "W": {
+   "value": 2650,
+   "unit": "mm",
+   "basis": "open skid, -L variant",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Width (mm) 2650",
+   "page": "p.1"
+  },
+  "H": {
+   "value": 2945,
+   "unit": "mm",
+   "basis": "open skid, -L variant, ESP column (CP/DCCP/COP columns: 3485)",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Height (mm) 2945 | 3485 | 2945 | 3485 | 3485 (ESP|CP|PRP|DCCP|COP)",
+   "page": "p.1"
+  },
+  "wt": {
+   "value": 16100,
+   "unit": "kg",
+   "basis": "dry, open set, ESP column (wet 16900 kg)",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Weight (Dry) (kg) 16100 | 16420 | 16100 | 16420 | 16420; (Wet) 16900 | 17220 | ...",
+   "page": "p.1"
+  },
+  "continuous_kw": {
+   "value": 1520,
+   "unit": "kW",
+   "basis": "COP (continuous) 1900 kVA, 50 Hz",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Rated Output (kVA) 2500 | 2250 | 1900 ; (kW) 2000 | 1800 | 1520 (last column = Continuous (COP))",
+   "page": "p.1"
+  },
+  "standby_kw": {
+   "value": 2000,
+   "unit": "kW",
+   "basis": "ESP 2500 kVA, 50 Hz",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Rated Output (kVA) 2500 / (kW) 2000 under Standby (ESP)/Critical Power (CP)",
+   "page": "p.1"
+  },
+  "prime_kva": {
+   "value": 2250,
+   "unit": "kVA",
+   "basis": "PRP/DCCP 50 Hz",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "Rated Output (kVA) 2250 under Prime (PRP)/Data Center Continuous Power (DCCP)",
+   "page": "p.1"
+  },
+  "prime_kw": {
+   "value": 1800,
+   "unit": "kW",
+   "basis": "PRP/DCCP 50 Hz",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "(kW) 1800 under Prime (PRP)/DCCP",
+   "page": "p.1"
+  },
+  "rpm": {
+   "value": 1500,
+   "unit": "rpm",
+   "basis": "50 Hz",
+   "url": "https://www.mhi.com/group/mhiesa/sites/g/files/jwhtju2196/files/2024-05/SC.MGS2500R.L.50.2024.Ver%201.0.pdf",
+   "quote": "DIESEL ENGINE ... Speed (RPM) 1500",
+   "page": "p.2"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 48: MGS2500R"
+  }
+ },
+ "WEICHAIB-P1": {
+  "f100": {
+   "value": 577.2,
+   "unit": "L/hr",
+   "basis": "standby (100% ESP), engine datasheet 12M55G2750/5 (22/03/23)",
+   "url": "https://sunirco.com/wp-content/uploads/2023/09/DPK-TDS-EN-12M55-0004-23-03-22_12M55G2750-5_NonRad_Datasheet_4_Turbo.pdf",
+   "quote": "100% ESP | 197.9 | 577.2  (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  },
+  "L": {
+   "value": 6740,
+   "unit": "mm",
+   "basis": "open set (WPG2750B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/41/19/11941/advancedparams/2000kVtWPG2750.pdf",
+   "quote": "WPG2750B7 | 2500 | 6740 | 2680 | 2980 | 22000 | /  (Genset Model | Prime Rating kVA | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "W": {
+   "value": 2680,
+   "unit": "mm",
+   "basis": "open set (WPG2750B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/41/19/11941/advancedparams/2000kVtWPG2750.pdf",
+   "quote": "WPG2750B7 | 2500 | 6740 | 2680 | 2980 | 22000 | /  (Genset Model | Prime Rating kVA | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "H": {
+   "value": 2980,
+   "unit": "mm",
+   "basis": "open set (WPG2750B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/41/19/11941/advancedparams/2000kVtWPG2750.pdf",
+   "quote": "WPG2750B7 | 2500 | 6740 | 2680 | 2980 | 22000 | /  (Genset Model | Prime Rating kVA | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 49: WPG2750*7"
+  }
+ },
+ "WEICHAIB-P2": {
+  "f100": {
+   "value": 642.5,
+   "unit": "L/hr",
+   "basis": "standby (100% ESP), engine datasheet 12M55G3000/5 (22/03/23)",
+   "url": "https://sunirco.com/wp-content/uploads/2023/09/DPK-TDS-EN-12M55-0034-23-03-22_12M55G3000-5_NonRad_Datasheet_4_Turbo.pdf",
+   "quote": "100% ESP | 199.9 | 642.5  (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  },
+  "L": {
+   "value": 6880,
+   "unit": "mm",
+   "basis": "open set (WPG3000B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/42/19/11942/advancedparams/2200kVtWPG3000.pdf",
+   "quote": "WPG3000B7 | 2750 | 6880 | 2680 | 2980 | 22400 | /  (Genset Model | Prime Rating kVA | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "W": {
+   "value": 2680,
+   "unit": "mm",
+   "basis": "open set (WPG3000B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/42/19/11942/advancedparams/2200kVtWPG3000.pdf",
+   "quote": "WPG3000B7 | 2750 | 6880 | 2680 | 2980 | 22400 | /  (Genset Model | Prime Rating kVA | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "H": {
+   "value": 2980,
+   "unit": "mm",
+   "basis": "open set (WPG3000B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/42/19/11942/advancedparams/2200kVtWPG3000.pdf",
+   "quote": "WPG3000B7 | 2750 | 6880 | 2680 | 2980 | 22400 | /  (Genset Model | Prime Rating kVA | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 50: WPG3000*7"
+  }
+ },
+ "WEICHAIB-P3": {
+  "f100": {
+   "value": 653.1,
+   "unit": "L/hr",
+   "basis": "standby (100% ESP), engine datasheet 12M55G2500/6 (22/03/23)",
+   "url": "https://sunirco.com/wp-content/uploads/2023/09/DPK-TDS-EN-12M55-0006-23-03-22_12M55G2500-6_NonRad_Datasheet_4_Turbo.pdf",
+   "quote": "100% ESP | 203.2 | 653.1  (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 51: WPG2500B76"
+  }
+ },
+ "WEICHAIB-P4": {
+  "f100": {
+   "value": 538.5,
+   "unit": "L/hr",
+   "basis": "standby (100% ESP), engine datasheet 20M33G2500/5 (14/09/21)",
+   "url": "https://unimexuk.com/wp-content/uploads/2022/05/DPK-TDS-EN-20M33-0001-21-09-14_20M33G2500-5_StdRad_Datasheet.pdf",
+   "quote": "100% ESP | 204.6 | 538,5  (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 52: WPG2500*7"
+  }
+ },
+ "WEICHAIB-P5": {
+  "f100": {
+   "value": 446.8,
+   "unit": "L/hr",
+   "basis": "standby (100% ESP), engine datasheet 16M33G2000/5 (22/03/23)",
+   "url": "https://sunirco.com/wp-content/uploads/2023/09/DPK-TDS-EN-16M33-0013-23-03-22_16M33G2000-5_StdRad_Datasheet.pdf",
+   "quote": "100% ESP | 208.5 | 446.8  (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  },
+  "L": {
+   "value": 5800,
+   "unit": "mm",
+   "basis": "open set (WPG2000B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/39/19/11939/advancedparams/1500kVtWPG2000.pdf",
+   "quote": "WPG2000B7 | 1500 | 5800 | 2250 | 2800 | 14000 | /  (Genset Model | Rated power kW | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "W": {
+   "value": 2250,
+   "unit": "mm",
+   "basis": "open set (WPG2000B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/39/19/11939/advancedparams/1500kVtWPG2000.pdf",
+   "quote": "WPG2000B7 | 1500 | 5800 | 2250 | 2800 | 14000 | /  (Genset Model | Rated power kW | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "H": {
+   "value": 2800,
+   "unit": "mm",
+   "basis": "open set (WPG2000B7), Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/39/19/11939/advancedparams/1500kVtWPG2000.pdf",
+   "quote": "WPG2000B7 | 1500 | 5800 | 2250 | 2800 | 14000 | /  (Genset Model | Rated power kW | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 53: WPG2000*7"
+  }
+ },
+ "PERKINSF-P10": {
+  "standby_kw": {
+   "value": 1500,
+   "unit": "kWe",
+   "basis": "Standby/ESP typical generator output (net electrical). Engine: 1638 kWm gross, 1579 kWm net",
+   "url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20240404-5ab5f-377ee",
+   "quote": "Standby/ESP 1638 (2197) 1579 (2117) 1875 1500",
+   "page": "p.2"
+  },
+  "prime_kva": {
+   "value": 1710,
+   "unit": "kVA",
+   "basis": "Prime/DCP/LTP typical generator output (net), 50 Hz",
+   "url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20240404-5ab5f-377ee",
+   "quote": "Prime/DCP/LTP 1499 (2010) 1440 (1931) 1710 1368",
+   "page": "p.2"
+  },
+  "prime_kw": {
+   "value": 1368,
+   "unit": "kWe",
+   "basis": "Prime/DCP/LTP typical generator output (net). Engine: 1499 kWm gross, 1440 kWm net",
+   "url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20240404-5ab5f-377ee",
+   "quote": "Prime/DCP/LTP 1499 (2010) 1440 (1931) 1710 1368",
+   "page": "p.2"
+  },
+  "continuous_kw": {
+   "value": 1094,
+   "unit": "kWe",
+   "basis": "COP typical generator output (1368 kVA). Engine: 1211 kWm gross, 1152 kWm net",
+   "url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20240404-5ab5f-377ee",
+   "quote": "COP 1211 (1624) 1152 (1545) 1368 1094",
+   "page": "p.2"
+  },
+  "_matchup": {
+   "value": null,
+   "note": "matchup 65: Perkins 5012A-E46TAG4 (Perkins 5012, top 50 Hz rating)"
+  }
+ },
+ "CATERPIL-P9": {
+  "L": {
+   "value": 7538,
+   "unit": "mm",
+   "basis": "open set, Dim A (length)",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE1299-08.pdf",
+   "quote": "Dim \"A\" 7538 (296.8) | Dim \"B\" 2216 (87.2) | Dim \"C\" 3391 (133.5) | Dry Weight kg (lb) 19 750 (43,541)",
+   "page": "p.4"
+  },
+  "W": {
+   "value": 2216,
+   "unit": "mm",
+   "basis": "open set, Dim B (width)",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE1299-08.pdf",
+   "quote": "Dim \"A\" 7538 (296.8) | Dim \"B\" 2216 (87.2) | Dim \"C\" 3391 (133.5) | Dry Weight kg (lb) 19 750 (43,541)",
+   "page": "p.4"
+  },
+  "H": {
+   "value": 3391,
+   "unit": "mm",
+   "basis": "open set, Dim C (height)",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE1299-08.pdf",
+   "quote": "Dim \"A\" 7538 (296.8) | Dim \"B\" 2216 (87.2) | Dim \"C\" 3391 (133.5) | Dry Weight kg (lb) 19 750 (43,541)",
+   "page": "p.4"
+  },
+  "wt": {
+   "value": 19750,
+   "unit": "kg",
+   "basis": "dry, open set",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE1299-08.pdf",
+   "quote": "Dim \"A\" 7538 (296.8) | Dim \"B\" 2216 (87.2) | Dim \"C\" 3391 (133.5) | Dry Weight kg (lb) 19 750 (43,541)",
+   "page": "p.4"
+  }
+ },
+ "CATERPIL-P17": {
+  "L": {
+   "value": 5080,
+   "unit": "mm",
+   "basis": "open set, Dim A",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE23262-02.pdf",
+   "quote": "1500 (1875) | 5080 (200) | 2286 (90) | 2447 (96.3) / 2602 (103)* | 9712 (21411)   [* Generator set package height with isolators]",
+   "page": "p.4"
+  },
+  "W": {
+   "value": 2286,
+   "unit": "mm",
+   "basis": "open set, Dim B",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE23262-02.pdf",
+   "quote": "1500 (1875) | 5080 (200) | 2286 (90) | 2447 (96.3) / 2602 (103)* | 9712 (21411)   [* Generator set package height with isolators]",
+   "page": "p.4"
+  },
+  "H": {
+   "value": 2447,
+   "unit": "mm",
+   "basis": "open set, Dim C without isolators (2602 mm with isolators)",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE23262-02.pdf",
+   "quote": "1500 (1875) | 5080 (200) | 2286 (90) | 2447 (96.3) / 2602 (103)* | 9712 (21411)   [* Generator set package height with isolators]",
+   "page": "p.4"
+  },
+  "wt": {
+   "value": 9712,
+   "unit": "kg",
+   "basis": "dry, open set",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE23262-02.pdf",
+   "quote": "1500 (1875) | 5080 (200) | 2286 (90) | 2447 (96.3) / 2602 (103)* | 9712 (21411)   [* Generator set package height with isolators]",
+   "page": "p.4"
+  },
+  "f100": {
+   "value": 385.9,
+   "unit": "L/hr",
+   "basis": "standby, 100% load with fan",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE23262-02.pdf",
+   "quote": "100% load with fan – L/hr (gal/hr) 385.9 (101.9)",
+   "page": "p.3"
+  },
+  "f75": {
+   "value": 309.8,
+   "unit": "L/hr",
+   "basis": "standby, 75% load with fan",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE23262-02.pdf",
+   "quote": "75% load with fan – L/hr (gal/hr) 309.8 (81.8)",
+   "page": "p.3"
+  },
+  "f50": {
+   "value": 222.2,
+   "unit": "L/hr",
+   "basis": "standby, 50% load with fan",
+   "url": "https://emc.cat.com/pubdirect.ashx?media_string_id=LEHE23262-02.pdf",
+   "quote": "50% load with fan – L/hr (gal/hr) 222.2 (58.7)",
+   "page": "p.3"
+  }
+ },
+ "REHLKO-P4": {
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Wet weight": "22,550 kg (wet, max., radiator model, open set (maximum across alternator choices))"
+   },
+   "url": "https://techcomm.rehlko.com/techcomm/pdf/g5661.pdf"
+  }
+ },
+ "REHLKO-P5": {
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Wet weight": "24,050 kg (wet, max., radiator model, open set (maximum across alternator choices))"
+   },
+   "url": "https://techcomm.rehlko.com/techcomm/pdf/g5663.pdf"
+  }
+ },
+ "REHLKO-P7": {
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Wet weight": "30,932 kg (wet, max., radiator model, open set (maximum across alternator choices))"
+   },
+   "url": "https://techcomm.rehlko.com/techcomm/pdf/g5666.pdf"
+  }
+ },
+ "REHLKO-P8": {
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Wet weight": "35,199 kg (wet, max., radiator model, open set (maximum across alternator choices))"
+   },
+   "url": "https://techcomm.rehlko.com/techcomm/pdf/g5667.pdf"
+  }
+ },
+ "REHLKO-P9": {
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Wet weight": "35,199 kg (wet, max., radiator model, open set (maximum across alternator choices))"
+   },
+   "url": "https://techcomm.rehlko.com/techcomm/pdf/g5668.pdf"
+  }
+ },
+ "MITSUBIS-P10": {
+  "f100": {
+   "value": 636,
+   "unit": "L/hr",
+   "basis": "standby (ESP) 50 Hz 380 V, 3025 kVA / 2420 kW, alternator MG-P80W12",
+   "url": "https://gensetpower.vn/wp-content/uploads/3100RLV4A20CD_02.pdf",
+   "quote": "Fuel Consumption3 (liter/hr) (% load) 100% | 636 | 581",
+   "page": "p.2 (1. Generator Set Overview Specification)"
+  },
+  "f75": {
+   "value": 526,
+   "unit": "L/hr",
+   "basis": "standby (ESP) 50 Hz",
+   "url": "https://gensetpower.vn/wp-content/uploads/3100RLV4A20CD_02.pdf",
+   "quote": "75% | 526 | 483",
+   "page": "p.2"
+  },
+  "f50": {
+   "value": 374,
+   "unit": "L/hr",
+   "basis": "standby (ESP) 50 Hz",
+   "url": "https://gensetpower.vn/wp-content/uploads/3100RLV4A20CD_02.pdf",
+   "quote": "50% | 374 | 347",
+   "page": "p.2"
+  },
+  "standby_kw": {
+   "value": 2420,
+   "unit": "kWe",
+   "basis": "standby (ESP) 50 Hz",
+   "url": "https://gensetpower.vn/wp-content/uploads/3100RLV4A20CD_02.pdf",
+   "quote": "Rated Output2 (KVA) 3025 | 2750 ; (kW) 2420 | 2200 (cols Standby ESP & CP | Prime PRP & DCCP)",
+   "page": "p.2"
+  }
+ },
+ "MITSUBIS-P7": {
+  "f75": {
+   "value": 402,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz 480 V, code 6S-7PF (2515 kVA / 2012 kW), 75% load, with fan",
+   "url": "https://www.srpamericas.com/s/MGS-2500B_A_E010_G09_400_73_00.pdf",
+   "quote": "Fuel Consumption 3,5 (liter/hr) ... 6S-7PF 402 | 6P-7PF 368 (Note 3 Fuel Consumption at 75% Load)",
+   "page": "p.1"
+  },
+  "prime_kva": {
+   "value": 2275,
+   "unit": "kVA",
+   "basis": "prime 60 Hz 480 V, code 6P-7PF",
+   "url": "https://www.srpamericas.com/s/MGS-2500B_A_E010_G09_400_73_00.pdf",
+   "quote": "Rated Output (kVA) ... 6S-7PF 2515 | 6P-7PF 2275 ; (kW) 2012 | 1820",
+   "page": "p.1"
+  },
+  "L": {
+   "value": 5775,
+   "unit": "mm",
+   "basis": "open set, MG-7PF",
+   "url": "https://www.srpamericas.com/s/MGS-2500B_A_E010_G09_400_73_00.pdf",
+   "quote": "D/G Set Dimension & Weight: Length (mm) 6040 | 5775 | 5775 (cols MG-KT83 | MG-73PF | MG-7PF)",
+   "page": "p.1"
+  },
+  "W": {
+   "value": 2395,
+   "unit": "mm",
+   "basis": "open set, MG-7PF",
+   "url": "https://www.srpamericas.com/s/MGS-2500B_A_E010_G09_400_73_00.pdf",
+   "quote": "Width (mm) 2395 | 2395 | 2395",
+   "page": "p.1"
+  },
+  "H": {
+   "value": 3460,
+   "unit": "mm",
+   "basis": "open set, MG-7PF",
+   "url": "https://www.srpamericas.com/s/MGS-2500B_A_E010_G09_400_73_00.pdf",
+   "quote": "Height (mm) 3460 | 3460 | 3460",
+   "page": "p.1"
+  }
+ },
+ "MITSUBIS-P8": {
+  "f75": {
+   "value": 396,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz 480 V, code 6S-7PE (2375 kVA / 1900 kW), 75% load, with fan",
+   "url": "https://www.srpamericas.com/s/MGS-2000B_A_E020_G10_400_73_00.pdf",
+   "quote": "Fuel Consumption 3,5 (liter/hr) ... 6S-73PF 397 | 6P-73PF 362 | 6S-7PE 396 | 6P-7PE 363 (Note 3 Fuel Consumption at 75% Load)",
+   "page": "p.1"
+  },
+  "prime_kva": {
+   "value": 2162.5,
+   "unit": "kVA",
+   "basis": "prime 60 Hz (both 380 V 6P-73PF and 480 V 6P-7PE)",
+   "url": "https://www.srpamericas.com/s/MGS-2000B_A_E020_G10_400_73_00.pdf",
+   "quote": "Rated Output (kVA) ... 2375 | 2162.5 | 2375 | 2162.5 ; (kW) 1900 | 1730 | 1900 | 1730",
+   "page": "p.1"
+  },
+  "L": {
+   "value": 5450,
+   "unit": "mm",
+   "basis": "open set, MG-73PF and MG-7PE",
+   "url": "https://www.srpamericas.com/s/MGS-2000B_A_E020_G10_400_73_00.pdf",
+   "quote": "Length (mm) 5675 | 5450 | 5450 (cols MG-KT83 | MG-73PF | MG-7PE)",
+   "page": "p.1"
+  },
+  "W": {
+   "value": 2200,
+   "unit": "mm",
+   "basis": "open set",
+   "url": "https://www.srpamericas.com/s/MGS-2000B_A_E020_G10_400_73_00.pdf",
+   "quote": "Width (mm) 2200 | 2200 | 2200",
+   "page": "p.1"
+  },
+  "H": {
+   "value": 2835,
+   "unit": "mm",
+   "basis": "open set",
+   "url": "https://www.srpamericas.com/s/MGS-2000B_A_E020_G10_400_73_00.pdf",
+   "quote": "Height (mm) 2835 | 2835 | 2835",
+   "page": "p.1"
+  }
+ },
+ "MITSUBIS-P9": {
+  "f75": {
+   "value": 331,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz 380 V, code 6S-73PF (2125 kVA / 1700 kW), 75% load, with fan",
+   "url": "https://www.srpamericas.com/s/MGS-1500B_A_E030_G11_400_73_00.pdf",
+   "quote": "Fuel Consumption 3,5 (liter/hr) ... 6S-73PF 331 | 6P-73PF 306 | 6S-7PD 328 | 6P-7PD 305 (Note 3 Fuel Consumption at 75% Load)",
+   "page": "p.1"
+  },
+  "prime_kva": {
+   "value": 1937.5,
+   "unit": "kVA",
+   "basis": "prime 60 Hz 380 V, code 6P-73PF",
+   "url": "https://www.srpamericas.com/s/MGS-1500B_A_E030_G11_400_73_00.pdf",
+   "quote": "Rated Output (kVA) ... 6S-73PF 2125 | 6P-73PF 1937.5 ; (kW) 1700 | 1550",
+   "page": "p.1"
+  },
+  "L": {
+   "value": 5435,
+   "unit": "mm",
+   "basis": "open set, MG-73PF",
+   "url": "https://www.srpamericas.com/s/MGS-1500B_A_E030_G11_400_73_00.pdf",
+   "quote": "Length (mm) 5435 | 5435 | 5435 | 5435",
+   "page": "p.1"
+  },
+  "W": {
+   "value": 2160,
+   "unit": "mm",
+   "basis": "open set",
+   "url": "https://www.srpamericas.com/s/MGS-1500B_A_E030_G11_400_73_00.pdf",
+   "quote": "Width (mm) 2160 | 2160 | 2160 | 2160",
+   "page": "p.1"
+  },
+  "H": {
+   "value": 2585,
+   "unit": "mm",
+   "basis": "open set (2495 with breather pipe dismantled for transport)",
+   "url": "https://www.srpamericas.com/s/MGS-1500B_A_E030_G11_400_73_00.pdf",
+   "quote": "Height (mm) 2585(2495) ... ( ) Height after dismantle breather pipe for transportation purpose",
+   "page": "p.1"
+  }
+ },
+ "MITSUBIS-P12": {
+  "L": {
+   "value": 9350,
+   "unit": "mm",
+   "basis": "model-level 'Standard Dimensions' for M16U-G (all variants; not specific to PTK/50 Hz)",
+   "url": "https://web.archive.org/web/20190510045800/https://www.mtee.eu/wp-content/uploads/2013/07/MUGH-2012.pdf",
+   "quote": "Standard Dimensions L x W* x H (mm) ... M16U-G 9350 x 2300 x 3055",
+   "page": "p.7 (PDF p.5, Generator Set Specifications)"
+  },
+  "W": {
+   "value": 2300,
+   "unit": "mm",
+   "basis": "model-level; *air filter not included in W",
+   "url": "https://web.archive.org/web/20190510045800/https://www.mtee.eu/wp-content/uploads/2013/07/MUGH-2012.pdf",
+   "quote": "9350 x 2300 x 3055 ; '* Air filter not included in W (width).'",
+   "page": "p.7"
+  },
+  "H": {
+   "value": 3055,
+   "unit": "mm",
+   "basis": "model-level",
+   "url": "https://web.archive.org/web/20190510045800/https://www.mtee.eu/wp-content/uploads/2013/07/MUGH-2012.pdf",
+   "quote": "9350 x 2300 x 3055",
+   "page": "p.7"
+  },
+  "wt": {
+   "value": 48000,
+   "unit": "kg",
+   "basis": "dry, model-level (brochure states 48 t)",
+   "url": "https://web.archive.org/web/20190510045800/https://www.mtee.eu/wp-content/uploads/2013/07/MUGH-2012.pdf",
+   "quote": "Dry Weight (t) ... M16U-G 48",
+   "page": "p.7"
+  }
+ },
+ "WEICHAIB-P6": {
+  "f100": {
+   "value": 354.2,
+   "unit": "L/hr",
+   "basis": "engine sheet, standby (100% ESP = 1450 kWm gross)",
+   "url": "https://sunirco.com/wp-content/uploads/2023/09/DPK-TDS-EN-12M33-0042-22-08-23_12M33G1650-5_StdRad2021_Datasheet.pdf",
+   "quote": "100% ESP 204,9 354,2 (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  }
+ },
+ "WEICHAIB-P7": {
+  "f100": {
+   "value": 484.6,
+   "unit": "L/hr",
+   "basis": "engine sheet, standby (100% ESP = 1980 kWm gross)",
+   "url": "https://unimexuk.com/wp-content/uploads/2022/05/DPK-TDS-EN-16M33-0032-21-06-01_16M33G2250-5_StdRad_Datasheet.pdf",
+   "quote": "100% ESP 205.6 484.6 (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  }
+ },
+ "WEICHAIB-P8": {
+  "f100": {
+   "value": 843.4,
+   "unit": "L/hr",
+   "basis": "engine sheet 16M55G4000/5, standby (100% ESP = 3600 kWm gross)",
+   "url": "https://sunirco.com/wp-content/uploads/2023/09/DPK-TDS-EN-16M55-0018-22-08-23_16M55G4000-5_NonRad_Datasheet.pdf",
+   "quote": "100% ESP 196.8 843,4 (Rating | gr/kWh | L/hr)",
+   "page": "p.4"
+  },
+  "L": {
+   "value": 7610,
+   "unit": "mm",
+   "basis": "open set WPG4125B7, Weichai genset datasheet",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/45/19/11945/advancedparams/3000kVtWPG4125.pdf",
+   "quote": "WPG4125B7 3750 7610 3000 3760 28800 / (Genset Model | Prime Rating kVA | Length A | Width B | Height C | Wet Weight* kg | Std fuel tank)",
+   "page": "p.5"
+  },
+  "W": {
+   "value": 3000,
+   "unit": "mm",
+   "basis": "open set WPG4125B7",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/45/19/11945/advancedparams/3000kVtWPG4125.pdf",
+   "quote": "WPG4125B7 3750 7610 3000 3760 28800 /",
+   "page": "p.5"
+  },
+  "H": {
+   "value": 3760,
+   "unit": "mm",
+   "basis": "open set WPG4125B7",
+   "url": "https://weichai-rus.ru/wa-data/public/shop/products/45/19/11945/advancedparams/3000kVtWPG4125.pdf",
+   "quote": "WPG4125B7 3750 7610 3000 3760 28800 /",
+   "page": "p.5"
+  },
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Wet weight": "28,800 kg (wet (incl. coolant and oil), open set WPG4125B7)"
+   },
+   "url": "https://sunirco.com/wp-content/uploads/2023/09/DPK-TDS-EN-16M55-0018-22-08-23_16M55G4000-5_NonRad_Datasheet.pdf"
+  }
+ },
+ "PERKINSF-P5": {
+  "f100": {
+   "value": 529,
+   "unit": "L/hr",
+   "basis": "engine sheet, standby (2183 kWm gross)",
+   "url": "http://bahmanigt.com/wp-content/uploads/2018/09/4016-61TRG3-1500-rpm-ElectropaK-PN3060.pdf",
+   "quote": "Standby power 209 529 (Fuel consumption at 1500 rpm g/kWh | l/hr)",
+   "page": "p.5"
+  }
+ },
+ "PERKINSF-P6": {
+  "f100": {
+   "value": 341,
+   "unit": "L/hr",
+   "basis": "engine sheet, standby (maximum)",
+   "url": "http://bahmanigt.com/wp-content/uploads/2018/09/4012-46TAG2A-1500-rpm-ElectropaK-PN1826A.pdf",
+   "quote": "Standby (maximum) 201 341 (Fuel consumption at 1500 rpm g/kWh | l/hr)",
+   "page": "p.5"
+  }
+ },
+ "PERKINSF-P7": {
+  "f100": {
+   "value": 405,
+   "unit": "L/hr",
+   "basis": "engine sheet, standby (maximum)",
+   "url": "http://bahmanigt.com/wp-content/uploads/2018/09/4012-46TAG3A-1500-rpm-ElectropaK-PN1827A.pdf",
+   "quote": "Standby (maximum) 211 405 (Fuel consumption at 1500 rpm g/kWh | l/hr)",
+   "page": "p.5"
+  }
+ },
+ "PERKINSF-P8": {
+  "f100": {
+   "value": 143,
+   "unit": "L/hr",
+   "basis": "engine sheet, standby",
+   "url": "https://twssa.co.za/wp-content/uploads/2023/03/Perkins-650-kVA-Electropak-Generator-2806A-E18TAG2.pdf",
+   "quote": "Standby power 203 143 (Fuel consumption at 1500 rpm g/kWh | l/hr)",
+   "page": "p.5"
+  }
+ },
+ "PERKINSF-P9": {
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Engine-only dimensions": "3675 x 2076 x 1260 mm",
+    "Engine-only weight": "6,127 kg (engine dry (wet 6416 kg))"
+   },
+   "url": "https://emc.perkins.com/n/api/pubdirect?media_string_id=100523EN-"
+  }
+ },
+ "CLIENT-P24": {
+  "f100": {
+   "value": 655.3,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz, 2500 kW (3125 kVA)",
+   "url": "https://www.globalpwr.com/wp-content/uploads/cut-sheets/gps-cummins-2500-kw-dqkan-data-sheet.pdf",
+   "quote": "Fuel Consumption kW (kVA) Ratings 2500 (3125)† | Load 1/4 1/2 3/4 Full | US gph 50.6 91.1 133.6 173.1 | L/hr 191.5 344.9 505.7 655.3",
+   "page": "p.1"
+  },
+  "f75": {
+   "value": 505.7,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz, 2500 kW (3125 kVA)",
+   "url": "https://www.globalpwr.com/wp-content/uploads/cut-sheets/gps-cummins-2500-kw-dqkan-data-sheet.pdf",
+   "quote": "L/hr 191.5 344.9 505.7 655.3",
+   "page": "p.1"
+  },
+  "f50": {
+   "value": 344.9,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz, 2500 kW (3125 kVA)",
+   "url": "https://www.globalpwr.com/wp-content/uploads/cut-sheets/gps-cummins-2500-kw-dqkan-data-sheet.pdf",
+   "quote": "L/hr 191.5 344.9 505.7 655.3",
+   "page": "p.1"
+  }
+ },
+ "CLIENT-P17": {
+  "L": {
+   "value": 7902,
+   "unit": "mm",
+   "basis": "open set, standard features, alternator frame P80X (Dim A)",
+   "url": "https://www.shanahanpower.com/wp-content/uploads/2021/10/Cummins-C3500D5-Spec-Sheet.pdf",
+   "quote": "Model | Dim \"A\"* mm (in.) | Dim \"B\"* mm (in.) | Dim \"C\"* mm (in.) | Set weight* dry kg (lbs) | Set weight* wet kg (lbs) — C3500 D5 | 7902 (311) | 3028 (119) | 3663 (144) | 29526 (65092) | 31194 (68771)",
+   "page": "p.4"
+  },
+  "W": {
+   "value": 3028,
+   "unit": "mm",
+   "basis": "open set (Dim B)",
+   "url": "https://www.shanahanpower.com/wp-content/uploads/2021/10/Cummins-C3500D5-Spec-Sheet.pdf",
+   "quote": "C3500 D5 | 7902 (311) | 3028 (119) | 3663 (144)",
+   "page": "p.4"
+  },
+  "H": {
+   "value": 3663,
+   "unit": "mm",
+   "basis": "open set (Dim C)",
+   "url": "https://www.shanahanpower.com/wp-content/uploads/2021/10/Cummins-C3500D5-Spec-Sheet.pdf",
+   "quote": "C3500 D5 | 7902 (311) | 3028 (119) | 3663 (144)",
+   "page": "p.4"
+  }
+ },
+ "CLIENT-P23": {
+  "f100": {
+   "value": 532.5,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz, 2000 kW (2500 kVA)",
+   "url": "https://www.globalpwr.com/wp-content/uploads/cut-sheets/gps-cummins-2000-kw-dqkae-data-sheet.pdf",
+   "quote": "Standby kW (kVA) 2000 (2500)† | Load 1/4 1/2 3/4 Full | US gph 46 78.2 106.2 140.7 | L/hr 174 296 402 532.5",
+   "page": "p.1"
+  },
+  "f75": {
+   "value": 402,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz, 2000 kW (2500 kVA)",
+   "url": "https://www.globalpwr.com/wp-content/uploads/cut-sheets/gps-cummins-2000-kw-dqkae-data-sheet.pdf",
+   "quote": "L/hr 174 296 402 532.5",
+   "page": "p.1"
+  },
+  "f50": {
+   "value": 296,
+   "unit": "L/hr",
+   "basis": "standby 60 Hz, 2000 kW (2500 kVA)",
+   "url": "https://www.globalpwr.com/wp-content/uploads/cut-sheets/gps-cummins-2000-kw-dqkae-data-sheet.pdf",
+   "quote": "L/hr 174 296 402 532.5",
+   "page": "p.1"
+  },
+  "wt": {
+   "value": 17377,
+   "unit": "kg",
+   "basis": "unit dry weight, set with standard features (data sheet D-3510 12/22)",
+   "url": "https://www.globalpwr.com/wp-content/uploads/cut-sheets/gps-cummins-2000-kw-dqkae-data-sheet.pdf",
+   "quote": "Weights2 Unit dry weight kgs (lbs) 17377 (38309) | Unit wet weight kgs (lbs) 17904 (39470)",
+   "page": "p.4"
+  },
+  "L": {
+   "value": 6759,
+   "unit": "mm",
+   "basis": "open set with set-mounted radiator (Dim A)",
+   "url": "https://csdieselgenerators.com/Images/Generators/4421/Cummins-DQKAE-spec-sheet.pdf",
+   "quote": "DQKAE | 6759 (266.1) | 2479 (97.6) | 3096 (121.9) | 16466 (36301) | 17166 (37844)",
+   "page": "p.4"
+  },
+  "W": {
+   "value": 2479,
+   "unit": "mm",
+   "basis": "open set (Dim B)",
+   "url": "https://csdieselgenerators.com/Images/Generators/4421/Cummins-DQKAE-spec-sheet.pdf",
+   "quote": "DQKAE | 6759 (266.1) | 2479 (97.6) | 3096 (121.9)",
+   "page": "p.4"
+  },
+  "H": {
+   "value": 3096,
+   "unit": "mm",
+   "basis": "open set (Dim C)",
+   "url": "https://csdieselgenerators.com/Images/Generators/4421/Cummins-DQKAE-spec-sheet.pdf",
+   "quote": "DQKAE | 6759 (266.1) | 2479 (97.6) | 3096 (121.9)",
+   "page": "p.4"
+  }
+ },
+ "CLIENT-P25": {
+  "L": {
+   "value": 7138,
+   "unit": "mm",
+   "basis": "open set, standard features (S-1529 Dimensions and weights table; Dim A=L, B=W, C=H)",
+   "url": "https://www.cumminsperu.pe/uploads/shares/DATA_SHEETS/DATA_SHEETS_GENERADORES_CERTIFICADOS/DQLC.pdf",
+   "quote": "DQLC 7138 (281) 2750 (108.3) 3387 (133.3) 23313 (51289) 24090 (53109)",
+   "page": "p.4"
+  },
+  "W": {
+   "value": 2750,
+   "unit": "mm",
+   "basis": "open set, standard features (S-1529 Dimensions and weights table; Dim A=L, B=W, C=H)",
+   "url": "https://www.cumminsperu.pe/uploads/shares/DATA_SHEETS/DATA_SHEETS_GENERADORES_CERTIFICADOS/DQLC.pdf",
+   "quote": "DQLC 7138 (281) 2750 (108.3) 3387 (133.3) 23313 (51289) 24090 (53109)",
+   "page": "p.4"
+  },
+  "H": {
+   "value": 3387,
+   "unit": "mm",
+   "basis": "open set, standard features (S-1529 Dimensions and weights table; Dim A=L, B=W, C=H)",
+   "url": "https://www.cumminsperu.pe/uploads/shares/DATA_SHEETS/DATA_SHEETS_GENERADORES_CERTIFICADOS/DQLC.pdf",
+   "quote": "DQLC 7138 (281) 2750 (108.3) 3387 (133.3) 23313 (51289) 24090 (53109)",
+   "page": "p.4"
+  },
+  "wt": {
+   "value": 23313,
+   "unit": "kg",
+   "basis": "dry, open set standard features",
+   "url": "https://www.cumminsperu.pe/uploads/shares/DATA_SHEETS/DATA_SHEETS_GENERADORES_CERTIFICADOS/DQLC.pdf",
+   "quote": "DQLC 7138 (281) 2750 (108.3) 3387 (133.3) 23313 (51289) 24090 (53109)",
+   "page": "p.4"
+  },
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Wet weight": "24,090 kg (wet, open set standard features)"
+   },
+   "url": "https://www.cumminsperu.pe/uploads/shares/DATA_SHEETS/DATA_SHEETS_GENERADORES_CERTIFICADOS/DQLC.pdf"
+  }
+ },
+ "CLIENT-P32": {
+  "standby_kw": {
+   "value": 2800,
+   "unit": "kWe",
+   "basis": "standby 50 Hz, model C3500D5EB",
+   "url": "https://www.cummins.com/generators/c2750d6e-c3000d6eb-centum-series",
+   "quote": "| C3500D5EB | [Spec sheet](...) | 50 | 2800 / 3500 | 2540 / 3175 | Diesel |",
+   "page": "product page spec table"
+  }
+ },
+ "CLIENT-P33": {
+  "continuous_kw": {
+   "value": 2000,
+   "unit": "kWe",
+   "basis": "continuous (COP) 50 Hz",
+   "url": "https://www.cummins.com/sites/default/files/2019-10/D-6399i.pdf",
+   "quote": "Generator Set Data Sheet 2000kW Continuous Model: C2000 N5CD Frequency: 50 Hz",
+   "page": "p.1"
+  },
+  "L": {
+   "value": 6900,
+   "unit": "mm",
+   "basis": "open set, standard features, no FSOV, HV P80T alternator",
+   "url": "https://cummins.screativa.com/uploads/shares/DATA_SHEETS/DATA_SHEET_GAS_NATURAL/C2000N6CD.pdf",
+   "quote": "C2000 N5CD 6900 (272) 2200 (87) 2800 (110) 23100 (51000)",
+   "page": "p.3"
+  },
+  "W": {
+   "value": 2200,
+   "unit": "mm",
+   "basis": "open set",
+   "url": "https://cummins.screativa.com/uploads/shares/DATA_SHEETS/DATA_SHEET_GAS_NATURAL/C2000N6CD.pdf",
+   "quote": "C2000 N5CD 6900 (272) 2200 (87) 2800 (110) 23100 (51000)",
+   "page": "p.3"
+  },
+  "H": {
+   "value": 2800,
+   "unit": "mm",
+   "basis": "open set",
+   "url": "https://cummins.screativa.com/uploads/shares/DATA_SHEETS/DATA_SHEET_GAS_NATURAL/C2000N6CD.pdf",
+   "quote": "C2000 N5CD 6900 (272) 2200 (87) 2800 (110) 23100 (51000)",
+   "page": "p.3"
+  },
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Gas input at 100 / 75 / 50 % load": "4530 / 3492 / 2458 kW (LHV fuel input)",
+    "Electrical efficiency at 100 %": "44.2 %",
+    "Wet weight": "23,166 kg (wet, open set standard features)"
+   },
+   "url": "https://www.cummins.com/sites/default/files/2019-10/D-6399i.pdf"
+  }
+ },
+ "CLIENT-P34": {
+  "continuous_kw": {
+   "value": 2000,
+   "unit": "kWe",
+   "basis": "continuous (COP) 60 Hz",
+   "url": "https://www.cummins.com/sites/default/files/2019-08/c2000n6cd-datasheet-6409-mk.pdf",
+   "quote": "Generator Set Data Sheet 2000kW Continuous Model: C2000 N6CD Frequency: 60 Hz",
+   "page": "p.1"
+  },
+  "W": {
+   "value": 2200,
+   "unit": "mm",
+   "basis": "open set; agrees in data sheet D-6409e (2.2 m) and spec sheet NAS-6109-EN 02/20",
+   "url": "https://cummins.screativa.com/uploads/shares/DATA_SHEETS/DATA_SHEET_GAS_NATURAL/C2000N6CD.pdf",
+   "quote": "C2000 N6CD 8700 (327) 2200 (87) 2800 (110) 28000 (61700)",
+   "page": "p.3"
+  },
+  "H": {
+   "value": 2800,
+   "unit": "mm",
+   "basis": "open set; agrees in data sheet D-6409e (2.8 m) and spec sheet NAS-6109-EN 02/20",
+   "url": "https://cummins.screativa.com/uploads/shares/DATA_SHEETS/DATA_SHEET_GAS_NATURAL/C2000N6CD.pdf",
+   "quote": "C2000 N6CD 8700 (327) 2200 (87) 2800 (110) 28000 (61700)",
+   "page": "p.3"
+  },
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Gas input at 100 / 75 / 50 % load": "4599 / 3546 / 2495 kW (LHV fuel input)",
+    "Electrical efficiency at 100 %": "43.5 %"
+   },
+   "url": "https://www.cummins.com/sites/default/files/2019-08/c2000n6cd-datasheet-6409-mk.pdf"
+  }
+ },
+ "CLIENT-P35": {
+  "continuous_kw": {
+   "value": 1400,
+   "unit": "kWe",
+   "basis": "continuous (COP) 50 Hz @1.0 pf",
+   "url": "https://www.cummins.com/sites/default/files/2020-02/C1400N5C%20-%20NAD-5478-EN.pdf",
+   "quote": "Continuous generator electrical output kWe @ 1.0 pf 9,11 1400 1260 1050 700",
+   "page": "p.2"
+  },
+  "L": {
+   "value": 5120,
+   "unit": "mm",
+   "basis": "open set, standard features (sheet gives metres)",
+   "url": "https://www.cummins.com/sites/default/files/2020-02/C1400N5C%20-%20NAD-5478-EN.pdf",
+   "quote": "Genset length, m (ft) 5.12 (16.8)",
+   "page": "p.2"
+  },
+  "W": {
+   "value": 2230,
+   "unit": "mm",
+   "basis": "open set (sheet gives metres)",
+   "url": "https://www.cummins.com/sites/default/files/2020-02/C1400N5C%20-%20NAD-5478-EN.pdf",
+   "quote": "Genset width, m (ft) 2.23 (7.30)",
+   "page": "p.2"
+  },
+  "H": {
+   "value": 2770,
+   "unit": "mm",
+   "basis": "open set (sheet gives metres)",
+   "url": "https://www.cummins.com/sites/default/files/2020-02/C1400N5C%20-%20NAD-5478-EN.pdf",
+   "quote": "Genset height, m (ft) 2.77 (9.08)",
+   "page": "p.2"
+  },
+  "_rows": {
+   "value": null,
+   "rows": {
+    "Gas input at 100 / 75 / 50 % load": "3444 / 2653 / 1867 kW (LHV fuel input)",
+    "Electrical efficiency at 100 %": "40.6 %",
+    "Wet weight": "15,450 kg (wet, open set standard features)"
+   },
+   "url": "https://www.cummins.com/sites/default/files/2020-02/C1400N5C%20-%20NAD-5478-EN.pdf"
+  }
+ }
+}

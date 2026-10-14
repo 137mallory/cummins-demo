@@ -1,0 +1,779 @@
+{
+ "id": "weichai-baudouin",
+ "name": "Weichai / Baudouin",
+ "legal_name": "Weichai Power Co., Ltd. (HKEX 2338, SZSE 000338); Societe Internationale des Moteurs Baudouin (Cassis, France), wholly owned by Weichai since 2009",
+ "brands": [
+  "Baudouin",
+  "Weichai (WP series engines, WPG gensets)",
+  "PSI (Power Solutions International, US subsidiary)"
+ ],
+ "hq": "Weichai Power: Weifang, Shandong, China. Baudouin: Technoparc du Bregadan, 13260 Cassis (Marseille), France",
+ "founded": 2002,
+ "founded_note": "Weichai Power incorporated 23 December 2002 (parent Shandong Heavy Industry Group; Weichai diesel plant roots in 1940s Weifang). Baudouin acquired 2009 (DCD states US$3.8 million).",
+ "founded_sources": [
+  "https://en.wikipedia.org/wiki/Weichai_Power",
+  "https://www.datacenterdynamics.com/en/news/baudouin-launches-diesel-generator-sets-for-data-centers/"
+ ],
+ "employees": "101,440 at 31 December 2025 (including 42,175 at KION), Weichai Power 2025 annual results",
+ "employees_sources": [
+  "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf"
+ ],
+ "revenue": "RMB 231,809 million (2025, up 7.47 percent); net profit attributable RMB 10,931 million (2025, down 4.15 percent); H1 2026 revenue RMB 123.16 billion (up 8.8 percent), net profit RMB 7.7 billion (up 36.5 percent). Overseas over 50 percent of revenue (2025).",
+ "revenue_sources": [
+  "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf",
+  "https://autonews.gasgoo.com/articles/news/weichai-power-2025-revenue-exceeds-230-billion-yuan-2037753216148602881",
+  "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-9-10-from-narrative-to-realized-growth-under-the-aidc-wave-weichai-powers-data-center-generator-sales-in-the-first-half-of-2026-surpass-full-year-sales-of-last-year"
+ ],
+ "sector": "Diesel and gas engines, high horsepower PowerKit genset engines (M26, M33, M55, M61) and complete data centre generator sets 1,900 to 6,250 kVA; SOFC",
+ "positioning_text": "Weichai is the Chinese OEM with the fastest growing large genset engine business: 2025 data centre backup power sales rose 259 percent, M-series large-bore engines passed 10,000 units, and H1 2026 data centre genset sales (over 1,400 units) already beat full-year 2025. Baudouin is the French brand it uses for the Gulf, selling PowerKit engines to local packagers (Almajd Power in Jeddah, Galadari Energy Solutions in Dubai) and, since October 2024, complete data centre gensets from 2,000 to 6,250 kVA with Uptime Institute pre-approved ratings, 50 degree C cooling packages and a marketing pitch built on lead time rather than brand. Baudouin has been a platinum sponsor at Middle East Energy in Dubai (seventh participation in 2025), exhibits at Data Center Nation Riyadh, and its M55 engines now also arrive in the region inside Generac's 2.25 to 3.25 MW data centre sets. Weichai Middle East FZE operates from Jebel Ali as a power generator supplier.",
+ "leadership": [
+  {
+   "name": "Ma Changhai",
+   "title": "Chairman and executive director, Weichai Power (appointed August 2024, succeeding Tan Xuguang)",
+   "scope": "global",
+   "source_url": "https://www.yicaiglobal.com/news/weichai-powers-chairman-resigns-after-26-years-at-helm-of-chinese-diesel-engines-maker",
+   "extra_sources": [
+    "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf"
+   ]
+  },
+  {
+   "name": "Wang Decheng",
+   "title": "Executive director, Weichai Power",
+   "scope": "global",
+   "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf"
+  },
+  {
+   "name": "Fabrizio Mozzi",
+   "title": "Chief Executive Officer, Moteurs Baudouin",
+   "scope": "global",
+   "source_url": "https://www.powertraininternationalweb.com/powergen/moteurs-baudouin-to-showcase-worlds-most-powerful-6-mva-genset-at-middle-east-energy-2025/"
+  }
+ ],
+ "regional_entities": [
+  {
+   "name": "Weichai Middle East FZE",
+   "country": "UAE",
+   "role": "Weichai regional entity listed as power generators supplier (heavy equipment and machinery)",
+   "since": "",
+   "hq_city": "Dubai (S115 Street, Jebel Ali Industrial 2)",
+   "source_url": "https://www.hidubai.com/businesses/weichai-middle-east-fze-construction-heavy-industries-heavy-equipment-machinery-jebel-ali-industrial-2-dubai"
+  },
+  {
+   "name": "Galadari Energy Solutions (GES)",
+   "country": "UAE",
+   "role": "Authorised Baudouin distributor and custom assembler; GES brand gensets on Baudouin engines; local assembly plant, field service, overhaul and repower",
+   "since": "",
+   "hq_city": "Dubai (37, 3B St, Al Quoz Industrial First)",
+   "source_url": "https://www.galadarienergy.com/"
+  },
+  {
+   "name": "Almajd Power (Al-Majd Power Factory)",
+   "country": "KSA",
+   "role": "Saudi genset packager using Baudouin among Perkins, Cummins, MTU and Volvo engines, 9 to 3,000 kVA; named by Baudouin as trusted local OEM partner; branches in UAE, Sudan, Kenya, Chad",
+   "since": "",
+   "hq_city": "Jeddah",
+   "source_url": "https://www.almajd-power.com/en/",
+   "extra_sources": [
+    "https://baudouin.com/news/power-generation/baudouin-powerkit-engines-chosen-by-saudi-arabian-government-to-power-municipality/"
+   ]
+  },
+  {
+   "name": "Baudouin network (Kuwait)",
+   "country": "Kuwait",
+   "role": "No Kuwait distributor or packager verified; Baudouin network map is dynamic and lists no static entries",
+   "since": "",
+   "hq_city": "",
+   "source_url": "https://baudouin.com/our-network/"
+  }
+ ],
+ "movements": [
+  {
+   "date": "2024-10-22",
+   "headline": "Baudouin launches complete generator sets for data centres, 2,000 to 5,250 kVA (baseline)",
+   "summary": "Baudouin moved from engines only to complete M33 and M55 gensets for data centres with Uptime Institute pre-approved units and announced the 20M55 genset (4,250 to 5,250 kVA). Manufacturing sites listed in India, China, Russia, Italy, Germany, France and the US.",
+   "category": "Product",
+   "country": "Global",
+   "source_url": "https://www.datacenterdynamics.com/en/news/baudouin-launches-diesel-generator-sets-for-data-centers/",
+   "source_domain": "datacenterdynamics.com",
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "This is the structural change: Baudouin now bids as a single-brand genset supplier, not just an engine to local packagers, and it targets the same hyperscale and colocation buyers Cummins Arabia courts in Riyadh, Dammam, Dubai and Abu Dhabi. Cummins Arabia should expect Baudouin gensets in consultant shortlists from 2025 onward."
+   }
+  },
+  {
+   "date": "2025-01-21",
+   "headline": "Baudouin exhibits at Data Center Nation Riyadh with 2,000 to 5,250 kVA M33 and M55 gensets",
+   "summary": "Baudouin presented its data centre genset range and previewed the 20M55 to Saudi operators and developers, citing Uptime Institute pre-approval and ISO 8528 G3 load acceptance.",
+   "category": "Expansion",
+   "country": "KSA",
+   "source_url": "https://baudouin.com/moteurs-baudouin-at-data-center-nation-riyadh/",
+   "source_domain": "baudouin.com",
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "Direct marketing into the Saudi data centre pipeline. Cummins Arabia should make sure Saudi data centre consultants and EPCs have Cummins DCC ratings, 60 Hz performance data and local service commitments in hand before Baudouin's lead-time pitch lands."
+   }
+  },
+  {
+   "date": "2025-04-07",
+   "headline": "Baudouin platinum sponsor at Middle East Energy 2025: 20M61 genset (6,250 kVA) pre-launch, 6M31 Stage V PowerKit, 20M55 gas genset",
+   "summary": "At Dubai World Trade Centre (stand S3.B40 and outdoor OS.90), Baudouin revealed the 20M61 data centre genset up to 6,250 kVA, launched the 6M31 Stage V-ready PowerKit and showed a 20M55 gas genset up to 5,250 kVA, 12M33 plus SCR Stage V and 6M16 Stage V. CEO Fabrizio Mozzi called it the largest genset available for critical backup power. Baudouin claimed best lead times in the market.",
+   "category": "Product",
+   "country": "UAE",
+   "source_url": "https://baudouin.com/middle-east-energy-2025/",
+   "source_domain": "baudouin.com",
+   "extra_sources": [
+    "https://baudouin.com/experience-reliable-backup-power-at-middle-east-energy-2025/",
+    "https://www.powertraininternationalweb.com/powergen/moteurs-baudouin-to-showcase-worlds-most-powerful-6-mva-genset-at-middle-east-energy-2025/"
+   ],
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "A 6,250 kVA single unit outranks Cummins' largest diesel node and is aimed at hyperscale campuses in the UAE and KSA. Cummins Arabia's counter is the installed base, Cummins factory paralleling and controls, service depth and proven 50 degree C performance. It should also test Baudouin's lead-time claims against real Cummins slot availability when quoting."
+   }
+  },
+  {
+   "date": "2025-11",
+   "headline": "Baudouin publishes November 2025 data centre genset rating cards (50 and 60 Hz) covering WPG1900 to WPG5775",
+   "summary": "The 50 Hz card runs from WPG1900 (16M33G1900, 1,925 kVA DCR) to WPG5775 (20M61G5940, 5,250 kVA DCP at 11 kV); the 60 Hz card runs from WPG1540B76 (1,925 kVA DCR) to WPG5000B76 (20M61G5000, 6,250 kVA DCR at 13.8 kV). EPA Tier 2 genset models are available.",
+   "category": "Product",
+   "country": "Global",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+   "source_domain": "baudouin.com",
+   "extra_sources": [
+    "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-60Hz-1025.pdf",
+    "https://baudouin.com/engine_product/12m55-generator-set/"
+   ],
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "The 60 Hz card matters for Saudi Arabia: Baudouin now publishes DCR and DCP ratings at 1800 rpm including 13.8 kV medium voltage sets, which is what Saudi data centre specifications ask for. Cummins Arabia should benchmark its 60 Hz C2500 to C3500 DCC offers against the WPG2500B76 to WPG4000B76 band."
+   }
+  },
+  {
+   "date": "2026-03-26",
+   "headline": "Weichai 2025 results: data centre backup power sales up 259 percent, M-series engines pass 10,000 units, 20M61 5 MW engine launched",
+   "summary": "Weichai Power reported 2025 revenue of RMB 231.8 billion. Data centre backup power product sales rose 259 percent; M-series large-bore engine sales exceeded 10,000 units (up 32 percent) with revenue up 65 percent. It launched the 20M61, described as the world's first 5 MW high-speed diesel generator engine, and PSI (US) derived 81 percent of revenue from power generation.",
+   "category": "Financial",
+   "country": "Global",
+   "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf",
+   "source_domain": "hkexnews.hk",
+   "extra_sources": [
+    "https://autonews.gasgoo.com/articles/news/weichai-power-2025-revenue-exceeds-230-billion-yuan-2037753216148602881",
+    "https://en.weichai.com/group/weichai/en/media-hub/news/2026081013104633973/index.html"
+   ],
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "Weichai now has the volume and cash flow to price aggressively in export markets and to fund Baudouin's Gulf marketing. Growth of this scale in one year also means Weichai capacity is real, which supports the lead-time argument used against Cummins in Gulf tenders."
+   }
+  },
+  {
+   "date": "2026-06-29",
+   "headline": "Baudouin positions 1,900 to 6,250 kVA range for hyperscale campuses and pushes lead time as the decisive variable",
+   "summary": "",
+   "category": "Product",
+   "country": "Global",
+   "source_url": "https://baudouin.com/news/data-centre-power/scaling-backup-power-from-2000-to-6250-kva-for-hyperscale-data-centres/",
+   "source_domain": "baudouin.com",
+   "extra_sources": [
+    "https://baudouin.com/news/data-centre-power/standby-power-for-data-centres/why-lead-time-matters-for-data-centre-projects/"
+   ],
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "This is the sales script Cummins Arabia will meet in Gulf data centre bids: a bigger single unit and a shorter delivery slot. Cummins Arabia needs firm factory slot commitments in its proposals and should quantify Cummins' service network and parts stock in KSA and UAE against Baudouin's thin local footprint."
+   }
+  },
+  {
+   "date": "2026-07-28",
+   "headline": "Baudouin partners with EODev on solid oxide fuel cell (SOFC) power, commercial launch September 2026",
+   "summary": "EODev will roll out Baudouin SOFC continuous baseload power across Europe with exclusive rights in France and Poland. Weichai's SOFC system holds EU CE certification with over 65 percent electrical efficiency and Weichai deepened its Ceres Power collaboration in November 2025.",
+   "category": "Partnership",
+   "country": "Global",
+   "source_url": "https://baudouin.com/news/power-generation/baudouin-and-eodev-partnership-sofc-power-solutions/",
+   "source_domain": "baudouin.com",
+   "extra_sources": [
+    "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf"
+   ],
+   "relevance": {
+    "level": "WATCH",
+    "analysis": "Europe only for now, but SOFC baseload for data centres is the kind of grid-independent offer Gulf hyperscalers will ask about as grid connection queues lengthen. Cummins Arabia should track whether Baudouin brings SOFC to Middle East Energy 2027."
+   }
+  },
+  {
+   "date": "2026-09-10",
+   "headline": "Weichai H1 2026: data centre genset sales above 1,400 units, more than all of 2025",
+   "summary": "Weichai reported H1 2026 revenue of RMB 123.16 billion (up 8.8 percent) and net profit of RMB 7.7 billion (up 36.5 percent). Data centre generator sales exceeded 1,400 units in the half, surpassing full-year 2025, with M-series high-power engines at 6,700 units (up 31.5 percent). Baudouin signed a strategic cooperation with a major French customer.",
+   "category": "Financial",
+   "country": "Global",
+   "source_url": "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-9-10-from-narrative-to-realized-growth-under-the-aidc-wave-weichai-powers-data-center-generator-sales-in-the-first-half-of-2026-surpass-full-year-sales-of-last-year",
+   "source_domain": "financialcontent.com",
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "Run-rate of roughly 2,800 data centre gensets a year puts Weichai among the largest volume producers of data centre sets worldwide. Gulf hyperscalers that buy globally will see Weichai and Baudouin on approved vendor lists, which erodes the reference advantage Cummins holds in the region."
+   }
+  },
+  {
+   "date": "2026-06-02",
+   "headline": "Generac's Baudouin M55 based 2.25 to 3.25 MW data centre sets gain a global hyperscale supply agreement covering the Middle East",
+   "summary": "Generac's SDMD2250, SDMD2500 (12M55, 65.6 L) and SDMD3250 (16M55, 87.5 L) diesel sets use Baudouin M55 engines with Marathon DataMAX alternators and DSE G8601 controls. Generac signed a global supply agreement with a hyperscale operator naming APAC, Europe, Middle East and Latin America.",
+   "category": "Partnership",
+   "country": "GCC",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data",
+   "source_domain": "generac.com",
+   "extra_sources": [
+    "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/",
+    "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2500kw-diesel-65-6l/"
+   ],
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "Baudouin engines reach the Gulf through two brands at once: Baudouin's own WPG sets and Generac's SDMD sets. In a hyperscale programme awarded globally, Cummins Arabia can lose Saudi or UAE sites without ever seeing a local tender. It should work with Cummins Inc. on global account coverage rather than rely on local bids alone."
+   }
+  },
+  {
+   "date": "2024-02-14",
+   "headline": "Baudouin joins the Gulf Data Centre Association (GCDA) alongside Italian and Spanish data centre associations (baseline)",
+   "summary": "Baudouin announced collaborations with GCDA (covering Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and UAE), IDA (Italy) and SPAIN DC, promoting M Series engines 25 to 4,150 kVA with cooling above 50 degree C ambient and HVO testing.",
+   "category": "Partnership",
+   "country": "GCC",
+   "source_url": "https://baudouin.com/advancing-global-data-centers-baudouins-new-collaborations/",
+   "source_domain": "baudouin.com",
+   "relevance": {
+    "level": "WATCH",
+    "analysis": "GCDA membership gives Baudouin a seat in the Gulf data centre community and its events. Cummins Arabia should confirm its own visibility in GCDA programmes so Baudouin does not become the default OEM voice there."
+   }
+  },
+  {
+   "date": "2026-09",
+   "date_note": "Context entry; no dated Gulf event found",
+   "headline": "Yuchai (China Yuchai International, Singapore HQ, NYSE CYD) is the second Chinese engine OEM whose genset engines appear in low-cost Gulf packages",
+   "summary": "China Yuchai International, through Guangxi Yuchai Machinery, produces engines for generator sets alongside marine and industrial engines. No verified 2025 to 2026 Gulf distributor announcement, Gulf project or data centre product from Yuchai was found in this research.",
+   "category": "Pricing",
+   "country": "GCC",
+   "source_url": "https://en.wikipedia.org/wiki/China_Yuchai_International",
+   "source_domain": "wikipedia.org",
+   "relevance": {
+    "level": "WATCH",
+    "analysis": "Yuchai-powered sets from Chinese packagers compete at the low end of Gulf tenders (typically below 1,000 kVA). Cummins Arabia's exposure is in price-led utility, telecom and construction bids in KSA and Kuwait rather than in data centres. Track Chinese packager registrations on Etimad and CAPT rather than Yuchai itself."
+   }
+  }
+ ],
+ "products": [
+  {
+   "model": "WPG2750*7 (12M55G2750 genset)",
+   "series": "Baudouin Data Centre Generator Sets (M55)",
+   "category": "Diesel genset",
+   "frequency_hz": 50,
+   "standby_kva": 2750,
+   "standby_kw": 2200,
+   "prime_kva": 2500,
+   "prime_kw": 2000,
+   "continuous_kw": null,
+   "engine_model": "Baudouin 12M55G2750/5 (gross 2,450 kWm ESP, 2,200 kWm PRP/DCP)",
+   "cylinders": 12,
+   "displacement_l": 65.6,
+   "aspiration": "Turbocharged, air to water cooled; high pressure common rail; ECU",
+   "bore_stroke_mm": "180 x 215",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "fuel_consumption_basis": "Not published on Baudouin rating card or spec sheet",
+   "length_mm": null,
+   "width_mm": null,
+   "height_mm": null,
+   "dry_weight_kg": null,
+   "engine_dimensions_note": "Engine with radiator 4,193 x 2,241 x 2,787 mm, 11,500 kg dry (genset dimensions not published)",
+   "emissions": "EPA Tier 2 genset models available",
+   "alternator": "Not specified on rating card (400 V standard; other voltages with different alternator)",
+   "controller": "Microcomputer intelligent controller with Ethernet (brochure)",
+   "voltage": "400 V L-L",
+   "ambient_derate_note": "50 degree C cooling package standard with low derating (M-series spec sheets)",
+   "data_center_rating": "DCR 2,750 kVA / 2,200 kWe; DCP 2,500 kVA / 2,000 kWe, unlimited hours, 10 percent overload 1 hour in 12",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2023/10/12M55_10403E_PK.S.308.EN_.06.22.pdf",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "WPG3000*7 (12M55G3000 genset)",
+   "series": "Baudouin Data Centre Generator Sets (M55)",
+   "category": "Diesel genset",
+   "frequency_hz": 50,
+   "standby_kva": 3000,
+   "standby_kw": 2400,
+   "prime_kva": 2750,
+   "prime_kw": 2200,
+   "continuous_kw": null,
+   "engine_model": "Baudouin 12M55G3000/5 (gross 2,700 kWm ESP, 2,420 kWm PRP)",
+   "cylinders": 12,
+   "displacement_l": 65.6,
+   "aspiration": "Turbocharged, air to water cooled; common rail; ECU",
+   "bore_stroke_mm": "180 x 215",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": null,
+   "width_mm": null,
+   "height_mm": null,
+   "dry_weight_kg": null,
+   "emissions": "EPA Tier 2 genset models available",
+   "alternator": "",
+   "controller": "",
+   "voltage": "400 V L-L",
+   "ambient_derate_note": "",
+   "data_center_rating": "DCR 3,000 kVA / 2,400 kWe; DCP 2,750 kVA / 2,200 kWe; Baudouin quotes the 12M55 genset at 3,125 kVA in its brochure (60 Hz WPG2500B76: DCR 3,125 kVA / 2,500 kWe, DCP 2,813 kVA / 2,250 kWe)",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+   "datasheet_url": "https://baudouin.com/engine_product/12m55-generator-set/",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "WPG2500B76 (12M55G2500 genset, 60 Hz)",
+   "series": "Baudouin Data Centre Generator Sets (M55)",
+   "category": "Diesel genset",
+   "frequency_hz": 60,
+   "standby_kva": 3125,
+   "standby_kw": 2500,
+   "prime_kva": 2813,
+   "prime_kw": 2250,
+   "continuous_kw": null,
+   "engine_model": "Baudouin 12M55G2500/6 (gross 2,725 kWm ESP, 2,450 kWm PRP/DCP)",
+   "cylinders": 12,
+   "displacement_l": 65.6,
+   "aspiration": "Turbocharged, air to water cooled; common rail; ECU",
+   "bore_stroke_mm": "180 x 215",
+   "rated_rpm": 1800,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": null,
+   "width_mm": null,
+   "height_mm": null,
+   "dry_weight_kg": null,
+   "engine_dimensions_note": "Engine with radiator 4,193 x 2,241 x 2,787 mm, 11,500 kg dry",
+   "emissions": "EPA Tier 2 genset models available",
+   "alternator": "",
+   "controller": "",
+   "voltage": "400 V L-L",
+   "ambient_derate_note": "",
+   "data_center_rating": "DCR 3,125 kVA / 2,500 kWe; DCP 2,813 kVA / 2,250 kWe (Saudi 60 Hz relevant)",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-60Hz-1025.pdf",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2023/10/12M55_10403E_PK.S.308.EN_.06.22.pdf",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "WPG2500*7 (20M33G2500 genset)",
+   "series": "Baudouin Data Centre Generator Sets (M33)",
+   "category": "Diesel genset",
+   "frequency_hz": 50,
+   "standby_kva": 2500,
+   "standby_kw": 2000,
+   "prime_kva": 2250,
+   "prime_kw": 1800,
+   "continuous_kw": null,
+   "engine_model": "Baudouin 20M33G2500/5 (gross 2,210 kWm ESP, 2,010 kWm PRP)",
+   "cylinders": 20,
+   "displacement_l": 65.4,
+   "aspiration": "Turbocharged (four turbochargers), air to water cooled; common rail; ECU",
+   "bore_stroke_mm": "150 x 185",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": null,
+   "width_mm": null,
+   "height_mm": null,
+   "dry_weight_kg": null,
+   "engine_dimensions_note": "Engine with standard radiator 4,611 x 2,756 x 2,799 mm, 8,275 kg dry",
+   "emissions": "EPA Tier 2 genset models available",
+   "alternator": "",
+   "controller": "",
+   "voltage": "400 V L-L",
+   "ambient_derate_note": "50 degree C cooling package standard with low derating; warranty 2 years unlimited hours or 4 years / 800 h ESP",
+   "data_center_rating": "DCR 2,500 kVA / 2,000 kWe; DCP 2,250 kVA / 1,800 kWe (60 Hz WPG2000B76: DCR 2,500 kVA, DCP 2,250 kVA)",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2021/06/10403_20M33_Spec_Sheet_revG_.pdf",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "WPG2000*7 (16M33G2000 genset)",
+   "series": "Baudouin Data Centre Generator Sets (M33)",
+   "category": "Diesel genset",
+   "frequency_hz": 50,
+   "standby_kva": 2062,
+   "standby_kw": 1650,
+   "prime_kva": 1875,
+   "prime_kw": 1500,
+   "continuous_kw": null,
+   "engine_model": "Baudouin 16M33G2000/5",
+   "cylinders": 16,
+   "displacement_l": 52.3,
+   "aspiration": "Turbocharged, air to water cooled; common rail; ECU",
+   "bore_stroke_mm": "150 x 185",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": null,
+   "width_mm": null,
+   "height_mm": null,
+   "dry_weight_kg": null,
+   "engine_dimensions_note": "Engine with radiator 3,967 x 2,237 x 2,485 mm, 6,450 kg dry",
+   "emissions": "EPA Tier 2 genset models available",
+   "alternator": "",
+   "controller": "",
+   "voltage": "400 V L-L",
+   "ambient_derate_note": "",
+   "data_center_rating": "DCR 2,062 kVA / 1,650 kWe; DCP 1,875 kVA / 1,500 kWe",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2024/03/16M33_Spec_Sheet.pdf",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "12M33G1650/5",
+   "series": "Baudouin PowerKit M33",
+   "category": "Engine",
+   "frequency_hz": 50,
+   "standby_kva": 1650,
+   "standby_kw": 1320,
+   "prime_kva": 1500,
+   "prime_kw": 1200,
+   "continuous_kw": null,
+   "engine_model": "12M33G1650/5 (gross 1,450 kWm ESP, 1,350 kWm PRP/DCP)",
+   "cylinders": 12,
+   "displacement_l": 39.2,
+   "aspiration": "Turbocharged, air to air cooled; common rail; ECU",
+   "bore_stroke_mm": "150 x 185",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": 3525,
+   "width_mm": 2242,
+   "height_mm": 2243,
+   "dry_weight_kg": 4575,
+   "engine_dimensions_note": "Engine with radiator",
+   "emissions": "Not stated",
+   "alternator": "Not applicable",
+   "controller": "Not applicable",
+   "voltage": "",
+   "ambient_derate_note": "Warranty 2 years unlimited hours or 4 years / 800 h ESP",
+   "data_center_rating": "DCP 1,500 kVA / 1,200 kWe at 1500 rpm; 60 Hz equivalent 12M33G1320/6 DCP 1,500 kVA / 1,200 kWe",
+   "source_url": "https://baudouin.com/engine_product/12m33/",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2023/10/12M33_10403E_PK.S.308.EN_.06.22.pdf",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "16M33G2250/5",
+   "series": "Baudouin PowerKit M33",
+   "category": "Engine",
+   "frequency_hz": 50,
+   "standby_kva": 2250,
+   "standby_kw": 1800,
+   "prime_kva": 2050,
+   "prime_kw": 1650,
+   "continuous_kw": null,
+   "engine_model": "16M33G2250/5 (gross 1,980 kWm ESP, 1,800 kWm PRP); primarily for ESP applications",
+   "cylinders": 16,
+   "displacement_l": 52.3,
+   "aspiration": "Turbocharged, air to water cooled; common rail; ECU",
+   "bore_stroke_mm": "150 x 185",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": 3967,
+   "width_mm": 2237,
+   "height_mm": 2485,
+   "dry_weight_kg": 6450,
+   "engine_dimensions_note": "Engine with radiator",
+   "emissions": "Not stated",
+   "alternator": "Not applicable",
+   "controller": "Not applicable",
+   "voltage": "",
+   "ambient_derate_note": "",
+   "data_center_rating": "DCP 2,000 kVA / 1,600 kWe at 1500 rpm",
+   "source_url": "https://baudouin.com/engine_product/16m33/",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2024/03/16M33_Spec_Sheet.pdf",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "WPG4125*7 (16M55G4000 genset)",
+   "series": "Baudouin Data Centre Generator Sets (M55)",
+   "category": "Diesel genset",
+   "frequency_hz": 50,
+   "standby_kva": 4125,
+   "standby_kw": 3300,
+   "prime_kva": 3750,
+   "prime_kw": 3000,
+   "continuous_kw": null,
+   "engine_model": "Baudouin 16M55G4000",
+   "cylinders": 16,
+   "displacement_l": 87.5,
+   "aspiration": "Turbocharged, air to water cooled; common rail",
+   "bore_stroke_mm": "180 x 215",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": null,
+   "width_mm": null,
+   "height_mm": null,
+   "dry_weight_kg": null,
+   "emissions": "EPA Tier 2 genset models available",
+   "alternator": "",
+   "controller": "",
+   "voltage": "400 V L-L",
+   "ambient_derate_note": "",
+   "data_center_rating": "DCR 4,125 kVA / 3,300 kWe; DCP 3,750 kVA / 3,000 kWe (displacement and bore/stroke from Generac SD3250 spec sheet for the 16M55)",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2025/04/A4-Baudouin-for-Data-Centre-041125.pdf",
+   "extra_sources": [
+    "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=39cf4f2e-af84-419c-88e0-805c17323baa"
+   ],
+   "spec_confidence": "brochure"
+  },
+  {
+   "model": "WPG5775*7 (20M61G5940 genset)",
+   "series": "Baudouin Data Centre Generator Sets (M61)",
+   "category": "Diesel genset",
+   "frequency_hz": 50,
+   "standby_kva": null,
+   "standby_kw": null,
+   "prime_kva": 5250,
+   "prime_kw": 4200,
+   "continuous_kw": null,
+   "engine_model": "Baudouin 20M61G5940 (Weichai describes the 20M61 as the world's first 5 MW high-speed diesel generator engine)",
+   "cylinders": 20,
+   "displacement_l": null,
+   "aspiration": "",
+   "bore_stroke_mm": "",
+   "rated_rpm": 1500,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": null,
+   "width_mm": null,
+   "height_mm": null,
+   "dry_weight_kg": null,
+   "emissions": "",
+   "alternator": "Medium voltage 11 kV standard on rating card",
+   "controller": "",
+   "voltage": "11,000 V L-L (60 Hz WPG5000B76: 13,800 V, DCR 6,250 kVA / 5,000 kWe, DCP 5,625 kVA / 4,500 kWe)",
+   "ambient_derate_note": "",
+   "data_center_rating": "DCP 5,250 kVA / 4,200 kWe at 50 Hz (DCR not listed); brochure quotes 20M61 up to 6,250 kVA standby",
+   "source_url": "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+   "datasheet_url": "https://baudouin.com/wp-content/uploads/2025/04/A4-Baudouin-for-Data-Centre-041125.pdf",
+   "extra_sources": [
+    "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-60Hz-1025.pdf",
+    "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf"
+   ],
+   "spec_confidence": "brochure"
+  }
+ ],
+ "partnerships": [
+  {
+   "partner": "Generac Power Systems",
+   "partner_type": "OEM",
+   "relationship_label": "OEM_SUPPLIER",
+   "since": "",
+   "country": "Global (Middle East named in Generac hyperscale agreement)",
+   "scope": "Baudouin Baudouin M55 engines in Generac SDMD2250, SDMD2500 and SDMD3250 data centre gensets (60 Hz, EPA Tier 2, 50 degree C cooling)",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/",
+   "extra_sources": [
+    "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2500kw-diesel-65-6l/",
+    "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data"
+   ],
+   "why_it_matters": {
+    "level": "THREAT",
+    "analysis": "Gives Baudouin engines a second brand and a US hyperscale channel into the Gulf. Cummins Arabia should treat Generac and Baudouin as one engine platform when assessing 2 to 3.25 MW data centre competition in KSA and UAE."
+   }
+  },
+  {
+   "partner": "Galadari Energy Solutions",
+   "partner_type": "Dealer",
+   "relationship_label": "DEALER",
+   "since": "",
+   "country": "UAE",
+   "scope": "Authorised Baudouin distributor and assembler in Dubai; GES-branded sets on Baudouin engines (featured models B20 to B50 and above); assembly plant, overhaul and repower",
+   "source_url": "https://www.galadarienergy.com/",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Galadari gives Baudouin a UAE service address and a low-kVA packaged range. Its featured models are small, so the immediate overlap with Cummins Arabia is in commercial sets, not data centres. Watch for Galadari moving up to M33 packaging."
+   }
+  },
+  {
+   "partner": "Almajd Power",
+   "partner_type": "Packager",
+   "relationship_label": "PACKAGER",
+   "since": "",
+   "country": "KSA",
+   "scope": "Jeddah factory packaging 9 to 3,000 kVA on Baudouin, Perkins, Cummins, MTU and Volvo engines; supplied Baudouin 6M16 PowerKit sets to Saudi municipal buildings (2022); branches in UAE, Sudan, Kenya, Chad",
+   "source_url": "https://www.almajd-power.com/en/",
+   "extra_sources": [
+    "https://baudouin.com/news/power-generation/baudouin-powerkit-engines-chosen-by-saudi-arabian-government-to-power-municipality/"
+   ],
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Almajd is multi-brand and also packages Cummins engines, so it is both a channel and a competitor. Cummins Arabia should keep Almajd's Cummins content high and watch its Baudouin share in Saudi government tenders."
+   }
+  },
+  {
+   "partner": "Gulf Data Centre Association (GCDA)",
+   "partner_type": "Consultant",
+   "relationship_label": "MOU",
+   "since": "2024",
+   "country": "GCC",
+   "scope": "Association collaboration covering Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and UAE",
+   "source_url": "https://baudouin.com/advancing-global-data-centers-baudouins-new-collaborations/",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Positions Baudouin inside the Gulf data centre community. Cummins Arabia should ensure equal or stronger presence in GCDA events."
+   }
+  },
+  {
+   "partner": "EODev",
+   "partner_type": "OEM",
+   "relationship_label": "TECHNOLOGY_LICENCE",
+   "since": "2026",
+   "country": "Global (Europe roll-out; France and Poland exclusive)",
+   "scope": "Distribution of Baudouin SOFC power solutions, commercial launch September 2026",
+   "source_url": "https://baudouin.com/news/power-generation/baudouin-and-eodev-partnership-sofc-power-solutions/",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Not yet in the Gulf. Relevant if hyperscalers request fuel cell baseload as an alternative to diesel standby in UAE grid-constrained sites."
+   }
+  },
+  {
+   "partner": "Power Solutions International (PSI)",
+   "partner_type": "OEM",
+   "relationship_label": "JV",
+   "since": "",
+   "country": "Global",
+   "scope": "Weichai subsidiary in the US offering gas and diesel power generation engines 22 to 110 L; 81 percent of 2025 revenue from power generation; exhibits Baudouin products at Middle East Energy",
+   "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "PSI adds gas genset engines to the Weichai group offer, a potential rival to Cummins gas gensets in Gulf oil and gas and utility applications."
+   }
+  }
+ ],
+ "geo_footprint": [
+  {
+   "country": "UAE",
+   "city": "Dubai (Jebel Ali Industrial 2)",
+   "facility_type": "Regional HQ",
+   "entity": "Weichai Middle East FZE",
+   "notes": "Listed as power generators supplier, S115 Street, Jebel Ali Industrial 2; establishment date not published",
+   "source_url": "https://www.hidubai.com/businesses/weichai-middle-east-fze-construction-heavy-industries-heavy-equipment-machinery-jebel-ali-industrial-2-dubai"
+  },
+  {
+   "country": "UAE",
+   "city": "Dubai (Al Quoz Industrial First)",
+   "facility_type": "Manufacturing",
+   "entity": "Galadari Energy Solutions",
+   "notes": "Local assembly plant for Baudouin-engined GES gensets; 37, 3B St; 24/7 technical support",
+   "source_url": "https://www.galadarienergy.com/"
+  },
+  {
+   "country": "KSA",
+   "city": "Jeddah",
+   "facility_type": "Manufacturing",
+   "entity": "Almajd Power (Al-Majd Power Factory)",
+   "notes": "Genset factory and office, P.O. Box 70917; packages Baudouin among other engines",
+   "source_url": "https://www.almajd-power.com/en/"
+  },
+  {
+   "country": "UAE",
+   "city": "",
+   "facility_type": "Dealer branch",
+   "entity": "Almajd Power UAE branch",
+   "notes": "UAE branch listed on Almajd website; city not stated",
+   "source_url": "https://www.almajd-power.com/en/"
+  },
+  {
+   "country": "Kuwait",
+   "city": "",
+   "facility_type": "Dealer branch",
+   "entity": "None verified",
+   "notes": "No Baudouin or Weichai Kuwait presence found in official sources",
+   "source_url": "https://baudouin.com/our-network/"
+  }
+ ],
+ "gulf_reference_projects": [
+  {
+   "date": "2022-02",
+   "project": "Saudi government municipal buildings, two Baudouin 6M16 PowerKit gensets via Almajd Power",
+   "country": "KSA",
+   "segment": "Utility",
+   "capacity": "2 gensets (6M16 PowerKit, kVA not stated)",
+   "summary": "Baudouin reported a Saudi government purchase of two diesel gensets for municipal buildings, supplied through local OEM partner Almajd Power, and stated its PowerKit engines are used in Middle East hospitals, data centres and banks.",
+   "source_url": "https://baudouin.com/news/power-generation/baudouin-powerkit-engines-chosen-by-saudi-arabian-government-to-power-municipality/"
+  },
+  {
+   "date": "2025-01-21",
+   "project": "Data Center Nation Riyadh 2025 (market entry event, not a project)",
+   "country": "KSA",
+   "segment": "Data centre",
+   "capacity": "Range 2,000 to 5,250 kVA presented",
+   "summary": "Baudouin exhibited its data centre genset range to Saudi operators and previewed the 20M55.",
+   "source_url": "https://baudouin.com/moteurs-baudouin-at-data-center-nation-riyadh/"
+  }
+ ],
+ "gaps": [
+  "No verified Saudi assembly or localisation plan for Weichai or Baudouin was found.",
+  "No Kuwait distributor or packager for Baudouin or Weichai was verified.",
+  "No public data on Chinese genset share of Gulf tenders or Baudouin price positioning; Baudouin markets lead time, not price, in official material.",
+  "Jubaili Bros is often described as a Baudouin packager but its website does not name Baudouin; only Perkins and MWM are named, so no Jubaili-Baudouin link is recorded here.",
+  "Baudouin genset dimensions, weights, fuel consumption and alternator models are not published on the rating cards or brochure fetched; engine-level data used instead.",
+  "20M61 displacement, bore and stroke not found in fetched documents.",
+  "No Baudouin Middle East leadership names found; Baudouin network map is dynamic and returned no static distributor list.",
+  "Yuchai Gulf activity 2025 to 2026 not verified."
+ ],
+ "sources": [
+  "https://autonews.gasgoo.com/articles/news/weichai-power-2025-revenue-exceeds-230-billion-yuan-2037753216148602881",
+  "https://baudouin.com/advancing-global-data-centers-baudouins-new-collaborations/",
+  "https://baudouin.com/engine_product/12m33/",
+  "https://baudouin.com/engine_product/12m55-generator-set/",
+  "https://baudouin.com/engine_product/12m55/",
+  "https://baudouin.com/engine_product/16m33/",
+  "https://baudouin.com/engine_product/20m33-2/",
+  "https://baudouin.com/experience-reliable-backup-power-at-middle-east-energy-2025/",
+  "https://baudouin.com/middle-east-energy-2025/",
+  "https://baudouin.com/moteurs-baudouin-at-data-center-nation-riyadh/",
+  "https://baudouin.com/news/",
+  "https://baudouin.com/news/data-centre-power/scaling-backup-power-from-2000-to-6250-kva-for-hyperscale-data-centres/",
+  "https://baudouin.com/news/data-centre-power/standby-power-for-data-centres/why-lead-time-matters-for-data-centre-projects/",
+  "https://baudouin.com/news/power-generation/baudouin-and-eodev-partnership-sofc-power-solutions/",
+  "https://baudouin.com/news/power-generation/baudouin-powerkit-engines-chosen-by-saudi-arabian-government-to-power-municipality/",
+  "https://baudouin.com/our-network/",
+  "https://baudouin.com/wp-content/uploads/2021/06/10403_20M33_Spec_Sheet_revG_.pdf",
+  "https://baudouin.com/wp-content/uploads/2023/10/12M33_10403E_PK.S.308.EN_.06.22.pdf",
+  "https://baudouin.com/wp-content/uploads/2023/10/12M55_10403E_PK.S.308.EN_.06.22.pdf",
+  "https://baudouin.com/wp-content/uploads/2024/03/16M33_Spec_Sheet.pdf",
+  "https://baudouin.com/wp-content/uploads/2025/04/A4-Baudouin-for-Data-Centre-041125.pdf",
+  "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-50Hz-1025.pdf",
+  "https://baudouin.com/wp-content/uploads/2025/11/Baudouin_RatingCard_Genset-Data-Center-60Hz-1025.pdf",
+  "https://en.weichai.com/group/weichai/en/media-hub/news/2026081013104633973/index.html",
+  "https://en.wikipedia.org/wiki/China_Yuchai_International",
+  "https://en.wikipedia.org/wiki/Weichai_Power",
+  "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data",
+  "https://jubailibros.com/en-ae/blogs/jubaili-bros-presence/jubaili-bros-in-the-uae",
+  "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=39cf4f2e-af84-419c-88e0-805c17323baa",
+  "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-9-10-from-narrative-to-realized-growth-under-the-aidc-wave-weichai-powers-data-center-generator-sales-in-the-first-half-of-2026-surpass-full-year-sales-of-last-year",
+  "https://www.almajd-power.com/en/",
+  "https://www.datacenterdynamics.com/en/news/baudouin-launches-diesel-generator-sets-for-data-centers/",
+  "https://www.galadarienergy.com/",
+  "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2500kw-diesel-65-6l/",
+  "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/",
+  "https://www.hidubai.com/businesses/weichai-middle-east-fze-construction-heavy-industries-heavy-equipment-machinery-jebel-ali-industrial-2-dubai",
+  "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0326/2026032602024.pdf",
+  "https://www.powertraininternationalweb.com/powergen/moteurs-baudouin-to-showcase-worlds-most-powerful-6-mva-genset-at-middle-east-energy-2025/",
+  "https://www.yicaiglobal.com/news/weichai-powers-chairman-resigns-after-26-years-at-helm-of-chinese-diesel-engines-maker"
+ ]
+}

@@ -1,0 +1,864 @@
+[
+ {
+  "title": "Back-Up Generators Project (buyer: 'Department of Procurement', Saudi Arabia)",
+  "issuer": "Department of Procurement (entity not named further on the notice), Saudi Arabia",
+  "country": "Saudi Arabia",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (Etimad booklet is behind the supplier login)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/back-up-generators-project-zPNVmzSgLjauAhJb",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/back-up-generators-project-zPNVmzSgLjauAhJb"
+  ],
+  "published": "2026-10-12",
+  "closes": "2026-11-11",
+  "status": "open",
+  "category": "Government / Facilities",
+  "scope": "Saudi public notice titled 'Back-Up Generators Project'. The notice shows only the title, a document cost of 1000.0 (currency not stated) and a contract duration of 6 months. Scope (supply, installation, rental or maintenance), quantity and ratings are not visible without the buyer's booklet.",
+  "qty": "Not published",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 100000,
+   "usd_high": 600000,
+   "basis": "ESTIMATE. Scope and set count are not public. Anchored on the 2025-2026 Etimad awards in awards.json for 'supply and installation of standby generators' by Saudi ministries and forces, which sit at USD 0.13M to 0.65M for most records (e.g. Tabuk Health Cluster USD 479k, MNG USD 306k, Civil Defense USD 6.2M as the high outlier). Assumes a supply-and-install scope with 1-3 sets of 250-1,000 kVA at USD 50-200k each. If the project is rental or maintenance only, the genset share is near zero."
+  },
+  "tier": "average",
+  "tier_reason": "Scope is unknown, but a 'Back-Up Generators Project' with a 6-month duration reads as a supply-and-install job, and the closing date (11 Nov) leaves time to approach bidders.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "60 Hz range for the Saudi grid (Cummins Arabia catalogue): DQCA 750 kVA, C800D6E 1,000 kVA, C1750D6E 2,188 kVA, C2000D6E / DQKAB / DQKAE 2,500 kVA, DQKAN / DQLC / DQLE 3,125 kVA, DQLF 3,438 kVA, C3000D6EB / C3000D6 3,750 kVA, C3500D6 4,375 kVA",
+    "PowerCommand controls and ATS"
+   ],
+   "why": "Unknown scope. Get the booklet (Etimad supplier login) before spending bid effort. If it is supply and installation, offer 60 Hz standby sets to the electromechanical contractors that buy the booklet."
+  },
+  "competitors_likely": [
+   "Caterpillar via Zahid Tractor",
+   "Perkins / FG Wilson packagers",
+   "Kohler-SDMO via Abunayyan",
+   "mtu via local packagers"
+  ],
+  "requirements": [
+   [
+    "Closing",
+    "11 Nov 2026"
+   ],
+   [
+    "Contract duration",
+    "6 months (notice text: 6 شهر)"
+   ],
+   [
+    "Document cost",
+    "1000.0 (currency not stated)"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 148201324"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders lists the notice under Energy, Power and Electrical, product class Generators, issuer 'Department of Procurement'. Etimad reference, buyer name and booklet are not shown.",
+  "proof_quote": "Saudi Arabia has Released a tender for Back-Up Generators Project in Energy, Power and Electrical. ... The tender was released on Oct 12, 2026. ... Deadline - Nov 11, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Supply, installation, programming and testing of 2 control panels and display boards for the back-up generators, Ministry of National Guard Health Affairs",
+  "issuer": "Ministry of National Guard - Health Affairs, Department of Tender Services",
+  "country": "Saudi Arabia",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (Etimad booklet is behind the supplier login)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/supply-installation-programming-operation-hAMI1Zw6U7RFZGeL",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/supply-installation-programming-operation-hAMI1Zw6U7RFZGeL"
+  ],
+  "published": "2026-10-12",
+  "closes": "2026-11-09",
+  "status": "open",
+  "category": "Healthcare",
+  "scope": "Replacement of the control panels and display boards of two back-up generators (the notice title adds 'with unpacked and removed', i.e. old units removed). Contract duration 180 days. Genset make, rating and hospital site are not shown.",
+  "qty": "2 control panels plus display boards (per title)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 30000,
+   "usd_high": 150000,
+   "basis": "ESTIMATE. Controls-only retrofit, no engine or alternator. Anchored on the MNG-Health Etimad award in awards.json 'Supply, installation, upgrade, testing and performance improvement of the generator control system' at USD 308k, scaled down to 2 panels. PowerCommand-type controller and panel for a large set is USD 15-60k each."
+  },
+  "tier": "low",
+  "tier_reason": "Two control panels; well under USD 1M even with installation.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "PowerCommand 3.3 / PCC controllers and display panels",
+    "Genuine parts"
+   ],
+   "why": "Worth a quote only if the installed sets are Cummins (MNG hospitals run mixed fleets). Otherwise the panel is OEM-specific."
+  },
+  "competitors_likely": [
+   "OEM dealers (Caterpillar via Zahid, Kohler via Abunayyan)",
+   "DEIF / ComAp / Woodward integrators",
+   "Local electromechanical contractors"
+  ],
+  "requirements": [
+   [
+    "Closing",
+    "9 Nov 2026"
+   ],
+   [
+    "Contract duration",
+    "180 days (notice text: 180 يوم)"
+   ],
+   [
+    "Document cost",
+    "1000.0 (currency not stated)"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 148201327"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "The MNG-Health notice (ref GT 148201327) was published 12 Oct 2026. Classification on GlobalTenders is 'Graphic display panels'.",
+  "proof_quote": "Supply, Installation, Programming, Operation And Testing Of The Number Of 2 Control Panels And The Display Boards Of The Back-Up Generators ... Deadline - Nov 09, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Maintenance of emergency generators at King Faisal Naval Base",
+  "issuer": "Royal Saudi Naval Forces, King Faisal Naval Base Operation and Maintenance Centre",
+  "country": "Saudi Arabia",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (Etimad booklet is behind the supplier login)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/maintenance-of-emergency-generators-at-king-Oi5P7QvOA7kTkFie",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/maintenance-of-emergency-generators-at-king-Oi5P7QvOA7kTkFie"
+  ],
+  "published": "2026-10-07",
+  "closes": "2026-10-22",
+  "status": "open",
+  "category": "Defense",
+  "scope": "Maintenance of the emergency generators at King Faisal Naval Base (Jeddah). Contract duration 60 days; document cost 500.0. Number and make of sets not shown.",
+  "qty": "Not published",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 20000,
+   "usd_high": 120000,
+   "basis": "ESTIMATE. 60-day service contract. The earlier multi-year RSNF award for 'Corrective and preventive maintenance of generators at King Faisal Naval Base' is USD 594k in awards.json; 60 days is roughly 1/12 to 1/6 of an annual run-rate once spares are excluded."
+  },
+  "tier": "low",
+  "tier_reason": "Short service contract, no equipment sale.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "Service agreement and genuine parts",
+    "PowerCommand controls"
+   ],
+   "why": "Service work only. It shows which fleet sits at the base; useful for a follow-on spares or overhaul approach."
+  },
+  "competitors_likely": [
+   "Local O&M contractors that won the earlier base contracts",
+   "Caterpillar via Zahid Tractor (service)"
+  ],
+  "requirements": [
+   [
+    "Closing",
+    "22 Oct 2026"
+   ],
+   [
+    "Contract duration",
+    "60 days (notice text: 60 يوم)"
+   ],
+   [
+    "Document cost",
+    "500.0 (currency not stated)"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 147831533"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 147831533, product class 'Emergency generator'. Base location (Jeddah) comes from the earlier RSNF award for the same base in awards.json, not from this notice.",
+  "proof_quote": "Saudi Arabia has Released a tender for Maintenance Of Emergency Generators At King Faisal Naval Base in Energy, Power and Electrical. The tender was released on Oct 07, 2026. ... Deadline - Oct 22, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Operational rental of a generator for the Purveyor Fishing Port",
+  "issuer": "Ministry of Environment, Water and Agriculture (MEWA), Procurement and Contracts Department",
+  "country": "Saudi Arabia",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (Etimad booklet is behind the supplier login)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/operational-rental-of-a-generator-for-the-pu-j40ZqIwJAVwiWMBg",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/operational-rental-of-a-generator-for-the-pu-j40ZqIwJAVwiWMBg"
+  ],
+  "published": "2026-10-05",
+  "closes": "2026-10-20",
+  "status": "open",
+  "category": "Facilities / Rental",
+  "scope": "Operating rental of one generator for a fishing port (the notice title says 'Purveyor Fishing Port', a machine translation; the port name is not clear). Contract duration 24 months; document cost 1000.0.",
+  "qty": "1 generator (per title)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 100000,
+   "usd_high": 400000,
+   "basis": "ESTIMATE. One rented set for 24 months. Assumes a 250-750 kVA set at SAR 15-40k a month excluding fuel, i.e. SAR 360k-960k over 24 months (USD 96k-256k), plus a margin band. Anchored on the Royal Saudi Land Forces 'Rental of complete electrical generator units' award of USD 1.84M for a much larger fleet (awards.json)."
+  },
+  "tier": "low",
+  "tier_reason": "One rented set; the rental fleet owner earns it, not a set sale.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "Rental-fleet supply: C250D5 / C500D5 class sets (50 Hz) or the 60 Hz equivalent",
+    "Service contract"
+   ],
+   "why": "Cummins Arabia wins only if it runs or supplies a rental fleet. Better angle: sell sets to the rental companies that bid."
+  },
+  "competitors_likely": [
+   "Aggreko",
+   "Gulf Power / Alkhorayef",
+   "Local rental firms"
+  ],
+  "requirements": [
+   [
+    "Closing",
+    "20 Oct 2026"
+   ],
+   [
+    "Contract duration",
+    "24 months (notice text: 24 شهر)"
+   ],
+   [
+    "Document cost",
+    "1000.0 (currency not stated)"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 147662872"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 147662872, classed 'Other community, social and personal services'.",
+  "proof_quote": "Saudi Arabia has Released a tender for Operational Rental Of A Generator For The Purveyor Fishing Port in Services. The tender was released on Oct 05, 2026. ... Contract Duration: : 24",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Project to supply and operate a generator for the Facial Governorate building, Tibok area",
+  "issuer": "General Presidency for the Promotion of Virtue and Prevention of Vice (as machine-translated on the notice), Procurement section",
+  "country": "Saudi Arabia",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (Etimad booklet is behind the supplier login)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/project-to-supply-and-operate-a-generator-fo-0HZSYWmH2LUUEUat",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/project-to-supply-and-operate-a-generator-fo-0HZSYWmH2LUUEUat"
+  ],
+  "published": "2026-10-04",
+  "closes": "2026-10-19",
+  "status": "open",
+  "category": "Government / Facilities",
+  "scope": "Supply and operation of a generator for a governorate building in the 'Tibok' area (probably Tabuk; the notice text is machine-translated). Contract duration 30 days; document cost 1000.0.",
+  "qty": "1 generator (per title)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 5000,
+   "usd_high": 40000,
+   "basis": "ESTIMATE. 30-day supply-and-operate contract for one set, most likely a short-term rental at a government office building."
+  },
+  "tier": "low",
+  "tier_reason": "30-day single-set contract.",
+  "fit": {
+   "lean": "pass",
+   "cummins_products": [
+    "Rental-fleet sets only"
+   ],
+   "why": "Too small and too short to chase directly. Listed so the pipeline shows the full flow of Saudi genset notices."
+  },
+  "competitors_likely": [
+   "Local rental firms"
+  ],
+  "requirements": [
+   [
+    "Closing",
+    "19 Oct 2026"
+   ],
+   [
+    "Contract duration",
+    "30 days (notice text: 30 يوم)"
+   ],
+   [
+    "Document cost",
+    "1000.0 (currency not stated)"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 147607209"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 147607209, classed under Energy, Power and Electrical and Public utilities.",
+  "proof_quote": "Project To Supply And Operate A Generator For The Facial Governorate Building In The Tibok Area ... The tender was released on Oct 04, 2026. ... Deadline - Oct 19, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "H-AH-HR422988 Supply of diesel filters for generator units, Electricity Section, King Abdulaziz Hospital (Ministry of National Guard Health Affairs)",
+  "issuer": "Ministry of National Guard - Health Affairs, Procurement Department, King Abdul Aziz Hospital",
+  "country": "Saudi Arabia",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (Etimad booklet is behind the supplier login)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/h-ah-hr422988-supply-of-diesel-filter-for-ge-zWiAQam4YZTLhtr6",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/h-ah-hr422988-supply-of-diesel-filter-for-ge-zWiAQam4YZTLhtr6"
+  ],
+  "published": "2026-10-12",
+  "closes": "2026-10-18",
+  "status": "open",
+  "category": "Healthcare",
+  "scope": "Supply of diesel filters for the hospital's generator units (Electricity Section). Contract duration 6 months. Filter part numbers and quantity are not shown.",
+  "qty": "Not published",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 3000,
+   "usd_high": 30000,
+   "basis": "ESTIMATE. Consumable filters for a hospital standby plant; the MNG-Health 'Inspection of Caterpillar standby generators' award is only USD 53k for a whole inspection scope."
+  },
+  "tier": "low",
+  "tier_reason": "Consumables lot well under USD 100k.",
+  "fit": {
+   "lean": "pass",
+   "cummins_products": [
+    "Fleetguard filters (genuine parts)"
+   ],
+   "why": "Fleetguard is the natural fit if the sets are Cummins; the notice does not name the make. The make at this hospital is not stated (an MNG-Health inspection award in awards.json shows Caterpillar sets at a King Abdulaziz facility), so treat as a parts-counter opportunity only."
+  },
+  "competitors_likely": [
+   "Local spares traders",
+   "Zahid Tractor parts"
+  ],
+  "requirements": [
+   [
+    "Closing",
+    "18 Oct 2026"
+   ],
+   [
+    "Contract duration",
+    "6 months (notice text: 6 شهر)"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 148201348"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 148201348, product class 'Generator units'.",
+  "proof_quote": "Supply Of Diesel Filter For Generator Units - Electricity Section (High Jihad) To King Abd. ... The tender was released on Oct 12, 2026. ... Deadline - Oct 18, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Operation to connect and deliver the reserve generator to the Eastern Police (Public Security)",
+  "issuer": "Public Security (main organ), Saudi Arabia",
+  "country": "Saudi Arabia",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (Etimad booklet is behind the supplier login)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/operation-to-connect-and-deliver-the-reserve-KkSfLA3o4EzC0Z94",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/operation-to-connect-and-deliver-the-reserve-KkSfLA3o4EzC0Z94"
+  ],
+  "published": "2026-10-07",
+  "closes": "2026-10-12",
+  "status": "closed",
+  "category": "Defense",
+  "scope": "Connection and delivery of a reserve generator for the Eastern Police. Contract duration 90 days; document cost 200.0. The bid deadline of 12 Oct 2026 has passed (the summary field says 'login to view' but the Deadline field gives 12 Oct).",
+  "qty": "1 generator (per title)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 10000,
+   "usd_high": 60000,
+   "basis": "ESTIMATE. Connection and delivery of one reserve set for 90 days; comparable Public Security award 'Repair, overhaul, rehabilitation, operation, connection and transport of standby electrical generators' is USD 172k for a multi-set scope (awards.json)."
+  },
+  "tier": "low",
+  "tier_reason": "Closed already; connection works for one set.",
+  "fit": {
+   "lean": "pass",
+   "cummins_products": [
+    "None directly"
+   ],
+   "why": "Closed on 12 Oct and a connection-only job. Kept to show Public Security's recurring standby-generator buying; watch for its next supply tender."
+  },
+  "competitors_likely": [
+   "Local electrical contractors"
+  ],
+  "requirements": [
+   [
+    "Closing",
+    "12 Oct 2026 (passed)"
+   ],
+   [
+    "Contract duration",
+    "90 days (notice text: 90 يوم)"
+   ],
+   [
+    "Document cost",
+    "200.0 (currency not stated)"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 147831547"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 147831547, classed under Energy, Power and Electrical and Public utilities.",
+  "proof_quote": "Operation To Connect And Deliver The Reserve Generator To The Eastern Police ... The tender was released on Oct 07, 2026. ... Deadline - Oct 12, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "SPARE PARTS FOR AUXILLARY ENGINE GENERATOR (Kuwait National Petroleum Company)",
+  "issuer": "Kuwait National Petroleum Company (KNPC)",
+  "country": "Kuwait",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (KPC e-tendering requires registration)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/spare-parts-for-auxillary-engine-generator-wL4udA35osNCHDC4",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/spare-parts-for-auxillary-engine-generator-wL4udA35osNCHDC4"
+  ],
+  "published": "2026-10-09",
+  "closes": "2026-11-02",
+  "status": "open",
+  "category": "Oil & gas",
+  "scope": "Supply of spare parts for an auxiliary engine generator. Make, model and item list are not shown. Contract type: Supply.",
+  "qty": "Not itemised publicly",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 20000,
+   "usd_high": 150000,
+   "basis": "ESTIMATE. Comparable KOC genset spares RFQs in awards.json: Deutz generator spares USD 283k awarded, Caterpillar engine and generator spares USD 297k at price opening. A single KNPC auxiliary-set spares RFQ is usually a fraction of those."
+  },
+  "tier": "low",
+  "tier_reason": "Spares lot, likely under USD 150k.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "Genuine Cummins parts if the set is Cummins-powered"
+   ],
+   "why": "Bid only if the item list names a Cummins engine or alternator. Otherwise OEM-specific."
+  },
+  "competitors_likely": [
+   "Al-Bahar (Caterpillar)",
+   "Local spares traders"
+  ],
+  "requirements": [
+   [
+    "Registration",
+    "KNPC/KPC e-sourcing supplier registration required (normal for KPC-group RFQs; not verified on this notice)"
+   ],
+   [
+    "Frequency",
+    "50 Hz (Kuwait)"
+   ],
+   [
+    "Closing",
+    "2 Nov 2026"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 147972426"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 147972426; product class 'Parts for electrical motors and generators'. The same KNPC batch of 9 Oct 2026 also carries 'Spare parts for diesel engines' and 'Starter motors for unit 93 generators'.",
+  "proof_quote": "Kuwait National Petroleum Company Kuwait has Released a tender for SPARE PARTS FOR AUXILLARY ENGINE GENERATOR in Energy, Power and Electrical. The tender was released on Oct 09, 2026. ... Deadline - Nov 02, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Zor/DC starter motors for Unit 93 generators (KNPC, Az-Zour refinery)",
+  "issuer": "Kuwait National Petroleum Company (KNPC)",
+  "country": "Kuwait",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (KPC e-tendering requires registration)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/zordc-starter-motors-for-unit-93-generators-0AxgmtwslA8HOijB",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/zordc-starter-motors-for-unit-93-generators-0AxgmtwslA8HOijB"
+  ],
+  "published": "2026-10-09",
+  "closes": "2026-10-15",
+  "status": "open",
+  "category": "Oil & gas",
+  "scope": "Supply of starter motors for the generators of Unit 93. The notice does not say whether these are diesel gensets or turbine generators; 'Zor' is read as the Az-Zour refinery (an inference from the abbreviation).",
+  "qty": "Not itemised publicly",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 5000,
+   "usd_high": 60000,
+   "basis": "ESTIMATE. Starter motors for a refinery unit's generators; small spares lot."
+  },
+  "tier": "low",
+  "tier_reason": "Small spares lot; closes in two days.",
+  "fit": {
+   "lean": "pass",
+   "cummins_products": [
+    "None confirmed"
+   ],
+   "why": "Make unknown and the deadline is 15 Oct. Not worth a bid unless the starters are for Cummins sets."
+  },
+  "competitors_likely": [
+   "Al-Bahar (Caterpillar)",
+   "Local spares traders"
+  ],
+  "requirements": [
+   [
+    "Registration",
+    "KNPC/KPC e-sourcing supplier registration required (normal for KPC-group RFQs; not verified on this notice)"
+   ],
+   [
+    "Frequency",
+    "50 Hz (Kuwait)"
+   ],
+   [
+    "Closing",
+    "15 Oct 2026"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 147972414"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 147972414; product class 'Parts for electrical motors and generators'.",
+  "proof_quote": "Kuwait National Petroleum Company Kuwait has Released a tender for Zor/Dc-STARTER MOTORS FOR UNIT 93 GENERATORS in Energy, Power and Electrical. The tender was released on Oct 09, 2026. ... Deadline - Oct 15, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "SPARE PARTS FOR DIESEL ENGINES (Kuwait National Petroleum Company)",
+  "issuer": "Kuwait National Petroleum Company (KNPC)",
+  "country": "Kuwait",
+  "portal": "GlobalTenders mirror of the buyer's notice (Etimad / KPC); buyer portal not opened (KPC e-tendering requires registration)",
+  "tender_no": null,
+  "url": "https://www.globaltenders.com/tender-detail/spare-parts-for-diesel-engines-bp5rDPftDPnQju5J",
+  "doc_urls": [
+   "https://www.globaltenders.com/tender-detail/spare-parts-for-diesel-engines-bp5rDPftDPnQju5J"
+  ],
+  "published": "2026-10-09",
+  "closes": "2026-10-19",
+  "status": "open",
+  "category": "Oil & gas",
+  "scope": "Supply of spare parts for diesel engines. Make, models and quantities are not shown; the engines may drive gensets, pumps or equipment.",
+  "qty": "Not itemised publicly",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 10000,
+   "usd_high": 100000,
+   "basis": "ESTIMATE. KNPC spares RFQ for diesel engines; comparable KOC engine/generator spares records are USD 283k-297k (awards.json), this one is likely smaller."
+  },
+  "tier": "low",
+  "tier_reason": "Spares lot, likely under USD 100k.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "Genuine Cummins engine parts (QSK / KTA / QSX families) if the fleet is Cummins"
+   ],
+   "why": "Ask the buyer for the item list before bidding; the notice names no make."
+  },
+  "competitors_likely": [
+   "Al-Bahar (Caterpillar)",
+   "Local spares traders"
+  ],
+  "requirements": [
+   [
+    "Registration",
+    "KNPC/KPC e-sourcing supplier registration required (normal for KPC-group RFQs; not verified on this notice)"
+   ],
+   [
+    "Frequency",
+    "50 Hz (Kuwait)"
+   ],
+   [
+    "Closing",
+    "19 Oct 2026"
+   ],
+   [
+    "GlobalTenders ref",
+    "GT 147972743"
+   ],
+   [
+    "Note",
+    "The notice's own 'Tender notice no. 76454545' and contact '565656565' are placeholders repeated on every GlobalTenders notice; they are not the buyer's tender number."
+   ]
+  ],
+  "detail": "GlobalTenders ref 147972743; product class 'Engine parts'.",
+  "proof_quote": "Kuwait National Petroleum Company Kuwait has Released a tender for SPARE PARTS FOR DIESEL ENGINES in Automobiles and Auto Parts. The tender was released on Oct 09, 2026. ... Deadline - Oct 19, 2026",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Humain / center3 Riyadh AI data centre, phase 1 (16.2 MW IT, 50 MW at phase 2): MEP package awarded to Hassan Allam / Sterling & Wilson JV, standby gensets to be bought",
+  "issuer": "Humain (PIF) and center3 (stc); contractor Hassan Allam Construction / Sterling & Wilson JV",
+  "country": "Saudi Arabia",
+  "portal": "MEED (guest.meed.com) news report; no public tender portal entry",
+  "tender_no": null,
+  "url": "https://guest.meed.com/hassan-allamsterling-wilson-jv-wins-200m-humain-data-centre/",
+  "doc_urls": [
+   "https://guest.meed.com/hassan-allamsterling-wilson-jv-wins-200m-humain-data-centre/"
+  ],
+  "published": "2026-10-06",
+  "closes": null,
+  "status": "upcoming",
+  "category": "Data centre",
+  "scope": "MEED reports the JV won an estimated SR750m (USD 200m) contract for the first phase: civil, architectural, MEP and infrastructure works, 16 months. Phase 1 has 16.2 MW IT load; both phases together give one 5 MW standard-density hall and four 11.2 MW high-density halls (50 MW). MEED does not name the standby gensets, but a data-centre hall needs diesel standby, which the MEP contractor normally buys. No genset award is reported (inference).",
+  "qty": "Not published (estimated 8-12 sets of about 2,500 kVA for phase 1; see basis)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 2400000,
+   "usd_high": 4600000,
+   "basis": "ESTIMATE, phase 1 only. 16.2 MW IT at PUE 1.3-1.4 gives 21-23 MW facility load; N+1 standby at 2,000-2,500 kWe per set is 9-12 sets. Priced at USD 280-380k per 2 MWe-class set including paralleling share, the same USD 280-380k per 2 MWe-class set used in the King Saud Air Base estimate in tenders_research.json. Phase 2 (to 50 MW) would add roughly 2.5x more and is excluded."
+  },
+  "tier": "high",
+  "tier_reason": "About USD 200m MEP contract for a 16.2 MW IT load; the genset share clearly exceeds USD 1M, and the MEP contractor is procuring now (16-month programme).",
+  "fit": {
+   "lean": "go",
+   "cummins_products": [
+    "60 Hz range for the Saudi grid (Cummins Arabia catalogue): DQCA 750 kVA, C800D6E 1,000 kVA, C1750D6E 2,188 kVA, C2000D6E / DQKAB / DQKAE 2,500 kVA, DQKAN / DQLC / DQLE 3,125 kVA, DQLF 3,438 kVA, C3000D6EB / C3000D6 3,750 kVA, C3500D6 4,375 kVA",
+    "C2000D6E / DQKAB / DQKAE for data-centre standby (Cummins data-centre rating)",
+    "PowerCommand paralleling switchgear and controls",
+    "Long-term service agreement"
+   ],
+   "why": "Sterling & Wilson and Hassan Allam are buying critical power now. Cummins Arabia has a Riyadh base and data-centre references; an early budget offer to the JV's MEP procurement team puts Cummins into the specification before the 16-month programme tightens."
+  },
+  "competitors_likely": [
+   "Caterpillar via Zahid Tractor",
+   "mtu (Rolls-Royce) via local packagers",
+   "Rehlko / Kohler",
+   "Generac"
+  ],
+  "requirements": [
+   [
+    "Contract value",
+    "SR750m (USD 200m), MEED estimate"
+   ],
+   [
+    "Contractor",
+    "Hassan Allam Construction (Egypt) / Sterling & Wilson (India) JV"
+   ],
+   [
+    "Programme",
+    "Phase 1: 16 months"
+   ],
+   [
+    "IT load",
+    "Phase 1 16.2 MW; total 50 MW"
+   ],
+   [
+    "Developers",
+    "Humain and center3 (stc)"
+   ],
+   [
+    "Report date",
+    "6 Oct 2026"
+   ]
+  ],
+  "detail": "This is a different project from the existing 'center3 DDC307 Dammam' (solutions, SAR 364m), the MIS 250 MW HUMAIN EPC, and the AirTrunk-HUMAIN 250 MW EPC. MEED text is open on the guest site.",
+  "proof_quote": "Hassan Allam Construction and India’s Sterling & Wilson have won an estimated SR750m ($200m) contract to build the first phase of a data centre project in Riyadh. ... an IT load capacity of 16.2MW",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Almoosa Hospital, Al-Khobar (380-bed tower plus 224-clinic tower): MEP contract awarded to BEC Arabia, standby power to be procured",
+  "issuer": "Almoosa Health Company; contractor BEC Arabia",
+  "country": "Saudi Arabia",
+  "portal": "MEED (guest.meed.com) news report; no public tender portal entry",
+  "tender_no": null,
+  "url": "https://guest.meed.com/contractor-wins-208m-almoosa-hospital-mep-contract/",
+  "doc_urls": [
+   "https://guest.meed.com/contractor-wins-208m-almoosa-hospital-mep-contract/"
+  ],
+  "published": "2026-09-23",
+  "closes": null,
+  "status": "upcoming",
+  "category": "Healthcare",
+  "scope": "BEC Arabia won a SR781m (USD 208m) contract for the mechanical, electrical and plumbing works at Almoosa Hospital, Al-Khobar: a 24-storey 380-bed in-patient tower and an 11-storey tower with 224 clinics and 113 treatment spaces, on a 45,000 sq m site. MEED does not itemise standby generators; a hospital of this size needs central diesel standby, which the MEP contractor buys (inference). Missed by the 30 Sep research (published 23 Sep).",
+  "qty": "Not published (estimated 3-5 sets of about 2,000 kVA)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 900000,
+   "usd_high": 2000000,
+   "basis": "ESTIMATE. About 600 beds plus 224 clinics: 5-8 MW critical load, N+1 standby = 3-5 x 2,000 kVA (60 Hz) at USD 250-350k per set plus ATS and paralleling. Cross-check: the 12 MoH hospital standby-power awards in awards.json run USD 4.0M-8.5M for the whole contract, with a genset share of USD 1.2M-3.6M per the Najran tender estimate."
+  },
+  "tier": "high",
+  "tier_reason": "SR781m MEP package for a new 600-bed-class hospital campus; genset share likely around USD 1M. Borderline high.",
+  "fit": {
+   "lean": "go",
+   "cummins_products": [
+    "60 Hz range for the Saudi grid (Cummins Arabia catalogue): DQCA 750 kVA, C800D6E 1,000 kVA, C1750D6E 2,188 kVA, C2000D6E / DQKAB / DQKAE 2,500 kVA, DQKAN / DQLC / DQLE 3,125 kVA, DQLF 3,438 kVA, C3000D6EB / C3000D6 3,750 kVA, C3500D6 4,375 kVA",
+    "C2000D6E 2,500 kVA hospital standby with PowerCommand paralleling and ATS",
+    "Service contract"
+   ],
+   "why": "Hospital standby is the core Cummins case. BEC Arabia is the buyer; approach its Eastern Province MEP procurement with a budget offer and a hospital reference list."
+  },
+  "competitors_likely": [
+   "Caterpillar via Zahid Tractor",
+   "Rehlko / Kohler via Abunayyan",
+   "mtu via local packagers",
+   "Perkins / FG Wilson packagers"
+  ],
+  "requirements": [
+   [
+    "Contract value",
+    "SR781m (USD 208m), reported by MEED"
+   ],
+   [
+    "Main contractor",
+    "BEC Arabia (also won the SR656m main construction contract in Nov 2025)"
+   ],
+   [
+    "Site",
+    "Al-Khobar, 45,000 sq m"
+   ],
+   [
+    "Report date",
+    "23 Sep 2026"
+   ]
+  ],
+  "detail": "Published before the 30 Sep cut-off but not in tenders_research.json, so added as a missed pursuit. Brand and genset scope not reported.",
+  "proof_quote": "BEC Arabia has won a SR781m ($208m) contract for the mechanical, electrical and plumbing (MEP) works at Almoosa Hospital in Al-Khobar.",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "Taiba University Hospital, Medina (563 beds): completion contract awarded to Al-Mansouria, MEP and standby power inside scope",
+  "issuer": "Taiba University Hospital project (client not named by MEED; a public-budget project); contractor Al-Mansouria General Contracting",
+  "country": "Saudi Arabia",
+  "portal": "MEED (guest.meed.com) news report; no public tender portal entry",
+  "tender_no": null,
+  "url": "https://guest.meed.com/contractor-wins-105m-medina-university-hospital-deal/",
+  "doc_urls": [
+   "https://guest.meed.com/contractor-wins-105m-medina-university-hospital-deal/"
+  ],
+  "published": "2026-09-22",
+  "closes": null,
+  "status": "upcoming",
+  "category": "Healthcare",
+  "scope": "Al-Mansouria won a SR396m (USD 105.6m) contract to complete the stalled 563-bed Taiba University Hospital (200,000+ sq m): structural completion, civil works, MEP installations, clinical fit-outs and medical gas. Three-year contract, delivery targeted for late 2029. MEED does not mention generators; standby power is part of MEP for a teaching hospital (inference). Missed by the 30 Sep research (published 22 Sep).",
+  "qty": "Not published (estimated 3-4 sets of about 2,000 kVA)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 500000,
+   "usd_high": 1800000,
+   "basis": "ESTIMATE. 563-bed teaching hospital of 200,000 sq m: 4-6 MW critical load, N+1 = 3-4 x 2,000 kVA at USD 250-350k per set. Low case: some standby plant was bought before the project stalled in 2013 and is reused."
+  },
+  "tier": "average",
+  "tier_reason": "Genset share around USD 0.5M-1.8M; the contractor buys MEP equipment over a 3-year programme, so the order lands later than the data-centre packages.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "60 Hz range for the Saudi grid (Cummins Arabia catalogue): DQCA 750 kVA, C800D6E 1,000 kVA, C1750D6E 2,188 kVA, C2000D6E / DQKAB / DQKAE 2,500 kVA, DQKAN / DQLC / DQLE 3,125 kVA, DQLF 3,438 kVA, C3000D6EB / C3000D6 3,750 kVA, C3500D6 4,375 kVA",
+    "C2000D6E hospital standby with PowerCommand paralleling and ATS"
+   ],
+   "why": "Long programme (delivery late 2029) means equipment orders come in 2027-2028. Register Cummins in Al-Mansouria's MEP vendor list now."
+  },
+  "competitors_likely": [
+   "Caterpillar via Zahid Tractor",
+   "Rehlko / Kohler",
+   "mtu via local packagers"
+  ],
+  "requirements": [
+   [
+    "Contract value",
+    "SR396m (USD 105.6m), reported by MEED"
+   ],
+   [
+    "Duration",
+    "3 years, delivery late 2029"
+   ],
+   [
+    "Site",
+    "King Khalid Road, Medina Third Ring Road"
+   ],
+   [
+    "Report date",
+    "22 Sep 2026"
+   ]
+  ],
+  "detail": "Published before the 30 Sep cut-off but not in tenders_research.json, so added as a missed pursuit.",
+  "proof_quote": "Al-Mansouria General Contracting Company has been awarded a SR396m ($105.6m) contract to complete the remaining construction works on the Taiba University Hospital project in Medina.",
+  "checked": "2026-10-13"
+ },
+ {
+  "title": "King Salman International Airport private aviation terminal, Riyadh: construction and MEP awarded to RTCC / IC Ictas JV",
+  "issuer": "King Salman International Airport Development Company (KSIADC); contractor Al-Rashid Trading & Contracting (RTCC) / IC Ictas JV",
+  "country": "Saudi Arabia",
+  "portal": "MEED (guest.meed.com) news report; no public tender portal entry",
+  "tender_no": null,
+  "url": "https://guest.meed.com/rtccictas-wins-214m-king-salman-airport-private-aviation-terminal/",
+  "doc_urls": [
+   "https://guest.meed.com/rtccictas-wins-214m-king-salman-airport-private-aviation-terminal/"
+  ],
+  "published": "2026-10-05",
+  "closes": null,
+  "status": "upcoming",
+  "category": "Transport",
+  "scope": "KSIADC awarded an estimated SR800m (USD 214m) contract to build the private aviation terminal: central courtyard, grand boulevard, parking, access-control checkpoints, logistics and ground-support facilities, internal roads, landscaping, plus all civil, structural, architectural and MEP works with testing and commissioning. MEED does not name generators; terminal and checkpoint standby power is part of MEP (inference). Separate from the SRA aviation complex already listed.",
+  "qty": "Not published (estimated 2-4 sets of about 1,500-2,500 kVA)",
+  "value_published": null,
+  "revenue_estimate": {
+   "usd_low": 400000,
+   "usd_high": 1500000,
+   "basis": "ESTIMATE. Private terminal plus checkpoints and support buildings: 3-6 MW standby, 2-4 sets at USD 200-350k each plus paralleling. Airport master-plan power may come from a central plant, which is the low case."
+  },
+  "tier": "average",
+  "tier_reason": "Genset share likely USD 0.4M-1.5M; terminal MEP is procured over the next 6-12 months.",
+  "fit": {
+   "lean": "maybe",
+   "cummins_products": [
+    "60 Hz range for the Saudi grid (Cummins Arabia catalogue): DQCA 750 kVA, C800D6E 1,000 kVA, C1750D6E 2,188 kVA, C2000D6E / DQKAB / DQKAE 2,500 kVA, DQKAN / DQLC / DQLE 3,125 kVA, DQLF 3,438 kVA, C3000D6EB / C3000D6 3,750 kVA, C3500D6 4,375 kVA",
+    "C1750D6E / C2000D6E with PowerCommand paralleling and ATS"
+   ],
+   "why": "Same airport programme as the SRA complex Cummins is already tracking. RTCC (Riyadh) is a local buyer with a short supply chain; one budget offer covers both packages."
+  },
+  "competitors_likely": [
+   "Caterpillar via Zahid Tractor",
+   "mtu via local packagers",
+   "Rehlko / Kohler",
+   "Perkins / FG Wilson packagers"
+  ],
+  "requirements": [
+   [
+    "Contract value",
+    "SR800m (USD 214m), MEED estimate"
+   ],
+   [
+    "Contractor",
+    "RTCC (Riyadh) / IC Ictas (Turkiye) JV"
+   ],
+   [
+    "Client",
+    "KSIADC"
+   ],
+   [
+    "Report date",
+    "5 Oct 2026"
+   ]
+  ],
+  "detail": "Different package from the 'Saudi Royal Aviation aviation complex (Phase 2)' tender already in tenders_research.json.",
+  "proof_quote": "Saudi Arabia’s King Salman International Airport Development Company (KSIADC) has awarded an estimated SR800m ($214m) construction contract to build the private aviation terminal.",
+  "checked": "2026-10-13"
+ }
+]

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# localhost-only dataset snapshot — production serves /api/dataset from Postgres, never this file
+public/api/
+# generated test / review outputs
+test-results/
+playwright-report/
+reports/
+public/photo_sample.html

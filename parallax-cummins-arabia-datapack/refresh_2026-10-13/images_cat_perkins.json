@@ -1,0 +1,184 @@
+{
+ "CATERPIL-P1": {
+  "file": "CATERPIL-P1.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20200528-13714-9c27d",
+  "page_url": "https://www.hawthornecat.com/item/c18-generator-set/",
+  "basis": "model",
+  "note": "Cat C18 generator set (Hawthorne Cat page, Cat image CDN)"
+ },
+ "CATERPIL-P2": {
+  "file": "CATERPIL-P2.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20191111-88cb4-23b44",
+  "page_url": "https://www.hawthornecat.com/item/c27-generator-set/",
+  "basis": "model",
+  "note": "Cat C27 generator set (Hawthorne Cat page, Cat image CDN)"
+ },
+ "CATERPIL-P3": {
+  "file": "CATERPIL-P3.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20211122-2d398-ee385",
+  "page_url": "https://www.hawthornecat.com/item/c32-50-hz/",
+  "basis": "series",
+  "note": "Cat C32 (50 Hz) generator set; the C32B is the same engine series"
+ },
+ "CATERPIL-P4": {
+  "file": "CATERPIL-P4.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20190212-24471-60719",
+  "page_url": "https://www.hawthornecat.com/item/3512b-50-hz/",
+  "basis": "model",
+  "note": "Cat 3512B 50 Hz generator set"
+ },
+ "CATERPIL-P5": {
+  "file": "CATERPIL-P5.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180806-17095-50145",
+  "page_url": "https://www.hawthornecat.com/item/3512c-generator-set/",
+  "basis": "model",
+  "note": "Cat 3512C generator set in sound-attenuated enclosure"
+ },
+ "CATERPIL-P6": {
+  "file": "CATERPIL-P6.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180801-16229-19345",
+  "page_url": "https://www.hawthornecat.com/item/3516b-50-hz/",
+  "basis": "model",
+  "note": "Cat 3516B 50 Hz generator set"
+ },
+ "CATERPIL-P7": {
+  "file": "CATERPIL-P7.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20240311-0d0ae-56643",
+  "page_url": "https://www.hawthornecat.com/item/3516c-60hz/",
+  "basis": "model",
+  "note": "Cat 3516C 60 Hz generator set in sound-attenuated enclosure"
+ },
+ "CATERPIL-P8": {
+  "file": "CATERPIL-P8.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180807-14762-28254",
+  "page_url": "https://www.hawthornecat.com/item/3516e-generator-set/",
+  "basis": "model",
+  "note": "Cat 3516E generator set"
+ },
+ "CATERPIL-P9": {
+  "file": "CATERPIL-P9.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180807-14762-28254",
+  "page_url": "https://www.hawthornecat.com/item/3516e-generator-set/",
+  "basis": "model",
+  "note": "Cat 3516E generator set (same image as P8; open set shown)"
+ },
+ "CATERPIL-P10": {
+  "file": "CATERPIL-P10.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180807-14762-28254",
+  "page_url": "https://www.hawthornecat.com/item/3516e-generator-set/",
+  "basis": "model",
+  "note": "Cat 3516E generator set (same image as P8)"
+ },
+ "CATERPIL-P11": {
+  "file": "CATERPIL-P11.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180920-37030-64320",
+  "page_url": "https://www.hawthornecat.com/item/c175-16-generator-set/",
+  "basis": "model",
+  "note": "Cat C175-16 generator set"
+ },
+ "CATERPIL-P12": {
+  "file": "CATERPIL-P12.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180920-37030-64320",
+  "page_url": "https://www.hawthornecat.com/item/c175-16-generator-set/",
+  "basis": "series",
+  "note": "Cat C175-16 shown; C175-20 is the larger size of the same series"
+ },
+ "CATERPIL-P13": {
+  "file": "CATERPIL-P13.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20180920-37030-64320",
+  "page_url": "https://www.hawthornecat.com/item/c175-16-generator-set/",
+  "basis": "series",
+  "note": "Cat C175-16 shown; C175-20 is the larger size of the same series"
+ },
+ "CATERPIL-P14": {
+  "file": "CATERPIL-P14.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20230214-77cbf-a1c4d",
+  "page_url": "https://www.hawthornecat.com/item/g3516/",
+  "basis": "series",
+  "note": "Cat G3516 1500 kW gas generator set; G3516H is the same 3500 gas family"
+ },
+ "CATERPIL-P15": {
+  "file": "CATERPIL-P15.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20240830-2e2d3-ab4f1",
+  "page_url": "https://www.hawthornecat.com/item/g3520k/",
+  "basis": "model",
+  "note": "Cat G3520K gas generator set"
+ },
+ "CATERPIL-P16": {
+  "file": "CATERPIL-P16.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20210126-a6309-f884f",
+  "page_url": "https://www.hawthornecat.com/item/cg260-16/",
+  "basis": "model",
+  "note": "Cat CG260-16 gas generator set (staged on a plant-room backdrop)"
+ },
+ "CATERPIL-P17": {
+  "file": "CATERPIL-P17.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/CM20250121-05d4b-0cba1",
+  "page_url": "https://www.warrencat.com/new/power-systems/electric-power/diesel-generator-sets/c32b-d1500-generator-set/",
+  "basis": "model",
+  "note": "Cat D1500 (C32B D1500) generator set, unit is labelled D1500 (Warren Cat dealer page)"
+ },
+ "PERKINSF-P1": {
+  "file": "PERKINSF-P1.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466862",
+  "page_url": "https://www.fgwilson.com.sg/product/p1825-p2000e/",
+  "basis": "model",
+  "note": "FG Wilson P2500-3 genset (fgwilson.com.sg page titled P2500-3; same image as the P2250-3 page)"
+ },
+ "PERKINSF-P2": {
+  "file": "PERKINSF-P2.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466862",
+  "page_url": "https://geniwatt.fr/en/product/p2250-3/",
+  "basis": "model",
+  "note": "FG Wilson P2250-3 page (GeniWatt, FG Wilson dealer); shares its image with P2500-3"
+ },
+ "PERKINSF-P3": {
+  "file": "PERKINSF-P3.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466866",
+  "page_url": "https://geniwatt.fr/en/product/p1100-1/",
+  "basis": "series",
+  "note": "FG Wilson P1100-1 shown; P1650-1 is the larger Large Range set (same family)"
+ },
+ "PERKINSF-P4": {
+  "file": "PERKINSF-P4.jpg",
+  "image_url": "https://s7d2.scene7.com/is/image/Caterpillar/C10466866",
+  "page_url": "https://geniwatt.fr/en/product/p1100-1/",
+  "basis": "model",
+  "note": "FG Wilson P1100-1 genset (GeniWatt, FG Wilson dealer)"
+ },
+ "PERKINSF-P5": {
+  "file": "PERKINSF-P5.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-27388-47363",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002720.html",
+  "basis": "model",
+  "note": "Perkins 4016-61TRG engine photo from the official Perkins spec sheet (PDF on Caterpillar CDN); the TRG3 is the 4016-61TRG engine"
+ },
+ "PERKINSF-P6": {
+  "file": "PERKINSF-P6.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-328e2-922da",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002696.html",
+  "basis": "model",
+  "note": "Perkins 4012-46TAG engine photo from the official Perkins spec sheet (PDF on Caterpillar CDN)"
+ },
+ "PERKINSF-P7": {
+  "file": "PERKINSF-P7.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-328e2-922da",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002696.html",
+  "basis": "model",
+  "note": "Perkins 4012-46TAG engine photo from the official Perkins spec sheet (PDF on Caterpillar CDN)"
+ },
+ "PERKINSF-P8": {
+  "file": "PERKINSF-P8.jpg",
+  "image_url": "https://www.spectrumfes.com/images/perkins/2806a-e18tag/large_2806a-e18tag.webp",
+  "page_url": "https://www.spectrumfes.com/en/products/perkins/generators/2806a-e18tag",
+  "basis": "model",
+  "note": "Perkins 2806A-E18TAG engine with radiator, from Spectrum FES (Perkins engine reseller); perkins.com returns 403"
+ },
+ "PERKINSF-P9": {
+  "file": "PERKINSF-P9.jpg",
+  "image_url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20200428-27388-47363",
+  "page_url": "https://www.perkins.com/en_GB/products/new/perkins/electric-power-generation/diesel-engines/1000002720.html",
+  "basis": "family",
+  "note": "Perkins large V16 power-generation engine (4016-61TRG, 4000 Series); no 5016AC photo reachable, 5000 Series is its bigger sibling"
+ }
+}

@@ -1,0 +1,464 @@
+[
+ {
+  "_i": 0,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 1,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 2,
+  "verdict": "fix",
+  "problem": "ANALYSIS overreach: page says nothing about Cat prioritising large sets at the expense of mid-size Gulf business; that is unlabelled speculation. Quote, date (8 Oct), 5.75%/$813.83, 2029-2030 turbine orders all match.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 3,
+  "verdict": "unreachable",
+  "problem": "tradingkey.com returned a Human Verification (AWS WAF) challenge; not bypassed.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 4,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 5,
+  "verdict": "ok",
+  "problem": "Same release as item 60; consider merging.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 6,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 7,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 8,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 9,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 10,
+  "verdict": "fix",
+  "problem": "ANALYSIS unsupported: page never says demand is led by US, China and Asia Pacific data centres (no mention of China/Asia). Description numbers (record $9.5bn, 10-13% guidance, Power Systems +19%, Circe, BESS) all match; date 10 Sep correct (page also shows later stock-price stamps).",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 11,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 12,
+  "verdict": "ok",
+  "problem": "Weak date: page says \"Updated September 27, 2026\" and datePublished/dateModified metadata are identical (2026-09-27T00:00), so original publish date is unproven; event itself is 2 Sep. Secondary analysis site (vision2030.ai), still in window. 14 GW claim attributed on page to Saudi Gazette 12 Sep.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 13,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 14,
+  "verdict": "ok",
+  "problem": "Same BusinessWire release as item 58 (EquipmentShare/Cummins 1 GW); consider merging.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 15,
+  "verdict": "fix",
+  "problem": "SOURCE mislabelled: tcap.blog is \"The Cummins Accountability Project\", a polemical critic blog (profanity, byline Lee Thompson), not an analyst note; the numbers are restated from Cummins Investor Day. Quote, date (2 Oct) and figures match the page; the \"first additions go to US hyperscalers\" part of the analysis is not on the page. Prefer the primary Cummins Investor Day source or label as critic blog.",
+  "fixed_date": null,
+  "fixed_description": "Critic blog TCAP (The Cummins Accountability Project, 2 Oct 2026) restates Cummins Investor Day figures: USD 450m to add 20 GW of high-horsepower engine and generator capacity, taking planned capacity to 55 GW by 2030; data-centre revenue about USD 5bn at the 2026 guidance midpoint, rising above USD 9bn by 2030. It also cites Goldman Sachs: only 50-60% of scheduled near-term US data-centre capacity arrives on time."
+ },
+ {
+  "_i": 16,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 17,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 18,
+  "verdict": "fix",
+  "problem": "QUOTE not verbatim: page says \"it is not described by Generac as a guaranteed $8 billion order\" / \"That is not the same thing as an $8 billion guaranteed order\". Analysis \"only $2.4bn is firm\" overreaches: page says $2.4bn is expected initial deliveries, not a committed order. Date 17 Sep 2026 correct.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 19,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 20,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 21,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 22,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 23,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 24,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 25,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 26,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 27,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 28,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 29,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 30,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 31,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 32,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 33,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 34,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 35,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 36,
+  "verdict": "fix",
+  "problem": "ANALYSIS premise unsupported: page says nothing about \"no large new generation online before 2027-28\" or a stressed grid; it only says the KD5.52m (5.520m dinars) cable maintenance in northern and southern regions prepares for summer 2027 peak. Quote, date (8 Oct) and numbers match.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 37,
+  "verdict": "fix",
+  "problem": "ANALYSIS overreach: the page lists substations, bulk supply point, roads, water, cabling; backup power/generators are not in scope, so \"ECI route means backup-power concepts are set early\" is inference. Reword as: ECI award for infrastructure only; genset package is separate, approach Humain and Al-Yamama on standby power. Quote/date/numbers match (24 Sep 2026); page does not state value (none given).",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 38,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 39,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 40,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 41,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 42,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 43,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 44,
+  "verdict": "fix",
+  "problem": "Description presents 467MW as current; page says \"from 68MW in 2021 to more than 467MW in the first quarter of 2025\". Analysis \"grown nearly sevenfold since 2021\" is true only to Q1 2025. Quote (generic Accenture/AWS line), date 1 Sep, December region launch, $5.3bn, 50MW AI Zone by 2028 and Humain 6GW by 2034 all match.",
+  "fixed_date": null,
+  "fixed_description": "The National reports AWS's first Saudi cloud region launches in December with planned investment above $5.3bn, and AWS and Humain plan up to 50MW in a dedicated AI Zone by 2028. Saudi operational data-centre capacity rose from 68MW in 2021 to more than 467MW in Q1 2025, with Humain targeting about 6GW by 2034."
+ },
+ {
+  "_i": 45,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 46,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 47,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 48,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 49,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 50,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 51,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 52,
+  "verdict": "fix",
+  "problem": "Description says \"up to 1,939 kW\" but the Rolls-Royce page gives no kW rating at all; remove it. Everything else matches (1 Oct 2026, ILA for mtu Series 2000 marine engines, builds on Nov 2023 FLA, MAKEEN = Saudi Aramco/HD Hyundai/Dussur, rail to follow). Quote is a generic executive line.",
+  "fixed_date": null,
+  "fixed_description": "Rolls-Royce Power Systems signed an Individual License Agreement with Saudi Engines Manufacturing Company (MAKEEN; Aramco, HD Hyundai, Dussur) for local manufacture and assembly of mtu Series 2000 marine engines, building on a November 2023 framework agreement. No volumes, investment or start date are disclosed; rail is named as the next target after marine."
+ },
+ {
+  "_i": 53,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 54,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 55,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 56,
+  "verdict": "ok",
+  "problem": "Page returned 403 to curl; content confirmed through WebFetch only. Byline \"Datacentres.com Research\", wording \"order backlogs/OEM order books\" per fetch summary.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 57,
+  "verdict": "ok",
+  "problem": "Duplicate of item 16 (same Generac-Amazon 8-K); consider merging.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 58,
+  "verdict": "ok",
+  "problem": "Same release as item 14; consider merging.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 59,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 60,
+  "verdict": "ok",
+  "problem": "Duplicate coverage of the same Cat G3500K Kazakhstan release as item 5 (different outlet, 13 Oct vs 7 Oct); consider merging.",
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 61,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 62,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 63,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 64,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ },
+ {
+  "_i": 65,
+  "verdict": "ok",
+  "problem": null,
+  "fixed_date": null,
+  "fixed_description": null
+ }
+]

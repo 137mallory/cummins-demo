@@ -1,0 +1,24 @@
+{
+ "areas": [
+  "Hydrogen & Hydrogen-Blend Engines",
+  "Hybrid Diesel + Battery Energy Storage",
+  "Gas & Dual-Fuel Gensets",
+  "Alternative & Renewable Fuel Flexibility",
+  "Compact Design & Power Density",
+  "Controls, Paralleling & Switchgear",
+  "Manufacturing Capacity & Localisation",
+  "Emissions Compliance & Aftertreatment",
+  "High-Ambient Thermal Management",
+  "Data Centre Continuous & Prime Power"
+ ],
+ "competitors": {
+  "CATERPIL": "Caterpillar",
+  "ROLLSROY": "Rolls-Royce Power Systems (mtu)",
+  "REHLKO": "Rehlko (Kohler / SDMO)",
+  "MITSUBIS": "Mitsubishi MHIET (MGS)",
+  "WEICHAIB": "Weichai / Baudouin",
+  "PERKINSF": "Perkins / FG Wilson",
+  "GENERAC": "Generac",
+  "VOLVOPEN": "Volvo Penta"
+ }
+}

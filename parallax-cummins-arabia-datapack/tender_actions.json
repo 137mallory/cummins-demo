@@ -1,0 +1,80 @@
+{
+ "King Saud Air Base, Hafr Al-Batin: Phase Two design-and-build (buildings, power generation, water/wastewater pumping stations, fibre)": [
+  {
+   "do": "Get the MEP spec and vendor list from Dar AlRiyadh (consultant)",
+   "due": "2026-10-03",
+   "why": "Phase 2 scope names power generation; bids close 20 Oct"
+  },
+  {
+   "do": "Send 60 Hz budget quotes to Kabbani/Alfanar, Albawani, Shibh Al-Jazira, Alghanim",
+   "due": "2026-10-06",
+   "why": "Phase 1 winners are the likely Phase 2 bidders"
+  }
+ ],
+ "Saudi Royal Aviation aviation complex (Phase 2) at King Salman International Airport, Riyadh: design-and-build of 45 landside/airside buildings, hangars and site utilities": [
+  {
+   "do": "Obtain the electrical design basis and send budget quotes to the airport-site contractors",
+   "due": "2026-10-06",
+   "why": "Design-and-build; bids close 8 Oct, brand chosen after award"
+  }
+ ],
+ "Expo 2030 Riyadh: Souq areas package (five precincts, ~300,000 m2, vertical elements, infrastructure and public realm)": [
+  {
+   "do": "Ask ERC for the Souq MEP spec; quote Nesma, Al-Yamama, El Seif, Almabani, China State",
+   "due": "2026-10-07",
+   "why": "Bids close 9 Oct; standby only (400 MW grid supply)"
+  }
+ ],
+ "Dubai Metro Gold Line (42 km fully underground, 18 stations): design-build prequalification for civil, electromechanical, rolling stock and rail systems (station/depot emergency-power scope inside E&M)": [
+  {
+   "do": "Brief Aecom (RTA consultant) so the genset spec stays brand-neutral",
+   "due": "2026-10-09",
+   "why": "Pre-qualification closes 9 Oct; Cat is the incumbent on the original metro"
+  }
+ ],
+ "Dorra (Al-Durra) field onshore gas-processing facilities near Al-Zour: main EPC tender (emergency diesel generator / black-start / diesel fire-water pump scope inside utilities)": [
+  {
+   "do": "Register on the KPC approved-manufacturer list (Central Prequalification, KTendering)",
+   "due": "2026-10-14",
+   "why": "Contractors' meeting 14 Oct; bids close 29 Dec"
+  },
+  {
+   "do": "Send budget offers to the seven EPC bidders",
+   "due": "2026-12-01",
+   "why": "Samsung E&A, L&T, Tecnicas Reunidas, Saipem, Hyundai E&C, Hyundai Eng., JGC"
+  }
+ ],
+ "Replacement and provision of backup electrical power sources, Maternity and Children Hospital, Najran (إحلال وتأمين مصادر التغذية الإحتياطية الكهربائية لمستشفى الولادة والأطفال بنجران)": [
+  {
+   "do": "Buy the Etimad booklet (SAR 1,000) to get the BOQ and see who bought it",
+   "due": "2026-10-03",
+   "why": "Bids close 15 Oct; award expected 10 Jan 2027"
+  },
+  {
+   "do": "Send one turnkey price to every serious bidder, Al-Rashid group first",
+   "due": "2026-10-06",
+   "why": "Al-Rashid won 6 of the 12 past MoH programme awards"
+  }
+ ],
+ "Replacement and provision of backup power sources, Hawtat Bani Tamim General Hospital, Riyadh region (إحلال وتأمين مصادر التغذية الإحتياطية لمستشفى حوطة بني تميم بالرياض)": [
+  {
+   "do": "Buy the Etimad booklet (SAR 1,000); questions close 8 Oct",
+   "due": "2026-10-08",
+   "why": "Bids close 18 Oct; sister tender of Najran"
+  }
+ ],
+ "Upgradation of standby generators at DEWA Distribution Control Centres, Al Qusais (plot 232-552) and Warsan Second (plot 622-159)": [
+  {
+   "do": "Confirm the engine Precision Industries quoted and lock its price",
+   "due": "2026-10-10",
+   "why": "Award pending; Precision is an authorised Cummins partner among the 7 bidders"
+  }
+ ],
+ "NWC LTOM14 Eastern A Cluster: upgrade, expansion and long-term O&M of six sewage treatment plants (Eastern Province)": [
+  {
+   "do": "Confirm Cummins is on all three bidders' vendor lists; agree an engine deal with Gulf Power",
+   "due": "2026-10-15",
+   "why": "Bids closed 30 Sep; Alkhorayef's Gulf Power already packages Cummins engines"
+  }
+ ]
+}

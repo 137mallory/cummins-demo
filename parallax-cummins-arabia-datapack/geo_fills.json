@@ -1,0 +1,153 @@
+{
+ "_note": "Footprint rows researched 2026-10-14 (web search). Where a page could not be opened the row says so in srcnote.",
+ "fills": [
+  {
+   "cid": "VOLVOPEN",
+   "country": "United Arab Emirates",
+   "replace": {
+    "name": "Dealer branch · city n/d"
+   },
+   "row": {
+    "name": "Dealer branch · Abu Dhabi",
+    "c": "sv",
+    "val": "Al Masaood Power Division (Al Masaood LLC)",
+    "since": "1972",
+    "qty": "Abu Dhabi",
+    "stage": "Dealer branch",
+    "note": "UAE distributor of Volvo Penta engines since 1972, per Al Masaood's own press release. The division also carries mtu and Leroy-Somer, and states a power generation range from almost 70 kVA to almost 4,000 kVA across its brands (UAE and Bahrain). Volvo Penta's dealer locator was not checked.",
+    "src": "src",
+    "srcnote": "masaood.com press release (2019), read from a web search result; page not opened",
+    "srcs": [
+     {
+      "label": "masaood.com",
+      "url": "https://masaood.com/en/media-centre/press-releases/al-masaood-continues-long-term-association-with-middle-east-electricity-at-2019-edition"
+     }
+    ]
+   }
+  },
+  {
+   "cid": "VOLVOPEN",
+   "country": "United Arab Emirates",
+   "note_replace": {
+    "match": "tracked range",
+    "old": "Channel: Not verified.",
+    "new": "Channel: Al Masaood Power Division (Abu Dhabi)."
+   }
+  },
+  {
+   "cid": "VOLVOPEN",
+   "country": "Saudi Arabia",
+   "add": {
+    "name": "Importer and genset assembly · Riyadh",
+    "c": "lp",
+    "val": "Alkhorayef Group (Alkhorayef Industries, Gulf Power gensets)",
+    "since": "n/d",
+    "qty": "Riyadh",
+    "stage": "Genset assembly (importer)",
+    "note": "Alkhorayef is Volvo Penta's importer in Saudi Arabia (more than 45,000 heavy diesel engines delivered over three decades, per Volvo Group). Its Gulf Power gensets use Volvo Penta and John Deere engines with Stamford alternators, assembled at its Riyadh plant. The sources are dated 2001 to 2014; the current arrangement was not confirmed.",
+    "src": "src",
+    "srcnote": "Volvo Group news (2001) and trade press (2014), read from a web search result; pages not opened",
+    "srcs": [
+     {
+      "label": "volvogroup.com",
+      "url": "https://www.volvogroup.com/en/news-and-media/news/2001/jan/news-20556.html"
+     },
+     {
+      "label": "bestmag.co.uk",
+      "url": "https://www.bestmag.co.uk/saudi%C2%92s-alkhorayef-group-signs-qatar-distribution-deal/"
+     }
+    ]
+   }
+  },
+  {
+   "cid": "WEICHAIB",
+   "country": "United Arab Emirates",
+   "add": {
+    "name": "Dealer branch · Dubai (Jebel Ali Freezone)",
+    "c": "sv",
+    "val": "Weichai U.A.E. (official Baudouin partner)",
+    "since": "n/d",
+    "qty": "Dubai (Jebel Ali Freezone)",
+    "stage": "Dealer branch",
+    "note": "Baudouin's partner page lists PowerGen Sales, PowerGen Service and Spare Parts at P.O. Box 18698, Warehouse No. LA04, RA08, Jebel Ali Freezone, Dubai.",
+    "src": "src",
+    "srcnote": "Baudouin partner page, opened 2026-10-14",
+    "srcs": [
+     {
+      "label": "baudouin.com",
+      "url": "https://baudouin.com/?p=85517"
+     }
+    ]
+   }
+  },
+  {
+   "cid": "WEICHAIB",
+   "country": "Kuwait",
+   "replace": {
+    "name": "Dealer branch · city n/d"
+   },
+   "row": {
+    "name": "Dealer branch · Al-Faiha",
+    "c": "sv",
+    "val": "Al-Abrak International Power Systems Co. (AIPS)",
+    "since": "n/d",
+    "qty": "Al-Faiha",
+    "stage": "Dealer branch",
+    "note": "Listed as a Baudouin partner for PowerGen Service and Spare Parts (no sales listed), P.O. Box 14077, 13001 Al-Faiha. AIPS is a Kuwaiti firm (subsidiary of Al-Abrak Al-Kuwaitia General Trading and Contracting, capital KD 2m) that also distributes Capstone and other brands. No Weichai-owned Kuwait site was found.",
+    "src": "src",
+    "srcnote": "Baudouin partner listing and distributor directories, read from a web search result; Baudouin page not opened",
+    "srcs": [
+     {
+      "label": "capstonegreenenergy.com",
+      "url": "https://www.capstonegreenenergy.com/distributors/distributor-listing/profile/10573/al-abrak-international-power-systems-co-aips"
+     },
+     {
+      "label": "mustakbil.com",
+      "url": "https://kw.mustakbil.com/companies/company/134860"
+     }
+    ]
+   }
+  },
+  {
+   "cid": "PERKINSF",
+   "country": "Kuwait",
+   "replace": {
+    "name": "Dealer branch · city n/d"
+   },
+   "row": {
+    "name": "Dealer branch · Kuwait Free Trade Zone",
+    "c": "sv",
+    "val": "Jubaili Bros",
+    "since": "n/d",
+    "qty": "Kuwait Free Trade Zone",
+    "stage": "Dealer branch",
+    "note": "Jubaili Bros states a Kuwait Free Trade Zone branch covering the Kuwait market and Southern Iraq; a third-party listing also gives Shuwaikh Industrial 2, Block 1. Jubaili's generators are Perkins-powered; its own FG Wilson dealership ran 1982 to 2009 and was Lebanese.",
+    "src": "src",
+    "srcnote": "Company pages and a directory, read from a web search result; pages not opened",
+    "srcs": [
+     {
+      "label": "jubailibros.com",
+      "url": "https://jubailibros.com/pages/our-history"
+     },
+     {
+      "label": "craft.co",
+      "url": "https://craft.co/jubaili-bros"
+     }
+    ]
+   }
+  },
+  {
+   "cid": "Cummins Arabia",
+   "country": "Kuwait",
+   "note_replace": {
+    "match": "Dealer branch · Kuwait",
+    "old": "branch address not verified from a public source.",
+    "new": "branch address not verified from a public source. Cummins Kuwait's official launch was announced on 20 Jul 2021 as a Cummins Arabia subsidiary taking over from GTE, which is later than the 2017 fold-in this row first gave."
+   },
+   "add_src": {
+    "label": "miningweekly.com",
+    "url": "https://www.miningweekly.com/article/cummins-arabia-announces-the-official-launch-of-cummins-kuwait-2021-07-20"
+   }
+  }
+ ]
+}

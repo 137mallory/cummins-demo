@@ -1,0 +1,22 @@
+[
+ {
+  "match": "/2026/10/08103617/CTT",
+  "reason": "fxleaders: the Caterpillar logo on a green tile (every size of it), not a picture of the story"
+ },
+ {
+  "match": "CCSEL_Date_UK_2025",
+  "reason": "singaporetechnologyweek: the event's own date banner, not the article's picture"
+ },
+ {
+  "match": "d1d1cc80-07fb-434c-a68e-8b22e5954b94",
+  "reason": "tcap.blog: an illustration of a book titled 'Cummins Confidential', not a picture of the story"
+ },
+ {
+  "match": "cdn.asp.events",
+  "reason": "event-platform template artwork"
+ },
+ {
+  "match": "kalkinemedia.com/storage/uploads/original/mceclip",
+  "reason": "kalkinemedia: an advertisement tile inside the article body"
+ }
+]

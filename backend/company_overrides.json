@@ -1,0 +1,968 @@
+{
+ "adani-defence": {
+  "starting_year": 2015,
+  "hq": "Ahmedabad, Gujarat, India",
+  "global_locations": [
+   "India",
+   "Kanpur (Uttar Pradesh) & Hyderabad (Telangana)"
+  ],
+  "sector": "small arms, unmanned aerial systems (UAVs), counter-drone systems, loitering munitions, missiles, ammunition, aircraft services / MRO"
+ },
+ "aerovironment": {
+  "starting_year": 1971,
+  "hq": "Arlington, Virginia, United States",
+  "global_locations": [
+   "United States"
+  ],
+  "company_size": "4,091 employees as of April 30, 2026 (3,991 full-time + 100 part-time)",
+  "sales": {
+   "text": "$1,976.8 million",
+   "fy": "FY2026 (year ended April 30, 2026)",
+   "srcs": [
+    "https://www.sec.gov/Archives/edgar/data/1368622/000110465926078824/avav-20260629xex99d1.htm"
+   ]
+  },
+  "sector": "Defense technology across air, land, sea, space and cyber: uncrewed/autonomous systems (UAVs), precision strike, counter-UAS, space, directed energy, electronic/cyber warfare"
+ },
+ "anduril": {
+  "starting_year": 2017,
+  "hq": "Costa Mesa, California, United States",
+  "global_locations": [
+   "United States",
+   "Australia",
+   "Taiwan",
+   "South Korea",
+   "US: Costa Mesa CA (HQ) and Arsenal-1 OH; Australia: Sydney"
+  ],
+  "company_size": "~8,560 employees as of Mar 2026 (Revelio Labs estimate)",
+  "sales": {
+   "text": "$2.2 billion",
+   "fy": "2025",
+   "srcs": [
+    "https://www.defensenews.com/industry/techwatch/2026/07/24/anduril-in-talks-to-raise-funding-at-about-100-billion-valuation/"
+   ]
+  },
+  "sector": "Unmanned/autonomous systems, counter-UAS, command-and-control software (Lattice); missiles/interceptors"
+ },
+ "bae-systems": {
+  "starting_year": 1999,
+  "hq": "London, United Kingdom",
+  "global_locations": [
+   "United Kingdom",
+   "United States",
+   "Australia",
+   "Saudi Arabia",
+   "40+ countries worldwide (major markets)"
+  ],
+  "company_size": "111,400 (year ended 31 December 2025, including share of employees of equity accounted investments)",
+  "sales": {
+   "text": "£30,662m (£30.7 billion) sales",
+   "fy": "FY2025 (year ended 31 December 2025)",
+   "srcs": [
+    "https://www.baesystems.com/dam/jcr:430d3195-c990-4bd5-ac85-ec5588380dbf/FY-2025-Preliminary-Results-Announcements-FINAL.2026-02-18-09-10-25.pdf"
+   ]
+  },
+  "sector": "Defence, aerospace and security across land, sea, air, cyber and space (naval, combat vehicles, aerospace/air, munitions)"
+ },
+ "babcock": {
+  "starting_year": 1891,
+  "hq": "London, United Kingdom",
+  "global_locations": [
+   "United Kingdom",
+   "Australasia",
+   "Canada",
+   "France",
+   "South Africa"
+  ],
+  "company_size": "Marine c.7,300, Nuclear c.10,000, Land c.6,300 (FY2025, by sector)",
+  "sales": {
+   "text": "£4,831.3m",
+   "fy": "FY2025",
+   "srcs": [
+    "https://www.investegate.co.uk/announcement/rns/babcock-international-group--bab/preliminary-results-for-the-year-ended-31-03-2025-/8946227"
+   ]
+  },
+  "sector": "Marine, Nuclear, Land, Aviation (defence engineering & support)"
+ },
+ "bharat-dynamics": {
+  "starting_year": 1970,
+  "hq": "Hyderabad, Telangana, India",
+  "global_locations": [
+   "India"
+  ],
+  "company_size": "2,269 employees (as on 31 March 2025)",
+  "sales": {
+   "text": "₹3,345 crore",
+   "fy": "FY2024-25",
+   "srcs": [
+    "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/02092025/bbd6657e-c154-458b-b943-cc30b0d9e581.pdf"
+   ]
+  },
+  "sector": "Missiles & air defence (guided missiles, underwater weapons, airborne products)"
+ },
+ "brahmos-aerospace": {
+  "starting_year": 1998,
+  "hq": "New Delhi, India",
+  "global_locations": [
+   "India",
+   "Russia"
+  ],
+  "company_size": "Not publicly disclosed in reliable current consolidated reporting located in this pass",
+  "sector": "Missiles & air defence (supersonic cruise missiles)"
+ },
+ "diehl-defence": {
+  "hq": "Überlingen, Germany",
+  "global_locations": [
+   "Germany",
+   "France",
+   "Thailand",
+   "United Arab Emirates"
+  ],
+  "company_size": "5,406 employees",
+  "sales": {
+   "text": "€2,331 million",
+   "fy": "2025",
+   "srcs": [
+    "https://new.diehl.com/defence/en/company/facts-and-figures"
+   ]
+  },
+  "sector": "Missiles & air defence, naval guns/ammunition, UAVs & drones, precision components & forgings",
+  "starting_year": 1902
+ },
+ "elbit-systems": {
+  "starting_year": 1966,
+  "hq": "Haifa, Israel",
+  "global_locations": [
+   "Israel",
+   "United States",
+   "Canada",
+   "Brazil",
+   "United Kingdom",
+   "Sweden",
+   "Finland",
+   "Netherlands",
+   "Germany",
+   "Austria",
+   "Switzerland",
+   "Hungary",
+   "Romania",
+   "United Arab Emirates",
+   "India",
+   "Australia"
+  ],
+  "company_size": "Over 21,000 employees",
+  "sales": {
+   "text": "$7,938.6 million",
+   "fy": "2025",
+   "srcs": [
+    "https://www.elbitsystems.com/news/elbit-systems-reports-fourth-quarter-and-full-year-2025-results"
+   ]
+  },
+  "sector": "Airborne/aerospace defense, Land systems, Naval systems, C4ISR & intelligence, Cyber & electronic warfare (EW), Unmanned/autonomous systems, Precision munitions, Space & satellite defense, Homeland security"
+ },
+ "general-dynamics": {
+  "starting_year": 1952,
+  "hq": "Reston, Virginia, United States",
+  "global_locations": [
+   "United States",
+   "Canada",
+   "United Kingdom",
+   "Spain",
+   "Switzerland",
+   "Austria",
+   "Germany",
+   "Romania"
+  ],
+  "company_size": "approximately 117,000 employees",
+  "sales": {
+   "text": "$47.7 billion",
+   "fy": "2024",
+   "srcs": [
+    "https://www.sec.gov/Archives/edgar/data/40533/000004053325000003/gd-20241231exhibit991.htm"
+   ]
+  },
+  "sector": "Aerospace, Marine Systems, Combat Systems and Technologies"
+ },
+ "israel-aerospace-industries": {
+  "starting_year": 1953,
+  "hq": "Lod, Israel",
+  "global_locations": [
+   "Israel",
+   "North America (United States)",
+   "Brazil",
+   "Colombia",
+   "India",
+   "South Korea",
+   "Germany"
+  ],
+  "company_size": "14,638 employees (2024)",
+  "sales": {
+   "text": "about USD 7,384 million",
+   "fy": "2025",
+   "srcs": [
+    "https://www.iai.co.il/press/iai-annual-financial-results-for-2025/"
+   ]
+  },
+  "sector": "Aerospace and Defense; systems across sea, air, land, space, and cyber domains, for defense and commercial markets"
+ },
+ "hanwha-aerospace": {
+  "starting_year": 1977,
+  "hq": "Changwon, South Korea",
+  "global_locations": [
+   "South Korea",
+   "United States",
+   "Australia",
+   "Europe",
+   "Middle East",
+   "Vietnam"
+  ],
+  "company_size": "7,659 (as of 31 Dec 2024)",
+  "sales": {
+   "text": "KRW 11.2401 trillion",
+   "fy": "2024",
+   "srcs": [
+    "https://m.hanwhaaerospace.com/assets/content/esg/sustainBusiness/download/en/HanwhaAerospace_SustainabilityReport_2025_ENG.pdf"
+   ]
+  },
+  "sector": "Aviation (aircraft engines and parts, aircraft machinery), defense (military equipment and precision-guided weapons), aerospace (Korean launch vehicle)"
+ },
+ "idv": {
+  "starting_year": 1937,
+  "hq": "Bolzano, Italy",
+  "global_locations": [
+   "Italy",
+   "Germany",
+   "Romania",
+   "Brazil"
+  ],
+  "company_size": "Approximately 2,000 employees",
+  "sales": {
+   "text": "EUR 1,368 million",
+   "fy": "2025",
+   "srcs": [
+    "https://www.leonardo.com/en/press-release-detail/-/detail/18-03-2026-leonardo-completes-the-acquisition-of-iveco-group-s-defence-business"
+   ]
+  },
+  "sector": "Land defence: light and medium armoured vehicles, heavy armoured platforms, logistic and tactical military vehicles"
+ },
+ "huta-stalowa-wola": {
+  "starting_year": 1938,
+  "hq": "Stalowa Wola, Poland",
+  "sector": "Artillery and rocket systems, armoured and mechanised vehicles, engineering vehicles, gun barrels",
+  "company_size": "760+ employees",
+  "global_locations": [
+   "Poland"
+  ]
+ },
+ "iveco": {
+  "starting_year": 1975,
+  "hq": "Turin, Italy",
+  "global_locations": [
+   "Italy",
+   "Spain",
+   "Brazil",
+   "Produces vehicles in 7 countries; 4,200 points of sale and service in 160+ countries"
+  ],
+  "sales": {
+   "text": "EUR 14,948 million (Net revenues of Industrial Activities)",
+   "fy": "2024",
+   "srcs": [
+    "https://www.ivecogroup.com/-/media/corporate_press_releases/2025/february/iveco_group_2024_full_year_results/20250207_PR_IVG_FY_Q4_2024.pdf"
+   ]
+  },
+  "sector": "Commercial & Specialty Vehicles, Powertrain, and related Financial Services (trucks, buses, specialty/defence vehicles, engines)"
+ },
+ "iwi": {
+  "starting_year": 2005,
+  "hq": "Kiryat Gat, Israel",
+  "global_locations": [
+   "Israel",
+   "United States"
+  ],
+  "sector": "Small arms / firearms (assault rifles, light machine guns, pistols, submachine guns - e.g. Tavor, Negev, Galil ACE, Uzi)"
+ },
+ "kalashnikov": {
+  "starting_year": 2013,
+  "hq": "Izhevsk, Russia",
+  "global_locations": [
+   "Russia",
+   "Subsidiaries and affiliates incl. ZALA Aero and Vympel; exports via Rosoboronexport"
+  ],
+  "company_size": "Not publicly disclosed in reliable current consolidated reporting located in this pass",
+  "sales": [
+   {
+    "url": "https://www.c4defence.com/en/kalashnikov-increased-the-income",
+    "line": "Kalashnikov's revenues for 2018 increased by 280% to US $ 267 million",
+    "value": "$ 267 million",
+    "detail": "for 2018"
+   }
+  ],
+  "sector": "Small arms/firearms manufacturer; also produces UAVs, speedboats, guided missiles and protective equipment"
+ },
+ "knds": {
+  "starting_year": 2015,
+  "hq": "Amsterdam, Netherlands",
+  "global_locations": [
+   "France",
+   "Germany"
+  ],
+  "company_size": "Around 11,000 employees (as of December 31, 2025)",
+  "sales": {
+   "text": "EUR 4.4 billion",
+   "fy": "2025",
+   "srcs": [
+    "https://knds.com/en/press-releases/knds-achieves-strong-revenue-growth-and-record-order-intake-in-2025"
+   ]
+  },
+  "sector": "European land defence / land systems (main battle tanks, armoured vehicles, artillery, ammunition, manned and unmanned systems)"
+ },
+ "kongsberg": {
+  "starting_year": 1814,
+  "hq": "Kongsberg, Norway",
+  "global_locations": [
+   "Norway",
+   "United States",
+   "Canada",
+   "United Kingdom",
+   "Germany",
+   "Sweden",
+   "Finland",
+   "Australia",
+   "More than 7,500 employees in about 20 countries"
+  ],
+  "company_size": "more than 7,500 employees",
+  "sales": [
+   {
+    "url": "https://nordicdefencereview.com/record-growth-for-nordic-defence-industry-leaders-kongsberg-patria-and-saab-in-2025",
+    "line": "Group operating revenues hit NOK 58.6 billion in 2025 (≈€5.3 billion), up ~17%.",
+    "value": "NOK 58.6 billion",
+    "detail": "in 2025"
+   },
+   {
+    "url": "https://www.airforce-technology.com/news/kongsberg-gruppen-zone5-acquisition",
+    "line": "Recently, Kongsberg Gruppen unveiled a goal of reaching Nkr100bn ($10bn) in annual revenue by 2029, up from Nkr33bn in 2025",
+    "value": "$ 33bn",
+    "detail": "in 2025"
+   },
+   {
+    "url": "https://nordicdefencereview.com/record-growth-for-nordic-defence-industry-leaders-kongsberg-patria-and-saab-in-2025",
+    "line": "Group operating revenues hit NOK 58.6 billion in 2025 (≈€5.3 billion), up ~17%.",
+    "value": "€5.3 billion",
+    "detail": "in 2025"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#Kongsberg-Gruppen",
+    "line": "In 2024, Kongsberg Gruppen ranked number 79 in the SIPRI Top 100 and reported arms revenues of US$1,780 million and total revenues of US$4,550 million.",
+    "value": "US$4,550 million",
+    "detail": "In 2024"
+   },
+   {
+    "url": "https://nordicdefencereview.com/operating-in-more-than-40-countries-kongsberg-norway-2024-performance-review-and-growth-outlook-kongsberg-norway-2024-results-and-growth-trajectory",
+    "line": "Its 2024 revenues (~NOK 49 billion – 4.09 billion EUR) are equivalent to roughly 1% of Norway’s mainland GDP, and its extensive supply chain supports thousands of jobs domestically.",
+    "value": "4.09 billion EUR",
+    "detail": "2024"
+   },
+   {
+    "url": "https://nordicdefencereview.com/operating-in-more-than-40-countries-kongsberg-norway-2024-performance-review-and-growth-outlook-kongsberg-norway-2024-results-and-growth-trajectory",
+    "line": "Its 2024 revenues (~NOK 49 billion – 4.09 billion EUR) are equivalent to roughly 1% of Norway’s mainland GDP, and its extensive supply chain supports thousands of jobs domestically.",
+    "value": "NOK 49 billion",
+    "detail": "2024"
+   }
+  ],
+  "sector": "Defence, security and surveillance"
+ },
+ "l3harris": {
+  "starting_year": 2019,
+  "hq": "Melbourne, Florida, United States",
+  "global_locations": [
+   "United States",
+   "United Kingdom",
+   "Canada",
+   "Australia",
+   "United Arab Emirates",
+   "Italy",
+   "Poland",
+   "Serves over 100 countries worldwide"
+  ],
+  "company_size": "approximately 47,000 employees",
+  "sales": {
+   "text": "$21.9 billion",
+   "fy": "2025 (fiscal year ended January 2, 2026)",
+   "srcs": [
+    "https://investors.l3harris.com/news/news-details/2026/L3Harris-Technologies-Reports-Strong-Full-Year-and-Fourth-Quarter-2025-Results-Initiates-2026-Guidance/default.aspx"
+   ]
+  },
+  "sector": "Aerospace and defence; solutions across space, air, land, sea and cyber domains"
+ },
+ "larsen-toubro": {
+  "starting_year": 1938,
+  "hq": "Mumbai, India",
+  "global_locations": [
+   "India",
+   "Operates in over 50 countries worldwide"
+  ],
+  "company_size": "56,458 employees in FY 2024-25 (excluding board and KMP)",
+  "sales": {
+   "text": "Rs 2,55,734 crore (Group Turnover)",
+   "fy": "FY2024-25",
+   "srcs": [
+    "https://annualreview.larsentoubro.com/yearatglance.html"
+   ]
+  },
+  "sector": "Defence, aerospace and strategic electronics (Precision Engineering & Systems); also EPC, hi-tech manufacturing, services"
+ },
+ "lockheed-martin": {
+  "starting_year": 1995,
+  "hq": "Bethesda, Maryland, USA",
+  "global_locations": [
+   "United States",
+   "Suppliers in 52+ countries outside the U.S.; 340+ facilities"
+  ],
+  "company_size": "Approximately 123,000 employees (as of December 31, 2025)",
+  "sales": {
+   "text": "$75.0 billion",
+   "fy": "2025",
+   "srcs": [
+    "https://news.lockheedmartin.com/2026-01-29-Lockheed-Martin-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results"
+   ]
+  },
+  "sector": "Aerospace & defense across four business segments: Aeronautics; Missiles and Fire Control; Rotary and Mission Systems; Space"
+ },
+ "mahindra-defence": {
+  "global_locations": [
+   "India"
+  ],
+  "sector": "Armoured/land systems, underwater/naval warfare systems, radars and surveillance",
+  "starting_year": 2000,
+  "hq": "Mumbai, Maharashtra, India"
+ },
+ "mbda": {
+  "starting_year": 2001,
+  "hq": "1 Avenue Réaumur, 92350 Le Plessis-Robinson, France",
+  "global_locations": [
+   "France",
+   "Germany",
+   "Italy",
+   "Spain",
+   "United Kingdom"
+  ],
+  "company_size": "over 18,000 people",
+  "sales": {
+   "text": "EUR 4.9 billion",
+   "fy": "2024",
+   "srcs": [
+    "https://breakingdefense.com/2025/03/mbda-ceo-sees-moment-of-truth-in-european-defense-as-firm-sets-order-record/"
+   ]
+  },
+  "sector": "Complex weapon systems (missiles, air defence, naval strike)"
+ },
+ "munitions-india": {
+  "starting_year": 2021,
+  "hq": "Pune, India",
+  "global_locations": [
+   "India"
+  ],
+  "company_size": "around 21,211 skilled workforce across 12 manufacturing units (FY2024-25)",
+  "sales": {
+   "text": "₹8,214.10 crore",
+   "fy": "FY2024-25",
+   "srcs": [
+    "https://munitionsindia.in/wp-content/uploads/1.-English-MIL-04th-Annual-Report-2024-25A.pdf"
+   ]
+  },
+  "sector": "ammunition and explosives"
+ },
+ "nammo": {
+  "starting_year": 1998,
+  "hq": "Raufoss, Norway",
+  "global_locations": [
+   "Norway",
+   "Sweden",
+   "Finland",
+   "Germany",
+   "Spain",
+   "United Kingdom",
+   "Ireland",
+   "Switzerland",
+   "Poland",
+   "Denmark",
+   "Belgium",
+   "United States"
+  ],
+  "company_size": "4,200 employees (end 2025)",
+  "sales": {
+   "text": "NOK 14.41 billion",
+   "fy": "2025",
+   "srcs": [
+    "https://www.nammo.com/about-us/finance/"
+   ]
+  },
+  "sector": "specialty ammunition, shoulder-fired weapons and rocket motors"
+ },
+ "naval-group": {
+  "starting_year": 2003,
+  "hq": "Paris, France",
+  "global_locations": [
+   "France",
+   "United Arab Emirates",
+   "Egypt",
+   "Chile",
+   "Colombia",
+   "Greece",
+   "Indonesia",
+   "Philippines"
+  ],
+  "company_size": "17,170 employees (as at 31 December 2025)",
+  "sales": {
+   "text": "€4.7 billion",
+   "fy": "2025",
+   "srcs": [
+    "https://www.naval-group.com/sites/default/files/2026-04/Rapport%20annuel%20Naval%20Group%202025%20EN.pdf"
+   ]
+  },
+  "sector": "Naval defence: submarines, heavily armed surface vessels, combat systems integration"
+ },
+ "nexter": {
+  "starting_year": 1973,
+  "hq": "Versailles, France",
+  "global_locations": [
+   "France",
+   "Part of KNDS: subsidiaries and sites across Europe, plus North America, South America and Asia"
+  ],
+  "company_size": "4,500 employees",
+  "sales": [
+   {
+    "url": "https://www.military.africa/2023/12/edex-2023-nexter-showcases-its-weapon-systems-for-the-egyptian-army/?relatedposts_hit=1&relatedposts_origin=23983&relatedposts_position=1",
+    "line": "Nexter, company of KNDS, is a European leader in land defence systems, with a turnover of 1.1 billion euros and an order intake of 1.6 billion euros in 2022",
+    "value": "1.1 billion eur",
+    "detail": "in 2022"
+   },
+   {
+    "url": "https://www.mbda-systems.com/euronaval-2022-nexter-and-mbda-present-new-narwhal-turret-equipped-akeron-mp-missile-system",
+    "line": "Nexter achieved a turnover of €1.3 billion in 2021",
+    "value": "€1.3 billion",
+    "detail": "in 2021"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#Nexter",
+    "line": "In 2020, Nexter ranked number 85 in the SIPRI Top 100 and reported arms revenues of US$1,190 million and total revenues of US$1,250 million.",
+    "value": "US$1,250 million",
+    "detail": "In 2020"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#Nexter",
+    "line": "In 2017, Nexter ranked number 88 in the SIPRI Top 100 and reported arms revenues of US$960 million and total revenues of US$1,010 million.",
+    "value": "US$1,010 million",
+    "detail": "In 2017"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#Nexter",
+    "line": "In 2016, Nexter ranked number 90 in the SIPRI Top 100 and reported arms revenues of US$910 million and total revenues of US$960 million.",
+    "value": "US$960 million",
+    "detail": "In 2016"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#Nexter",
+    "line": "In 2015, Nexter ranked number 71 in the SIPRI Top 100 and reported arms revenues of US$1,130 million and total revenues of US$1,190 million.",
+    "value": "US$1,190 million",
+    "detail": "In 2015"
+   }
+  ],
+  "sector": "Land defence: armoured vehicles, artillery systems (CAESAR), guns and turrets, ammunition, robotics"
+ },
+ "norinco": {
+  "starting_year": 1980,
+  "hq": "Beijing, China",
+  "global_locations": [
+   "China",
+   "70+ countries worldwide (overseas branches, subsidiaries and representative offices)"
+  ],
+  "company_size": "more than 223,000 employees (end of 2024)",
+  "sales": [
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#NORINCO",
+    "line": "In 2021, NORINCO ranked number 7 in the SIPRI Top 100 and reported arms revenues of US$21,570 million and total revenues of US$81,610 million",
+    "value": "US$81,610 million",
+    "detail": "In 2021"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#NORINCO",
+    "line": "In 2020, NORINCO ranked number 7 in the SIPRI Top 100 and reported arms revenues of US$17,930 million and total revenues of US$71,000 million",
+    "value": "US$71,000 million",
+    "detail": "In 2020"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#NORINCO",
+    "line": "In 2019, NORINCO ranked number 9 in the SIPRI Top 100 and reported arms revenues of US$15,580 million and total revenues of US$68,720 million",
+    "value": "US$68,720 million",
+    "detail": "In 2019"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#NORINCO",
+    "line": "In 2018, NORINCO ranked number 9 in the SIPRI Top 100 and reported arms revenues of US$14,880 million and total revenues of US$68,700 million",
+    "value": "US$68,700 million",
+    "detail": "In 2018"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#NORINCO",
+    "line": "In 2017, NORINCO ranked number 8 in the SIPRI Top 100 and reported arms revenues of US$17,190 million and total revenues of US$64,650 million",
+    "value": "US$64,650 million",
+    "detail": "In 2017"
+   },
+   {
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Top-100-2002-2024%20%282%29.xlsx#NORINCO",
+    "line": "In 2016, NORINCO ranked number 7 in the SIPRI Top 100 and reported arms revenues of US$17,320 million and total revenues of US$61,260 million.",
+    "value": "US$61,260 million",
+    "detail": "In 2016"
+   }
+  ],
+  "sector": "tanks and armoured vehicles, long-range suppression weapons, air-defence and anti-missile systems, ammunition/ordnance (plus civilian products)"
+ },
+ "oshkosh-defense": {
+  "starting_year": 1917,
+  "hq": "Oshkosh, Wisconsin, USA",
+  "global_locations": [
+   "United States",
+   "31 facilities across 8 U.S. states and 7 countries; vehicles delivered in more than 20 countries"
+  ],
+  "company_size": "more than 3,500 people (Oshkosh Defense)",
+  "sales": {
+   "text": "$2,180.5 million (Defense segment, Oshkosh Corporation)",
+   "fy": "FY2024 (year ended December 31, 2024)",
+   "srcs": [
+    "https://www.sec.gov/Archives/edgar/data/775158/000095017025010807/osk-ex99_1.htm"
+   ]
+  },
+  "sector": "military vehicles / land tactical mobility systems"
+ },
+ "otokar": {
+  "starting_year": 1963,
+  "hq": "Arifiye, Sakarya, Turkiye",
+  "global_locations": [
+   "Turkiye",
+   "Products sold in 75+ countries across 5 continents"
+  ],
+  "company_size": "more than 3,800 employees",
+  "sales": {
+   "text": "TRY 33,885,780 thousand (~TRY 33.9 billion, inflation-adjusted per TAS 29)",
+   "fy": "FY2024 (year ended 31 December 2024)",
+   "srcs": [
+    "https://www.otokar.com.tr/getmedia/7dae10d3-bdbf-4830-b294-97dcf2ed52d8/otokar-31-12-2024"
+   ]
+  },
+  "sector": "land defence systems (tactical wheeled and tracked armoured vehicles) and commercial vehicles"
+ },
+ "paramount-group": {
+  "starting_year": 1994,
+  "hq": "Midrand, South Africa",
+  "global_locations": [
+   "South Africa",
+   "operations/partnerships across five continents and 30+ countries"
+  ],
+  "company_size": "more than 3,000 employees",
+  "sector": "defence and aerospace (land, sea, air, mission systems, border security)"
+ },
+ "patria": {
+  "starting_year": 1921,
+  "hq": "Finland",
+  "global_locations": [
+   "Finland",
+   "Sweden",
+   "Norway",
+   "Latvia",
+   "Belgium",
+   "the Netherlands",
+   "Germany",
+   "Poland",
+   "Slovakia",
+   "Japan"
+  ],
+  "company_size": "4,111 personnel (FTE) at end of 2025",
+  "sales": {
+   "text": "EUR 1,086.7 million",
+   "fy": "2025",
+   "srcs": [
+    "https://www.patriagroup.com/newsroom/news/2026/patria-groups-financial-review-for-2025-preliminary-data"
+   ]
+  },
+  "sector": "Protected Mobility, Defence and Weapon Systems, Sustainment Solutions"
+ },
+ "plr-systems": {
+  "starting_year": 2016,
+  "hq": "Gwalior, India",
+  "global_locations": [
+   "India"
+  ],
+  "company_size": "51–200 employees on public company profile",
+  "sector": "Small arms (assault rifles, carbines, light machine guns)"
+ },
+ "poongsan": {
+  "starting_year": 1968,
+  "hq": "Seoul, South Korea",
+  "global_locations": [
+   "South Korea",
+   "Overseas affiliates across North America, Europe and Asia (domestic plants: Busan, Angang)"
+  ],
+  "company_size": "3,752 employees (Dec 2025 secondary employment database; official annual-report series available)",
+  "sales": {
+   "text": "US$3.5 billion (Poongsan Group)",
+   "fy": "",
+   "srcs": [
+    "https://www.poongsan.co.kr/en/company/ceo/profile"
+   ]
+  },
+  "sector": "Military Ammunition, Sports Ammunition, Propellant Powder, Ammunition Components, Defense Products, Fabricated non-ferrous metals"
+ },
+ "rafael-advanced-defense-systems": {
+  "starting_year": 1948,
+  "hq": "Northern Israel",
+  "global_locations": [
+   "Israel",
+   "International (about half of sales outside Israel)"
+  ],
+  "company_size": "about 8,500 local workers",
+  "sales": {
+   "text": "$4.8 billion",
+   "fy": "2024",
+   "srcs": [
+    "https://breakingdefense.com/2025/03/rafael-saw-record-sales-in-2024-with-almost-half-from-outside-israel/"
+   ]
+  },
+  "sector": "Missiles / weapons systems, Air and missile defence, Defence electronics"
+ },
+ "raytheon": {
+  "starting_year": 1922,
+  "hq": "Arlington, Virginia, USA",
+  "global_locations": [
+   "USA",
+   "Poland",
+   "Australia",
+   "Singapore"
+  ],
+  "sales": [
+   {
+    "url": "https://www.defenceconnect.com.au/strike-air-combat/6388-dsca-approves-australia-for-international-amraam-acquisition",
+    "line": "Raytheon Company, with 2018 sales of $27 billion and 67,000 employees, is a technology and innovation leader specialising in defence, civil government and cyber security solutions.",
+    "value": "$27 billion",
+    "detail": "2018"
+   },
+   {
+    "url": "https://www.defenceconnect.com.au/naval/4539-raytheon-delivers-first-next-generation-jammer-mid-band-pod-to-us-navy",
+    "line": "Raytheon, with 2018 sales of US$27 billion and 67,000 employees, is a technology and innovation leader specialising in defence, civil government and cyber security solutions.",
+    "value": "US$27 billion",
+    "detail": "2018"
+   },
+   {
+    "url": "https://asiapacificdefencereporter.com/raytheon-kongsberg-to-build-naval-strike-missiles-and-launchers-in-united-states",
+    "line": "Raytheon Company, with 2015 sales of $23 billion and 61,000 employees, is a technology and innovation leader specializing in defense, civil government and cybersecurity solutions.",
+    "value": "$23 billion",
+    "detail": "2015"
+   },
+   {
+    "url": "https://www.globalsecurity.org/intell/library/news/2005/intell-050523-raytheon01.htm",
+    "line": "Raytheon Company, with 2004 sales of $20.2 billion, is an industry leader in defense and government electronics, space, information technology, technical services, and business and special mission aircraft.",
+    "value": "$20.2 billion",
+    "detail": "2004"
+   }
+  ],
+  "sector": "Missiles, Integrated Air & Missile Defense, Radars & sensors, Space systems"
+ },
+ "rheinmetall": {
+  "starting_year": 1889,
+  "hq": "Düsseldorf, Germany",
+  "global_locations": [
+   "Germany",
+   "United States",
+   "United Kingdom",
+   "Italy",
+   "South Africa",
+   "Australia",
+   "Hungary",
+   "Canada",
+   "Switzerland",
+   "Austria",
+   "161 offices and production sites worldwide in more than 30 countries"
+  ],
+  "company_size": "33,217 employees at 31 Dec 2025; around 34,000 in mid-2026",
+  "sales": {
+   "text": "EUR 9,935 million",
+   "fy": "2025",
+   "srcs": [
+    "https://www.rheinmetall.com/en/media/news-watch/news/2026/03/2026-03-11-rheinmetall-presents-annual-report-for-2025"
+   ]
+  },
+  "sector": "Cross-domain defence systems (land, sea, air, space)"
+ },
+ "roshel": {
+  "starting_year": 2016,
+  "hq": "Brampton, Ontario, Canada",
+  "global_locations": [
+   "Canada",
+   "United States",
+   "Ukraine",
+   "Moldova"
+  ],
+  "company_size": "Approximately 352 employees at headquarters in 2024 company reporting",
+  "sector": "Armoured vehicles"
+ },
+ "uvision-air": {
+  "starting_year": 2011,
+  "hq": "Israel",
+  "global_locations": [
+   "United States",
+   "Europe",
+   "India",
+   "Israel"
+  ],
+  "company_size": "~299 employees as of Mar 2026 (Revelio Labs estimate)",
+  "sector": "Loitering munitions (UAVs & drones), Precision strike / missiles"
+ },
+ "saab": {
+  "starting_year": 1937,
+  "hq": "Stockholm, Sweden",
+  "global_locations": [
+   "Sweden",
+   "United States",
+   "United Kingdom",
+   "Australia",
+   "South Africa",
+   "Brazil",
+   "Finland",
+   "Germany",
+   "Operations in over 30 countries; products sold to over 100 countries"
+  ],
+  "company_size": "26,100 employees (2025)",
+  "sales": {
+   "text": "SEK 79.1 billion",
+   "fy": "2025",
+   "srcs": [
+    "https://www.saab.com/about/company-in-brief"
+   ]
+  },
+  "sector": "Defence and security (military defence to civil security)"
+ },
+ "sig-sauer": {
+  "starting_year": 1985,
+  "hq": "New Hampshire, USA",
+  "global_locations": [
+   "United States",
+   "Switzerland"
+  ],
+  "company_size": "2,000+ employees (official company page)"
+ },
+ "solar-industries": {
+  "starting_year": 1995,
+  "hq": "Nagpur, India",
+  "global_locations": [
+   "Manufacturing units in 9 countries across 4 continents (incl. India, Zambia, Nigeria, Ghana, Tanzania, South Africa, Australia)",
+   "Products sold to 90+ countries"
+  ],
+  "company_size": "2,403 permanent employees on the rolls of the Company (FY2024-25)",
+  "sales": {
+   "text": "INR 7,540 crore",
+   "fy": "FY2024-25",
+   "srcs": [
+    "https://solargroup.com/api/download-file?file=Investors-Relation%2FFinancialReporting%2FAnnual+Reports%2FFY+2024-25+Annual+Reports%2FSolar+IR+2024-25.pdf"
+   ]
+  },
+  "sector": "Industrial & military explosives, initiating systems and ammunition; defence and space"
+ },
+ "tata-advanced-systems": {
+  "starting_year": 2006,
+  "hq": "Hyderabad, Telangana, India",
+  "global_locations": [
+   "India",
+   "7+ locations / 6+ research and production centres"
+  ],
+  "company_size": "5,000+ employees across the globe",
+  "sales": {
+   "text": "INR 5,051.20 crore",
+   "fy": "FY2024-25",
+   "srcs": [
+    "https://www.tataadvancedsystems.com/pdf/new_policy/Annual%20Return%20FY25.pdf"
+   ]
+  },
+  "sector": "Aerospace & defence: Aerostructures & Aero-Engines; Airborne Platforms & Systems; Defence & Security; Land Mobility"
+ },
+ "sss-defence": {
+  "starting_year": 2017,
+  "hq": "Bengaluru, India",
+  "global_locations": [
+   "India",
+   "Bengaluru manufacturing and testing centre"
+  ],
+  "company_size": "51–200 employees; LinkedIn currently exposes ~100 employee profiles",
+  "sector": "Small arms, sniper/precision rifles and ammunition"
+ },
+ "supacat": {
+  "starting_year": 1980,
+  "hq": "Dunkeswell, Devon, United Kingdom",
+  "global_locations": [
+   "United Kingdom",
+   "Australia",
+   "New Zealand",
+   "UK HQ (Dunkeswell); Australia (Port Melbourne, Sydney, Perth, Darwin); New Zealand (Auckland)"
+  ],
+  "company_size": "149 (average number of employees, year to 31 Aug 2025)",
+  "sales": {
+   "text": "GBP 69.06 million",
+   "fy": "Year ended 31 August 2025",
+   "srcs": [
+    "https://find-and-update.company-information.service.gov.uk/company/01514084/filing-history/MzUyMzI5MTAzMWFkaXF6a2N4/document?format=xhtml"
+   ]
+  },
+  "sector": "Defence & aerospace – design and manufacture of high-mobility (protected/all-terrain) military vehicles"
+ },
+ "aweil": {
+  "starting_year": 2021,
+  "hq": "Kanpur, Uttar Pradesh, India",
+  "global_locations": [
+   "India",
+   "Eight production units + academy across India (Ishapore, Kanpur, Cossipore, Tiruchirapalli, Jabalpur, Korwa)"
+  ],
+  "company_size": "12,007 employees (as of 31 March 2025)",
+  "sales": {
+   "text": "INR 2,530.93 crore (Revenue from Operations)",
+   "fy": "FY2024-25",
+   "srcs": [
+    "https://www.aweil.in/download/Annual-Report-2024-25-en.pdf"
+   ]
+  },
+  "sector": "Artillery, small arms and defence equipment / ammunition"
+ },
+ "premier-explosives": {
+  "starting_year": 1980,
+  "hq": "Secunderabad, Telangana, India",
+  "global_locations": [
+   "India",
+   "Telangana (Peddakandukur, Katepally, Ramajipet, Manuguru); Tamil Nadu (Neyveli)"
+  ],
+  "company_size": "838 permanent employees (as on 31 March 2025)",
+  "sales": {
+   "text": "INR 417.45 crore (INR 4,174.5 million) Revenue from Operations",
+   "fy": "FY2024-25",
+   "srcs": [
+    "https://nsearchives.nseindia.com/annual_reports/AR_28827_PREMEXPLN_2024_2025_A_1627996_06092025194124.pdf"
+   ]
+  },
+  "sector": "Explosives, detonators, bulk explosives, solid propellants (missiles/air-defence), chaffs & flares; defence"
+ },
+ "rtx": {
+  "company_size": "~186,000 (as of 31 December 2024)",
+  "global_locations": [
+   "United States",
+   "Poland",
+   "Canada",
+   "United Kingdom",
+   "France",
+   "Germany",
+   "India",
+   "Singapore",
+   "Australia",
+   "Facilities in approximately 25 countries"
+  ],
+  "hq": "Arlington, Virginia, United States",
+  "starting_year": 2020,
+  "sector": "Aerospace and defense: jet engines (Pratt & Whitney), avionics and aircraft systems (Collins Aerospace), and missiles and air-defense systems (Raytheon)"
+ }
+}

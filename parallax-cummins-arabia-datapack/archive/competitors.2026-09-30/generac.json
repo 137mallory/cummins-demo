@@ -1,0 +1,570 @@
+{
+ "id": "generac",
+ "name": "Generac",
+ "legal_name": "Generac Holdings Inc. (NYSE: GNRC); Generac Power Systems, Inc.; international arm Pramac (PR Industrial S.r.l.)",
+ "brands": [
+  "Generac",
+  "Pramac",
+  "Deep Sea Electronics (DSE)",
+  "Motortech",
+  "Generac Mobile"
+ ],
+ "hq": "Waukesha, Wisconsin, USA",
+ "founded": 1959,
+ "employees": "9,239 (2024)",
+ "employees_sources": [
+  "https://en.wikipedia.org/wiki/Generac"
+ ],
+ "revenue": "US$4.21 billion (2025); Q2 2026 net sales US$1.17 billion, C&I segment US$556 million (up 29 percent)",
+ "revenue_sources": [
+  "https://en.wikipedia.org/wiki/Generac",
+  "https://investors.generac.com/news-releases/news-release-details/generac-reports-second-quarter-2026-results"
+ ],
+ "sector": "Residential, commercial and industrial generators (diesel, gaseous, bi-fuel), transfer switches, MPS paralleling, BESS; large diesel data centre sets 1.75 to 3.25 MW on Baudouin M55 engines",
+ "positioning_text": "Generac is a US residential and C&I generator maker that pivoted hard into data centres in 2025 to 2026: its SDMD1750 to SDMD3250 diesel sets (Baudouin Baudouin M55 and Baudouin M55 engines, Marathon DataMAX alternators, DSE G8601 controls, 50 degree C cooling) won a global supply agreement with a hyperscale operator covering the Middle East, and its data centre backlog reached about US$1.6 billion by July 2026. In the Gulf it operates through Pramac's PR Middle East FZE in Jebel Ali and through dealers listed on its international locator: Atlas Power Solutions (Dubai and Riyadh), Watan Altaqa for Equipment (Riyadh) and Al Mulla Power Solutions (Kuwait). Mid-range diesel sets (SD1000, SD1250) use Perkins 4008 and 4012 engines, and its own spark-ignited gas engines power the SG/MG range to 1,000 kW.",
+ "leadership": [
+  {
+   "name": "Aaron Jagdfeld",
+   "title": "Chairman, President and Chief Executive Officer (CEO since 2008)",
+   "scope": "global",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data"
+  },
+  {
+   "name": "Erik Wilde",
+   "title": "Executive Vice President and President, Domestic C&I",
+   "scope": "global",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generacs-325mw-generator-named-gold-winner-2026-consulting"
+  },
+  {
+   "name": "Niccolo Borracchini",
+   "title": "Executive Vice President, International (Generac and Pramac business outside US and Canada, covering EMEA, APAC, LATAM), since 2026-07-06",
+   "scope": "region",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-promotes-niccolo-borracchini-executive-vice-president"
+  },
+  {
+   "name": "Paolo Campinoti",
+   "title": "President, International Development (advisory, after retiring 2026-07-01 from Pramac leadership)",
+   "scope": "region",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-promotes-niccolo-borracchini-executive-vice-president"
+  }
+ ],
+ "regional_entities": [
+  {
+   "name": "PR Middle East FZE (Pramac / Generac)",
+   "country": "UAE",
+   "role": "Pramac Middle East subsidiary; regional sales and service office",
+   "since": "",
+   "hq_city": "Dubai (BB1404 JAFZA ONE, Jebel Ali Free Zone)",
+   "source_url": "https://www.pramac.com/where-we-are"
+  },
+  {
+   "name": "Atlas Power Solutions (Atlas Group)",
+   "country": "UAE",
+   "role": "Generac dealer listed on Generac international dealer locator",
+   "since": "",
+   "hq_city": "Dubai (10 Ras Al Khor Complex)",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  },
+  {
+   "name": "Atlas Power Solutions",
+   "country": "KSA",
+   "role": "Generac dealer listed on Generac international dealer locator (Riyadh office)",
+   "since": "",
+   "hq_city": "Riyadh (Second Floor, Al Rumaizan Building)",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  },
+  {
+   "name": "Watan Altaqa for Equipment",
+   "country": "KSA",
+   "role": "Generac dealer listed on Generac international dealer locator",
+   "since": "",
+   "hq_city": "Riyadh (Thumamah Road, Al Sahafa District)",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  },
+  {
+   "name": "Al Mulla Power Solutions Company (Al Mulla Group)",
+   "country": "Kuwait",
+   "role": "Generac dealer for gas generators, diesel generators and energy storage (locator flags)",
+   "since": "",
+   "hq_city": "Safat, Kuwait",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  },
+  {
+   "name": "PR Middle East WLL (context, Bahrain)",
+   "country": "Bahrain",
+   "role": "Pramac office in YBA Kanoo Tower, Diplomatic Area (context only)",
+   "since": "",
+   "hq_city": "Manama",
+   "source_url": "https://www.pramac.com/where-we-are"
+  }
+ ],
+ "movements": [
+  {
+   "date": "2026-04-29",
+   "headline": "Generac Q1 2026: C&I sales up 28 percent on data centre demand; final-stage vendor approval with multiple hyperscalers",
+   "summary": "Net sales rose 12 percent to US$1.06 billion, C&I external sales rose about 28 percent to US$510 million, and Generac raised full-year guidance to mid-to-high teens growth with C&I in the mid-to-high 20s percent.",
+   "category": "Financial",
+   "country": "Global",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-reports-first-quarter-2026-results",
+   "source_domain": "generac.com",
+   "relevance": {
+    "level": "WATCH",
+    "analysis": "Confirms Generac is becoming a scale supplier of large data centre gensets. For Cummins Arabia this is a new name on hyperscaler approved vendor lists rather than an immediate local competitor."
+   }
+  },
+  {
+   "date": "2026-06-02",
+   "headline": "Generac signs global supply agreement with a hyperscale data centre operator covering APAC, Europe, Middle East and Latin America",
+   "summary": "The unnamed hyperscaler qualified Generac after factory visits and performance reviews. Production is at Beaver Dam, Oshkosh and Sussex, Wisconsin. Generac cited its EPC Power collaboration and Enercon enclosure acquisition.",
+   "category": "Contract",
+   "country": "GCC",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data",
+   "source_domain": "generac.com",
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "The Middle East is explicitly in scope, so Gulf hyperscale sites can be supplied from a global frame agreement without a local tender. Cummins Arabia should coordinate with Cummins Inc. global hyperscale account teams to defend Saudi and UAE campuses and make sure local service capability is part of the global pitch."
+   }
+  },
+  {
+   "date": "2026-06-03",
+   "headline": "Generac SD3250 (3.25 MW, Baudouin Baudouin M55) wins Consulting-Specifying Engineer 2026 gold award; large diesel series 1.75 to 3.25 MW",
+   "summary": "The 3.25 MW unit is Generac's largest diesel set, part of a new large diesel series from 1.75 to 3.25 MW built for data centres, healthcare and infrastructure.",
+   "category": "Product",
+   "country": "Global",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generacs-325mw-generator-named-gold-winner-2026-consulting",
+   "source_domain": "generac.com",
+   "extra_sources": [
+    "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/"
+   ],
+   "relevance": {
+    "level": "WATCH",
+    "analysis": "The series maps onto Cummins Arabia's C2000 to C3500 data centre band. Note the engine is Baudouin, so the product competes on Generac packaging and Baudouin lead time, not on a proprietary engine."
+   }
+  },
+  {
+   "date": "2026-06-15",
+   "headline": "Generac buys Belvidere, Illinois plant to add large-megawatt genset packaging capacity from Q1 2027, after February 2026 Enercon acquisition",
+   "summary": "The facility adds over 100 jobs and follows the acquisition of Enercon Engineering (enclosures and switchgear) and expansions in Oshkosh, Beaver Dam and Sussex.",
+   "category": "Capacity",
+   "country": "Global",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-acquires-belvidere-illinois-facility-expand-large",
+   "source_domain": "generac.com",
+   "relevance": {
+    "level": "WATCH",
+    "analysis": "More US packaging capacity shortens Generac lead times for export orders in 2027. Cummins Arabia should expect Generac to quote competitive delivery on Gulf hyperscale sites from 2027."
+   }
+  },
+  {
+   "date": "2026-07-06",
+   "headline": "Generac promotes Niccolo Borracchini to EVP International (Generac and Pramac outside US and Canada)",
+   "summary": "Borracchini, with Pramac since 2015 and SVP International since 2024, now leads EMEA, APAC and LATAM; Paolo Campinoti retired 2026-07-01 to an advisory role.",
+   "category": "Leadership",
+   "country": "Global",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-promotes-niccolo-borracchini-executive-vice-president",
+   "source_domain": "generac.com",
+   "relevance": {
+    "level": "WATCH",
+    "analysis": "A Pramac-rooted leader running international suggests the Gulf will be served through the Pramac Dubai structure. Cummins Arabia should track whether PR Middle East FZE begins quoting large Generac data centre sets in UAE and KSA."
+   }
+  },
+  {
+   "date": "2026-07-29",
+   "headline": "Generac Q2 2026: data centre backlog about US$1.6 billion, second hyperscale agreement secured, C&I up 29 percent",
+   "summary": "Net sales US$1.17 billion (up 11 percent); C&I US$556 million; nearly US$700 million committed for 2027 from the first hyperscale agreement and about US$1 billion of additional orders; full-year C&I growth guided to the low 30s percent.",
+   "category": "Financial",
+   "country": "Global",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-reports-second-quarter-2026-results",
+   "source_domain": "generac.com",
+   "relevance": {
+    "level": "THREAT",
+    "analysis": "Two hyperscale frame agreements in one quarter means Generac is now a standing option for hyperscaler standby fleets. Cummins Arabia's exposure is in Saudi and UAE hyperscale campuses awarded through global procurement."
+   }
+  }
+ ],
+ "products": [
+  {
+   "model": "SDMD3250 (SD3250 / MD3250)",
+   "series": "Generac large diesel data centre series",
+   "category": "Diesel genset",
+   "frequency_hz": 60,
+   "standby_kva": 4063,
+   "standby_kw": 3250,
+   "prime_kva": null,
+   "prime_kw": null,
+   "continuous_kw": null,
+   "engine_model": "Baudouin Baudouin M55",
+   "cylinders": 16,
+   "displacement_l": 87.5,
+   "aspiration": "Turbocharged, aftercooled; high pressure common rail; electronic governor",
+   "bore_stroke_mm": "180 x 215",
+   "rated_rpm": 1800,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": 887.4,
+   "fuel_consumption_lph_75": 691.9,
+   "fuel_consumption_lph_50": 493.6,
+   "fuel_consumption_basis": "Standby rating, diesel; HVO column 915.0 l/h at 100 percent",
+   "length_mm": 7849,
+   "width_mm": 3048,
+   "height_mm": 3353,
+   "dry_weight_kg": 27340,
+   "emissions": "EPA Tier 2 (EPA certified stationary emergency)",
+   "alternator": "Marathon DataMAX K3250064N24, permanent magnet excitation, Class H",
+   "controller": "Deep Sea G8601 (MPS paralleling)",
+   "voltage": "277/480 V and 346/600 V three phase, 60 Hz",
+   "ambient_derate_note": "Maximum operating ambient 50 degree C (122 F) before derate; redundant starting system",
+   "data_center_rating": "Marketed for data centres; standby rating only on spec sheet; Generac page lists kW/kVA prime 3250/4063",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/",
+   "datasheet_url": "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=39cf4f2e-af84-419c-88e0-805c17323baa",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "SDMD2500 (SD2500 / MD2500)",
+   "series": "Generac large diesel data centre series",
+   "category": "Diesel genset",
+   "frequency_hz": 60,
+   "standby_kva": 3125,
+   "standby_kw": 2500,
+   "prime_kva": null,
+   "prime_kw": null,
+   "continuous_kw": null,
+   "engine_model": "Baudouin Baudouin M55",
+   "cylinders": 12,
+   "displacement_l": 65.6,
+   "aspiration": "Turbocharged, aftercooled; high pressure common rail",
+   "bore_stroke_mm": "180 x 215",
+   "rated_rpm": 1800,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": 661.3,
+   "fuel_consumption_lph_75": 519.3,
+   "fuel_consumption_lph_50": 361.1,
+   "fuel_consumption_basis": "Standby rating, diesel; HVO 698.9 l/h at 100 percent",
+   "length_mm": 6782,
+   "width_mm": 2870,
+   "height_mm": 3124,
+   "dry_weight_kg": 20285,
+   "emissions": "EPA Tier 2 (EPA certified stationary emergency)",
+   "alternator": "Marathon DataMAX K2500064N24, permanent magnet excitation",
+   "controller": "Deep Sea G8601",
+   "voltage": "480 V class, 60 Hz",
+   "ambient_derate_note": "50 degree C cooling package",
+   "data_center_rating": "Marketed for data centres",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2500kw-diesel-65-6l/",
+   "datasheet_url": "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=59755abd-f5b1-4919-81b0-87b5cb9cac62",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "SDMD2250_66 (SD2250 / MD2250)",
+   "series": "Generac large diesel data centre series",
+   "category": "Diesel genset",
+   "frequency_hz": 60,
+   "standby_kva": 2813,
+   "standby_kw": 2250,
+   "prime_kva": null,
+   "prime_kw": null,
+   "continuous_kw": 2250,
+   "engine_model": "Baudouin Baudouin M55",
+   "cylinders": 12,
+   "displacement_l": 65.6,
+   "aspiration": "Turbocharged, aftercooled; high pressure common rail",
+   "bore_stroke_mm": "180 x 215",
+   "rated_rpm": 1800,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "length_mm": 6782,
+   "width_mm": 2870,
+   "height_mm": 3124,
+   "dry_weight_kg": 20285,
+   "emissions": "EPA certified emergency",
+   "alternator": "Marathon DataMAX",
+   "controller": "Deep Sea G8601",
+   "voltage": "480 V class, 60 Hz",
+   "ambient_derate_note": "50 degree C cooling package",
+   "data_center_rating": "Product page lists Continuous kW 2,250",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2250kw-diesel-65-6l/",
+   "datasheet_url": null,
+   "spec_confidence": "brochure"
+  },
+  {
+   "model": "SD1250 / MD1250",
+   "series": "Generac D46L industrial diesel",
+   "category": "Diesel genset",
+   "frequency_hz": 60,
+   "standby_kva": 1562.5,
+   "standby_kw": 1250,
+   "prime_kva": null,
+   "prime_kw": null,
+   "continuous_kw": null,
+   "engine_model": "Perkins D46L (4012 family) 12 cylinder",
+   "cylinders": 12,
+   "displacement_l": 45.84,
+   "aspiration": "Turbocharged, intercooled; MEUI fuel injection",
+   "bore_stroke_mm": "160 x 190",
+   "rated_rpm": 1800,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": 341.5,
+   "fuel_consumption_lph_75": 265.8,
+   "fuel_consumption_lph_50": 182.1,
+   "fuel_consumption_basis": "Standby rating",
+   "length_mm": 5560,
+   "width_mm": 2398,
+   "height_mm": 2506,
+   "dry_weight_kg": 10645,
+   "emissions": "EPA Tier 2 (EPA certified stationary emergency)",
+   "alternator": "K1260064N2M4, permanent magnet excitation",
+   "controller": "Deep Sea G8601",
+   "voltage": "480 V class, 60 Hz",
+   "ambient_derate_note": "High-ambient engineered cooling",
+   "data_center_rating": "Marketed for healthcare, utilities, data centres; 1,250 and 1,500 kW nodes",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/",
+   "datasheet_url": "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=5be39f50-7e9c-450f-b494-491c6ceb5c53",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "SDMD1000 (SD1000 / MD1000)",
+   "series": "Generac 30.6 L industrial diesel",
+   "category": "Diesel genset",
+   "frequency_hz": 60,
+   "standby_kva": 1250,
+   "standby_kw": 1000,
+   "prime_kva": null,
+   "prime_kw": 810,
+   "continuous_kw": null,
+   "engine_model": "Perkins 30.6 L 8 cylinder (4008 family)",
+   "cylinders": 8,
+   "displacement_l": 30.6,
+   "aspiration": "Turbocharged, intercooled; MEUI",
+   "bore_stroke_mm": "160 x 190",
+   "rated_rpm": 1800,
+   "fuel": "Diesel",
+   "fuel_consumption_lph_100": 261.2,
+   "fuel_consumption_lph_75": 208.6,
+   "fuel_consumption_lph_50": 144.6,
+   "fuel_consumption_basis": "Standby rating",
+   "length_mm": 5328,
+   "width_mm": 2590,
+   "height_mm": 2325,
+   "dry_weight_kg": 8512,
+   "emissions": "EPA Tier 2 (EPA certified stationary emergency)",
+   "alternator": "K1248064N22, permanent magnet excitation, Class H",
+   "controller": "Deep Sea G8601",
+   "voltage": "480 V class, 60 Hz",
+   "ambient_derate_note": "",
+   "data_center_rating": "Prime power 810 kW stated on product page",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/1000kw-industrial-generator-30-6l-sd1000/",
+   "datasheet_url": "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=3ed0bdd8-7b2b-4ef7-b1ca-15e41e0816d1",
+   "spec_confidence": "datasheet"
+  },
+  {
+   "model": "SG1000 / MG1000",
+   "series": "Generac gaseous industrial (spark ignited)",
+   "category": "Gas genset",
+   "frequency_hz": 60,
+   "standby_kva": 1250,
+   "standby_kw": 1000,
+   "prime_kva": 1250,
+   "prime_kw": 1000,
+   "continuous_kw": null,
+   "engine_model": "Generac 49.0 L V12 spark-ignited",
+   "cylinders": 12,
+   "displacement_l": 49.03,
+   "aspiration": "Turbocharged, intercooled",
+   "bore_stroke_mm": "170 x 180",
+   "rated_rpm": 1800,
+   "fuel": "Natural gas",
+   "fuel_consumption_lph_100": null,
+   "fuel_consumption_lph_75": null,
+   "fuel_consumption_lph_50": null,
+   "fuel_consumption_basis": "Natural gas 318.4 m3/h at 100 percent, 245.1 at 75 percent, 170.5 at 50 percent",
+   "length_mm": 5597,
+   "width_mm": 2590,
+   "height_mm": 2745,
+   "dry_weight_kg": 10334,
+   "emissions": "EPA certified stationary emergency and non-emergency",
+   "alternator": "K1248064N22, permanent magnet excitation, Class H, under 5 percent THD",
+   "controller": "Power Zone Pro Sync",
+   "voltage": "480 V class, 60 Hz",
+   "ambient_derate_note": "",
+   "data_center_rating": "Marketed for data centres and healthcare; NFPA 110 load acceptance",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-1000kw-gaseous-sg1000/",
+   "datasheet_url": "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=29eb8834-166f-4228-8059-d90dc01390b0",
+   "spec_confidence": "datasheet"
+  }
+ ],
+ "partnerships": [
+  {
+   "partner": "Baudouin (Weichai)",
+   "partner_type": "OEM",
+   "relationship_label": "OEM_SUPPLIER",
+   "since": "",
+   "country": "Global",
+   "scope": "Baudouin M55 and Baudouin M55 engines for SDMD1750 to SDMD3250 data centre sets",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/",
+   "why_it_matters": {
+    "level": "THREAT",
+    "analysis": "Ties Generac's data centre growth to Weichai engine capacity and brings Baudouin engines into the Gulf under a US brand. See weichai-baudouin.json."
+   }
+  },
+  {
+   "partner": "Perkins",
+   "partner_type": "OEM",
+   "relationship_label": "OEM_SUPPLIER",
+   "since": "",
+   "country": "Global",
+   "scope": "4008 (30.6 L) and D46L/4012 (45.8 L) engines for SD1000 to 1,500 kW sets",
+   "source_url": "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Generac mid-range sets are Perkins-powered, so a Generac win in KSA is also a Perkins service footprint win."
+   }
+  },
+  {
+   "partner": "Unnamed hyperscale data centre operator",
+   "partner_type": "Hyperscaler",
+   "relationship_label": "FRAMEWORK_SUPPLIER",
+   "since": "2026",
+   "country": "Global (Middle East in scope)",
+   "scope": "Global supply agreement for backup generators; nearly US$700 million committed for 2027; a second hyperscale agreement secured in Q2 2026",
+   "source_url": "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data",
+   "extra_sources": [
+    "https://investors.generac.com/news-releases/news-release-details/generac-reports-second-quarter-2026-results"
+   ],
+   "why_it_matters": {
+    "level": "THREAT",
+    "analysis": "Gulf hyperscale campuses could be equipped under these agreements. Cummins Arabia should identify which hyperscalers are building in KSA and UAE and align with Cummins global account coverage."
+   }
+  },
+  {
+   "partner": "Atlas Power Solutions",
+   "partner_type": "Dealer",
+   "relationship_label": "DEALER",
+   "since": "",
+   "country": "UAE, KSA",
+   "scope": "Generac dealer with Dubai (Ras Al Khor) and Riyadh offices per Generac international locator",
+   "source_url": "https://support.generacinternational.com/dealer-locator",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Local route for Generac industrial sets into UAE and KSA. Capability flags on the locator are not populated, so scale is unverified."
+   }
+  },
+  {
+   "partner": "Watan Altaqa for Equipment",
+   "partner_type": "Dealer",
+   "relationship_label": "DEALER",
+   "since": "",
+   "country": "KSA",
+   "scope": "Generac dealer in Riyadh per Generac international locator",
+   "source_url": "https://support.generacinternational.com/dealer-locator",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Second Saudi dealer entry; verify activity level in Etimad tenders."
+   }
+  },
+  {
+   "partner": "Al Mulla Power Solutions (Al Mulla Group)",
+   "partner_type": "Dealer",
+   "relationship_label": "DEALER",
+   "since": "",
+   "country": "Kuwait",
+   "scope": "Generac dealer flagged for gas generators, diesel generators and energy storage",
+   "source_url": "https://support.generacinternational.com/dealer-locator",
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Al Mulla Group is a large Kuwaiti conglomerate, giving Generac credible access to Kuwait MEW and private tenders in the gas genset and BESS space."
+   }
+  },
+  {
+   "partner": "Pramac (PR Industrial) / PR Middle East FZE",
+   "partner_type": "Packager",
+   "relationship_label": "JV",
+   "since": "2016",
+   "country": "UAE",
+   "scope": "Generac-owned Pramac runs the Dubai Jebel Ali office that fronts Generac international business in the Gulf",
+   "source_url": "https://www.pramac.com/where-we-are",
+   "extra_sources": [
+    "https://investors.generac.com/news-releases/news-release-details/generac-promotes-niccolo-borracchini-executive-vice-president"
+   ],
+   "why_it_matters": {
+    "level": "WATCH",
+    "analysis": "Pramac's own diesel gensets and the Generac large range can be sold through one Dubai entity."
+   }
+  }
+ ],
+ "geo_footprint": [
+  {
+   "country": "UAE",
+   "city": "Dubai (Jebel Ali Free Zone)",
+   "facility_type": "Regional HQ",
+   "entity": "PR Middle East FZE (Pramac / Generac)",
+   "notes": "BB1404 JAFZA ONE, P.O. Box 262478",
+   "source_url": "https://www.pramac.com/where-we-are"
+  },
+  {
+   "country": "UAE",
+   "city": "Dubai (Ras Al Khor)",
+   "facility_type": "Dealer branch",
+   "entity": "Atlas Power Solutions",
+   "notes": "10 Ras Al Khor Complex",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  },
+  {
+   "country": "KSA",
+   "city": "Riyadh",
+   "facility_type": "Dealer branch",
+   "entity": "Atlas Power Solutions",
+   "notes": "Second Floor, Al Rumaizan Building",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  },
+  {
+   "country": "KSA",
+   "city": "Riyadh",
+   "facility_type": "Dealer branch",
+   "entity": "Watan Altaqa for Equipment",
+   "notes": "Thumamah Road, Al Sahafa District",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  },
+  {
+   "country": "Kuwait",
+   "city": "Safat",
+   "facility_type": "Dealer branch",
+   "entity": "Al Mulla Power Solutions Company",
+   "notes": "P.O. Box 177, Safat 13002",
+   "source_url": "https://support.generacinternational.com/dealer-locator"
+  }
+ ],
+ "gulf_reference_projects": [],
+ "gaps": [
+  "No Gulf reference project for Generac industrial gensets was found in official sources.",
+  "MPS bi-fuel product pages were not found on the current Generac site; bi-fuel specs not recorded.",
+  "50 Hz ratings for the SDMD series are not published on the fetched pages (60 Hz only).",
+  "Generac international dealer locator entries for Atlas Power Solutions and Watan Altaqa carry no product capability flags, so their industrial genset scope is unverified.",
+  "Full-year 2025 press release not fetched; revenue from Wikipedia."
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Generac",
+  "https://generacinternational.com/",
+  "https://investors.generac.com/news-releases",
+  "https://investors.generac.com/news-releases/news-release-details/generac-acquires-belvidere-illinois-facility-expand-large",
+  "https://investors.generac.com/news-releases/news-release-details/generac-promotes-niccolo-borracchini-executive-vice-president",
+  "https://investors.generac.com/news-releases/news-release-details/generac-reports-first-quarter-2026-results",
+  "https://investors.generac.com/news-releases/news-release-details/generac-reports-second-quarter-2026-results",
+  "https://investors.generac.com/news-releases/news-release-details/generac-signs-global-supply-agreement-leading-hyperscale-data",
+  "https://investors.generac.com/news-releases/news-release-details/generacs-325mw-generator-named-gold-winner-2026-consulting",
+  "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=29eb8834-166f-4228-8059-d90dc01390b0",
+  "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=39cf4f2e-af84-419c-88e0-805c17323baa",
+  "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=3ed0bdd8-7b2b-4ef7-b1ca-15e41e0816d1",
+  "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=59755abd-f5b1-4919-81b0-87b5cb9cac62",
+  "https://legacy.genconnect.generac.com/Media/vwDoc.axd?d=5be39f50-7e9c-450f-b494-491c6ceb5c53",
+  "https://support.generacinternational.com/dealer-locator",
+  "https://www.generac.com/globalassets/business/products/products/generators/gie-brochure-industrial-missioncritical-2025-digital.pdf",
+  "https://www.generac.com/industrial-products/stationary-generators/1000kw-industrial-generator-30-6l-sd1000/",
+  "https://www.generac.com/industrial-products/stationary-generators/1250kw-industrial-generator-46-0l-sd1250/",
+  "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-1000kw-gaseous-sg1000/",
+  "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2250kw-diesel-65-6l/",
+  "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-2500kw-diesel-65-6l/",
+  "https://www.generac.com/industrial-products/stationary-generators/stationary-generator-3250kw-diesel-87.5l/",
+  "https://www.generac.com/industrial/industry-expertise/data-centers/",
+  "https://www.pramac.com/where-we-are"
+ ]
+}

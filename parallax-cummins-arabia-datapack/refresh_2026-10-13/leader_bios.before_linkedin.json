@@ -1,0 +1,1881 @@
+{
+ "CATERPIL": {
+  "drop": [
+   "Alban Hohmann-Schauly"
+  ],
+  "leaders": [
+   {
+    "company_id": "CATERPIL",
+    "name": "Joseph E. (Joe) Creed",
+    "title": "Chairman and Chief Executive Officer, Caterpillar Inc.",
+    "experience": [
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Chairman of the Board",
+      "from": "2026",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Chief Executive Officer",
+      "from": "2025",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Chief Operating Officer",
+      "from": "2023",
+      "to": "2025"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Group President, Energy & Transportation",
+      "from": "2021",
+      "to": "2023"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Electric Power",
+      "from": "2020",
+      "to": "2021"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Oil & Gas and Marine",
+      "from": "2019",
+      "to": "2021"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Finance Services and President, Caterpillar Venture Capital",
+      "from": "2017",
+      "to": "2019"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Interim Chief Financial Officer",
+      "from": "2018",
+      "to": "2018"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Chief Financial Officer, Energy & Transportation",
+      "from": "2013",
+      "to": "2016"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Joined Caterpillar",
+      "from": "1997",
+      "to": "1997"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Western Illinois University",
+      "degree": "Bachelor's degree in accounting",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html",
+    "quote": "Creed graduated from Western Illinois University with a bachelor’s degree in accounting",
+    "new": false,
+    "note": "Career years from Caterpillar 2026 proxy statement (DEF 14A, 30 Apr 2026) and 10-K; education from the officer bio page. Read via a web.archive.org copy of the official bio page because the live caterpillar.com page returns 403 to automated requests."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Jason E. Kaiser",
+    "title": "Group President, Power & Energy (Solar Turbines, Large Power Systems, Industrial Power Systems and related units)",
+    "experience": [
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Group President, Power & Energy (Energy & Transportation until renamed)",
+      "from": "2024",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Electric Power Division",
+      "from": "2021",
+      "to": "2023"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "General Manager, Electric Power Division (incl. Retail Electric Power Solution business)",
+      "from": "2019",
+      "to": "2021"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Product Manager, Electric Power Division",
+      "from": "2016",
+      "to": "2019"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Joined Caterpillar; engineering, sales and operations roles in electric power",
+      "from": "2000",
+      "to": "2016"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Rose-Hulman Institute of Technology",
+      "degree": "Bachelor's degree in electrical engineering",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.caterpillar.com/en/company/governance/officers/jason-kaiser.html",
+    "quote": "Kaiser graduated from Rose-Hulman Institute of Technology with a bachelor’s degree in electrical engineering.",
+    "new": false,
+    "note": "Role years from Caterpillar FY2025 10-K executive officers table (filed 13 Feb 2026); joined 2000 and degree from the officer bio page. Read via a web.archive.org copy of the official bio page because the live caterpillar.com page returns 403 to automated requests."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Melissa A. Busen",
+    "title": "Senior Vice President, Electric Power Division",
+    "experience": [
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Electric Power Division",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Vice President and General Manager, Large Electric Power Solutions",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Vice President, Digital Product Management",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Global strategy director and global aftermarket insights manager (Global Construction & Infrastructure; Global Aftermarket Services)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Commercial pricing analyst (joined Caterpillar)",
+      "from": "2004",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "Western Illinois University",
+      "degree": "Bachelor's degree in accounting",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.caterpillar.com/en/company/governance/officers/melissa-busen.html",
+    "quote": "Busen graduated from Western Illinois University with a bachelor’s degree in accounting, is a certified management accountant, and certified pricing professional.",
+    "new": false,
+    "note": "Bio gives no years for the intermediate roles, so they are left blank; only the 2004 start is stated. Read via a web.archive.org copy of the official bio page because the live caterpillar.com page returns 403 to automated requests."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Kyle J. Epley",
+    "title": "Chief Financial Officer",
+    "experience": [
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Chief Financial Officer",
+      "from": "2026",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Global Finance Services Division",
+      "from": "2019",
+      "to": "2026"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Corporate Controller",
+      "from": "2017",
+      "to": "2019"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Group CFO, Customer & Dealer Support; division CFO, Industrial Power Systems and Electronics & Machine Systems; FP&A, forecasting and cost analysis manager",
+      "from": "1996",
+      "to": "2017"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Bradley University",
+      "degree": "Bachelor's degree in accounting",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.sec.gov/Archives/edgar/data/18230/000110465926042062/tm2611571d1_8k.htm",
+    "quote": "Mr. Epley joined Caterpillar in 1996 and progressed through various positions of increasing responsibility across the global enterprise",
+    "new": false,
+    "note": "Career from SEC 8-K (Apr 2026), CFO effective 1 May 2026 succeeding Andrew Bonfield. Degree from https://www.caterpillar.com/en/company/governance/officers/kyle-epley.html: 'Epley holds a bachelor’s degree in accounting from Bradley University and is a certified public accountant.' Read via a web.archive.org copy of the official bio page because the live caterpillar.com page returns 403 to automated requests."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Rob Hoenes",
+    "title": "Senior Vice President, Electrification + Energy Solutions Division",
+    "experience": [
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Electrification and Energy Solutions Division",
+      "from": "2024",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Resource Industries Operations & Products",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Product management (medium wheel loaders, SEM, large dozers, medium tractors; Illinois and China), about ten years",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Sales and marketing (North America, Europe, Africa, Middle East), about 15 years",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Engineering",
+      "from": "1990",
+      "to": "1994"
+     }
+    ],
+    "education": [
+     {
+      "institution": "University of Missouri",
+      "degree": "Bachelor's degree in mechanical engineering",
+      "from": "",
+      "to": "1992"
+     }
+    ],
+    "bio_source": "https://www.caterpillar.com/en/company/governance/officers/rob-hoenes.html",
+    "quote": "Hoenes, a Missouri native, graduated from the University of Missouri in 1992 with a bachelor’s degree in mechanical engineering.",
+    "new": false,
+    "note": "Start of E+ES role in 2024 is consistent with the FY2025 10-K (Rodney Shurman held that role 2022-2024). Years for other roles are not published; durations are as stated in the bio. Has Middle East and Africa sales experience. Read via a web.archive.org copy of the official bio page because the live caterpillar.com page returns 403 to automated requests."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Tara Rossman",
+    "title": "Senior Vice President, Oil & Gas and Marine",
+    "experience": [
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Senior Vice President, Oil & Gas and Marine Division (COGMD)",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Vice President and General Manager, Caterpillar Tracked-Products, Resource Industries Operations & Products",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar Inc.",
+      "role": "Fleet management, safety management, service operations, aftermarket services, project management, solutions roles",
+      "from": "2001",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "University of Iowa",
+      "degree": "Bachelor of Science in industrial engineering",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.caterpillar.com/en/company/governance/officers/tara-rossman.html",
+    "quote": "Rossman holds a Bachelor of Science in industrial engineering from the University of Iowa.",
+    "new": false,
+    "note": "Joined June 2001; no other years published. Read via a web.archive.org copy of the official bio page because the live caterpillar.com page returns 403 to automated requests."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Fahad Y. Zahid",
+    "title": "Executive Vice President, Zahid Group (Zahid Tractor parent)",
+    "experience": [
+     {
+      "company": "Zahid Group / Zahid Tractor",
+      "role": "Executive Vice President",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.khl.com/1084680.article",
+    "quote": "Sheikh Fahad Y. Zahid, Executive Vice President of Zahid Tractor",
+    "new": false,
+    "note": "Only the title is published (Zahid releases 2010, 2011, 2014 and KHL article); no career or education found. Quote is from a Zahid release as reported in search results, not re-read on the page."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Amr Khashoggi",
+    "title": "Vice President, Group Affairs, Zahid Group",
+    "experience": [
+     {
+      "company": "Zahid Group",
+      "role": "Vice President, Human Resources & Group Affairs",
+      "from": "2016",
+      "to": "Present"
+     },
+     {
+      "company": "Zahid Group",
+      "role": "Vice President, Group Affairs",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Zahid Group",
+      "role": "Vice President, Corporate Affairs",
+      "from": "2008",
+      "to": ""
+     },
+     {
+      "company": "Global Gypsum Company",
+      "role": "Chairman",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "Menlo College",
+      "degree": "Undergraduate degree",
+      "from": "",
+      "to": "1977"
+     }
+    ],
+    "bio_source": "https://www.zahid.com/?p=3192",
+    "quote": "Since joining Zahid Group in 2008 as Vice President Corporate Affairs,",
+    "new": false,
+    "note": "Career from Zahid Group announcement (VP HR & Group Affairs effective 1 Jan 2016). Education from MarketScreener ('undergraduate degree from Menlo College, conferred in 1977'), a business-bio site, not an official source. WEF and Saudi Exchange pages reportedly also list a Menlo BSc and Yale MBA (1979) but returned 403 and were not read, so the MBA is not included. MarketScreener also lists Omar Kassem Alesayi Group CEO 2018-2019 and Arabweb president 2011-2015; omitted because dates conflict with the Zahid timeline. Current-title discrepancy: input says VP Group Affairs."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Mohamed El Kaddour",
+    "title": "Vice President, Energy & Transportation, Mohamed Abdulrahman Al-Bahar",
+    "experience": [
+     {
+      "company": "Mohamed Abdulrahman Al-Bahar",
+      "role": "Vice President, Energy & Transportation",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://meconstructionnews.com/55323/al-bahar-completes-power-solutions-project-for-rig-builder-lamprell",
+    "quote": "Vice President of Energy & Transportation – Al-Bahar",
+    "new": false,
+    "note": "Only title published (Cat press item of 2020 spells the name Mohamed Kaddour); no career or education found."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Ahmed Mohamed Kamal",
+    "title": "Power Systems EPG Retail Sales Manager, Al-Bahar",
+    "experience": [
+     {
+      "company": "Mohamed Abdulrahman Al-Bahar",
+      "role": "Power Systems EPG Retail Sales Manager",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://meconstructionnews.com/40857/al-bahar-introduces-new-cat-c18-diesel-generator-in-gcc",
+    "quote": "said Ahmed Mohamed Kamal, retail sales manager for Power Systems EPG at Al-Bahar.",
+    "new": false,
+    "note": "Second pass: title confirmed by Middle East Construction News (Cat C18 genset launch, 2020, readable page) instead of the unreadable Zawya page. Title in 2020 was 'retail sales manager for Power Systems EPG'; current status not verified. No career or education published."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Amr Diasty",
+    "title": "Petroleum, Marine & Industrial Manager, Al-Bahar",
+    "experience": [
+     {
+      "company": "Mohamed Abdulrahman Al-Bahar",
+      "role": "Petroleum, Marine & Industrial Manager",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://technicalreviewmiddleeast.com/power-a-water/al-bahar-and-caterpillar-at-adipec-2025",
+    "quote": "Petroleum, Marine & Industrial Manager at Al-Bahar",
+    "new": false,
+    "note": "Only title published; no career or education found."
+   },
+   {
+    "company_id": "CATERPIL",
+    "name": "Dariusz Sobieraj",
+    "title": "Group Chief Financial Officer, Al-Bahar",
+    "experience": [
+     {
+      "company": "Mohamed Abdulrahman Al-Bahar / Al-Bahar Group (BKGH)",
+      "role": "Group Chief Financial Officer",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.albahargroup.com/about-us/",
+    "quote": "Dariusz Sobieraj Group Chief Financial Officer - BKGH",
+    "new": false,
+    "note": "Second pass: company leadership list (albahargroup.com/about-us, read 14 Oct 2026) confirms the title as Group CFO of BKGH (Bahar Al-Kuwait Group Holding), replacing the first-pass craft.co source. The only career/education text found (ZoomInfo, Equilar ExecAtlas, AroundDeal) comes from people-data aggregators, which are off limits, so it is NOT recorded. No usable public press bio found."
+   }
+  ]
+ },
+ "MITSUBIS": {
+  "drop": [
+   "Takao Tsukui"
+  ],
+  "leaders": [
+   {
+    "company_id": "MITSUBIS",
+    "name": "Michiyoshi Furutono",
+    "title": "President and Chief Executive Officer, MHIET",
+    "experience": [
+     {
+      "company": "Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. (MHIET)",
+      "role": "President (Representative Director)",
+      "from": "2023",
+      "to": "Present"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. (MHIET)",
+      "role": "Managing Director (Joumu Torishimariyaku) and General Manager, Management Administration Dept.",
+      "from": "2022",
+      "to": "2023"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. (MHIET) / Mitsubishi Heavy Industries, Ltd.",
+      "role": "General Manager, Management Administration Dept., concurrently Deputy Director, MHI Sagamihara Machinery Works",
+      "from": "2018",
+      "to": "2022"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries Engine & Turbocharger, Ltd. (MHIET)",
+      "role": "General Manager, Procurement Dept.",
+      "from": "2016",
+      "to": "2018"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "role": "Joined the company",
+      "from": "1987",
+      "to": "1987"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Waseda University",
+      "degree": "Faculty of Political Science and Economics (graduated March 1987)",
+      "from": "",
+      "to": "1987"
+     }
+    ],
+    "bio_source": "https://www.netdenjd.com/articles/-/280311",
+    "quote": "1987年3月早稲田大学政治経済学部卒業。同年4月三菱重工業入社。2016年7月三菱重工エンジン＆ターボチャージャ調達部長、18年4月経営管理部長兼三菱重工業相模原製作所所長代理、22年7月から現職。",
+    "new": false,
+    "note": "Secondary press (Nikkan Jidosha Shimbun via netdenjd.com, 9 Feb 2023, on the announcement of his appointment as MHIET president effective 1 Apr 2023; same text on carview.yahoo.co.jp). Born July 1963, from Kitakyushu, Fukuoka. President title confirmed on the official mhi.com MHIET company page and the MHIET release of 7 Feb 2023. Years of the 2018-2022 post start dates are as printed; the 'Managing Director' title is the article's 常務取締役 (current post at July 2022). Verbatim quote is in Japanese; the degree is 'Faculty of Political Science and Economics' (政治経済学部)."
+   },
+   {
+    "company_id": "MITSUBIS",
+    "name": "Minoru Esaki",
+    "title": "Managing Director, Mitsubishi Heavy Industries Engine System Asia (MHI-ESA), Singapore",
+    "experience": [
+     {
+      "company": "Mitsubishi Heavy Industries Engine System Asia (MHI-ESA)",
+      "role": "Managing Director",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.mhi.com/group/mhiesa/news/20260807-mgs-apac-conference.html",
+    "quote": "Managing Director of MHI-ESA",
+    "new": false,
+    "note": "Page gives only his title (welcome address at MGS APAC Sales & Service Maintenance Conference 2026). Career and education not published."
+   },
+   {
+    "company_id": "MITSUBIS",
+    "name": "Norio Murakami",
+    "title": "Managing Director, MHI-ESA (until about mid-2026)",
+    "experience": [
+     {
+      "company": "Mitsubishi Heavy Industries Engine System Asia (MHI-ESA)",
+      "role": "Managing Director",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.mhi.com/group/mhiesa/news/20251007.html",
+    "quote": "Managing Director of MHI-ESA",
+    "new": false,
+    "note": "Quoted as MD of MHI-ESA in Oct 2025 (MGS2500R launch). Input says Minoru Esaki succeeded him by June 2026 (Esaki is MD on the June 2026 conference page), so he has left this role; start and end years not published. Career and education not published."
+   },
+   {
+    "company_id": "MITSUBIS",
+    "name": "Eisaku Ito",
+    "title": "President and CEO, Mitsubishi Heavy Industries, Ltd. (parent of MHIET)",
+    "experience": [
+     {
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "role": "President and CEO",
+      "from": "2025",
+      "to": "Present"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "role": "Executive Vice President, CTO; from 2022 also Co-CSO",
+      "from": "2020",
+      "to": "2025"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "role": "Senior Vice President, Co-CTO",
+      "from": "2019",
+      "to": "2020"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "role": "Fellow, Deputy Head of Research & Innovation Center",
+      "from": "2018",
+      "to": "2019"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "role": "General Manager, Business Intelligence & Innovation Department, Marketing & Innovation Headquarters",
+      "from": "2016",
+      "to": "2018"
+     },
+     {
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "role": "Joined",
+      "from": "1987",
+      "to": ""
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.mhi.com/company/aboutmhi/officers/photo.html",
+    "quote": "April, 1987 Joined Mitsubishi Heavy Industries, Ltd.",
+    "new": true,
+    "note": "Added under the thin-list rule (group CEO). MHI officer page publishes no education."
+   }
+  ]
+ },
+ "WEICHAIB": {
+  "drop": [
+   "Zhang Quan"
+  ],
+  "leaders": [
+   {
+    "company_id": "WEICHAIB",
+    "name": "Ma Changhai",
+    "title": "Chairman and Executive Director, Weichai Power Co., Ltd.",
+    "experience": [
+     {
+      "company": "Weichai Power Co., Ltd.",
+      "role": "Chairman and executive director",
+      "from": "2024",
+      "to": "Present"
+     },
+     {
+      "company": "Weichai Group Holdings Limited",
+      "role": "Secretary of the party committee, chairman of the board and general manager",
+      "from": "2024",
+      "to": "Present"
+     },
+     {
+      "company": "Weichai Group Holdings Limited",
+      "role": "General manager and compliance director (also deputy general manager and secretary to the board earlier)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Weifang Diesel Engine Factory",
+      "role": "Joined",
+      "from": "1997",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "Shandong University",
+      "degree": "Bachelor's degree in Laws (the June 2023 circular says Scientific Socialism)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.marketscreener.com/quote/stock/WEICHAI-POWER-CO-LTD-6170971/news/Weichai-Power-Co-Ltd-Announces-Board-Changes-47661348/",
+    "quote": "Mr. Ma joined Weifang Diesel Engine Factory in 1997.",
+    "new": false,
+    "note": "Chairman effective 12 Aug 2024 (Weichai board announcement as reproduced by MarketScreener); still Chairman on the 3 Jul 2026 HKEX director list. Degree field differs between the 2023 AGM circular (Scientific Socialism, https://en.weichaipower.com/investor_relations/hk_02338/old/2022/202306/P020230605748432726123.pdf) and the 2024 announcement (Laws); both say Shandong University. Group Holdings roles are from the 2024 announcement, start years not given."
+   },
+   {
+    "company_id": "WEICHAIB",
+    "name": "Wang Decheng",
+    "title": "Executive Director and General Manager (CEO), Weichai Power Co., Ltd.",
+    "experience": [
+     {
+      "company": "Weichai Power Co., Ltd.",
+      "role": "Executive director, Chief Executive Officer and general manager",
+      "from": "2023",
+      "to": "Present"
+     },
+     {
+      "company": "Weichai Power Co., Ltd.",
+      "role": "Executive president; earlier vice president, assistant to president, president of engine research institute, engine platform director, application engineering director",
+      "from": "2004",
+      "to": "2023"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Tianjin University",
+      "degree": "Master's degree in Power Engineering",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Harbin Engineering University",
+      "degree": "Bachelor's degree in Automotive Application Engineering",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://en.weichaipower.com/investor_relations/hk_02338/old/2022/202306/P020230605748432726123.pdf",
+    "quote": "He joined the Company in July 2004 and held various positions including application engineering director, engine platform director",
+    "new": false,
+    "note": "CEO role effective 13 Oct 2023 (MarketScreener copy of company announcement); listed as Executive Director (General Manager) on the 3 Jul 2026 HKEX list. Also engineering doctoral student at Tianjin University per the 2023 circular. Years inside the 2004-2023 ladder are not published."
+   },
+   {
+    "company_id": "WEICHAIB",
+    "name": "Fabrizio Mozzi",
+    "title": "Chief Executive Officer (President and Managing Director), Moteurs Baudouin",
+    "experience": [
+     {
+      "company": "Société Internationale des Moteurs Baudouin SAS",
+      "role": "President & Managing Director / CEO",
+      "from": "2016",
+      "to": "Present"
+     },
+     {
+      "company": "Power Solutions International, Inc.",
+      "role": "Chairman",
+      "from": "2021",
+      "to": "2023"
+     },
+     {
+      "company": "Cummins, Inc.",
+      "role": "Director, Power Generation Business",
+      "from": "2014",
+      "to": "2016"
+     }
+    ],
+    "education": [
+     {
+      "institution": "LUISS University of Rome",
+      "degree": "Undergraduate degree",
+      "from": "",
+      "to": "2003"
+     },
+     {
+      "institution": "Kelley School of Business (Indiana University)",
+      "degree": "MBA",
+      "from": "",
+      "to": "2010"
+     }
+    ],
+    "bio_source": "https://www.zonebourse.com/insider/FABRIZIO-MOZZI-A3EANY/",
+    "quote": "Fabrizio Mozzi is currently the President & Managing Director at Société Internationale des Moteurs Baudouin SAS since 2016.",
+    "new": false,
+    "note": "Career and education come from a single data-aggregator profile (Zonebourse/MarketScreener), not an official page; the CEO title is confirmed by Powertrain International (Middle East Energy 2025 article, source in the input): 'Fabrizio Mozzi, CEO of Moteurs Baudouin.' Baudouin's own site would not load (certificate error). Undergraduate field not stated. Current status after 2025 not verified."
+   },
+   {
+    "company_id": "WEICHAIB",
+    "name": "Wang Cuiping",
+    "title": "Chief Financial Officer, Weichai Power Co., Ltd.",
+    "experience": [
+     {
+      "company": "Weichai Power Co., Ltd.",
+      "role": "Chief Financial Officer",
+      "from": "2024",
+      "to": "Present"
+     },
+     {
+      "company": "Zhongtong Bus Holding Co., Ltd.",
+      "role": "Chief Financial Officer and Secretary",
+      "from": "2022",
+      "to": "2024"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://it.marketscreener.com/insider/CUI-PING-WANG-A3T29D/",
+    "quote": "Chief Financial Officer at Weichai Power Co., Ltd. since 2024.",
+    "new": true,
+    "note": "Added under the thin-list rule (CFO). Aggregator source (MarketScreener); I could not open Weichai's own CFO appointment filing. Education not published on the page."
+   }
+  ]
+ },
+ "VOLVOPEN": {
+  "drop": [
+   "Hannes Norrgren"
+  ],
+  "leaders": [
+   {
+    "company_id": "VOLVOPEN",
+    "name": "Anna Muller",
+    "title": "President, Volvo Penta",
+    "experience": [
+     {
+      "company": "Volvo Penta (Volvo Group)",
+      "role": "President",
+      "from": "2023",
+      "to": "Present"
+     },
+     {
+      "company": "Volvo Trucks",
+      "role": "Senior Vice President, Europe North & Central",
+      "from": "",
+      "to": "2023"
+     },
+     {
+      "company": "Volvo Trucks",
+      "role": "Several senior positions",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Volvo Penta",
+      "role": "Service organisation, business development (joined Volvo Group)",
+      "from": "2014",
+      "to": ""
+     },
+     {
+      "company": "Ford Motor Company AB",
+      "role": "Managing Director",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "Linkoping University",
+      "degree": "B.A., International Business Program",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.volvogroup.com/en/investors/corporate-governance/ceo-and-group-executive-board/Anna_Muller.html",
+    "quote": "B.A. International Business Program, Linköping University",
+    "new": false,
+    "note": "Start as President (Dec 2023) from the Volvo Group profile plus the Nov 2023 Powertrain International announcement (https://powertraininternationalweb.com/news/anna-muller-is-the-new-president-of-volvo-penta); Volvo profile lists the Ford role as prior to Volvo Trucks without years. Also board member of Alfa Laval AB."
+   },
+   {
+    "company_id": "VOLVOPEN",
+    "name": "Martin Lundstedt",
+    "title": "President and CEO, Volvo Group (Volvo Penta's parent)",
+    "experience": [
+     {
+      "company": "Volvo Group",
+      "role": "President and CEO",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Scania AB",
+      "role": "President and CEO",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Scania",
+      "role": "Various management positions",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "Chalmers University of Technology",
+      "degree": "MSc",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.volvogroup.com/en/investors/corporate-governance/ceo-and-group-executive-board/martin-lundstedt.html",
+    "quote": "MSc, Chalmers University of Technology",
+    "new": true,
+    "note": "Added under the thin-list rule (group CEO). Volvo profile gives no years or field of study; board seats include Chairman Permobil Holding AB, Autoliv, Concentric AB."
+   },
+   {
+    "company_id": "VOLVOPEN",
+    "name": "Mats Backman",
+    "title": "Executive Vice President, Group Finance and CFO, Volvo Group",
+    "experience": [
+     {
+      "company": "Volvo Group",
+      "role": "Executive Vice President, Group Finance and CFO",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Triton",
+      "role": "Operating Partner",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Autoliv Inc. and subsequently Veoneer Inc.",
+      "role": "Chief Financial Officer",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Sandvik Group",
+      "role": "Various management positions including CFO; also Outokumpu, Nordea, Boliden",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "",
+      "degree": "BSc in Business Administration",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.volvogroup.com/en/investors/corporate-governance/ceo-and-group-executive-board/Mats_Backman.html",
+    "quote": "BSc in Business Administration",
+    "new": true,
+    "note": "Added under the thin-list rule (CFO). Volvo profile gives no years and no university. Board member of Gränges AB."
+   }
+  ]
+ },
+ "REHLKO": {
+  "drop": [
+   "Jerome Quere"
+  ],
+  "leaders": [
+   {
+    "company_id": "REHLKO",
+    "name": "Brian Melka",
+    "title": "President and Chief Executive Officer, Rehlko",
+    "experience": [
+     {
+      "company": "Rehlko (formerly Kohler Energy)",
+      "role": "President and Chief Executive Officer",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Kohler Co. (Kohler Power)",
+      "role": "Group President, Kohler Power",
+      "from": "2020",
+      "to": ""
+     },
+     {
+      "company": "Kohler Co. (Kohler Engines)",
+      "role": "President - Engines",
+      "from": "2019",
+      "to": "2020"
+     },
+     {
+      "company": "Kohler Co. (Kohler Engines)",
+      "role": "Vice President - Kohler Engines Americas",
+      "from": "2013",
+      "to": "2019"
+     },
+     {
+      "company": "Rexnord, Inc. and Textron, Inc.",
+      "role": "Senior leadership roles incl. Vice President - Global Mining and Product Management; Director of Product Management and Service; Six Sigma Master Black Belt",
+      "from": "",
+      "to": "2013"
+     }
+    ],
+    "education": [
+     {
+      "institution": "University of Wisconsin-Madison",
+      "degree": "Bachelor's degree in Finance",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "University of Wisconsin-Whitewater",
+      "degree": "MBA",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Thunderbird School of Global Management",
+      "degree": "International Business Certification",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.powertraininternationalweb.com/news/brian-melka-named-group-president-of-kohler-power",
+    "quote": "A graduate of the University of Wisconsin-Madison, Brian holds a bachelor’s degree in finance, earned an MBA from the University of Wisconsin-Whitewater and holds International Business Certification from Thunderbird School of Global Management.",
+    "new": false,
+    "note": "Career and education from the June 2020 Kohler Power appointment release as reprinted by Powertrain International; Rehlko CEO title from rehlko.com release of 1 Apr 2025 ('President and CEO of Rehlko'). Start year of the CEO role is not stated on any page read. rehlko.com has no leadership page reachable. Which employer (Rexnord or Textron) held which role is not stated; 'to 2013' is the Kohler join year."
+   },
+   {
+    "company_id": "REHLKO",
+    "name": "Francis Perrin",
+    "title": "Chief Brand and Sustainability Officer, Rehlko",
+    "experience": [
+     {
+      "company": "Rehlko",
+      "role": "Chief Brand and Sustainability Officer",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Ste-Michelle Wine Estates",
+      "role": "Chief Marketing Officer",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Bel Brands",
+      "role": "Chief Marketing Officer",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "P&G, L'Oréal, Pernod Ricard",
+      "role": "Marketing roles (consumer marketing companies he worked with; years and roles not stated)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "HEC Montreal",
+      "degree": "Degree in Business Administration",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Columbia University",
+      "degree": "Master's degree (field not stated)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://event.adweek.com/MVS_2025/speaker/1650387/francis-perrin",
+    "quote": "Previously Francis served as the Chief Marketing Officer (CMO) of Ste-Michelle Wine Estates, a prominent premium wine company in the USA. He also held the position of CMO at Bel Brands.",
+    "new": false,
+    "note": "Adweek Marketing Vanguard Summit 2025 speaker page (third-party, event bio). No years published. Order of the earlier roles is as listed on the page."
+   },
+   {
+    "company_id": "REHLKO",
+    "name": "Lenaik Andrieux",
+    "title": "General Manager, EMEA, India and LATAM, Rehlko",
+    "experience": [
+     {
+      "company": "Rehlko (Kohler Power Systems)",
+      "role": "General Manager, EMEA, India and LATAM (joined Kohler Power Group January 2019 as General Manager EMEA and president of SDMO holding; president of GIGREL, French generating-set syndicate, from November 2019)",
+      "from": "2019",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "General Manager, Large Electric Power organization (adding Power Rental)",
+      "from": "2016",
+      "to": ""
+     },
+     {
+      "company": "Caterpillar",
+      "role": "General Manager, Electric Power Investor business (diesel generators above 750 kVA)",
+      "from": "2015",
+      "to": "2016"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "General Manager, Electric Power Retail business (incl. FG Wilson)",
+      "from": "2013",
+      "to": "2015"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Lead, Electric Power Retail sales worldwide (Geneva)",
+      "from": "2012",
+      "to": "2013"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Electric Power global product definition manager (Griffin, Georgia)",
+      "from": "2009",
+      "to": "2012"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Global engineering manager, diesel and gas generator sets 250kVA and below (Newberry, SC)",
+      "from": "2007",
+      "to": "2009"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Dealer interface and sales management roles, Europe, Africa, Middle East and CIS",
+      "from": "2001",
+      "to": "2007"
+     },
+     {
+      "company": "SDMO",
+      "role": "Sales management positions",
+      "from": "1998",
+      "to": "2000"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Ecole Polytechnique de Nantes",
+      "degree": "Master engineering degree in power electronics",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Université de Nantes",
+      "degree": "Master engineering degree in power electronics",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "IMD Lausanne",
+      "degree": "Alumnus (executive programme; no degree stated)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.datacenterfrontier.com/executive-insights-lenaik-andrieux-of-kohler-power-systems",
+    "quote": "Lenaik is French and holds master engineering degrees in power electronics from both Ecole Polytechnique de Nantes and Université de Nantes.",
+    "new": false,
+    "note": "Data Center Frontier executive-roundtable bio (Kohler-supplied, undated, written when he was GM Kohler Power Systems EMEA). End year of the Caterpillar role from 2016 is not stated (he joined Kohler Jan 2019). Current title and scope from Rehlko release on WB Power Services (rehlko.com). The bio mentions 20+ years of industry experience and 2016 Caterpillar executive programme 'Digging Deep'."
+   },
+   {
+    "company_id": "REHLKO",
+    "name": "Kyle Quinn",
+    "title": "President, Clarke Energy (appointed April 2025)",
+    "experience": [
+     {
+      "company": "Rehlko (Clarke Energy)",
+      "role": "President, Clarke Energy",
+      "from": "2025",
+      "to": "Present"
+     },
+     {
+      "company": "Clarke Energy",
+      "role": "Legal and commercial roles (over 12 years at Clarke Energy as of April 2025; over 20 years in legal and commercial roles overall)",
+      "from": "",
+      "to": "2025"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.rehlko.com/kyle-quinn-appointed-as-president-of-clarke-energy",
+    "quote": "Kyle Quinn brings over 20 years of experience in legal and commercial roles, with a proven track record of over 12 years at Clarke Energy.",
+    "new": false,
+    "note": "Education not published. Official Rehlko release dated 1 Apr 2025. Clarke Energy start year not stated."
+   }
+  ]
+ },
+ "PERKINSF": {
+  "drop": [
+   "Graeme De Villiers",
+   "Darren O'Connor"
+  ],
+  "leaders": [
+   {
+    "company_id": "PERKINSF",
+    "name": "Joe Creed",
+    "title": "Chairman and Chief Executive Officer, Caterpillar Inc.",
+    "experience": [
+     {
+      "company": "Caterpillar",
+      "role": "Chairman and Chief Executive Officer (CEO 2025, chairman 2026)",
+      "from": "2025",
+      "to": "Present"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Chief Operating Officer",
+      "from": "2023",
+      "to": "2025"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Group President, Energy & Transportation",
+      "from": "2021",
+      "to": "2023"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Senior Vice President, Oil & Gas and Marine division and Electric Power division",
+      "from": "2019",
+      "to": "2021"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Interim Chief Financial Officer",
+      "from": "2018",
+      "to": "2018"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Senior Vice President, Caterpillar Finance Services",
+      "from": "2017",
+      "to": "2018"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Chief Financial Officer, Energy & Transportation segment",
+      "from": "2013",
+      "to": "2017"
+     },
+     {
+      "company": "Caterpillar",
+      "role": "Positions of increasing responsibility",
+      "from": "1997",
+      "to": "2013"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Western Illinois University",
+      "degree": "Bachelor's degree in Accounting",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Stanford University (Caterpillar executive leadership program)",
+      "degree": "Executive leadership program, no degree",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://businessroundtable.org/members/joe-creed",
+    "quote": "Creed graduated from Western Illinois University with a bachelor’s degree in accounting and completed Caterpillar’s flagship executive leadership program, conducted by Stanford University for Caterpillar leaders, dealers, and suppliers.",
+    "new": false,
+    "note": "caterpillar.com officer page returned 403 (not bypassed); bio is the Caterpillar-supplied text on the Business Roundtable member page (same text on usispf.org). Title updated from input: now Chairman and CEO (chairman 2026). Strictly Caterpillar group CEO; FG Wilson and Perkins sit inside Caterpillar. Graduation year not stated."
+   },
+   {
+    "company_id": "PERKINSF",
+    "name": "Richard Hemmings",
+    "title": "Vice President and General Manager, Global Sales, Marketing, Service and Parts, Perkins",
+    "experience": [
+     {
+      "company": "Perkins",
+      "role": "Vice President and General Manager, Global Sales, Marketing, Service and Parts (SMSP)",
+      "from": "2026",
+      "to": "Present"
+     },
+     {
+      "company": "Perkins",
+      "role": "General Manager for Aftermarket",
+      "from": "",
+      "to": "2025"
+     },
+     {
+      "company": "Perkins",
+      "role": "Roles in SMSP incl. account management, market development, strategy, sales",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Perkins",
+      "role": "Graduate trainee, Peterborough, UK (nearly 20 years with Perkins as of Jan 2026)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.equipmentjournal.com/construction-news/perkins-welcomes-richard-hemmings-as-new-vice-president/",
+    "quote": "Hemmings has nearly 20 years of experience with Perkins, beginning his career as a graduate trainee in Peterborough, U.K.",
+    "new": false,
+    "note": "Equipment Journal, 6 Jan 2026, reproduces the Perkins release (effective 1 Jan 2026); perkins.com returned 403 (not bypassed). Education not published. Year ranges for earlier roles not stated."
+   },
+   {
+    "company_id": "PERKINSF",
+    "name": "Roger Kennedy",
+    "title": "General Manager, FG Wilson",
+    "experience": [
+     {
+      "company": "FG Wilson",
+      "role": "General Manager",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.fgwilson.com/en_GB/company/latest-news/top-stories/FG_Wilson_General_Manager_Appointment.html",
+    "quote": "",
+    "new": false,
+    "note": "Nothing verified: fgwilson.com returned 403 to direct fetch (not bypassed), so no quote could be taken. A search-result summary of that page says he has over three decades of experience in FG Wilson; not confirmed by a page read. Appointment date and education not found. Another FG Wilson notice says previous GM Andy Law moved to a Caterpillar marine role effective 1 Oct 2025."
+   }
+  ]
+ },
+ "GENERAC": {
+  "drop": [],
+  "leaders": [
+   {
+    "company_id": "GENERAC",
+    "name": "Aaron Jagdfeld",
+    "title": "Chairman, President and Chief Executive Officer (CEO since 2008)",
+    "experience": [
+     {
+      "company": "Generac",
+      "role": "President and Chief Executive Officer (Chairman since 2016)",
+      "from": "2008",
+      "to": "Present"
+     },
+     {
+      "company": "Generac",
+      "role": "President, responsible for sales, marketing, engineering and product development",
+      "from": "2007",
+      "to": "2007"
+     },
+     {
+      "company": "Generac",
+      "role": "Chief Financial Officer",
+      "from": "2002",
+      "to": "2006"
+     },
+     {
+      "company": "Generac",
+      "role": "Finance Department",
+      "from": "1994",
+      "to": "2001"
+     },
+     {
+      "company": "Deloitte & Touche LLP",
+      "role": "Audit Practice (Milwaukee office)",
+      "from": "",
+      "to": "1994"
+     }
+    ],
+    "education": [
+     {
+      "institution": "University of Wisconsin-Whitewater",
+      "degree": "Bachelor of Business Administration in Accounting",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.sec.gov/Archives/edgar/data/1474735/000110465926051499/tm261388-1_def14a.htm",
+    "quote": "Mr. Jagdfeld holds a Bachelor of Business Administration in Accounting from the University of Wisconsin-Whitewater.",
+    "new": false,
+    "note": "Generac 2026 proxy statement (DEF 14A filed 29 Apr 2026) and FY2025 10-K. investors.generac.com returned 403 (not bypassed). Other board service: The Hillman Group."
+   },
+   {
+    "company_id": "GENERAC",
+    "name": "Erik Wilde",
+    "title": "President, Domestic C&I",
+    "experience": [
+     {
+      "company": "Generac",
+      "role": "President, Domestic C&I",
+      "from": "2016",
+      "to": "Present"
+     },
+     {
+      "company": "Komatsu America Corp.",
+      "role": "Vice President and General Manager, Mining Division",
+      "from": "2013",
+      "to": "2016"
+     },
+     {
+      "company": "Komatsu America Corp.",
+      "role": "Vice President, ICT Business Division and Product Marketing",
+      "from": "2005",
+      "to": "2013"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Boise State University",
+      "degree": "Bachelor of Business Administration in Management",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Keller Graduate School of Management",
+      "degree": "M.B.A.",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.sec.gov/Archives/edgar/data/1474735/000143774926004568/gnrc20251231_10k.htm",
+    "quote": "Mr. Wilde holds a Bachelor of Business Administration in Management from Boise State University and an M.B.A. from the Keller Graduate School of Management.",
+    "new": false,
+    "note": "Generac FY2025 10-K, 'Information About Our Executive Officers'; title there is 'President, Domestic C&I' (input said Executive Vice President and President). End of the 2005 Komatsu role = 2013 per the following sentence. Graduation years not stated."
+   },
+   {
+    "company_id": "GENERAC",
+    "name": "Niccolo Borracchini",
+    "title": "Executive Vice President - International (Generac and Pramac business outside US and Canada), since 2026-07-06",
+    "experience": [
+     {
+      "company": "Generac",
+      "role": "Executive Vice President - International",
+      "from": "2026",
+      "to": "Present"
+     },
+     {
+      "company": "Generac / Pramac",
+      "role": "Senior Vice President - International",
+      "from": "2024",
+      "to": "2026"
+     },
+     {
+      "company": "Pramac (Generac from 2016)",
+      "role": "Corporate General Manager, then increasing leadership of international support functions and commercial areas",
+      "from": "2015",
+      "to": "2024"
+     },
+     {
+      "company": "Emisys Capital",
+      "role": "Private equity, mid-market investments across industrials, consumer and media",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "MPVenture",
+      "role": "Private equity",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "University of Siena",
+      "degree": "Master of Science in Management (magna cum laude)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "University of Siena",
+      "degree": "Bachelor of Economics and Business Administration (magna cum laude)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.adnkronos.com/immediapress/eng/generac-promotes-niccolo-borracchini-to-executive-vice-president-international_L8fs9QR2bNeBtHEb53E59",
+    "quote": "He holds a Master of Science in Management and a Bachelor of Economics and Business Administration from the University of Siena, both magna cum laude.",
+    "new": false,
+    "note": "Generac release of 6 Jul 2026 as reprinted by Adnkronos; investors.generac.com returned 403 (not bypassed). Years for MPVenture and Emisys Capital not stated; he joined Pramac in 2015. Also an Erasmus year at WHU and board member of ITS Energia e Ambiente Foundation since 2024."
+   },
+   {
+    "company_id": "GENERAC",
+    "name": "Paolo Campinoti",
+    "title": "President, International Development (advisory, after retiring 2026-07-01 from Pramac leadership)",
+    "experience": [
+     {
+      "company": "Generac",
+      "role": "President - International Development (consulting and advisory role)",
+      "from": "2026",
+      "to": "Present"
+     },
+     {
+      "company": "Generac / Pramac Group",
+      "role": "Executive Vice President - International and concurrently CEO of the Pramac Group",
+      "from": "2016",
+      "to": "2026"
+     },
+     {
+      "company": "Pramac",
+      "role": "Joined Pramac; more than three decades with the Pramac Group",
+      "from": "1993",
+      "to": "2016"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.adnkronos.com/immediapress/eng/generac-promotes-niccolo-borracchini-to-executive-vice-president-international_L8fs9QR2bNeBtHEb53E59",
+    "quote": "Campinoti joined Pramac in 1993 and most recently served as Executive Vice President – International since Generac's acquisition of Pramac in 2016, while concurrently serving as CEO of the Pramac Group.",
+    "new": false,
+    "note": "Has retired from his executive role effective 1 Jul 2026 and stays as adviser; kept in record. Roles between 1993 and 2016 and education not published."
+   },
+   {
+    "company_id": "GENERAC",
+    "name": "York Ragen",
+    "title": "Chief Financial Officer",
+    "experience": [
+     {
+      "company": "Generac",
+      "role": "Chief Financial Officer",
+      "from": "2008",
+      "to": "Present"
+     },
+     {
+      "company": "Generac",
+      "role": "Director of Finance and Vice President of Finance",
+      "from": "2005",
+      "to": "2008"
+     },
+     {
+      "company": "APW Ltd. (spin-off from Applied Power)",
+      "role": "Vice President, Corporate Controller",
+      "from": "",
+      "to": "2005"
+     },
+     {
+      "company": "Arthur Andersen (Milwaukee office audit practice)",
+      "role": "Began career",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "University of Wisconsin-Whitewater",
+      "degree": "Bachelor of Business Administration in Accounting",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.sec.gov/Archives/edgar/data/1474735/000143774926004568/gnrc20251231_10k.htm",
+    "quote": "Mr. Ragen holds a Bachelor of Business Administration in Accounting from the University of Wisconsin-Whitewater.",
+    "new": true,
+    "note": "Added: CFO of the group. Generac FY2025 10-K. 2005 = join year; 'to 2008' is the CFO start. No Middle East head at Generac is named in the 10-K; international head is Borracchini (already listed)."
+   }
+  ]
+ },
+ "ROLLSROY": {
+  "drop": [],
+  "leaders": [
+   {
+    "company_id": "ROLLSROY",
+    "name": "Dr Jörg Stratmann",
+    "title": "CEO and Chairman of the Executive Board, Rolls-Royce Power Systems AG",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "CEO / President Power Systems and Chairman of the Board",
+      "from": "2022",
+      "to": "Present"
+     },
+     {
+      "company": "Mahle GmbH",
+      "role": "CEO and chairman of the executive board (most recent role before Rolls-Royce; years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Mahle GmbH",
+      "role": "Leading positions (years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Siemens AG",
+      "role": "Various international positions in the USA, Italy, Romania and Germany (years not published)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "Technical University of Berlin",
+      "degree": "Doctorate and master's, industrial engineering",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.rolls-royce.com/about/leadership/executive-leadership-team.aspx",
+    "quote": "Jörg was chief executive officer and chairman of the management board for the automotive supplier Mahle GmbH",
+    "new": false,
+    "note": "Joined 15 Nov 2022. Prior-role years not published on the pages read. Degree detail: Group page says doctorate and master's in industrial engineering from TU Berlin; mtu About page says he studied and earned his doctorate at the Technical University of Berlin; 2022 mtu release says 'holds a doctorate in industrial engineering'."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Dr Andreas Strecker",
+    "title": "Chief Financial Officer, Rolls-Royce Power Systems AG",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Chief Financial Officer",
+      "from": "2022",
+      "to": "Present"
+     },
+     {
+      "company": "Accuride Wheels",
+      "role": "President, Europe & Asia (years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Deutz AG",
+      "role": "Chief Financial Officer (years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Solaris Bus & Coach sp. z o.o.",
+      "role": "Chief Executive Officer (years not published)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.mtu-solutions.com/eu/en/about-us/about-rolls-royce-power-systems.html",
+    "quote": "Since 1 December 2022, Dr. Andreas Strecker reinforces the Executive Board of Management as Chief Financial Officer.",
+    "new": false,
+    "note": "Education not published on official pages. Prior-role years not published."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Dr Thelse Godewerth",
+    "title": "Chief People Officer and Labour Director, Rolls-Royce Power Systems AG",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Chief People Officer and Labour Director",
+      "from": "2022",
+      "to": "Present"
+     },
+     {
+      "company": "Life sciences provider (unnamed)",
+      "role": "Global HR and Organizational Development (years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "International consulting firm (unnamed)",
+      "role": "Managing Partner (years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "German media and newspaper publishing group (unnamed)",
+      "role": "Head of Corporate and HR Development (years not published)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "Heinrich Heine University, Düsseldorf",
+      "degree": "Politics, economics and psychology; doctorate",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.mtu-solutions.com/eu/en/about-us/about-rolls-royce-power-systems.html",
+    "quote": "studied politics, economics and psychology at Heinrich Heine University in Düsseldorf",
+    "new": false,
+    "note": "In role since 14 Jan 2022."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Tobias Ostermaier",
+    "title": "President Stationary Power Solutions (power generation business unit)",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "President, Stationary Power Solutions (business unit)",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "President mtu Greater China",
+      "from": "2020",
+      "to": "2020"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.mtu-solutions.com/eu/en/pressreleases/2020/vpower-group-is-new-distributor-for-rolls-royce-s-mtu-solutions-.html",
+    "quote": "Tobias Ostermaier, President mtu Greater China, Rolls-Royce Power Systems",
+    "new": false,
+    "note": "Company press releases (mtu-solutions.com): the Greater China title is from the 27 Mar 2020 VPower release; the current title is from the 7 Aug 2025 MTU Yuchai release ('President of the Stationary Power Solutions division at Rolls-Royce Power Systems'). 2020 is the year of the release naming him in that role, not a published tenure. Start years, other roles and education not published."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Andreas Görtz",
+    "title": "President Sustainable and Mobile Power Solutions (battery storage, marine, mobile)",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "President, Sustainable and Mobile Power Solutions",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Vice President Power Generation",
+      "from": "2021",
+      "to": "2021"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://mtu-solutions.com/eu/en/pressreleases/2021/rolls-royce-expands-mtu-product-range-with-kinolt-uninterruptible-power-supply-systems.html",
+    "quote": "says Andreas Görtz, Vice President Power Generation at Rolls-Royce Power Systems.",
+    "new": false,
+    "note": "Company press release (mtu-solutions.com, 2 Feb 2021, Kinolt UPS launch). 2021 is the release year naming him in that role, not a published tenure. Current title is from the first-pass source (16 Sep 2025 Rolls-Royce release). Start years, earlier career and education not published."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Giovanni Spadaro",
+    "title": "President Global Markets",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "President, Global Markets",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Rolls-Royce Solutions Asia",
+      "role": "Managing Director",
+      "from": "2024",
+      "to": "2024"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.mtu-solutions.com/na/en/pressreleases/2024/rolls-royce-solutions-asia-marks-50-years-of-innovation-and-excellence-in-Singapore.html",
+    "quote": "Giovanni Spadaro, President, Global Markets Rolls-Royce Power Systems and Managing Director, Rolls-Royce Solutions Asia",
+    "new": false,
+    "note": "Company press release (mtu-solutions.com, 9 May 2024). 2024 is the release year naming him as Solutions Asia MD, not a published tenure. A RocketReach page and his LinkedIn profile show a longer career at MTU but were NOT used (off-limits sources). Education and earlier roles not published on usable pages."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Vittorio Pierangeli",
+    "title": "Senior Vice President Power Generation",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Senior Vice President Power Generation",
+      "from": "",
+      "to": "Present"
+     },
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Vice President Global Powergen",
+      "from": "2023",
+      "to": "2023"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://mtu-solutions.com/au/en/pressreleases/2023/mtu-kinetic-powerpacks-from-rolls-royce-approved-for-renewable-d.html",
+    "quote": "Vittorio Pierangeli, Vice President Global Powergen at Rolls-Royce Power Systems, explained:",
+    "new": false,
+    "note": "Company press release (mtu-solutions.com, 29 Jun 2023). 2023 is the release year naming him in that role, not a published tenure. Current SVP title from the first-pass source (2025 AVK release). Start years, earlier career and education not published."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Simone Rühfel",
+    "title": "Vice President Global Markets (signed Kuwait distributor agreement)",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Vice President Global Markets",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.almullagroup.com/news/al-mulla-group-rolls-royce-power-systems-sign-a-strategic-agreement-to-provide-innovative-power-solutions",
+    "quote": "Vice President Global Markets at Rolls-Royce Power Systems",
+    "new": false,
+    "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Alpin Asim Yildirim",
+    "title": "Head of Middle East, Rolls-Royce Power Systems (as of 2024-12-22)",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Head of Middle East",
+      "from": "2024",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.almullagroup.com/news/al-mulla-group-rolls-royce-power-systems-sign-a-strategic-agreement-to-provide-innovative-power-solutions",
+    "quote": "the Head of Middle East, Alpin Asim Yildirim representing Rolls-Royce",
+    "new": false,
+    "note": "No career or education published. 'From 2024' reflects only the date of the page naming him in the role; current status not re-verified."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Salim El Banna",
+    "title": "Country Sales Manager UAE, Bahrain, Iraq and Kuwait, Power Systems division (as of 2025-11-05)",
+    "experience": [
+     {
+      "company": "Rolls-Royce Power Systems",
+      "role": "Country Sales Manager UAE, Bahrain, Iraq & Kuwait",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.rolls-royce.com/media/press-releases/2025/05-11-2025-rr-secures-emergency-power-supply-at-new-airport-terminal-in-kuwait-with-mtu-gensets.aspx",
+    "quote": "Country Sales Manager UAE, Bahrain, Iraq & Kuwait for the Power Systems division of Rolls-Royce",
+    "new": false,
+    "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Cate Wilkinson",
+    "title": "Senior Vice President Middle East, Rolls-Royce (group level, quoted on Saudi localisation at WDS 2026)",
+    "experience": [
+     {
+      "company": "Rolls-Royce",
+      "role": "Senior Vice President, Middle East",
+      "from": "",
+      "to": "Present"
+     }
+    ],
+    "education": [],
+    "bio_source": "https://www.rolls-royce.com/country-sites/arabic/rolls-royce-marks-a-milestone.aspx",
+    "quote": "Senior Vice President of Rolls-Royce, Middle East",
+    "new": false,
+    "note": "Only the current title is published on the source page; no career or education published. Years of appointment not stated. Group-level role (not Power Systems); she is not on the Rolls-Royce executive leadership page."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Tufan Erginbilgic",
+    "title": "Chief Executive, Rolls-Royce Holdings plc",
+    "experience": [
+     {
+      "company": "Rolls-Royce Holdings plc",
+      "role": "Chief Executive",
+      "from": "2023",
+      "to": "Present"
+     },
+     {
+      "company": "Global Infrastructure Partners",
+      "role": "Partner (senior adviser Jan 2023 to Jan 2024)",
+      "from": "2020",
+      "to": "2022"
+     },
+     {
+      "company": "BP",
+      "role": "Chief Executive Officer, downstream business",
+      "from": "2014",
+      "to": "2020"
+     },
+     {
+      "company": "BP",
+      "role": "Chief Operating Officer, downstream business (years between 2009 and 2014 not stated precisely)",
+      "from": "2009",
+      "to": "2014"
+     },
+     {
+      "company": "BP",
+      "role": "Chief of Staff to the Group CEO",
+      "from": "",
+      "to": "2009"
+     },
+     {
+      "company": "BP / Castrol",
+      "role": "CEO of Lubricants",
+      "from": "2006",
+      "to": "2007"
+     },
+     {
+      "company": "BP",
+      "role": "Various senior roles",
+      "from": "1997",
+      "to": "2020"
+     }
+    ],
+    "education": [
+     {
+      "institution": "Not named on source",
+      "degree": "BSc in engineering",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Not named on source",
+      "degree": "MBA",
+      "from": "",
+      "to": ""
+     },
+     {
+      "institution": "Not named on source",
+      "degree": "MA in economics",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.rolls-royce.com/media/press-releases/2022/26-07-2022-rr-appoints-tufan-erginbilgic-as-chief-executive-officer.aspx",
+    "quote": "Previously he worked for BP (1997-2020) in a number of senior roles.",
+    "new": false,
+    "note": "Institutions and graduation years not published. Also non-executive director GKN 2012-2018 and CNH Industrial 2020-2021 (not listed). Group page: joined Rolls-Royce Board 1 Jan 2023."
+   },
+   {
+    "company_id": "ROLLSROY",
+    "name": "Helen McCabe",
+    "title": "Chief Financial Officer, Rolls-Royce Holdings plc",
+    "experience": [
+     {
+      "company": "Rolls-Royce Holdings plc",
+      "role": "Chief Financial Officer",
+      "from": "2023",
+      "to": "Present"
+     },
+     {
+      "company": "BP",
+      "role": "Senior vice president of finance, Customer & Products division (years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "BP Downstream",
+      "role": "CFO of fuels and refining businesses in Europe and Southern Africa (years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "BP",
+      "role": "Planning and performance management lead, downstream division (four years; years not published)",
+      "from": "",
+      "to": ""
+     },
+     {
+      "company": "Ernst & Young",
+      "role": "Trained and qualified as a chartered accountant (years not published)",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "education": [
+     {
+      "institution": "University of Cambridge",
+      "degree": "BA History",
+      "from": "",
+      "to": ""
+     }
+    ],
+    "bio_source": "https://www.rolls-royce.com/about/leadership/board.aspx",
+    "quote": "Helen started her career with Ernst & Young where she trained and qualified as a chartered accountant",
+    "new": false,
+    "note": "Board appointment 4 Aug 2023 per annual report/board page (2024 Governance Report shows 1 Jan 2023; unresolved). Graduation year not published."
+   }
+  ]
+ }
+}

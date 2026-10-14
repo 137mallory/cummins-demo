@@ -1,0 +1,34 @@
+{
+  "_note": "Sweep of 14 Oct 2026, 17:52-18:08 IST, time-boxed to 15 minutes. Source: GlobalTenders.com listings and detail pages (an aggregator mirror: the buyer portals were not opened, Etimad is behind a CAPTCHA). Only notices with a closing date on or after 14 Oct 2026 are listed. Not yet in dataset.html.json: none of these has a fit grade, revenue estimate or status check.",
+  "in_tracked_markets": [
+    {
+      "title": "Zor/DC - Pleated panel air filters for generator room, Tag#73-G-0101A",
+      "buyer": "Kuwait National Petroleum Company (KNPC)", "country": "Kuwait", "published": "2026-10-13", "closes": "2026-10-21",
+      "type": "supply (air filters for a generator room: spare/consumable, not a genset)", "value": null, "quantity": null,
+      "ref": "GlobalTenders ref 148241783", "source_url": "https://www.globaltenders.com/tender-detail/zordc-pleated-panel-air-filters-for-generat-QAEghAEzKiAQWSDY"
+    }
+  ],
+  "outside_tracked_markets": [
+    {
+      "title": "Supply and install new diesel generator for Quraiha pump station, South Al Batinah",
+      "buyer": "Nama Water Services", "country": "Oman", "published": "2026-10-09", "closes": "2026-11-02",
+      "type": "supply and install of a diesel generator", "kva": null, "quantity": null, "value": null,
+      "ref": "GlobalTenders ref 147967589", "source_url": "https://www.globaltenders.com/tender-detail/supply-and-install-new-diesel-generator-for-aRGnaSkAxgKC7B8V"
+    },
+    {
+      "title": "Supply of distribution panels for mobile generators", "buyer": "not stated", "country": "Oman", "published": "2026-10-09", "closes": "2026-10-21",
+      "type": "supply (panels, not a genset)", "source_url": "https://www.globaltenders.com/tender-detail/supply-of-distribution-panels-for-mobile-gen-lOKqJPugAXQBg13l"
+    },
+    {
+      "title": "Maintenance of diesel engine generators at all PHC, 2027-2030",
+      "buyer": "Primary Healthcare Centers, Bahrain", "country": "Bahrain", "published": "2026-10-06", "closes": "2026-10-27",
+      "type": "4-year maintenance of diesel generators at all PHC health centres", "kva": null, "quantity": null, "document_fee": "15 (currency not stated)", "earnest_money": "500 (currency not stated)",
+      "ref": "GlobalTenders ref 147726164 (listed three times; also IN/PHC/2026/NB20)", "source_url": "https://www.globaltenders.com/tender-detail/maintenance-of-diesel-engine-generators-at-a-5mzlr9VxIuZAwqNA"
+    }
+  ],
+  "already_in_dataset_and_still_open": [
+    "Back-Up Generators Project (KSA, closes 2026-11-11)", "MNG back-up generator control panels (KSA, 2026-11-09)", "King Faisal Naval Base emergency generator maintenance (KSA, 2026-10-22)",
+    "Purveyor Fishing Port generator rental (KSA, 2026-10-20)", "King Abdulaziz Hospital diesel filters (KSA, 2026-10-18)", "KNPC spares RFQs: Bahra security generator (10-18), generator and engine control (10-19), auxiliary engine generator (11-02), Unit 93 starter motors (10-15)"
+  ],
+  "not_relevant": ["Sidra Medicine aerosol system (Qatar)", "batteries for border-guard posts (KSA)", "steam generators for shutdowns (Bahrain)", "Turkey, Iran and Jordan listings"]
+}
